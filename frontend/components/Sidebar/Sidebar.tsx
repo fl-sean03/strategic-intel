@@ -400,7 +400,7 @@ function EnergyList({ data, onItemClick }: {
       {data.generation_by_fuel.map((fuel) => (
         <button
           key={fuel.fuel}
-          onClick={() => onItemClick?.(fuel.fuel.toLowerCase().replace(/\s+/g, '-'), 'energy-fuel')}
+          onClick={() => onItemClick?.(fuel.fuel.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'energy-fuel')}
           role="option"
           aria-label={`${fuel.fuel}, ${fuel.share_pct}% of generation`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -446,7 +446,7 @@ function EnergyList({ data, onItemClick }: {
       {data.key_facilities.map((facility) => (
         <button
           key={facility.name}
-          onClick={() => onItemClick?.(facility.name.toLowerCase().replace(/\s+/g, '-'), 'energy-facility')}
+          onClick={() => onItemClick?.(facility.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'energy-facility')}
           role="option"
           aria-label={`${facility.name}, ${facility.capacity_mw} MW`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -483,7 +483,7 @@ function TelecomList({ data, onItemClick }: {
       {data.key_cables.map((cable) => (
         <button
           key={cable.name}
-          onClick={() => onItemClick?.(cable.name.toLowerCase().replace(/\s+/g, '-'), 'cable')}
+          onClick={() => onItemClick?.(cable.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'cable')}
           role="option"
           aria-label={`${cable.name}, ${cable.capacity_tbps} Tbps`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -506,7 +506,7 @@ function TelecomList({ data, onItemClick }: {
       {data.satellite_constellations.map((sat) => (
         <button
           key={sat.name}
-          onClick={() => onItemClick?.(sat.name.toLowerCase().replace(/\s+/g, '-'), 'satellite')}
+          onClick={() => onItemClick?.(sat.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'satellite')}
           role="option"
           aria-label={`${sat.name}, ${sat.satellites_deployed} satellites`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -553,7 +553,7 @@ function TechnologyList({ data, onItemClick }: {
       {sorted.map((tech) => (
         <button
           key={tech.technology}
-          onClick={() => onItemClick?.(tech.technology.toLowerCase().replace(/\s+/g, '-'), 'tech-competition')}
+          onClick={() => onItemClick?.(tech.technology.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'tech-competition')}
           role="option"
           aria-label={`${tech.technology}, risk: ${tech.risk}`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -582,7 +582,7 @@ function TechnologyList({ data, onItemClick }: {
       {data.rd_spending.map((r) => (
         <button
           key={r.entity}
-          onClick={() => onItemClick?.(r.entity.toLowerCase().replace(/\s+/g, '-'), 'rd-spending')}
+          onClick={() => onItemClick?.(r.entity.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'rd-spending')}
           role="option"
           aria-label={`${r.entity}, $${r.amount_b}B`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -634,7 +634,7 @@ function LogisticsList({ data, onItemClick }: {
       {sortedChokepoints.map((cp) => (
         <button
           key={cp.name}
-          onClick={() => onItemClick?.(cp.name.toLowerCase().replace(/\s+/g, '-'), 'chokepoint')}
+          onClick={() => onItemClick?.(cp.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'chokepoint')}
           role="option"
           aria-label={`${cp.name}, risk: ${cp.risk}`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -664,7 +664,7 @@ function LogisticsList({ data, onItemClick }: {
       {usPorts.map((port) => (
         <button
           key={port.name}
-          onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-'), 'port')}
+          onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'port')}
           role="option"
           aria-label={`${port.name}, ${port.type}`}
           className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
@@ -689,7 +689,7 @@ function LogisticsList({ data, onItemClick }: {
           {globalPorts.map((port) => (
             <button
               key={port.name}
-              onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-'), 'port')}
+              onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'port')}
               role="option"
               aria-label={`${port.name}, ${port.country}, #${port.rank_global} global`}
               className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"

@@ -138,28 +138,28 @@ export default function DetailPanel({
 
   // Look up specific items from data
   const selectedFacility = (type === 'energy-facility' && energyData && selectedItemId)
-    ? energyData.key_facilities.find(f => f.name.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? energyData.key_facilities.find(f => f.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedFuel = (type === 'energy-fuel' && energyData && selectedItemId)
-    ? energyData.generation_by_fuel.find(f => f.fuel.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? energyData.generation_by_fuel.find(f => f.fuel.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedChokepoint = (type === 'chokepoint' && logisticsData && selectedItemId)
-    ? logisticsData.chokepoints.find(cp => cp.name.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? logisticsData.chokepoints.find(cp => cp.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedPort = (type === 'port' && logisticsData && selectedItemId)
-    ? logisticsData.major_ports.find(p => p.name.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? logisticsData.major_ports.find(p => p.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedCable = (type === 'cable' && telecomData && selectedItemId)
-    ? telecomData.key_cables.find(c => c.name.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? telecomData.key_cables.find(c => c.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedSatellite = (type === 'satellite' && telecomData && selectedItemId)
-    ? telecomData.satellite_constellations.find(s => s.name.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? telecomData.satellite_constellations.find(s => s.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedTech = (type === 'tech-competition' && technologyData && selectedItemId)
-    ? technologyData.tech_competition.find(t => t.technology.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? technologyData.tech_competition.find(t => t.technology.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
   const selectedRd = (type === 'rd-spending' && technologyData && selectedItemId)
-    ? technologyData.rd_spending.find(r => r.entity.toLowerCase().replace(/\s+/g, '-') === selectedItemId)
+    ? technologyData.rd_spending.find(r => r.entity.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-') === selectedItemId)
     : undefined;
 
   const tabs = type === 'mineral' ? MINERAL_TABS
@@ -177,7 +177,7 @@ export default function DetailPanel({
 
   const handleMineralClick = (mineralName: string) => {
     if (!onCrossSectorNav) return;
-    const id = mineralName.toLowerCase().replace(/\s+/g, '-');
+    const id = mineralName.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-');
     onCrossSectorNav('mineral', id);
   };
 
