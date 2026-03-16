@@ -196,7 +196,7 @@ export default function DetailPanel({
         {/* Header */}
         <div className="panel-header">
           <div className="flex items-center gap-2">
-            <h3 className="text-sm font-semibold text-gray-900">
+            <h3 className="text-sm font-semibold text-gray-900 dark:text-gray-100">
               {type === 'mineral' && mineral?.name}
               {type === 'manufacturing-sector' && sector?.name}
               {type === 'country' && countryName}
@@ -285,7 +285,7 @@ export default function DetailPanel({
           <div className="flex items-center gap-1">
             <button
               onClick={cyclePanelSize}
-              className="p-1 hover:bg-gray-100 rounded-full"
+              className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full"
               title={panelSizeLabel}
               aria-label={panelSizeLabel}
             >
@@ -293,8 +293,8 @@ export default function DetailPanel({
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
               </svg>
             </button>
-            <button onClick={onClose} className="p-1 hover:bg-gray-100 rounded-full" aria-label="Close">
-              <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <button onClick={onClose} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-full" aria-label="Close">
+              <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
             </button>
@@ -520,15 +520,15 @@ function EnergyFuelDetail({ fuel, data }: { fuel: EnergyFuel; data: EnergyData }
       <div className="grid grid-cols-4 gap-3">
         <div className="text-center">
           <div className="text-lg font-bold" style={{ color: fuel.color }}>{fuel.share_pct}%</div>
-          <div className="text-[11px] text-gray-500">Share</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Share</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{fuel.capacity_gw}</div>
-          <div className="text-[11px] text-gray-500">GW Capacity</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{fuel.capacity_gw}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">GW Capacity</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{fuel.generation_twh}</div>
-          <div className="text-[11px] text-gray-500">TWh/yr</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{fuel.generation_twh}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">TWh/yr</div>
         </div>
         <div className="text-center">
           <div className={`text-lg font-bold ${
@@ -538,7 +538,7 @@ function EnergyFuelDetail({ fuel, data }: { fuel: EnergyFuel; data: EnergyData }
             {fuel.trend === 'rapidly growing' ? 'Rapid' :
              fuel.trend.charAt(0).toUpperCase() + fuel.trend.slice(1)}
           </div>
-          <div className="text-[11px] text-gray-500">Trend</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Trend</div>
         </div>
       </div>
 
@@ -555,19 +555,19 @@ function EnergyFuelDetail({ fuel, data }: { fuel: EnergyFuel; data: EnergyData }
       </div>
 
       {relatedFacilities.length > 0 && (
-        <div className="pt-2 border-t border-gray-100">
+        <div className="pt-2 border-t border-gray-100 dark:border-gray-700">
           <div className="text-[11px] font-medium text-gray-700 mb-1.5">
             Key {fuel.fuel} Facilities ({relatedFacilities.length})
           </div>
           <div className="space-y-1">
             {relatedFacilities.map(f => (
-              <div key={f.name} className="bg-gray-50 rounded-lg p-2 border border-gray-100">
+              <div key={f.name} className="bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
                 <div className="flex items-start justify-between">
-                  <div className="text-[11px] font-medium text-gray-900">{f.name}</div>
+                  <div className="text-[11px] font-medium text-gray-900 dark:text-gray-100">{f.name}</div>
                   <span className="text-[11px] font-mono text-gray-600 shrink-0">{f.capacity_mw.toLocaleString()} MW</span>
                 </div>
-                <div className="mt-0.5 text-[11px] text-gray-500">{f.operator} · {f.state}</div>
-                {f.notes && <div className="mt-0.5 text-[11px] text-gray-400">{f.notes}</div>}
+                <div className="mt-0.5 text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">{f.operator} · {f.state}</div>
+                {f.notes && <div className="mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">{f.notes}</div>}
               </div>
             ))}
           </div>
@@ -583,34 +583,34 @@ function EnergyFacilityDetail({ facility }: { facility: EnergyFacility }) {
     <div className="space-y-3">
       <div className="grid grid-cols-3 gap-3">
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{facility.capacity_mw.toLocaleString()}</div>
-          <div className="text-[11px] text-gray-500">MW Capacity</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{facility.capacity_mw.toLocaleString()}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">MW Capacity</div>
         </div>
         <div className="text-center">
           <div className="text-lg font-bold text-blue-600">{facility.type}</div>
-          <div className="text-[11px] text-gray-500">Fuel Type</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Fuel Type</div>
         </div>
         <div className="text-center">
           <div className="text-lg font-bold text-gray-600">{facility.state}</div>
-          <div className="text-[11px] text-gray-500">State</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">State</div>
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Operator</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Operator</span>
           <span className="text-gray-900 font-medium">{facility.operator}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Location</span>
-          <span className="text-gray-900">{facility.state} ({facility.lat.toFixed(2)}, {facility.lon.toFixed(2)})</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Location</span>
+          <span className="text-gray-900 dark:text-gray-100">{facility.state} ({facility.lat.toFixed(2)}, {facility.lon.toFixed(2)})</span>
         </div>
       </div>
 
       {facility.notes && (
-        <div className="pt-2 border-t border-gray-100">
+        <div className="pt-2 border-t border-gray-100 dark:border-gray-700">
           <div className="text-[11px] font-medium text-gray-700 mb-1">Notes</div>
-          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100">
+          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
             {facility.notes}
           </div>
         </div>
@@ -638,32 +638,32 @@ function ChokepointDetail({ chokepoint }: { chokepoint: Chokepoint }) {
 
       <div className="grid grid-cols-3 gap-3">
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{chokepoint.daily_vessels}</div>
-          <div className="text-[11px] text-gray-500">Ships/Day</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{chokepoint.daily_vessels}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Ships/Day</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">
             {chokepoint.oil_flow_mbd > 0 ? `${chokepoint.oil_flow_mbd}M` : 'N/A'}
           </div>
-          <div className="text-[11px] text-gray-500">bbl/day Oil</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">bbl/day Oil</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{chokepoint.trade_value_pct}%</div>
-          <div className="text-[11px] text-gray-500">Global Trade</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{chokepoint.trade_value_pct}%</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Global Trade</div>
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Coordinates</span>
-          <span className="text-gray-900">{chokepoint.lat.toFixed(2)}, {chokepoint.lon.toFixed(2)}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Coordinates</span>
+          <span className="text-gray-900 dark:text-gray-100">{chokepoint.lat.toFixed(2)}, {chokepoint.lon.toFixed(2)}</span>
         </div>
       </div>
 
       {chokepoint.notes && (
-        <div className="pt-2 border-t border-gray-100">
+        <div className="pt-2 border-t border-gray-100 dark:border-gray-700">
           <div className="text-[11px] font-medium text-gray-700 mb-1">Strategic Assessment</div>
-          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100">
+          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
             {chokepoint.notes}
           </div>
         </div>
@@ -678,10 +678,10 @@ function PortDetail({ port }: { port: Port }) {
     <div className="space-y-3">
       <div className="grid grid-cols-3 gap-3">
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">
             {port.type === 'military' ? 'Naval' : `#${port.rank_global}`}
           </div>
-          <div className="text-[11px] text-gray-500">
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">
             {port.type === 'military' ? 'Type' : 'Global Rank'}
           </div>
         </div>
@@ -689,35 +689,35 @@ function PortDetail({ port }: { port: Port }) {
           <div className="text-lg font-bold text-blue-600">
             {port.type === 'military' ? 'Military' : `${port.teu_millions}M`}
           </div>
-          <div className="text-[11px] text-gray-500">
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">
             {port.type === 'military' ? 'Purpose' : 'TEU/yr'}
           </div>
         </div>
         <div className="text-center">
           <div className="text-lg font-bold text-gray-600">{port.country}</div>
-          <div className="text-[11px] text-gray-500">Country</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Country</div>
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Type</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Type</span>
           <span className="text-gray-900 font-medium capitalize">{port.type}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Country</span>
-          <span className="text-gray-900">{port.country} ({port.country_iso})</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Country</span>
+          <span className="text-gray-900 dark:text-gray-100">{port.country} ({port.country_iso})</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Location</span>
-          <span className="text-gray-900">{port.lat.toFixed(2)}, {port.lon.toFixed(2)}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Location</span>
+          <span className="text-gray-900 dark:text-gray-100">{port.lat.toFixed(2)}, {port.lon.toFixed(2)}</span>
         </div>
       </div>
 
       {port.notes && (
-        <div className="pt-2 border-t border-gray-100">
+        <div className="pt-2 border-t border-gray-100 dark:border-gray-700">
           <div className="text-[11px] font-medium text-gray-700 mb-1">Notes</div>
-          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100">
+          <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
             {port.notes}
           </div>
         </div>
@@ -733,15 +733,15 @@ function CableDetail({ cable }: { cable: SubmarineCable }) {
       <div className="grid grid-cols-3 gap-3">
         <div className="text-center">
           <div className="text-lg font-bold text-purple-600">{cable.capacity_tbps}</div>
-          <div className="text-[11px] text-gray-500">Tbps</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Tbps</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{cable.length_km.toLocaleString()}</div>
-          <div className="text-[11px] text-gray-500">km Length</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{cable.length_km.toLocaleString()}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">km Length</div>
         </div>
         <div className="text-center">
           <div className="text-lg font-bold text-gray-600">{cable.year}</div>
-          <div className="text-[11px] text-gray-500">Year</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Year</div>
         </div>
       </div>
 
@@ -753,26 +753,26 @@ function CableDetail({ cable }: { cable: SubmarineCable }) {
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Owner</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Owner</span>
           <span className="text-gray-900 font-medium">{cable.owner}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Capacity</span>
-          <span className="text-gray-900">{cable.capacity_tbps} Tbps</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Capacity</span>
+          <span className="text-gray-900 dark:text-gray-100">{cable.capacity_tbps} Tbps</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Year operational</span>
-          <span className="text-gray-900">{cable.year}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Year operational</span>
+          <span className="text-gray-900 dark:text-gray-100">{cable.year}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">From coordinates</span>
-          <span className="text-gray-900">{cable.lat_from.toFixed(2)}, {cable.lon_from.toFixed(2)}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">From coordinates</span>
+          <span className="text-gray-900 dark:text-gray-100">{cable.lat_from.toFixed(2)}, {cable.lon_from.toFixed(2)}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">To coordinates</span>
-          <span className="text-gray-900">{cable.lat_to.toFixed(2)}, {cable.lon_to.toFixed(2)}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">To coordinates</span>
+          <span className="text-gray-900 dark:text-gray-100">{cable.lat_to.toFixed(2)}, {cable.lon_to.toFixed(2)}</span>
         </div>
       </div>
     </div>
@@ -801,16 +801,16 @@ function SatelliteDetail({ satellite }: { satellite: SatelliteConstellation }) {
 
       <div className="grid grid-cols-3 gap-3">
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-900">{satellite.satellites_deployed.toLocaleString()}</div>
-          <div className="text-[11px] text-gray-500">Deployed</div>
+          <div className="text-lg font-bold text-gray-900 dark:text-gray-100">{satellite.satellites_deployed.toLocaleString()}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Deployed</div>
         </div>
         <div className="text-center">
-          <div className="text-lg font-bold text-gray-500">{satellite.satellites_planned.toLocaleString()}</div>
-          <div className="text-[11px] text-gray-500">Planned</div>
+          <div className="text-lg font-bold text-gray-500 dark:text-gray-400 dark:text-gray-500">{satellite.satellites_planned.toLocaleString()}</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Planned</div>
         </div>
         <div className="text-center">
           <div className="text-lg font-bold text-purple-600">{deployPct}%</div>
-          <div className="text-[11px] text-gray-500">Complete</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Complete</div>
         </div>
       </div>
 
@@ -830,22 +830,22 @@ function SatelliteDetail({ satellite }: { satellite: SatelliteConstellation }) {
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Operator</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Operator</span>
           <span className="text-gray-900 font-medium">{satellite.operator}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Country</span>
-          <span className="text-gray-900">{satellite.country}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Country</span>
+          <span className="text-gray-900 dark:text-gray-100">{satellite.country}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Orbit</span>
-          <span className="text-gray-900">{satellite.orbit}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Orbit</span>
+          <span className="text-gray-900 dark:text-gray-100">{satellite.orbit}</span>
         </div>
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Purpose</span>
-          <span className="text-gray-900">{satellite.purpose}</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Purpose</span>
+          <span className="text-gray-900 dark:text-gray-100">{satellite.purpose}</span>
         </div>
       </div>
     </div>
@@ -880,14 +880,14 @@ function TechCompetitionDetail({ tech }: { tech: TechCompetition }) {
         </div>
       </div>
 
-      <div className="space-y-2 pt-2 border-t border-gray-100">
+      <div className="space-y-2 pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="flex justify-between text-[11px]">
-          <span className="text-gray-500">Trend</span>
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Trend</span>
           <span className="text-gray-900 font-medium">{tech.trend}</span>
         </div>
         <div className="text-[11px]">
-          <span className="text-gray-500">Defense Relevance</span>
-          <div className="mt-1 text-gray-900 bg-gray-50 rounded-lg p-2 border border-gray-100">
+          <span className="text-gray-500 dark:text-gray-400 dark:text-gray-500">Defense Relevance</span>
+          <div className="mt-1 text-gray-900 bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
             {tech.defense_relevance}
           </div>
         </div>
@@ -903,16 +903,16 @@ function RdSpendingDetail({ rd }: { rd: RdSpending }) {
       <div className="grid grid-cols-2 gap-3">
         <div className="text-center">
           <div className="text-2xl font-bold text-pink-600">${rd.amount_b}B</div>
-          <div className="text-[11px] text-gray-500">Annual R&D Budget</div>
+          <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">Annual R&D Budget</div>
         </div>
         <div className="text-center flex items-center justify-center">
           <div className="text-[11px] text-gray-600 italic">{rd.source}</div>
         </div>
       </div>
 
-      <div className="pt-2 border-t border-gray-100">
+      <div className="pt-2 border-t border-gray-100 dark:border-gray-700">
         <div className="text-[11px] font-medium text-gray-700 mb-1">Focus Areas</div>
-        <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100">
+        <div className="text-[11px] text-gray-600 bg-gray-50 rounded-lg p-2 border border-gray-100 dark:border-gray-700">
           {rd.focus}
         </div>
       </div>
@@ -964,7 +964,7 @@ function CountryMineralsView({
             className="w-full flex items-center gap-2 py-1.5 px-2 rounded hover:bg-gray-50 transition-colors text-left"
           >
             <div className="flex-1 min-w-0">
-              <div className="text-[11px] font-medium text-gray-900">{mineral.name}</div>
+              <div className="text-[11px] font-medium text-gray-900 dark:text-gray-100">{mineral.name}</div>
             </div>
             <div className="text-[11px] font-mono text-gray-600 w-12 text-right">
               {(share * 100).toFixed(0)}%

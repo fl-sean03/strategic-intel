@@ -274,7 +274,7 @@ export default function GlobalSearch({
               role="combobox"
               aria-expanded={showResults}
               aria-label="Search"
-              className="flex-1 bg-transparent text-sm text-gray-900 placeholder-gray-400 outline-none"
+              className="flex-1 bg-transparent text-sm text-gray-900 placeholder-gray-400 dark:placeholder-gray-500 outline-none"
             />
             <button
               onClick={() => { setQuery(''); setMobileOpen(false); setFocused(false); }}
@@ -329,7 +329,7 @@ export default function GlobalSearch({
           placeholder="Search minerals, facilities, programs..."
           data-search-input
           aria-label="Search"
-          className="bg-transparent text-xs text-gray-900 placeholder-gray-400 outline-none w-48"
+          className="bg-transparent text-xs text-gray-900 placeholder-gray-400 dark:placeholder-gray-500 outline-none w-48"
         />
         {!query && !focused && (
           <kbd className="hidden sm:inline text-[11px] text-gray-400 border border-gray-200 rounded px-1 py-0.5 font-mono">

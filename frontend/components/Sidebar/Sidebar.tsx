@@ -35,11 +35,11 @@ export default function Sidebar({
     return (
       <button
         onClick={onToggle}
-        className="absolute left-3 top-16 z-20 panel rounded-lg p-2 hover:bg-gray-50"
+        className="absolute left-3 top-16 z-20 panel rounded-lg p-2 hover:bg-gray-50 dark:hover:bg-gray-800"
         title="Show sidebar"
         aria-label="Show sidebar"
       >
-        <svg className="w-4 h-4 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg className="w-4 h-4 text-gray-600 dark:text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
         </svg>
       </button>
@@ -55,9 +55,9 @@ export default function Sidebar({
     return (
       <div className={containerClass}>
         <div className="panel-header">
-          <h2 className="text-sm font-semibold text-gray-900">Energy Generation</h2>
-          <button onClick={onToggle} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">Energy Generation</h2>
+          <button onClick={onToggle} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+            <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -69,7 +69,7 @@ export default function Sidebar({
             <EnergyList data={energyData} onItemClick={onItemClick} />
           )}
         </div>
-        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
           {energyData ? `${energyData.summary.total_capacity_gw} GW total capacity` : 'Loading...'}
           {' '}&middot; Public data only &middot; MIT License
         </div>
@@ -86,9 +86,9 @@ export default function Sidebar({
     return (
       <div className={containerClass}>
         <div className="panel-header">
-          <h2 className="text-sm font-semibold text-gray-900">Maritime & Logistics</h2>
-          <button onClick={onToggle} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">Maritime & Logistics</h2>
+          <button onClick={onToggle} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+            <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -100,7 +100,7 @@ export default function Sidebar({
             <LogisticsList data={logisticsData} onItemClick={onItemClick} />
           )}
         </div>
-        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
           {logisticsData ? `${logisticsData.chokepoints.length} chokepoints · ${logisticsData.major_ports.length} ports` : 'Loading...'}
           {' '}&middot; Public data only &middot; MIT License
         </div>
@@ -117,9 +117,9 @@ export default function Sidebar({
     return (
       <div className={containerClass}>
         <div className="panel-header">
-          <h2 className="text-sm font-semibold text-gray-900">Telecom & Space</h2>
-          <button onClick={onToggle} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">Telecom & Space</h2>
+          <button onClick={onToggle} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+            <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -131,7 +131,7 @@ export default function Sidebar({
             <TelecomList data={telecomData} onItemClick={onItemClick} />
           )}
         </div>
-        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
           {telecomData ? `${telecomData.key_cables.length} cables · ${telecomData.satellite_constellations.length} constellations` : 'Loading...'}
           {' '}&middot; Public data only &middot; MIT License
         </div>
@@ -148,9 +148,9 @@ export default function Sidebar({
     return (
       <div className={containerClass}>
         <div className="panel-header">
-          <h2 className="text-sm font-semibold text-gray-900">Technology & R&D</h2>
-          <button onClick={onToggle} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">Technology & R&D</h2>
+          <button onClick={onToggle} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+            <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -162,7 +162,7 @@ export default function Sidebar({
             <TechnologyList data={technologyData} onItemClick={onItemClick} />
           )}
         </div>
-        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
           {technologyData ? `${technologyData.tech_competition.length} tech areas · $${technologyData.summary.dod_rd_budget_b}B R&D` : 'Loading...'}
           {' '}&middot; Public data only &middot; MIT License
         </div>
@@ -186,7 +186,7 @@ export default function Sidebar({
             {/* Drag handle */}
             <div className="w-8 h-1 bg-gray-300 rounded-full mx-auto" />
           </div>
-          <span className="text-xs text-gray-600">
+          <span className="text-xs text-gray-600 dark:text-gray-300">
             {activeLens === 'metals-mining'
               ? `${mineralCount} minerals`
               : `${sectorCount} sectors`}
@@ -207,11 +207,11 @@ export default function Sidebar({
           <div className="w-8 h-1 bg-gray-300 rounded-full" />
         </button>
         <div className="panel-header pt-0">
-          <h2 className="text-sm font-semibold text-gray-900">
+          <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">
             {activeLens === 'metals-mining' ? 'Minerals by Risk' : 'Manufacturing Sectors'}
           </h2>
-          <button onClick={() => setMobileExpanded(false)} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-            <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <button onClick={() => setMobileExpanded(false)} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+            <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -232,7 +232,7 @@ export default function Sidebar({
           )}
         </div>
 
-        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+        <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
           {activeLens === 'metals-mining' && `${minerals.length} minerals`}
           {activeLens === 'manufacturing' && `${manufacturingSectors.length} sectors`}
           {' '}&middot; Public data only &middot; MIT License
@@ -245,11 +245,11 @@ export default function Sidebar({
   return (
     <div className="absolute left-3 top-16 bottom-3 z-20 w-72 panel rounded-xl flex flex-col overflow-hidden animate-fade-in">
       <div className="panel-header">
-        <h2 className="text-sm font-semibold text-gray-900">
+        <h2 className="text-sm font-semibold text-gray-900 dark:text-gray-100">
           {activeLens === 'metals-mining' ? 'Minerals by Risk' : 'Manufacturing Sectors'}
         </h2>
-        <button onClick={onToggle} className="p-1 hover:bg-gray-100 rounded" aria-label="Close sidebar">
-          <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <button onClick={onToggle} className="p-1 hover:bg-gray-100 dark:hover:bg-gray-700 rounded" aria-label="Close sidebar">
+          <svg className="w-4 h-4 text-gray-400 dark:text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
           </svg>
         </button>
@@ -271,7 +271,7 @@ export default function Sidebar({
       </div>
 
       {/* Stats footer */}
-      <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400">
+      <div className="px-3 py-2 border-t border-gray-100 text-[11px] text-gray-400 dark:text-gray-500">
         {activeLens === 'metals-mining' && `${minerals.length} minerals`}
         {activeLens === 'manufacturing' && `${manufacturingSectors.length} sectors`}
         {' '}&middot; Public data only &middot; MIT License
@@ -300,10 +300,10 @@ function MineralsList({ minerals, search, facilityCountByMineral, onItemClick }:
             onClick={() => onItemClick?.(mineral.id, 'mineral')}
             role="option"
             aria-label={`${mineral.name}, risk score ${Math.round(risk)}`}
-            className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+            className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
           >
             <div className="flex items-center justify-between">
-              <span className="text-xs font-medium text-gray-900">{mineral.name}</span>
+              <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{mineral.name}</span>
               <span
                 className="badge text-[11px] py-0"
                 style={{
@@ -315,7 +315,7 @@ function MineralsList({ minerals, search, facilityCountByMineral, onItemClick }:
                 {Math.round(risk)}
               </span>
             </div>
-            <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400">
+            <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400 dark:text-gray-500">
               <span className="truncate">
                 {mineral.trade.primary_import_source || 'N/A'}
               </span>
@@ -349,11 +349,11 @@ function ManufacturingList({ sectors, search, onItemClick }: {
           onClick={() => onItemClick?.(sector.naics_code, 'manufacturing-sector')}
           role="option"
           aria-label={`${sector.name}, health score ${Math.round(sector.health_score)}`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{sector.name}</span>
-            <span className="text-[11px] font-mono text-gray-500">
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{sector.name}</span>
+            <span className="text-[11px] font-mono text-gray-500 dark:text-gray-400 dark:text-gray-500">
               {formatPct(sector.capacity_utilization)}
             </span>
           </div>
@@ -368,7 +368,7 @@ function ManufacturingList({ sectors, search, onItemClick }: {
               />
             </div>
           </div>
-          <div className="flex justify-between mt-0.5 text-[11px] text-gray-400">
+          <div className="flex justify-between mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">
             <span>{sector.employment ? formatNumber(sector.employment) : 'N/A'} emp</span>
             <span>Health: {sector.health_score.toFixed(0)}</span>
           </div>
@@ -387,14 +387,14 @@ function EnergyList({ data, onItemClick }: {
       {/* Sector Overview button */}
       <button
         onClick={() => onItemClick?.('energy', 'energy-overview')}
-        className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors border-b border-gray-100"
+        className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors border-b border-gray-100 dark:border-gray-700"
       >
-        <div className="text-xs font-medium text-gray-900">Sector Overview</div>
-        <div className="text-[11px] text-gray-400">Grid challenges, battery minerals, sector intel</div>
+        <div className="text-xs font-medium text-gray-900 dark:text-gray-100">Sector Overview</div>
+        <div className="text-[11px] text-gray-400 dark:text-gray-500">Grid challenges, battery minerals, sector intel</div>
       </button>
       {/* Summary stat */}
       <div className="px-3 py-2 bg-gray-50/50">
-        <div className="text-[11px] text-gray-500">{data.summary.headline}</div>
+        <div className="text-[11px] text-gray-500 dark:text-gray-400 dark:text-gray-500">{data.summary.headline}</div>
       </div>
       {/* Generation by fuel */}
       {data.generation_by_fuel.map((fuel) => (
@@ -403,7 +403,7 @@ function EnergyList({ data, onItemClick }: {
           onClick={() => onItemClick?.(fuel.fuel.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'energy-fuel')}
           role="option"
           aria-label={`${fuel.fuel}, ${fuel.share_pct}% of generation`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
@@ -411,9 +411,9 @@ function EnergyList({ data, onItemClick }: {
                 className="w-2.5 h-2.5 rounded-full shrink-0"
                 style={{ backgroundColor: fuel.color }}
               />
-              <span className="text-xs font-medium text-gray-900">{fuel.fuel}</span>
+              <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{fuel.fuel}</span>
             </div>
-            <span className="text-[11px] font-mono text-gray-600">
+            <span className="text-[11px] font-mono text-gray-600 dark:text-gray-300">
               {fuel.share_pct}%
             </span>
           </div>
@@ -428,7 +428,7 @@ function EnergyList({ data, onItemClick }: {
               />
             </div>
           </div>
-          <div className="flex justify-between mt-0.5 ml-[18px] text-[11px] text-gray-400">
+          <div className="flex justify-between mt-0.5 ml-[18px] text-[11px] text-gray-400 dark:text-gray-500">
             <span>{fuel.capacity_gw} GW capacity</span>
             <span className={
               fuel.trend === 'growing' || fuel.trend === 'rapidly growing' ? 'text-emerald-600' :
@@ -449,7 +449,7 @@ function EnergyList({ data, onItemClick }: {
           onClick={() => onItemClick?.(facility.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'energy-facility')}
           role="option"
           aria-label={`${facility.name}, ${facility.capacity_mw} MW`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
             <span className="text-xs font-medium text-gray-900 truncate">{facility.name}</span>
@@ -457,7 +457,7 @@ function EnergyList({ data, onItemClick }: {
               {facility.capacity_mw.toLocaleString()} MW
             </span>
           </div>
-          <div className="mt-0.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">
             {facility.operator} · {facility.state} · {facility.type}
           </div>
         </button>
@@ -486,15 +486,15 @@ function TelecomList({ data, onItemClick }: {
           onClick={() => onItemClick?.(cable.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'cable')}
           role="option"
           aria-label={`${cable.name}, ${cable.capacity_tbps} Tbps`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{cable.name}</span>
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{cable.name}</span>
             <span className="text-[11px] font-mono text-purple-600">
               {cable.capacity_tbps} Tbps
             </span>
           </div>
-          <div className="mt-0.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">
             {cable.owner} · {cable.length_km.toLocaleString()} km · {cable.year}
           </div>
         </button>
@@ -509,10 +509,10 @@ function TelecomList({ data, onItemClick }: {
           onClick={() => onItemClick?.(sat.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'satellite')}
           role="option"
           aria-label={`${sat.name}, ${sat.satellites_deployed} satellites`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{sat.name}</span>
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{sat.name}</span>
             <span className={`badge text-[10px] py-0 ${
               sat.status === 'Operational' ? 'bg-green-50 text-green-600 border-green-200' :
               sat.status === 'Early deployment' ? 'bg-amber-50 text-amber-600 border-amber-200' :
@@ -521,7 +521,7 @@ function TelecomList({ data, onItemClick }: {
               {sat.status}
             </span>
           </div>
-          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400 dark:text-gray-500">
             <span>{sat.operator} ({sat.country})</span>
             <span>· {sat.satellites_deployed.toLocaleString()} deployed</span>
           </div>
@@ -556,10 +556,10 @@ function TechnologyList({ data, onItemClick }: {
           onClick={() => onItemClick?.(tech.technology.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'tech-competition')}
           role="option"
           aria-label={`${tech.technology}, risk: ${tech.risk}`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{tech.technology}</span>
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{tech.technology}</span>
             <span className={`badge text-[10px] py-0 ${
               tech.risk === 'critical' ? 'bg-red-50 text-red-600 border-red-200' :
               tech.risk === 'high' ? 'bg-amber-50 text-amber-600 border-amber-200' :
@@ -569,7 +569,7 @@ function TechnologyList({ data, onItemClick }: {
               {tech.risk}
             </span>
           </div>
-          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400 dark:text-gray-500">
             <span>U.S.: {tech.us_position}</span>
             <span>· CN: {tech.china_position}</span>
           </div>
@@ -585,10 +585,10 @@ function TechnologyList({ data, onItemClick }: {
           onClick={() => onItemClick?.(r.entity.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'rd-spending')}
           role="option"
           aria-label={`${r.entity}, $${r.amount_b}B`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{r.entity}</span>
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{r.entity}</span>
             <span className="text-[11px] font-mono text-pink-600">
               ${r.amount_b}B
             </span>
@@ -618,10 +618,10 @@ function LogisticsList({ data, onItemClick }: {
       {/* Sector Overview button */}
       <button
         onClick={() => onItemClick?.('logistics', 'logistics-overview')}
-        className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors border-b border-gray-100"
+        className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors border-b border-gray-100 dark:border-gray-700"
       >
-        <div className="text-xs font-medium text-gray-900">Sector Overview</div>
-        <div className="text-[11px] text-gray-400">Sealift readiness, merchant fleet, sector intel</div>
+        <div className="text-xs font-medium text-gray-900 dark:text-gray-100">Sector Overview</div>
+        <div className="text-[11px] text-gray-400 dark:text-gray-500">Sealift readiness, merchant fleet, sector intel</div>
       </button>
       {/* Summary stat */}
       <div className="px-3 py-2 bg-red-50/50">
@@ -637,10 +637,10 @@ function LogisticsList({ data, onItemClick }: {
           onClick={() => onItemClick?.(cp.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'chokepoint')}
           role="option"
           aria-label={`${cp.name}, risk: ${cp.risk}`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{cp.name}</span>
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{cp.name}</span>
             <span className={`badge text-[10px] py-0 ${
               cp.risk === 'critical' ? 'bg-red-50 text-red-600 border-red-200' :
               cp.risk === 'high' ? 'bg-amber-50 text-amber-600 border-amber-200' :
@@ -650,7 +650,7 @@ function LogisticsList({ data, onItemClick }: {
               {cp.risk}
             </span>
           </div>
-          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 flex items-center gap-1.5 text-[11px] text-gray-400 dark:text-gray-500">
             <span>{cp.daily_vessels} ships/day</span>
             {cp.oil_flow_mbd > 0 && <span>· {cp.oil_flow_mbd}M bbl/day</span>}
             <span>· {cp.trade_value_pct}% trade</span>
@@ -667,15 +667,15 @@ function LogisticsList({ data, onItemClick }: {
           onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'port')}
           role="option"
           aria-label={`${port.name}, ${port.type}`}
-          className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+          className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
         >
           <div className="flex items-center justify-between">
-            <span className="text-xs font-medium text-gray-900">{port.name}</span>
-            <span className="text-[11px] font-mono text-gray-500">
+            <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{port.name}</span>
+            <span className="text-[11px] font-mono text-gray-500 dark:text-gray-400 dark:text-gray-500">
               {port.type === 'military' ? 'Naval' : `#${port.rank_global}`}
             </span>
           </div>
-          <div className="mt-0.5 text-[11px] text-gray-400">
+          <div className="mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">
             {port.type === 'military' ? (port.notes || 'Military port') : `${port.teu_millions}M TEU`}
           </div>
         </button>
@@ -692,15 +692,15 @@ function LogisticsList({ data, onItemClick }: {
               onClick={() => onItemClick?.(port.name.toLowerCase().replace(/\s+/g, '-').replace(/\//g, '-'), 'port')}
               role="option"
               aria-label={`${port.name}, ${port.country}, #${port.rank_global} global`}
-              className="w-full text-left px-3 py-2 hover:bg-gray-50/80 transition-colors"
+              className="w-full text-left px-3 py-2 hover:bg-gray-50 dark:hover:bg-gray-800/80 dark:bg-gray-800/80 transition-colors"
             >
               <div className="flex items-center justify-between">
-                <span className="text-xs font-medium text-gray-900">{port.name}</span>
-                <span className="text-[11px] font-mono text-gray-500">
+                <span className="text-xs font-medium text-gray-900 dark:text-gray-100">{port.name}</span>
+                <span className="text-[11px] font-mono text-gray-500 dark:text-gray-400 dark:text-gray-500">
                   {port.type === 'military' ? 'Naval' : `#${port.rank_global}`}
                 </span>
               </div>
-              <div className="mt-0.5 text-[11px] text-gray-400">
+              <div className="mt-0.5 text-[11px] text-gray-400 dark:text-gray-500">
                 {port.country} · {port.type === 'military' ? (port.notes || 'Military port') : `${port.teu_millions}M TEU`}
               </div>
             </button>
