@@ -1,0 +1,58 @@
+{
+  "sector": "logistics",
+  "summary": {
+    "us_flagged_vessels": 82,
+    "china_flagged_vessels": 5500,
+    "global_fleet_size": 105000,
+    "us_merchant_fleet_rank": 79,
+    "headline": "U.S. has 82 ocean-going merchant vessels vs China's 5,500+"
+  },
+  "chokepoints": [
+    {"name": "Strait of Malacca", "lat": 2.5, "lon": 101.5, "daily_vessels": 90, "oil_flow_mbd": 16.0, "trade_value_pct": 25, "risk": "high", "notes": "Critical for China oil imports, Japan/Korea trade. 550 miles long, 1.5 miles wide at narrowest."},
+    {"name": "Strait of Hormuz", "lat": 26.5, "lon": 56.3, "daily_vessels": 80, "oil_flow_mbd": 21.0, "trade_value_pct": 20, "risk": "critical", "notes": "21M barrels/day of oil. Iran controls northern shore. Only 2 miles wide at shipping lane."},
+    {"name": "Suez Canal", "lat": 30.45, "lon": 32.35, "daily_vessels": 55, "oil_flow_mbd": 9.0, "trade_value_pct": 12, "risk": "high", "notes": "Houthi attacks disrupted traffic 2024. 12% of global trade. Ever Given blockage 2021."},
+    {"name": "Panama Canal", "lat": 9.08, "lon": -79.68, "daily_vessels": 35, "oil_flow_mbd": 1.0, "trade_value_pct": 5, "risk": "moderate", "notes": "Drought reduced capacity 2023-24. Critical for U.S. East Coast-Asia trade."},
+    {"name": "Bab el-Mandeb", "lat": 12.6, "lon": 43.3, "daily_vessels": 40, "oil_flow_mbd": 6.2, "trade_value_pct": 8, "risk": "critical", "notes": "Gateway to Suez. Houthi missile/drone attacks forced rerouting around Africa 2024."},
+    {"name": "Taiwan Strait", "lat": 24.5, "lon": 119.5, "daily_vessels": 70, "oil_flow_mbd": 0, "trade_value_pct": 15, "risk": "critical", "notes": "88% of largest container ships transit. TSMC semiconductor supply. China military exercises."},
+    {"name": "GIUK Gap", "lat": 63.0, "lon": -15.0, "daily_vessels": 20, "oil_flow_mbd": 0, "trade_value_pct": 3, "risk": "moderate", "notes": "NATO submarine surveillance corridor. Russia Northern Fleet access point."},
+    {"name": "Cape of Good Hope", "lat": -34.35, "lon": 18.5, "daily_vessels": 30, "oil_flow_mbd": 0, "trade_value_pct": 8, "risk": "low", "notes": "Alternative to Suez. Traffic increased 80% due to Houthi attacks. Adds 10-14 days."}
+  ],
+  "major_ports": [
+    {"name": "Port of Los Angeles", "country": "US", "country_iso": "US", "lat": 33.74, "lon": -118.27, "teu_millions": 9.9, "rank_global": 17, "type": "container"},
+    {"name": "Port of Long Beach", "country": "US", "country_iso": "US", "lat": 33.75, "lon": -118.22, "teu_millions": 9.1, "rank_global": 19, "type": "container"},
+    {"name": "Port of New York/New Jersey", "country": "US", "country_iso": "US", "lat": 40.67, "lon": -74.14, "teu_millions": 9.5, "rank_global": 18, "type": "container"},
+    {"name": "Port of Savannah", "country": "US", "country_iso": "US", "lat": 32.08, "lon": -81.08, "teu_millions": 5.8, "rank_global": 30, "type": "container"},
+    {"name": "Port of Houston", "country": "US", "country_iso": "US", "lat": 29.73, "lon": -95.27, "teu_millions": 4.1, "rank_global": 40, "type": "mixed"},
+    {"name": "Port of Shanghai", "country": "China", "country_iso": "CN", "lat": 31.35, "lon": 121.59, "teu_millions": 49.0, "rank_global": 1, "type": "container"},
+    {"name": "Port of Singapore", "country": "Singapore", "country_iso": "SG", "lat": 1.26, "lon": 103.84, "teu_millions": 39.0, "rank_global": 2, "type": "container"},
+    {"name": "Port of Ningbo-Zhoushan", "country": "China", "country_iso": "CN", "lat": 29.95, "lon": 121.82, "teu_millions": 35.3, "rank_global": 3, "type": "container"},
+    {"name": "Port of Shenzhen", "country": "China", "country_iso": "CN", "lat": 22.53, "lon": 114.05, "teu_millions": 30.0, "rank_global": 4, "type": "container"},
+    {"name": "Port of Busan", "country": "South Korea", "country_iso": "KR", "lat": 35.08, "lon": 129.05, "teu_millions": 22.7, "rank_global": 7, "type": "container"},
+    {"name": "Port of Rotterdam", "country": "Netherlands", "country_iso": "NL", "lat": 51.95, "lon": 4.13, "teu_millions": 14.5, "rank_global": 10, "type": "container"},
+    {"name": "Port of Norfolk", "country": "US", "country_iso": "US", "lat": 36.85, "lon": -76.33, "teu_millions": 3.5, "rank_global": 45, "type": "military", "notes": "Naval Station Norfolk — largest naval base in world"},
+    {"name": "Port of San Diego", "country": "US", "country_iso": "US", "lat": 32.69, "lon": -117.15, "teu_millions": 0.2, "rank_global": 999, "type": "military", "notes": "Naval Base San Diego — Pacific Fleet homeport"},
+    {"name": "Port of Yokosuka", "country": "Japan", "country_iso": "JP", "lat": 35.28, "lon": 139.66, "teu_millions": 0.1, "rank_global": 999, "type": "military", "notes": "Commander Fleet Activities Yokosuka — 7th Fleet HQ"}
+  ],
+  "merchant_fleet_comparison": [
+    {"country": "China", "country_iso": "CN", "vessels": 5500, "dwt_millions": 350, "global_share_pct": 18.2},
+    {"country": "Greece", "country_iso": "GR", "vessels": 4200, "dwt_millions": 420, "global_share_pct": 16.8},
+    {"country": "Japan", "country_iso": "JP", "vessels": 3800, "dwt_millions": 250, "global_share_pct": 11.5},
+    {"country": "Singapore", "country_iso": "SG", "vessels": 3200, "dwt_millions": 130, "global_share_pct": 5.1},
+    {"country": "South Korea", "country_iso": "KR", "vessels": 1700, "dwt_millions": 85, "global_share_pct": 3.3},
+    {"country": "United States", "country_iso": "US", "vessels": 82, "dwt_millions": 6, "global_share_pct": 0.4, "notes": "Jones Act fleet only. Strategic sealift capacity: 46 Ready Reserve Force vessels."}
+  ],
+  "strategic_sealift": {
+    "ready_reserve_force": 46,
+    "military_sealift_command": 125,
+    "days_to_activate": "5-10 days (RRF) to 20 days (full mobilization)",
+    "capacity_assessment": "Insufficient for major two-theater conflict",
+    "notes": "2024 TRANSCOM assessment: fleet cannot meet combatant commander requirements. Average RRF vessel age: 45 years."
+  },
+  "source_urls": [
+    {"label": "MARAD Fleet Statistics", "url": "https://www.maritime.dot.gov/data-reports/data-statistics"},
+    {"label": "UNCTAD Maritime Transport", "url": "https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport"},
+    {"label": "EIA Chokepoints", "url": "https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints"},
+    {"label": "CRS Merchant Marine", "url": "https://crsreports.congress.gov/product/pdf/R/R46654"},
+    {"label": "TRANSCOM Sealift", "url": "https://www.ustranscom.mil/"}
+  ]
+}

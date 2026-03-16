@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
+@layer base {
+  body {
+    @apply antialiased;
+    font-feature-settings: 'cv11', 'ss01';
+  }
+
+  :is(.dark body) {
+    @apply bg-gray-950;
+  }
+}
+
+@layer components {
+  .badge {
+    @apply inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium border;
+  }
+
+  .gauge-bar {
+    @apply rounded-full bg-gray-200 overflow-hidden;
+  }
+
+  :is(.dark .gauge-bar) {
+    @apply bg-gray-700;
+  }
+
+  .gauge-fill {
+    @apply h-full rounded-full transition-all duration-500 ease-out;
+  }
+
+  .panel {
+    @apply bg-white/95 backdrop-blur-md border border-gray-200/80 shadow-lg;
+  }
+
+  :is(.dark .panel) {
+    @apply bg-gray-900/95 border-gray-700/80;
+  }
+
+  .panel-header {
+    @apply px-4 py-3 border-b border-gray-100 flex items-center justify-between;
+  }
+
+  :is(.dark .panel-header) {
+    @apply border-gray-700;
+  }
+
+  .lens-pill {
+    @apply px-3 py-1.5 text-xs font-medium rounded-full transition-all cursor-pointer whitespace-nowrap;
+  }
+
+  .lens-pill-active {
+    @apply bg-navy text-white shadow-sm;
+  }
+
+  .lens-pill-inactive {
+    @apply bg-white text-gray-600 hover:bg-gray-100 border border-gray-200;
+  }
+
+  :is(.dark .lens-pill-inactive) {
+    @apply bg-gray-800 text-gray-300 hover:bg-gray-700 border-gray-600;
+  }
+}
+
+@keyframes slide-up {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .animate-slide-up {
+    animation: slide-up 0.25s ease-out;
+  }
+  .animate-fade-in {
+    animation: fade-in 0.2s ease-out;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-slide-up,
+  .animate-fade-in {
+    animation: none;
+  }
+}
+
+/* MapLibre overrides */
+.maplibregl-popup-content {
+  @apply rounded-lg shadow-lg border border-gray-200 p-3 text-sm;
+}
+
+.maplibregl-ctrl-group {
+  @apply border-gray-200 shadow-sm;
+}
+
+.maplibregl-ctrl-group button {
+  @apply border-gray-200;
+}
+
+/* Dark mode MapLibre overrides */
+:is(.dark .maplibregl-popup-content) {
+  @apply bg-gray-800 border-gray-600 text-gray-200;
+}
+
+:is(.dark .maplibregl-ctrl-group) {
+  @apply bg-gray-800 border-gray-600;
+}
+
+:is(.dark .maplibregl-ctrl-group button) {
+  @apply border-gray-600;
+}
+
+/* Hide MapLibre attribution on small screens */
+@media (max-width: 640px) {
+  .maplibregl-ctrl-attrib {
+    display: none;
+  }
+}

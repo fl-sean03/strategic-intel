@@ -1,0 +1,167 @@
+{
+  "id": "manganese",
+  "category": "mineral",
+  "subject": "Manganese",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Manganese is a foundational critical mineral for both traditional steel production and the emerging battery economy, yet the United States has zero domestic mine production of manganese ore and over 85% import reliance. South Africa holds 80% of the world's known manganese resources and 37% of viable reserves, producing 7.2 million tonnes in 2023 and supplying approximately 40% of global output. However, South Africa exports roughly 95% of its manganese ore to China for refining, creating a paradox where the resource-richest nation has seen its domestic smelting capacity collapse -- by late 2025, Transalloys, the last functioning manganese smelter in South Africa, entered survivalist maintenance mode due to high electricity costs.\n\nManganese's defense significance is substantial. Steel containing more than 1.65% manganese is classified as a specialty metal under DOD acquisition rules, with domestic sourcing restrictions applying to all DOD prime contracts and subcontracts. Manganese is a primary alloying element in Rolled Homogeneous Armour (RHA) steel used in military vehicles, ships, and defense systems. High-performance steel applications across construction, transport, and defense are impossible without manganese.\n\nThe battery-grade manganese market represents a major growth vector, with demand expected to grow eightfold by 2030 as EV adoption accelerates. The DOD awarded $20 million to South32's Hermosa Project in Arizona under the Defense Production Act, matched by $43 million from South32, to develop the first sustainable domestic producer of battery-grade manganese. The Inflation Reduction Act has spurred over $2.1 billion in domestic manganese projects, including Electric Metals USA's facility in Minnesota targeting 50,000 tonnes per annum of high-purity manganese sulfate monohydrate by 2026. However, manganese ore prices remain volatile -- after a bearish turn in late 2024, prices entered 2026 at a 17-month high supported by demand recovery.",
+  "key_findings": [
+    {
+      "headline": "U.S. has zero domestic manganese ore production and over 85% import reliance",
+      "detail": "Manganese ore containing 20% or more manganese has not been produced domestically for decades. The U.S. imports cover over 85% of domestic consumption, with South Africa as the leading source for medium-grade ore (20-47% Mn) and India for high-grade ore (47%+ Mn). Known U.S. manganese resources are sufficient for only decades of projected demand.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-manganese.pdf"
+    },
+    {
+      "headline": "South Africa's manganese paradox: 80% of global resources but collapsing smelting capacity",
+      "detail": "South Africa holds 80% of the world's known manganese resources and 37% of viable reserves, producing 7.2 million tonnes in 2023. However, approximately 95% of manganese ore is exported to China for refining. By late 2025, Transalloys, the country's last functioning manganese smelter, entered survivalist maintenance mode due to high electricity costs, deepening the processing concentration in China.",
+      "severity": "critical",
+      "source_url": "https://afripoli.org/south-africas-new-critical-minerals-strategy-promises-and-paradoxes"
+    },
+    {
+      "headline": "DOD awards $20 million for first domestic battery-grade manganese production",
+      "detail": "The Department of Defense awarded $20 million to South32 under the Defense Production Act Investment Program for the Hermosa Project in Santa Cruz County, Arizona, matched by $43 million from South32. Upon completion, South32 would be the first sustainable domestic producer of battery-grade manganese, with DPA funds enabling ore access up to two years earlier than planned.",
+      "severity": "high",
+      "source_url": "https://www.war.gov/News/Releases/Release/Article/3779115/dod-awards-20-million-to-enhance-domestic-manganese-supply-chain/"
+    },
+    {
+      "headline": "Manganese classified as specialty metal in DOD procurement with domestic sourcing requirements",
+      "detail": "Steel containing more than 1.65% manganese is classified as a specialty metal under DOD acquisition regulations. Domestic sourcing restrictions apply to all DOD prime contracts and subcontracts, prohibiting direct acquisition of specialty metals not melted or produced in the United States. Manganese is a primary alloying element in Rolled Homogeneous Armour (RHA) steel used for military vehicles and defense systems.",
+      "severity": "high",
+      "source_url": "https://www.congress.gov/crs-product/IF11226"
+    },
+    {
+      "headline": "Battery-grade manganese demand expected to grow eightfold by 2030",
+      "detail": "The battery-grade manganese market is experiencing rapid growth driven by EV adoption, with demand expected to grow eightfold by 2030. The global battery-grade electrolytic manganese dioxide market stood at $1.2 billion in 2024 and is forecast to reach $2.5 billion by 2033. EV adoption drives 20-25% growth in manganese demand segments annually.",
+      "severity": "high",
+      "source_url": "https://investingnews.com/manganese-forecast/"
+    },
+    {
+      "headline": "Inflation Reduction Act spurs $2.1 billion in domestic manganese projects",
+      "detail": "The Inflation Reduction Act has catalyzed over $2.1 billion in domestic manganese projects. Electric Metals USA is developing a facility in Minnesota targeting 50,000 tonnes per annum of high-purity manganese sulfate monohydrate (HPMSM) by 2026, which would serve the growing battery cathode manufacturing supply chain.",
+      "severity": "moderate",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0301420725002314"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12",
+      "headline": "South Africa releases Critical Minerals and Metals Strategy",
+      "summary": "South Africa released its Critical Minerals and Metals Strategy for public comment on May 20, 2025, identifying manganese as a high-criticality commodity alongside platinum, iron ore, coal, and chrome ore. The strategy aims to address the paradox of vast resource wealth alongside collapsing domestic processing capacity, but faces skepticism from buyers and miners over implementation feasibility.",
+      "source_url": "https://afripoli.org/south-africas-new-critical-minerals-strategy-promises-and-paradoxes",
+      "impact": "If implemented effectively, could reduce China's dominance in manganese refining, but South Africa's electricity crisis and policy uncertainty create significant execution risks."
+    },
+    {
+      "date": "2025",
+      "headline": "Manganese ore prices enter 2026 at 17-month high",
+      "summary": "After a bearish turn in late 2024 with U.S. prices at approximately $1,200/MT, manganese ore prices steadily trended higher since mid-2025 and entered 2026 at a 17-month high, supported by an upswing in demand from steel and battery sectors. A rebound in sales in early spring 2025 pushed ore prices to a 2025 high of $4.48 per dry metric ton unit.",
+      "source_url": "https://investingnews.com/manganese-forecast/",
+      "impact": "Higher prices improve the economics of domestic and allied-nation manganese projects but increase input costs for steel and battery manufacturers."
+    },
+    {
+      "date": "2024-05",
+      "headline": "DOD awards $20 million to South32 for Hermosa manganese project",
+      "summary": "The Department of Defense awarded $20 million to South32 via the Defense Production Act Investment Program for the Hermosa Project in Arizona, matched by $43 million from South32. This is the 16th award totaling $356 million made by the DPAI program since the beginning of fiscal year 2024, targeting the first sustainable domestic producer of battery-grade manganese.",
+      "source_url": "https://south32hermosa.com/en_US/news-resources/news/south32-announces-us20-million-department-of-defense-grant-to-help-support-domestic-battery-grade-manganese-production",
+      "impact": "Establishes a pathway for domestic battery-grade manganese production with potential to accelerate ore access by up to two years, but full production remains several years away."
+    },
+    {
+      "date": "2025",
+      "headline": "Transalloys, South Africa's last manganese smelter, enters survivalist maintenance mode",
+      "summary": "Transalloys, the last functioning manganese smelter in South Africa, entered survivalist maintenance mode by late 2025 due to unsustainable electricity costs. This development deepens the global dependence on Chinese manganese refining capacity, as South Africa's ore continues to flow to China for processing despite South Africa holding 80% of global resources.",
+      "source_url": "https://afripoli.org/south-africas-new-critical-minerals-strategy-promises-and-paradoxes",
+      "impact": "Eliminates the last non-Chinese manganese smelting capacity in the world's largest resource-holding country, further concentrating processing in China."
+    },
+    {
+      "date": "2025",
+      "headline": "Electric Metals USA targets 50,000 tpa HPMSM facility in Minnesota",
+      "summary": "Electric Metals USA is developing a high-purity manganese sulfate monohydrate (HPMSM) facility in Minnesota targeting 50,000 tonnes per annum by 2026, as part of the over $2.1 billion in domestic manganese projects spurred by the Inflation Reduction Act.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0301420725002314",
+      "impact": "Would provide the first significant domestic source of battery-grade manganese chemicals for EV cathode manufacturing, reducing dependence on Chinese processing."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Manganese presents a high-risk supply chain vulnerability characterized by zero domestic mine production, over 85% import reliance, and increasing concentration of global refining capacity in China as South Africa's processing capability collapses. The defense sector's specialty metal requirements for armored steel create a direct national security exposure. Growing battery-grade demand will intensify competition for limited non-Chinese supply.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Zero domestic U.S. manganese ore production for decades",
+      "South Africa's last manganese smelter entering survivalist mode, deepening China's refining dominance",
+      "95% of South African manganese ore exported to China for processing",
+      "Battery-grade manganese demand expected to grow eightfold by 2030",
+      "DOD specialty metal sourcing requirements create compliance challenges given import dependence",
+      "Known U.S. resources sufficient for only decades of projected demand",
+      "Price volatility threatening project economics for new domestic facilities"
+    ],
+    "mitigation_actions": [
+      "DOD $20 million + South32 $43 million for Hermosa Project domestic battery-grade manganese",
+      "Inflation Reduction Act catalyzing $2.1 billion in domestic manganese projects",
+      "Electric Metals USA 50,000 tpa HPMSM facility targeting 2026 production in Minnesota",
+      "South Africa's Critical Minerals and Metals Strategy addressing domestic processing deficit",
+      "Defense Production Act Investment Program expanding to support critical mineral supply chains",
+      "U.S.-Australia $1 billion minerals production framework supporting allied supply development",
+      "Domestic manganese recycling and recovery from industrial waste streams"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Manganese",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-manganese.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "DOD Awards $20 Million to Enhance Domestic Manganese Supply Chain",
+      "url": "https://www.war.gov/News/Releases/Release/Article/3779115/dod-awards-20-million-to-enhance-domestic-manganese-supply-chain/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "South32 Announces US$20 Million DOD Grant for Domestic Battery-Grade Manganese Production",
+      "url": "https://south32hermosa.com/en_US/news-resources/news/south32-announces-us20-million-department-of-defense-grant-to-help-support-domestic-battery-grade-manganese-production",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "South Africa's New Critical Minerals Strategy: Promises and Paradoxes",
+      "url": "https://afripoli.org/south-africas-new-critical-minerals-strategy-promises-and-paradoxes",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Manganese Market Forecast: Top Trends for Manganese in 2026",
+      "url": "https://investingnews.com/manganese-forecast/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Defense Primer: Acquiring Specialty Metals and Sensitive Materials",
+      "url": "https://www.congress.gov/crs-product/IF11226",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Graphite and Manganese Mining in the U.S.: Proposed Projects and Federal Battery Mineral Policies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0301420725002314",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Coordinated Strategies for Critical Mineral Mining in Southern Africa",
+      "url": "https://www.weforum.org/stories/2025/12/strategies-for-critical-mineral-mining-southern-africa/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "DLA Strategic Materials - Manganese",
+      "url": "https://www.dla.mil/Strategic-Materials/Materials/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Critical Minerals, Critical Choices: Navigating US Tariffs, Chinese Dominance and African Sovereignty",
+      "url": "https://www.cliffedekkerhofmeyr.com/en/news/publications/2026/South-Africa/Mining-Minerals/mining-and-minerals-and-industrials-manufacturing-and-trade-alert-10-february-critical-minerals-critical-choices-navigating-us-tariffs-chinese-dominance-and-african-sovereignty",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

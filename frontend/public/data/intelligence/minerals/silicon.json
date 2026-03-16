@@ -1,0 +1,139 @@
+{
+  "id": "silicon",
+  "category": "mineral",
+  "subject": "Silicon",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Silicon metal occupies a unique position in the critical minerals landscape as the foundational substrate for the entire semiconductor industry while also being essential for aluminum alloys, silicones, and solar photovoltaics. China dominates global silicon materials production at approximately 80% of total output, creating extreme supply concentration risk. The United States maintains limited domestic production of ferrosilicon and silicon metal across six facilities, but production has been declining and specific figures are withheld to avoid disclosing proprietary information. Silicon was recommended for addition to the 2025 U.S. List of Critical Minerals, ranking second among newly added commodities.\n\nThe manufacturing challenge with silicon extends beyond volume to quality: semiconductor-grade silicon (99.999%+ purity) requires ultra-pure single-crystal structures with impurity levels measured in parts per billion, representing a significant barrier to entry. Semiconductor-grade silicon is explicitly excluded from recent antidumping trade cases, which target lower-purity metallurgical-grade silicon metal. China's government is actively positioning Chinese firms to dominate the global polysilicon market — the critical upstream material for semiconductor wafers — creating a potential future chokepoint even as the U.S. invests billions through the CHIPS Act to build domestic chip fabrication capacity.\n\nIn 2025, U.S. silicon metal producers filed major antidumping and countervailing duty petitions against imports from Angola, Australia, Laos, Norway, and Thailand, citing import surges from 17,277 MT in 2023 to 38,768 MT in 2024. Separately, the antidumping duty order on silicon metal from Russia was maintained after review. Import sources for silicon metal (2020-23) were: Brazil 38%, Canada 28%, Norway 13%, Australia 5%, and other 16%. For ferrosilicon: Russia 37%, Brazil 14%, Canada 13%, Malaysia 9%, and other 27%. The high Russian share in ferrosilicon imports creates geopolitical risk alongside the broader China dominance in global production.",
+  "key_findings": [
+    {
+      "headline": "China controls approximately 80% of global silicon materials production",
+      "detail": "China accounted for approximately 80% of total global estimated production of silicon materials in 2024, making it by far the dominant producer. This includes metallurgical-grade silicon metal, ferrosilicon, and increasingly polysilicon for semiconductor wafers and solar cells. China's government is actively supporting its silicon industry through subsidies, cheap electricity (particularly in Xinjiang and Yunnan), and strategic industrial policy aimed at dominating the entire silicon value chain from raw material to finished chips.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-silicon.pdf"
+    },
+    {
+      "headline": "China is positioning to dominate semiconductor-grade polysilicon supply globally",
+      "detail": "A September 2025 ITIF report found that the Chinese government is positioning Chinese firms to dominate the global market for polysilicon, the main substrate material used in nearly every semiconductor fabrication facility worldwide. This creates a potential upstream chokepoint for the entire chip industry — even as the U.S. invests $39 billion through the CHIPS Act in downstream fabrication, the raw material supply chain remains vulnerable to Chinese market dominance.",
+      "severity": "critical",
+      "source_url": "https://itif.org/publications/2025/09/08/china-plans-to-dominate-a-key-semiconductor-material/"
+    },
+    {
+      "headline": "U.S. silicon metal producers file major antidumping petitions against 5 countries",
+      "detail": "In April 2025, Ferroglobe USA and Mississippi Silicon filed antidumping and countervailing duty petitions against silicon metal imports from Angola, Australia, Laos, Norway, and Thailand. Imports from these countries surged from 17,277 MT in 2023 to 38,768 MT in 2024, threatening domestic producers. The Commerce Department initiated investigations in May 2025 and issued preliminary affirmative determinations on several countries. Semiconductor-grade silicon (99.99%+ purity) was excluded from the scope.",
+      "severity": "high",
+      "source_url": "https://www.akingump.com/en/insights/alerts/new-antidumping-duty-and-countervailing-duty-petition-on-silicon-metal-from-angola-australia-laos-norway-and-thailand"
+    },
+    {
+      "headline": "Semiconductor-grade silicon requires parts-per-billion purity — a major barrier to entry",
+      "detail": "While metallurgical-grade silicon metal is produced at multiple facilities globally, semiconductor-grade silicon (99.999%+ purity) requires ultra-pure single-crystal structures with impurity levels measured in parts per billion. The manufacturing precision required represents a significant barrier to entry for new market participants and limits the number of qualified suppliers globally. This quality gap means that high-volume silicon metal production does not automatically translate to semiconductor supply capability.",
+      "severity": "high",
+      "source_url": "https://www.csis.org/analysis/mineral-demands-resilient-semiconductor-supply-chains"
+    },
+    {
+      "headline": "Russia supplies 37% of U.S. ferrosilicon imports, creating geopolitical dependency",
+      "detail": "Russia was the largest source of U.S. ferrosilicon imports at 37% of total volume (2020-23), followed by Brazil at 14%, Canada at 13%, and Malaysia at 9%. This heavy dependence on Russian ferrosilicon creates geopolitical risk given the ongoing Russia-Ukraine conflict and potential for expanded sanctions. The ITC determined in a five-year review that revoking antidumping duties on Russian silicon metal would likely cause material injury to the domestic industry.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-silicon.pdf"
+    },
+    {
+      "headline": "CHIPS Act deploying $34 billion across 32 semiconductor projects in 20 states",
+      "detail": "Since the CHIPS and Science Act was signed in 2022, the Department of Commerce has announced preliminary agreements with 20 companies for 32 semiconductor manufacturing projects across 20 states, deploying nearly $34 billion of available $39 billion in direct funding and almost $29 billion in loans. While these investments address chip fabrication capacity, they do not directly address the upstream silicon material supply chain vulnerability.",
+      "severity": "moderate",
+      "source_url": "https://www.usgs.gov/programs/mineral-resources-program/science/about-2025-list-critical-minerals"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-04",
+      "headline": "U.S. producers file antidumping petitions against silicon metal imports from five countries",
+      "summary": "Ferroglobe USA Inc. and Mississippi Silicon Inc. filed petitions with the Commerce Department and ITC seeking antidumping duties on silicon metal from Angola, Australia, Laos, and Norway, and countervailing duties from Australia, Laos, Norway, and Thailand. The petitions cited a surge in imports from 17,277 MT in 2023 to 38,768 MT in 2024. Commerce initiated investigations in May 2025, with preliminary affirmative countervailing duty determinations against Australia issued in September 2025.",
+      "source_url": "https://www.akingump.com/en/insights/alerts/new-antidumping-duty-and-countervailing-duty-petition-on-silicon-metal-from-angola-australia-laos-norway-and-thailand",
+      "impact": "If duties are finalized, they could reshape U.S. silicon metal import patterns, potentially redirecting trade flows but also raising costs for domestic aluminum, silicone, and solar industries. The exclusion of semiconductor-grade silicon from the scope means these cases do not address the highest-strategic-value segment of the market."
+    },
+    {
+      "date": "2025-09",
+      "headline": "ITIF report warns China positioning to dominate global polysilicon supply",
+      "summary": "The Information Technology and Innovation Foundation published a report finding that China's government is systematically positioning Chinese firms to dominate the global polysilicon market — the critical substrate for semiconductor wafers and solar cells. Chinese polysilicon capacity has expanded rapidly through state subsidies, cheap electricity, and industrial policy, creating a potential upstream chokepoint for global chip manufacturing even as Western nations invest billions in downstream fabrication.",
+      "source_url": "https://itif.org/publications/2025/09/08/china-plans-to-dominate-a-key-semiconductor-material/",
+      "impact": "Highlights a strategic gap in U.S. semiconductor policy: CHIPS Act investments focus on fabrication capacity but do not address the polysilicon supply chain vulnerability upstream. If China achieves dominant market share in semiconductor-grade polysilicon, the billions invested in domestic fabs could be undercut by raw material dependency."
+    },
+    {
+      "date": "2026-01",
+      "headline": "ITC maintains antidumping duty order on silicon metal from Russia",
+      "summary": "The U.S. International Trade Commission determined in an expedited five-year review that revoking the antidumping duty order on silicon metal from Russia would likely lead to continuation or recurrence of material injury to the domestic industry. The order, originally imposed years earlier, was maintained as Russia remains a significant silicon metal producer and potential source of unfairly priced imports.",
+      "source_url": "https://www.federalregister.gov/documents/2026/01/02/2025-24156/silicon-metal-from-russia-determination",
+      "impact": "Maintains trade protection against Russian silicon metal dumping while Russia remains subject to broader geopolitical tensions. The ruling reinforces the trade barrier framework protecting the U.S. silicon metal industry but does not address the fundamental challenge of China's 80% global production dominance."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Silicon supply risk is significant and multidimensional. China's 80% dominance of global production creates extreme concentration risk at the metallurgical grade level. At the semiconductor grade, China is actively positioning to dominate polysilicon supply, creating an upstream chokepoint that could undermine CHIPS Act investments in downstream fabrication. U.S. domestic production is limited and declining, with Russia supplying 37% of ferrosilicon imports. Active antidumping cases against five countries reflect competitive pressures on domestic producers. The semiconductor-metallurgical quality gap means different risk profiles exist at different points in the silicon value chain.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 80% of global silicon materials production with state-backed expansion",
+      "Chinese government positioning to dominate semiconductor-grade polysilicon supply",
+      "Russia supplies 37% of U.S. ferrosilicon imports amid geopolitical uncertainty",
+      "U.S. domestic silicon metal production declining, specific figures withheld as proprietary",
+      "Silicon metal imports from five countries surged 124% (17,277 to 38,768 MT, 2023-2024)",
+      "CHIPS Act addresses fabrication but not upstream polysilicon supply chain"
+    ],
+    "mitigation_actions": [
+      "Extend CHIPS Act framework to address upstream polysilicon and silicon wafer supply chains",
+      "Support domestic silicon metal producers through trade enforcement and production incentives",
+      "Diversify ferrosilicon imports away from Russia toward Brazil, Canada, and allied producers",
+      "Invest in domestic semiconductor-grade polysilicon production capacity",
+      "Fund R&D on silicon recycling from solar panels and electronic waste",
+      "Establish strategic silicon reserve for semiconductor and defense applications"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Silicon",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-silicon.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "China Plans to Dominate a Key Semiconductor Material - ITIF",
+      "url": "https://itif.org/publications/2025/09/08/china-plans-to-dominate-a-key-semiconductor-material/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Mineral Demands for Resilient Semiconductor Supply Chains - CSIS",
+      "url": "https://www.csis.org/analysis/mineral-demands-resilient-semiconductor-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "New Antidumping and Countervailing Duty Petition on Silicon Metal - Akin Gump",
+      "url": "https://www.akingump.com/en/insights/alerts/new-antidumping-duty-and-countervailing-duty-petition-on-silicon-metal-from-angola-australia-laos-norway-and-thailand",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Silicon Metal From Russia - ITC Five-Year Review Determination",
+      "url": "https://www.federalregister.gov/documents/2026/01/02/2025-24156/silicon-metal-from-russia-determination",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "U.S. Silicon Metal Producers Welcome Trade Rulings - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/us-silicon-metal-producers-welcome-favorable-preliminary-trade-rulings-on-imports-from-angola-australia-laos-norway-and-thailand-302572569.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Chained to China: Beijing's Weaponization of Supply Chains - U.S.-China Economic and Security Review Commission",
+      "url": "https://www.uscc.gov/sites/default/files/2025-11/Chapter_9--Chained_to_China_Beijings_Weaponization_of_Supply_Chains.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Critical Minerals Driving US Semiconductor Manufacturing",
+      "url": "https://discoveryalert.com.au/critical-minerals-semiconductors-2025-coalition/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

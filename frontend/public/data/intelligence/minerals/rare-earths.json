@@ -1,0 +1,187 @@
+{
+  "id": "rare-earths",
+  "category": "mineral",
+  "subject": "Rare Earths",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Rare earth elements represent the most strategically consequential critical mineral supply chain challenge facing the United States. China controls approximately 70% of rare earth mining, 90% of separation and processing, and 93% of permanent magnet manufacturing — the end products on which every F-35 fighter jet, Virginia-class submarine, Tomahawk missile, EV motor, and offshore wind turbine depends. For heavy rare earth elements (HREEs) like dysprosium and terbium, which are essential for high-temperature magnet performance, the concentration is even more extreme.\n\nChina escalated export controls dramatically through 2025: in April, controls were imposed on seven HREEs and all related compounds, metals, and magnets; in October, five additional elements were restricted and an unprecedented extraterritorial provision required foreign companies to obtain Chinese licenses for exporting products containing even 0.1% Chinese-origin rare earths. While China suspended these controls in November 2025 until November 2026 as part of a trade agreement, the suspension is temporary, and the demonstrated capability to impose such controls has permanently altered supply chain risk calculations.\n\nThe U.S. is making its most significant investment in rare earth independence to date. MP Materials received a $400 million DOD preferred equity investment (making the Pentagon its largest shareholder), a 10-year magnet offtake agreement, and a $150 million loan for heavy rare earth separation at Mountain Pass, California. MP selected Northlake, Texas for its $1.25 billion '10X' magnet manufacturing campus targeting 10,000 metric tons of finished magnets by 2028. Lynas Rare Earths is progressing a U.S. heavy-REE facility backed by DOD. However, DFARS 2027 compliance milestones require programs to begin qualification now, and the U.S. is scaling military production five to six times slower than China's acquisition rate.",
+  "key_findings": [
+    {
+      "headline": "China controls 70% of mining, 90% of processing, and 93% of magnet manufacturing",
+      "detail": "For 19 out of 20 important strategic minerals, China is the leading refiner with an average 70% market share. In rare earths specifically, China controls 48% of proven global reserves, 70% of mining output, 90% of separation and processing, and 93% of permanent magnet manufacturing. The world's reliance on Chinese producers for heavy rare earth elements (HREEs) is even more acute, with virtually no commercial HREE separation outside China until Lynas' 2025 breakthrough in Malaysia.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "China imposed unprecedented extraterritorial rare earth export controls in October 2025",
+      "detail": "On October 9, 2025, China announced controls requiring foreign companies to obtain Chinese licenses to export products containing even 0.1% Chinese-origin rare earths or produced using Chinese rare earth technologies. The restricted list was expanded to 12 elements total. While suspended on November 7, 2025 until November 2026 as part of a trade deal, these controls demonstrated China's capability to disrupt entire downstream manufacturing supply chains globally.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions"
+    },
+    {
+      "headline": "Every major U.S. weapons system depends on rare earth magnets",
+      "detail": "F-35 fighter jets, Virginia- and Columbia-class submarines, Tomahawk missiles, radar systems, Predator UAVs, and Joint Direct Attack Munitions all require neodymium-iron-boron (NdFeB) permanent magnets. Noveon Magnetics was the only U.S. manufacturer of rare earth magnets before MP Materials' recent entry. The U.S. is scaling military production five to six times slower than China's acquisition rate for these systems.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "Pentagon makes $400M investment in MP Materials as largest shareholder",
+      "detail": "In July 2025, the DOD invested $400 million in MP Materials preferred equity (convertible to common stock), becoming the company's largest shareholder. The deal includes a 10-year offtake agreement guaranteeing purchase of 100% of magnets produced at MP's facilities, plus a $150 million loan from DOD's Office of Strategic Capital for heavy rare earth separation at Mountain Pass, California. This is the most significant public-private partnership for rare earth independence in U.S. history.",
+      "severity": "high",
+      "source_url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/"
+    },
+    {
+      "headline": "MP Materials building $1.25 billion magnet campus in Texas targeting 10,000 mt/yr",
+      "detail": "MP Materials selected a 120-acre site in Northlake, Texas for its '10X' rare earth magnet manufacturing campus, with over $1.25 billion in company investment creating 1,500+ jobs. The facility will commission in 2028 with an estimated 10,000 metric tons of annual rare earth magnet capacity, dramatically expanding domestic manufacturing. Apple has also invested $500 million in MP Materials.",
+      "severity": "high",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx"
+    },
+    {
+      "headline": "DFARS 2027 deadline forces defense programs to qualify non-Chinese sources now",
+      "detail": "Defense Federal Acquisition Regulation Supplement milestones in 2027 require defense programs to demonstrate non-Chinese rare earth sourcing. Programs that begin qualification in 2025-2026 will meet their schedules, while laggards will face redesigns under time pressure. This creates a two-year window of acute supply chain transition risk for defense contractors.",
+      "severity": "high",
+      "source_url": "https://www.mining.com/us-china-deal-and-more-dod-money-will-not-loosen-chinas-grip-on-military-grade-rare-earths-magnets/"
+    },
+    {
+      "headline": "Lynas Rare Earths becomes first commercial HREE producer outside China",
+      "detail": "In 2025, Lynas produced its first batches of dysprosium oxide at its Malaysia facility, becoming the only commercial producer of separated heavy rare earth products outside China. Lynas is also progressing a U.S. heavy-REE separation facility backed by DOD funding, though it is not expected to start operations until 2026. This is a critical milestone for reducing dependence on Chinese HREE processing.",
+      "severity": "medium",
+      "source_url": "https://exoswan.com/rare-earth-stocks"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-04",
+      "headline": "China introduces export controls on seven heavy rare earth elements",
+      "summary": "China imposed export controls on scandium, yttrium, samarium, gadolinium, terbium, dysprosium, and lutetium, along with all related compounds, metals, and magnets. The controls required export licenses for these materials, which are essential for high-temperature permanent magnets used in defense systems, EV motors, and wind turbines. This was the first targeted restriction on HREEs specifically.",
+      "source_url": "https://www.china-briefing.com/news/chinas-rare-earth-export-controls-impacts-on-businesses/",
+      "impact": "Immediately disrupted supply chains for defense-grade magnets and EV motor production. Manufacturers faced uncertainty about license approval timelines, and some began stockpiling available inventory. The controls highlighted the extreme concentration of HREE supply in China."
+    },
+    {
+      "date": "2025-10-09",
+      "headline": "China expands rare earth controls with unprecedented extraterritorial provisions",
+      "summary": "China announced expanded export controls adding holmium, erbium, thulium, europium, and ytterbium to the restricted list (12 total), and introduced extraterritorial provisions requiring foreign companies to obtain Chinese licenses to export products containing at least 0.1% Chinese-origin rare earths or produced using Chinese rare earth technologies. This was the most far-reaching assertion of control over global rare earth supply chains ever attempted.",
+      "source_url": "https://riskandcompliance.freshfields.com/post/102lpyn/china-intensifies-export-controls-over-rare-earths-and-related-technologies",
+      "impact": "The 0.1% threshold and technology-based controls threatened to give China oversight of virtually all global rare earth magnet manufacturing. Even companies using non-Chinese raw materials could be affected if their manufacturing processes relied on Chinese-developed technologies. This sent shockwaves through defense and automotive industries worldwide."
+    },
+    {
+      "date": "2025-11-07",
+      "headline": "China suspends rare earth export controls until November 2026",
+      "summary": "Following the Xi-Trump meeting, China officially suspended implementation of the October 9, 2025 rare earth export controls for one year until November 10, 2026. The decision was part of a broader agreement to roll back tariffs and trade barriers. The government also promised a $400 million equity stake in MP Materials, $150 million DOD loan, and 10-year purchase agreement for 100% of rare earth magnets produced domestically.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Provided temporary relief but did not address the structural dependency. The suspension has a hard expiration date, and China has demonstrated both the willingness and capability to impose these controls. Defense planners and manufacturers must use the window to accelerate domestic and allied supply chain development."
+    },
+    {
+      "date": "2025-07",
+      "headline": "Pentagon invests $400M in MP Materials, becomes largest shareholder",
+      "summary": "The Department of Defense made a $400 million preferred equity investment in MP Materials convertible into common stock, making it the company's largest shareholder. The deal included a 10-year offtake agreement to purchase 100% of magnets produced, and a $150 million loan from DOD's Office of Strategic Capital for heavy rare earth separation at Mountain Pass. MP's NdPr metal production is online with trial sintered magnets running.",
+      "source_url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/",
+      "impact": "The most significant U.S. government investment in rare earth supply chain independence, signaling that rare earth security is now a top-tier national defense priority. De-risks MP Materials' mine-to-magnet strategy and provides a template for additional critical mineral public-private partnerships."
+    },
+    {
+      "date": "2026-02",
+      "headline": "MP Materials breaks ground on $1.25B '10X' magnet campus in Northlake, Texas",
+      "summary": "MP Materials selected a 120-acre site in Northlake, Texas (less than 10 miles from its existing Fort Worth Independence facility) for the 10X rare earth magnet manufacturing campus. The $1.25 billion+ investment will create over 1,500 jobs and target commissioning in 2028 with estimated 10,000 metric ton annual magnet capacity. Apple invested $500 million in the company as part of the broader capitalization.",
+      "source_url": "https://fortworthreport.org/2026/02/26/mp-materials-building-1-25b-magnet-plant-just-north-of-fort-worth/",
+      "impact": "When operational, 10X will dramatically expand U.S. rare earth magnet manufacturing from near-zero to a globally significant scale, serving defense, EV, robotics, AI data center, and wind turbine applications. Combined with Mountain Pass mining and separation, this creates the first fully domestic mine-to-magnet supply chain."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Rare earth supply chain risk remains at a critical level despite unprecedented U.S. government investment. China's demonstrated capability to impose extraterritorial export controls on products containing even 0.1% Chinese rare earths reveals that the current level of dependency enables China to disrupt not just raw material supply but entire global manufacturing chains. The November 2026 suspension expiration creates a hard deadline with no guarantee of renewal. Current U.S. magnet manufacturing capacity (Noveon Magnetics plus MP Materials' early-stage production) is negligible compared to China's 93% global market share. The DFARS 2027 milestone adds regulatory pressure. While MP Materials' mine-to-magnet strategy and the Lynas HREE breakthrough represent genuine progress, achieving meaningful independence will require continued investment through the end of the decade.",
+    "trend": "mixed",
+    "key_drivers": [
+      "China's 93% share of rare earth magnet manufacturing with demonstrated willingness to weaponize supply",
+      "Extraterritorial export controls (0.1% threshold) potentially affecting all manufacturers using Chinese materials or technology",
+      "November 2026 expiration of export control suspension with no renewal guarantee",
+      "DFARS 2027 compliance milestones requiring non-Chinese sourcing for defense programs",
+      "Every major weapons system (F-35, Virginia-class, Columbia-class, Tomahawk) dependent on rare earth magnets",
+      "U.S. scaling military production 5-6x slower than China's acquisition rate",
+      "Heavy rare earth separation virtually nonexistent outside China until Lynas' 2025 breakthrough"
+    ],
+    "mitigation_actions": [
+      "Complete MP Materials Mountain Pass heavy rare earth separation capability (funded by $150M DOD loan)",
+      "Commission MP Materials 10X magnet manufacturing campus in Northlake, Texas by 2028 (10,000 mt/yr capacity)",
+      "Advance Lynas U.S. heavy rare earth separation facility to production in 2026",
+      "Begin DFARS 2027 qualification of non-Chinese rare earth magnet sources for all major defense programs immediately",
+      "Support development of additional mining projects (US Critical Materials Montana, Ucore in Alaska)",
+      "Invest in rare earth recycling from end-of-life electronics, wind turbines, and EV motors",
+      "Develop grain boundary diffusion and other technologies to reduce heavy rare earth content in magnets",
+      "Negotiate critical mineral agreements with Australia, Canada, India, and Brazil for rare earth mining diversification",
+      "Fund R&D into alternative magnet technologies (ferrite, manganese-bismuth) for applications where performance trade-offs are acceptable"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "CSIS - The Consequences of China's New Rare Earths Export Restrictions",
+      "url": "https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "MP Materials - Transformational Public-Private Partnership with DOD",
+      "url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MP Materials - Selects Northlake, Texas for 10X Magnet Campus",
+      "url": "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Fort Worth Report - MP Materials Building $1.25B Magnet Plant",
+      "url": "https://fortworthreport.org/2026/02/26/mp-materials-building-1-25b-magnet-plant-just-north-of-fort-worth/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "MINING.COM - US-China Deal Will Not Loosen China's Grip on Military-Grade Rare Earth Magnets",
+      "url": "https://www.mining.com/us-china-deal-and-more-dod-money-will-not-loosen-chinas-grip-on-military-grade-rare-earths-magnets/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "legal"
+    },
+    {
+      "title": "IEA - With New Export Controls, Supply Concentration Risks Become Reality",
+      "url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "accessed": "2026-03-16",
+      "type": "international_organization"
+    },
+    {
+      "title": "Global Policy Watch - Heavy Rare Earth Elements: Rising Supply Chain Risks",
+      "url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Freshfields - China Intensifies Export Controls over Rare Earths and Related Technologies",
+      "url": "https://riskandcompliance.freshfields.com/post/102lpyn/china-intensifies-export-controls-over-rare-earths-and-related-technologies",
+      "accessed": "2026-03-16",
+      "type": "legal"
+    },
+    {
+      "title": "ACS Chemical & Engineering News - US Invests in Rare Earth Firm MP Materials",
+      "url": "https://cen.acs.org/business/investment/US-invests-rare-earth-firm/103/web/2025/07",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "SFA Oxford - MP Materials-DoD Deal Secures U.S. Rare Earth Magnet Supply",
+      "url": "https://www.sfa-oxford.com/market-news-and-insights/sfa-pentagon-and-mp-materials-forge-u-s-ree-independence/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

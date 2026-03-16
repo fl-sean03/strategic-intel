@@ -1,0 +1,184 @@
+{
+  "id": "strait-of-hormuz",
+  "category": "chokepoint",
+  "subject": "Strait of Hormuz",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The Strait of Hormuz is the world's most critical oil transit chokepoint, handling approximately 20 million barrels per day of crude oil and petroleum products — roughly 20% of global petroleum liquids consumption and 34% of global crude trade. The strait is 35 to 60 miles wide at its broadest but narrows to just two 2-nautical-mile shipping lanes (inbound and outbound) separated by a 2-mile buffer zone, making it exceptionally vulnerable to disruption. Approximately 100 cargo-carrying vessels transit daily, with 60-70% being oil tankers or LNG carriers. In 2024, 84% of crude oil and 83% of LNG moving through the strait was destined for Asian markets, with China, India, Japan, and South Korea accounting for 69% of all Hormuz crude flows.\n\nSince February 28, 2026, the strait has been in active crisis following coordinated U.S.-Israeli airstrikes on Iran under Operation Epic Fury, which targeted military and nuclear facilities and resulted in the death of Iran's Supreme Leader Ali Khamenei. Iran's IRGC declared the strait closed on March 2, 2026, launching retaliatory missile and drone attacks and beginning mine-laying operations. Tanker traffic initially dropped 70%, with over 150 ships anchoring outside the strait. By mid-March 2026, shipping analytics firm Kpler reports traffic has fallen by as much as 90%. Oil prices surged above $100/barrel and briefly approached $120. The U.S. has responded with its largest Middle East naval buildup since 2023, deploying two carrier strike groups and destroying 16 Iranian minelayers on March 10. Iraq's oil production has plummeted from 4.3 million to 1.3 million barrels per day, and alternative bypass pipelines in Saudi Arabia and the UAE can only handle 3.5-5.5 million b/d — a fraction of normal strait flows.\n\nThe crisis represents the most severe disruption to global energy markets since the 1973 oil embargo, with cascading implications for inflation, energy security, and geopolitical stability worldwide.",
+  "key_findings": [
+    {
+      "headline": "Strait of Hormuz effectively closed since March 2, 2026",
+      "detail": "Iran's IRGC officially declared the strait closed on March 2, 2026, following the U.S.-Israeli Operation Epic Fury airstrikes on February 28. The IRGC subsequently threatened any ship attempting passage, and has carried out attacks on at least 10 vessels as of March 8, 2026, according to the UK Maritime Trade Operations Centre.",
+      "severity": "critical",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+    },
+    {
+      "headline": "Iran laying mines in the strait; U.S. destroys 16 minelayers",
+      "detail": "CNN and NPR confirmed that Iran began laying naval mines in the strait, with a few dozen placed in recent days while retaining 80-90% of its small boats and minelayers — potentially hundreds more mines could be deployed. On March 10, U.S. CENTCOM announced the destruction of 16 Iranian minelayers and multiple warships. Mine threat significantly complicates any near-term reopening of the waterway.",
+      "severity": "critical",
+      "source_url": "https://www.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz"
+    },
+    {
+      "headline": "Shipping traffic down 90% from pre-crisis levels",
+      "detail": "Shipping analytics firm Kpler reports traffic through the strait has fallen by as much as 90%. Tanker traffic initially dropped 70% in the immediate aftermath of the crisis, with over 150 ships anchoring outside the strait. The few transits that occur are under significantly heightened risk from missiles, drones, and naval confrontation.",
+      "severity": "critical",
+      "source_url": "https://www.cbsnews.com/news/strait-of-hormuz-iran-oil-prices-us/"
+    },
+    {
+      "headline": "Oil prices surge past $100/barrel; approaching $120",
+      "detail": "The effective closure of the strait has triggered a massive energy price shock. Oil prices surged above $100 per barrel and briefly approached $120 as traders priced in the risk of a prolonged supply disruption affecting 20% of global daily oil supply. Strategic petroleum reserve releases may calm markets temporarily but cannot substitute for Hormuz flows.",
+      "severity": "critical",
+      "source_url": "https://time.com/7382242/strait-of-hormuz-closure-threat-iran-war-trade-gas-oil-prices/"
+    },
+    {
+      "headline": "Alternative bypass capacity covers only a fraction of normal flows",
+      "detail": "Only Saudi Arabia and the UAE have operational crude oil pipelines that can bypass the Strait of Hormuz, with an estimated combined capacity of 3.5-5.5 million barrels per day. This represents less than 25% of the 20 million b/d that normally transits the strait. The logistics and supply chains needed to reroute and substitute flows at scale have never been robustly tested.",
+      "severity": "high",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=65504"
+    },
+    {
+      "headline": "Largest U.S. naval buildup in the Middle East since 2023",
+      "detail": "The U.S. has deployed two carrier strike groups (USS Abraham Lincoln and USS Gerald R. Ford), multiple guided-missile destroyers, and three Littoral Combat Ships equipped with mine countermeasure packages. The USS Gerald R. Ford transited the Suez Canal on March 5, 2026. This represents roughly one-third of the deployed U.S. fleet concentrated in the region.",
+      "severity": "high",
+      "source_url": "https://news.usni.org/2026/03/09/usni-news-fleet-and-marine-tracker-march-9-2026"
+    },
+    {
+      "headline": "Iraq oil production collapses from 4.3M to 1.3M barrels/day",
+      "detail": "Iraq's national oil production has fallen dramatically from approximately 4.3 million barrels per day to around 1.3 million barrels per day as a direct result of the crisis, while exports have dropped by at least 800,000 barrels per day. This compounds the global supply shock beyond the transit disruption alone.",
+      "severity": "high",
+      "source_url": "https://unctad.org/publication/strait-hormuz-disruptions-implications-global-trade-and-development"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-03-10",
+      "headline": "U.S. CENTCOM destroys 16 Iranian minelayers in the Strait of Hormuz",
+      "summary": "U.S. forces struck and sank 16 Iranian minelayers and multiple warships as Iran began deploying naval mines in the strait's shipping lanes. President Trump demanded Iran immediately remove all mines. Iran retains 80-90% of its mine-laying capacity, meaning the threat is far from eliminated.",
+      "source_url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
+      "impact": "Escalation of military conflict; mine threat makes strait unsafe for commercial shipping even with naval escorts; insurance premiums for Gulf transit have become prohibitive."
+    },
+    {
+      "date": "2026-03-02",
+      "headline": "IRGC officially declares Strait of Hormuz closed to all shipping",
+      "summary": "A senior IRGC official confirmed the strait was closed, threatening any vessel attempting passage. This followed Iran's retaliatory missile and drone attacks on U.S. military bases, Israeli territory, and Gulf states after the February 28 U.S.-Israeli strikes under Operation Epic Fury.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "impact": "Effective halt of 20% of global oil supply transit; immediate oil price spike above $100/barrel; global energy crisis conditions."
+    },
+    {
+      "date": "2026-02-28",
+      "headline": "U.S. and Israel launch Operation Epic Fury against Iran",
+      "summary": "Coordinated U.S.-Israeli airstrikes targeted Iranian military facilities, nuclear sites, and leadership, resulting in the death of Supreme Leader Ali Khamenei. The operation followed failed nuclear negotiations in Geneva and a prior 12-day air conflict in 2025, representing a dramatic escalation of the long-running conflict.",
+      "source_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "impact": "Triggered the current Hormuz crisis; Iran's retaliation included attacks on ships, mine laying, and declaration of strait closure; cascading global economic impacts."
+    },
+    {
+      "date": "2026-03-15",
+      "headline": "Strategic oil reserves released but cannot fix Hormuz disruption",
+      "summary": "Multiple nations have begun releasing strategic petroleum reserves in an attempt to calm markets, but analysts warn that SPR releases are a temporary measure that cannot substitute for the sustained flow of 20 million barrels per day through the strait. Alternative pipeline capacity covers less than 25% of normal flows.",
+      "source_url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption",
+      "impact": "Limited short-term price relief; underlying supply disruption persists; SPR drawdowns cannot continue indefinitely without creating future vulnerability."
+    },
+    {
+      "date": "2026-03-05",
+      "headline": "USS Gerald R. Ford transits Suez Canal en route to Persian Gulf",
+      "summary": "The Gerald R. Ford Carrier Strike Group transited the Suez Canal to join the Abraham Lincoln CSG already in the region, forming a dual-carrier presence. This represents the largest U.S. naval concentration in the Middle East since the 2023 regional crisis began.",
+      "source_url": "https://news.usni.org/2026/02/23/usni-news-fleet-and-marine-tracker-feb-23-2026",
+      "impact": "Significant escalation of U.S. military posture; mine countermeasure operations underway; naval escort for commercial vessels under discussion."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The Strait of Hormuz is currently in an active crisis state with near-total cessation of commercial shipping. Iran has declared the strait closed, is actively laying mines, and has attacked at least 10 vessels. The risk of further military escalation remains very high as the U.S. has two carrier strike groups in theater and is actively engaging Iranian naval assets. The crisis represents a fundamental disruption to global energy supply with no clear path to near-term resolution.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Active U.S.-Iran military conflict following Operation Epic Fury (Feb 28, 2026)",
+      "Iranian mine-laying operations in the strait's shipping lanes",
+      "IRGC declaration of strait closure and attacks on commercial vessels",
+      "Death of Iran's Supreme Leader creating power vacuum and unpredictable escalation dynamics",
+      "Limited alternative pipeline capacity (3.5-5.5M b/d vs 20M b/d normal flow)",
+      "Prohibitive insurance premiums making commercial transit economically unviable",
+      "Houthi threats to resume Red Sea attacks in solidarity with Iran"
+    ],
+    "mitigation_actions": [
+      "U.S. Navy mine countermeasure operations using three LCS ships with MCM packages",
+      "Dual carrier strike group presence providing air superiority and deterrence",
+      "Strategic petroleum reserve releases by multiple nations",
+      "Activation of Saudi and UAE bypass pipelines (limited capacity)",
+      "Naval convoy escort proposals for commercial vessels",
+      "Diplomatic engagement through international organizations to de-escalate"
+    ]
+  },
+  "sources": [
+    {
+      "title": "2026 Strait of Hormuz crisis - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint - U.S. EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=65504",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Strait of Hormuz disruptions: Implications for global trade - UNCTAD",
+      "url": "https://unctad.org/publication/strait-hormuz-disruptions-implications-global-trade-and-development",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Iran begins laying mines in Strait of Hormuz - CNN",
+      "url": "https://www.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "U.S. forces sink 16 Iranian minelayers - CNBC",
+      "url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Fear of Iranian mines could further slow oil flow - NPR",
+      "url": "https://www.npr.org/2026/03/12/g-s1-113471/strait-hormuz-mines-drones-missiles-oil-tankers",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Strait of Hormuz closure threat - TIME",
+      "url": "https://time.com/7382242/strait-of-hormuz-closure-threat-iran-war-trade-gas-oil-prices/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USNI News Fleet and Marine Tracker: March 9, 2026",
+      "url": "https://news.usni.org/2026/03/09/usni-news-fleet-and-marine-tracker-march-9-2026",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Iran Conflict and the Strait of Hormuz - Congressional Research Service",
+      "url": "https://www.congress.gov/crs-product/R45281",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "What It Will Take to Open Up the Strait of Hormuz - Columbia SIPA",
+      "url": "https://www.energypolicy.columbia.edu/iran-conflict-brief-what-it-will-take-to-open-up-the-strait-of-hormuz/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption - Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Strait of Hormuz - IEA Oil Security",
+      "url": "https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

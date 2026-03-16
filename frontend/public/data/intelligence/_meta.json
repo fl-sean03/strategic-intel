@@ -1,0 +1,410 @@
+{
+  "last_updated": "2026-03-16T06:26:50.286162+00:00",
+  "total_reports": 101,
+  "reports": [
+    {
+      "category": "cables",
+      "id": "2africa"
+    },
+    {
+      "category": "cables",
+      "id": "dunant"
+    },
+    {
+      "category": "cables",
+      "id": "equiano"
+    },
+    {
+      "category": "cables",
+      "id": "grace-hopper"
+    },
+    {
+      "category": "cables",
+      "id": "marea"
+    },
+    {
+      "category": "cables",
+      "id": "pacific-light-cable"
+    },
+    {
+      "category": "cables",
+      "id": "peace-cable"
+    },
+    {
+      "category": "cables",
+      "id": "sea-me-we-6"
+    },
+    {
+      "category": "chokepoints",
+      "id": "bab-el-mandeb"
+    },
+    {
+      "category": "chokepoints",
+      "id": "cape-of-good-hope"
+    },
+    {
+      "category": "chokepoints",
+      "id": "giuk-gap"
+    },
+    {
+      "category": "chokepoints",
+      "id": "panama-canal"
+    },
+    {
+      "category": "chokepoints",
+      "id": "strait-of-hormuz"
+    },
+    {
+      "category": "chokepoints",
+      "id": "strait-of-malacca"
+    },
+    {
+      "category": "chokepoints",
+      "id": "suez-canal"
+    },
+    {
+      "category": "chokepoints",
+      "id": "taiwan-strait"
+    },
+    {
+      "category": "minerals",
+      "id": "aluminum"
+    },
+    {
+      "category": "minerals",
+      "id": "antimony"
+    },
+    {
+      "category": "minerals",
+      "id": "arsenic"
+    },
+    {
+      "category": "minerals",
+      "id": "barite"
+    },
+    {
+      "category": "minerals",
+      "id": "beryllium"
+    },
+    {
+      "category": "minerals",
+      "id": "bismuth"
+    },
+    {
+      "category": "minerals",
+      "id": "boron"
+    },
+    {
+      "category": "minerals",
+      "id": "cerium"
+    },
+    {
+      "category": "minerals",
+      "id": "cesium"
+    },
+    {
+      "category": "minerals",
+      "id": "chromium"
+    },
+    {
+      "category": "minerals",
+      "id": "cobalt"
+    },
+    {
+      "category": "minerals",
+      "id": "copper"
+    },
+    {
+      "category": "minerals",
+      "id": "dysprosium"
+    },
+    {
+      "category": "minerals",
+      "id": "erbium"
+    },
+    {
+      "category": "minerals",
+      "id": "europium"
+    },
+    {
+      "category": "minerals",
+      "id": "fluorspar"
+    },
+    {
+      "category": "minerals",
+      "id": "gadolinium"
+    },
+    {
+      "category": "minerals",
+      "id": "gallium"
+    },
+    {
+      "category": "minerals",
+      "id": "germanium"
+    },
+    {
+      "category": "minerals",
+      "id": "graphite"
+    },
+    {
+      "category": "minerals",
+      "id": "hafnium"
+    },
+    {
+      "category": "minerals",
+      "id": "holmium"
+    },
+    {
+      "category": "minerals",
+      "id": "indium"
+    },
+    {
+      "category": "minerals",
+      "id": "iridium"
+    },
+    {
+      "category": "minerals",
+      "id": "lanthanum"
+    },
+    {
+      "category": "minerals",
+      "id": "lead"
+    },
+    {
+      "category": "minerals",
+      "id": "lithium"
+    },
+    {
+      "category": "minerals",
+      "id": "lutetium"
+    },
+    {
+      "category": "minerals",
+      "id": "magnesium"
+    },
+    {
+      "category": "minerals",
+      "id": "manganese"
+    },
+    {
+      "category": "minerals",
+      "id": "metallurgical-coal"
+    },
+    {
+      "category": "minerals",
+      "id": "neodymium"
+    },
+    {
+      "category": "minerals",
+      "id": "nickel"
+    },
+    {
+      "category": "minerals",
+      "id": "niobium"
+    },
+    {
+      "category": "minerals",
+      "id": "palladium"
+    },
+    {
+      "category": "minerals",
+      "id": "phosphate"
+    },
+    {
+      "category": "minerals",
+      "id": "platinum"
+    },
+    {
+      "category": "minerals",
+      "id": "potash"
+    },
+    {
+      "category": "minerals",
+      "id": "praseodymium"
+    },
+    {
+      "category": "minerals",
+      "id": "rare-earths"
+    },
+    {
+      "category": "minerals",
+      "id": "rhenium"
+    },
+    {
+      "category": "minerals",
+      "id": "rhodium"
+    },
+    {
+      "category": "minerals",
+      "id": "rubidium"
+    },
+    {
+      "category": "minerals",
+      "id": "ruthenium"
+    },
+    {
+      "category": "minerals",
+      "id": "samarium"
+    },
+    {
+      "category": "minerals",
+      "id": "scandium"
+    },
+    {
+      "category": "minerals",
+      "id": "silicon"
+    },
+    {
+      "category": "minerals",
+      "id": "silver"
+    },
+    {
+      "category": "minerals",
+      "id": "tantalum"
+    },
+    {
+      "category": "minerals",
+      "id": "tellurium"
+    },
+    {
+      "category": "minerals",
+      "id": "terbium"
+    },
+    {
+      "category": "minerals",
+      "id": "thulium"
+    },
+    {
+      "category": "minerals",
+      "id": "tin"
+    },
+    {
+      "category": "minerals",
+      "id": "titanium"
+    },
+    {
+      "category": "minerals",
+      "id": "tungsten"
+    },
+    {
+      "category": "minerals",
+      "id": "uranium"
+    },
+    {
+      "category": "minerals",
+      "id": "vanadium"
+    },
+    {
+      "category": "minerals",
+      "id": "ytterbium"
+    },
+    {
+      "category": "minerals",
+      "id": "yttrium"
+    },
+    {
+      "category": "minerals",
+      "id": "zinc"
+    },
+    {
+      "category": "minerals",
+      "id": "zirconium"
+    },
+    {
+      "category": "satellites",
+      "id": "beidou"
+    },
+    {
+      "category": "satellites",
+      "id": "galileo"
+    },
+    {
+      "category": "satellites",
+      "id": "glonass"
+    },
+    {
+      "category": "satellites",
+      "id": "gps"
+    },
+    {
+      "category": "satellites",
+      "id": "guowang"
+    },
+    {
+      "category": "satellites",
+      "id": "kuiper"
+    },
+    {
+      "category": "satellites",
+      "id": "oneweb"
+    },
+    {
+      "category": "satellites",
+      "id": "starlink"
+    },
+    {
+      "category": "sectors",
+      "id": "energy"
+    },
+    {
+      "category": "sectors",
+      "id": "logistics"
+    },
+    {
+      "category": "sectors",
+      "id": "manufacturing"
+    },
+    {
+      "category": "sectors",
+      "id": "metals-mining"
+    },
+    {
+      "category": "sectors",
+      "id": "technology"
+    },
+    {
+      "category": "sectors",
+      "id": "telecom"
+    },
+    {
+      "category": "technologies",
+      "id": "5g-6g-networks"
+    },
+    {
+      "category": "technologies",
+      "id": "advanced-materials"
+    },
+    {
+      "category": "technologies",
+      "id": "artificial-intelligence"
+    },
+    {
+      "category": "technologies",
+      "id": "autonomous-vehicles"
+    },
+    {
+      "category": "technologies",
+      "id": "biotechnology"
+    },
+    {
+      "category": "technologies",
+      "id": "directed-energy-weapons"
+    },
+    {
+      "category": "technologies",
+      "id": "hypersonic-weapons"
+    },
+    {
+      "category": "technologies",
+      "id": "quantum-computing"
+    },
+    {
+      "category": "technologies",
+      "id": "semiconductor-manufacturing"
+    },
+    {
+      "category": "technologies",
+      "id": "space-launch"
+    }
+  ]
+}

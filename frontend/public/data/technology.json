@@ -1,0 +1,48 @@
+{
+  "sector": "technology",
+  "summary": {
+    "dod_rd_budget_b": 140,
+    "sbir_awards_annual": 5000,
+    "us_defense_patents_annual": 15000,
+    "critical_tech_areas": 74,
+    "headline": "U.S. leads in 52 of 74 critical technologies, but China closing gap in AI, quantum, and advanced manufacturing"
+  },
+  "tech_competition": [
+    {"technology": "Artificial Intelligence", "us_position": "Leading", "china_position": "Near-peer", "trend": "China closing gap", "defense_relevance": "Autonomous systems, ISR, decision support", "risk": "high"},
+    {"technology": "Quantum Computing", "us_position": "Leading", "china_position": "Competitive", "trend": "Both advancing rapidly", "defense_relevance": "Cryptography, sensing, simulation", "risk": "high"},
+    {"technology": "Hypersonic Weapons", "us_position": "Behind", "china_position": "Leading", "trend": "China/Russia deployed first", "defense_relevance": "Missile defense penetration, rapid strike", "risk": "critical"},
+    {"technology": "Semiconductor Manufacturing", "us_position": "Dependent (TSMC)", "china_position": "Building (SMIC)", "trend": "CHIPS Act reshoring", "defense_relevance": "All electronics, weapons systems", "risk": "critical"},
+    {"technology": "5G/6G Networks", "us_position": "Competitive", "china_position": "Leading deployment", "trend": "China ahead in deployment, U.S. in R&D", "defense_relevance": "Military communications, IoT battlefield", "risk": "moderate"},
+    {"technology": "Directed Energy Weapons", "us_position": "Leading", "china_position": "Developing", "trend": "U.S. deploying prototypes", "defense_relevance": "Ship defense, counter-drone, missile defense", "risk": "low"},
+    {"technology": "Autonomous Vehicles", "us_position": "Leading (air)", "china_position": "Leading (maritime)", "trend": "Both advancing", "defense_relevance": "UAS, USV, autonomous logistics", "risk": "moderate"},
+    {"technology": "Biotechnology", "us_position": "Leading", "china_position": "Competitive", "trend": "Both investing heavily", "defense_relevance": "Biodefense, performance enhancement, materials", "risk": "moderate"},
+    {"technology": "Advanced Materials", "us_position": "Competitive", "china_position": "Leading (production)", "trend": "China dominates supply chains", "defense_relevance": "Stealth coatings, armor, composites", "risk": "high"},
+    {"technology": "Space Launch", "us_position": "Leading (SpaceX)", "china_position": "Rapidly expanding", "trend": "China tripled launch rate 2019-2024", "defense_relevance": "Satellite deployment, space access", "risk": "moderate"}
+  ],
+  "rd_spending": [
+    {"entity": "U.S. DoD", "amount_b": 140, "focus": "AI, hypersonics, space, cyber, biotech", "source": "DoD RDT&E Budget FY2025"},
+    {"entity": "DARPA", "amount_b": 4.1, "focus": "Breakthrough technologies, 6-month pivots", "source": "DARPA Congressional Budget"},
+    {"entity": "China PLA", "amount_b": 50, "focus": "AI, quantum, hypersonics, space (estimated)", "source": "CSIS estimates"},
+    {"entity": "NSF", "amount_b": 9.9, "focus": "Basic research across all domains", "source": "NSF Budget FY2025"},
+    {"entity": "DOE Office of Science", "amount_b": 8.1, "focus": "Nuclear, fusion, materials, computing", "source": "DOE Budget FY2025"},
+    {"entity": "NASA", "amount_b": 25.4, "focus": "Space exploration, aeronautics, science", "source": "NASA Budget FY2025"}
+  ],
+  "top_defense_rd_states": [
+    {"state": "CA", "amount_b": 22.5, "focus": "Aerospace, electronics, cyber"},
+    {"state": "VA", "amount_b": 18.2, "focus": "DoD HQ, intelligence, cyber"},
+    {"state": "MD", "amount_b": 12.8, "focus": "NSA, APL, NIH, DARPA"},
+    {"state": "TX", "amount_b": 11.5, "focus": "Space, military bases, energy"},
+    {"state": "MA", "amount_b": 10.2, "focus": "MIT Lincoln Lab, Raytheon, biotech"},
+    {"state": "CT", "amount_b": 8.7, "focus": "Submarines (Electric Boat), engines (P&W)"},
+    {"state": "AL", "amount_b": 7.3, "focus": "Redstone Arsenal, SLS, missile defense"},
+    {"state": "FL", "amount_b": 6.9, "focus": "Space launch, SOCOM, simulation"},
+    {"state": "CO", "amount_b": 6.1, "focus": "Space Command, NORAD, satellites"},
+    {"state": "WA", "amount_b": 5.8, "focus": "Boeing, PNNL, submarines (Bangor)"}
+  ],
+  "source_urls": [
+    {"label": "ASPI Critical Technology Tracker", "url": "https://www.aspi.org.au/report/critical-technology-tracker"},
+    {"label": "DoD RDT&E Budget", "url": "https://comptroller.defense.gov/Budget-Materials/"},
+    {"label": "DARPA", "url": "https://www.darpa.mil/"},
+    {"label": "NSF NCSES R&D Data", "url": "https://ncses.nsf.gov/"}
+  ]
+}

@@ -1,0 +1,6149 @@
+{
+  "total": 1021,
+  "by_type": {
+    "cable": 8,
+    "chokepoint": 8,
+    "company": 105,
+    "constellation": 8,
+    "country": 54,
+    "energy-facility": 10,
+    "facility": 627,
+    "investment": 55,
+    "landing-point": 13,
+    "mineral": 62,
+    "port": 14,
+    "program": 17,
+    "rd-entity": 6,
+    "sector": 10,
+    "shipyard": 14,
+    "technology": 10
+  },
+  "entities": [
+    {
+      "id": "cable/2africa",
+      "type": "cable",
+      "name": "2Africa",
+      "slug": "2africa"
+    },
+    {
+      "id": "cable/dunant",
+      "type": "cable",
+      "name": "Dunant",
+      "slug": "dunant"
+    },
+    {
+      "id": "cable/equiano",
+      "type": "cable",
+      "name": "Equiano",
+      "slug": "equiano"
+    },
+    {
+      "id": "cable/grace-hopper",
+      "type": "cable",
+      "name": "Grace Hopper",
+      "slug": "grace-hopper"
+    },
+    {
+      "id": "cable/marea",
+      "type": "cable",
+      "name": "MAREA",
+      "slug": "marea"
+    },
+    {
+      "id": "cable/peace-cable",
+      "type": "cable",
+      "name": "PEACE Cable",
+      "slug": "peace-cable"
+    },
+    {
+      "id": "cable/pacific-light-cable",
+      "type": "cable",
+      "name": "Pacific Light Cable",
+      "slug": "pacific-light-cable"
+    },
+    {
+      "id": "cable/sea-me-we-6",
+      "type": "cable",
+      "name": "SEA-ME-WE 6",
+      "slug": "sea-me-we-6"
+    },
+    {
+      "id": "chokepoint/bab-el-mandeb",
+      "type": "chokepoint",
+      "name": "Bab el-Mandeb",
+      "slug": "bab-el-mandeb"
+    },
+    {
+      "id": "chokepoint/cape-of-good-hope",
+      "type": "chokepoint",
+      "name": "Cape of Good Hope",
+      "slug": "cape-of-good-hope"
+    },
+    {
+      "id": "chokepoint/giuk-gap",
+      "type": "chokepoint",
+      "name": "GIUK Gap",
+      "slug": "giuk-gap"
+    },
+    {
+      "id": "chokepoint/panama-canal",
+      "type": "chokepoint",
+      "name": "Panama Canal",
+      "slug": "panama-canal"
+    },
+    {
+      "id": "chokepoint/strait-of-hormuz",
+      "type": "chokepoint",
+      "name": "Strait of Hormuz",
+      "slug": "strait-of-hormuz"
+    },
+    {
+      "id": "chokepoint/strait-of-malacca",
+      "type": "chokepoint",
+      "name": "Strait of Malacca",
+      "slug": "strait-of-malacca"
+    },
+    {
+      "id": "chokepoint/suez-canal",
+      "type": "chokepoint",
+      "name": "Suez Canal",
+      "slug": "suez-canal"
+    },
+    {
+      "id": "chokepoint/taiwan-strait",
+      "type": "chokepoint",
+      "name": "Taiwan Strait",
+      "slug": "taiwan-strait"
+    },
+    {
+      "id": "company/5e-advanced-materials",
+      "type": "company",
+      "name": "5E Advanced Materials",
+      "slug": "5e-advanced-materials"
+    },
+    {
+      "id": "company/5n-semiconductors",
+      "type": "company",
+      "name": "5N+ Semiconductors",
+      "slug": "5n-semiconductors"
+    },
+    {
+      "id": "company/ati-allegheny-technologies",
+      "type": "company",
+      "name": "ATI (Allegheny Technologies)",
+      "slug": "ati-allegheny-technologies"
+    },
+    {
+      "id": "company/avxkemet-yageo",
+      "type": "company",
+      "name": "AVX/KEMET (Yageo)",
+      "slug": "avxkemet-yageo"
+    },
+    {
+      "id": "company/albemarle",
+      "type": "company",
+      "name": "Albemarle",
+      "slug": "albemarle"
+    },
+    {
+      "id": "company/albemarle-corporation",
+      "type": "company",
+      "name": "Albemarle Corporation",
+      "slug": "albemarle-corporation"
+    },
+    {
+      "id": "company/alcoa",
+      "type": "company",
+      "name": "Alcoa",
+      "slug": "alcoa"
+    },
+    {
+      "id": "company/alpha-metallurgical-resources",
+      "type": "company",
+      "name": "Alpha Metallurgical Resources",
+      "slug": "alpha-metallurgical-resources"
+    },
+    {
+      "id": "company/american-pacific-mining",
+      "type": "company",
+      "name": "American Pacific Mining",
+      "slug": "american-pacific-mining"
+    },
+    {
+      "id": "company/arch-resources",
+      "type": "company",
+      "name": "Arch Resources",
+      "slug": "arch-resources"
+    },
+    {
+      "id": "company/arconicati",
+      "type": "company",
+      "name": "Arconic/ATI",
+      "slug": "arconicati"
+    },
+    {
+      "id": "company/ares-strategic-mining",
+      "type": "company",
+      "name": "Ares Strategic Mining",
+      "slug": "ares-strategic-mining"
+    },
+    {
+      "id": "company/ascend-elements",
+      "type": "company",
+      "name": "Ascend Elements",
+      "slug": "ascend-elements"
+    },
+    {
+      "id": "company/bushveld-minerals-potential",
+      "type": "company",
+      "name": "Bushveld Minerals (potential)",
+      "slug": "bushveld-minerals-potential"
+    },
+    {
+      "id": "company/consol-energy",
+      "type": "company",
+      "name": "CONSOL Energy",
+      "slug": "consol-energy"
+    },
+    {
+      "id": "company/centrus-energy",
+      "type": "company",
+      "name": "Centrus Energy",
+      "slug": "centrus-energy"
+    },
+    {
+      "id": "company/century-aluminum",
+      "type": "company",
+      "name": "Century Aluminum",
+      "slug": "century-aluminum"
+    },
+    {
+      "id": "company/chemours",
+      "type": "company",
+      "name": "Chemours",
+      "slug": "chemours"
+    },
+    {
+      "id": "company/chemours-formerly-dupont",
+      "type": "company",
+      "name": "Chemours (formerly DuPont)",
+      "slug": "chemours-formerly-dupont"
+    },
+    {
+      "id": "company/coeur-mining",
+      "type": "company",
+      "name": "Coeur Mining",
+      "slug": "coeur-mining"
+    },
+    {
+      "id": "company/dla-strategic-materials",
+      "type": "company",
+      "name": "DLA Strategic Materials",
+      "slug": "dla-strategic-materials"
+    },
+    {
+      "id": "company/dead-sea-magnesium-potential",
+      "type": "company",
+      "name": "Dead Sea Magnesium (potential)",
+      "slug": "dead-sea-magnesium-potential"
+    },
+    {
+      "id": "company/doe-run-company",
+      "type": "company",
+      "name": "Doe Run Company",
+      "slug": "doe-run-company"
+    },
+    {
+      "id": "company/dow-corninghemlock-semiconductor",
+      "type": "company",
+      "name": "Dow Corning/Hemlock Semiconductor",
+      "slug": "dow-corninghemlock-semiconductor"
+    },
+    {
+      "id": "company/eagle-mine-lundin-mining",
+      "type": "company",
+      "name": "Eagle Mine (Lundin Mining)",
+      "slug": "eagle-mine-lundin-mining"
+    },
+    {
+      "id": "company/elementus-minerals",
+      "type": "company",
+      "name": "ElementUS Minerals",
+      "slug": "elementus-minerals"
+    },
+    {
+      "id": "company/energy-fuels",
+      "type": "company",
+      "name": "Energy Fuels",
+      "slug": "energy-fuels"
+    },
+    {
+      "id": "company/first-solar-consumer",
+      "type": "company",
+      "name": "First Solar (consumer)",
+      "slug": "first-solar-consumer"
+    },
+    {
+      "id": "company/form-energy",
+      "type": "company",
+      "name": "Form Energy",
+      "slug": "form-energy"
+    },
+    {
+      "id": "company/freeport-mcmoran",
+      "type": "company",
+      "name": "Freeport-McMoRan",
+      "slug": "freeport-mcmoran"
+    },
+    {
+      "id": "company/freeport-mcmoran-sierrita-mine",
+      "type": "company",
+      "name": "Freeport-McMoRan (Sierrita mine)",
+      "slug": "freeport-mcmoran-sierrita-mine"
+    },
+    {
+      "id": "company/gecamines-mercuria-energy",
+      "type": "company",
+      "name": "Gecamines / Mercuria Energy",
+      "slug": "gecamines-mercuria-energy"
+    },
+    {
+      "id": "company/general-dynamics-ots",
+      "type": "company",
+      "name": "General Dynamics OTS",
+      "slug": "general-dynamics-ots"
+    },
+    {
+      "id": "company/global-advanced-metals-usa",
+      "type": "company",
+      "name": "Global Advanced Metals USA",
+      "slug": "global-advanced-metals-usa"
+    },
+    {
+      "id": "company/globalfoundries",
+      "type": "company",
+      "name": "GlobalFoundries",
+      "slug": "globalfoundries"
+    },
+    {
+      "id": "company/globe-specialty-metals-ferroglobe",
+      "type": "company",
+      "name": "Globe Specialty Metals (Ferroglobe)",
+      "slug": "globe-specialty-metals-ferroglobe"
+    },
+    {
+      "id": "company/golden-metal-resources",
+      "type": "company",
+      "name": "Golden Metal Resources",
+      "slug": "golden-metal-resources"
+    },
+    {
+      "id": "company/graphite-one",
+      "type": "company",
+      "name": "Graphite One",
+      "slug": "graphite-one"
+    },
+    {
+      "id": "company/graphite-mining-projects",
+      "type": "company",
+      "name": "Graphite mining projects",
+      "slug": "graphite-mining-projects"
+    },
+    {
+      "id": "company/hecla-mining",
+      "type": "company",
+      "name": "Hecla Mining",
+      "slug": "hecla-mining"
+    },
+    {
+      "id": "company/intel",
+      "type": "company",
+      "name": "Intel",
+      "slug": "intel"
+    },
+    {
+      "id": "company/intrepid-potash",
+      "type": "company",
+      "name": "Intrepid Potash",
+      "slug": "intrepid-potash"
+    },
+    {
+      "id": "company/iperionx",
+      "type": "company",
+      "name": "IperionX",
+      "slug": "iperionx"
+    },
+    {
+      "id": "company/jr-simplot",
+      "type": "company",
+      "name": "J.R. Simplot",
+      "slug": "jr-simplot"
+    },
+    {
+      "id": "company/jervois-global",
+      "type": "company",
+      "name": "Jervois Global",
+      "slug": "jervois-global"
+    },
+    {
+      "id": "company/kennecott-rio-tinto",
+      "type": "company",
+      "name": "Kennecott (Rio Tinto)",
+      "slug": "kennecott-rio-tinto"
+    },
+    {
+      "id": "company/lithium-americas",
+      "type": "company",
+      "name": "Lithium Americas",
+      "slug": "lithium-americas"
+    },
+    {
+      "id": "company/lynas-rare-earths",
+      "type": "company",
+      "name": "Lynas Rare Earths",
+      "slug": "lynas-rare-earths"
+    },
+    {
+      "id": "company/mp-materials",
+      "type": "company",
+      "name": "MP Materials",
+      "slug": "mp-materials"
+    },
+    {
+      "id": "company/mp-materials-potential",
+      "type": "company",
+      "name": "MP Materials (potential)",
+      "slug": "mp-materials-potential"
+    },
+    {
+      "id": "company/mtm-critical-metals",
+      "type": "company",
+      "name": "MTM Critical Metals",
+      "slug": "mtm-critical-metals"
+    },
+    {
+      "id": "company/materion-corporation",
+      "type": "company",
+      "name": "Materion Corporation",
+      "slug": "materion-corporation"
+    },
+    {
+      "id": "company/micron",
+      "type": "company",
+      "name": "Micron",
+      "slug": "micron"
+    },
+    {
+      "id": "company/military-metals-corp",
+      "type": "company",
+      "name": "Military Metals Corp",
+      "slug": "military-metals-corp"
+    },
+    {
+      "id": "company/minor-byproduct-production",
+      "type": "company",
+      "name": "Minor byproduct production",
+      "slug": "minor-byproduct-production"
+    },
+    {
+      "id": "company/mississippi-silicon",
+      "type": "company",
+      "name": "Mississippi Silicon",
+      "slug": "mississippi-silicon"
+    },
+    {
+      "id": "company/mosaic-company",
+      "type": "company",
+      "name": "Mosaic Company",
+      "slug": "mosaic-company"
+    },
+    {
+      "id": "company/multiple",
+      "type": "company",
+      "name": "Multiple",
+      "slug": "multiple"
+    },
+    {
+      "id": "company/multiple-20-companies",
+      "type": "company",
+      "name": "Multiple (20 companies)",
+      "slug": "multiple-20-companies"
+    },
+    {
+      "id": "company/multiple-incl-lynas",
+      "type": "company",
+      "name": "Multiple (incl. Lynas)",
+      "slug": "multiple-incl-lynas"
+    },
+    {
+      "id": "company/multiple-secondary-smelters",
+      "type": "company",
+      "name": "Multiple secondary smelters",
+      "slug": "multiple-secondary-smelters"
+    },
+    {
+      "id": "company/novonix",
+      "type": "company",
+      "name": "NOVONIX",
+      "slug": "novonix"
+    },
+    {
+      "id": "company/nathan-trotter-co",
+      "type": "company",
+      "name": "Nathan Trotter & Co.",
+      "slug": "nathan-trotter-co"
+    },
+    {
+      "id": "company/niocorp-elk-creek-resources",
+      "type": "company",
+      "name": "NioCorp (Elk Creek Resources)",
+      "slug": "niocorp-elk-creek-resources"
+    },
+    {
+      "id": "company/niocorp-developments",
+      "type": "company",
+      "name": "NioCorp Developments",
+      "slug": "niocorp-developments"
+    },
+    {
+      "id": "company/none-mining-since-2015",
+      "type": "company",
+      "name": "None (mining since 2015)",
+      "slug": "none-mining-since-2015"
+    },
+    {
+      "id": "company/none-mining",
+      "type": "company",
+      "name": "None (mining)",
+      "slug": "none-mining"
+    },
+    {
+      "id": "company/none-primary",
+      "type": "company",
+      "name": "None (primary)",
+      "slug": "none-primary"
+    },
+    {
+      "id": "company/noranda-alumina-gramercy",
+      "type": "company",
+      "name": "Noranda Alumina (Gramercy)",
+      "slug": "noranda-alumina-gramercy"
+    },
+    {
+      "id": "company/nutrien",
+      "type": "company",
+      "name": "Nutrien",
+      "slug": "nutrien"
+    },
+    {
+      "id": "company/peninsula-energy",
+      "type": "company",
+      "name": "Peninsula Energy",
+      "slug": "peninsula-energy"
+    },
+    {
+      "id": "company/perpetua-resources",
+      "type": "company",
+      "name": "Perpetua Resources",
+      "slug": "perpetua-resources"
+    },
+    {
+      "id": "company/piedmont-lithium",
+      "type": "company",
+      "name": "Piedmont Lithium",
+      "slug": "piedmont-lithium"
+    },
+    {
+      "id": "company/redwood-materials",
+      "type": "company",
+      "name": "Redwood Materials",
+      "slug": "redwood-materials"
+    },
+    {
+      "id": "company/rio-tinto-kennecott",
+      "type": "company",
+      "name": "Rio Tinto (Kennecott)",
+      "slug": "rio-tinto-kennecott"
+    },
+    {
+      "id": "company/rio-tinto-us-borax",
+      "type": "company",
+      "name": "Rio Tinto (U.S. Borax)",
+      "slug": "rio-tinto-us-borax"
+    },
+    {
+      "id": "company/rio-tinto-apl-engineered-materials",
+      "type": "company",
+      "name": "Rio Tinto / APL Engineered Materials",
+      "slug": "rio-tinto-apl-engineered-materials"
+    },
+    {
+      "id": "company/samsung",
+      "type": "company",
+      "name": "Samsung",
+      "slug": "samsung"
+    },
+    {
+      "id": "company/secondary-smelters",
+      "type": "company",
+      "name": "Secondary smelters",
+      "slug": "secondary-smelters"
+    },
+    {
+      "id": "company/sibanye-stillwater",
+      "type": "company",
+      "name": "Sibanye-Stillwater",
+      "slug": "sibanye-stillwater"
+    },
+    {
+      "id": "company/syrah-resources",
+      "type": "company",
+      "name": "Syrah Resources",
+      "slug": "syrah-resources"
+    },
+    {
+      "id": "company/syrah-technologies",
+      "type": "company",
+      "name": "Syrah Technologies",
+      "slug": "syrah-technologies"
+    },
+    {
+      "id": "company/timet-pcc-airfoils",
+      "type": "company",
+      "name": "TIMET (PCC Airfoils)",
+      "slug": "timet-pcc-airfoils"
+    },
+    {
+      "id": "company/tsmc",
+      "type": "company",
+      "name": "TSMC",
+      "slug": "tsmc"
+    },
+    {
+      "id": "company/talon-metals",
+      "type": "company",
+      "name": "Talon Metals",
+      "slug": "talon-metals"
+    },
+    {
+      "id": "company/talon-metals-w-rio-tinto",
+      "type": "company",
+      "name": "Talon Metals (w/ Rio Tinto)",
+      "slug": "talon-metals-w-rio-tinto"
+    },
+    {
+      "id": "company/teck-resources",
+      "type": "company",
+      "name": "Teck Resources",
+      "slug": "teck-resources"
+    },
+    {
+      "id": "company/three-companies-names-withheld-by-usgs",
+      "type": "company",
+      "name": "Three companies (names withheld by USGS)",
+      "slug": "three-companies-names-withheld-by-usgs"
+    },
+    {
+      "id": "company/titan-mining",
+      "type": "company",
+      "name": "Titan Mining",
+      "slug": "titan-mining"
+    },
+    {
+      "id": "company/trilogy-metals-w-govt-stake",
+      "type": "company",
+      "name": "Trilogy Metals (w/ govt stake)",
+      "slug": "trilogy-metals-w-govt-stake"
+    },
+    {
+      "id": "company/tronox",
+      "type": "company",
+      "name": "Tronox",
+      "slug": "tronox"
+    },
+    {
+      "id": "company/tungsten-mining-nl",
+      "type": "company",
+      "name": "Tungsten Mining NL",
+      "slug": "tungsten-mining-nl"
+    },
+    {
+      "id": "company/us-antimony",
+      "type": "company",
+      "name": "US Antimony",
+      "slug": "us-antimony"
+    },
+    {
+      "id": "company/us-critical-materials",
+      "type": "company",
+      "name": "US Critical Materials",
+      "slug": "us-critical-materials"
+    },
+    {
+      "id": "company/us-magnesium",
+      "type": "company",
+      "name": "US Magnesium",
+      "slug": "us-magnesium"
+    },
+    {
+      "id": "company/usa-rare-earth",
+      "type": "company",
+      "name": "USA Rare Earth",
+      "slug": "usa-rare-earth"
+    },
+    {
+      "id": "company/ucore-rare-metals",
+      "type": "company",
+      "name": "Ucore Rare Metals",
+      "slug": "ucore-rare-metals"
+    },
+    {
+      "id": "company/ur-energy",
+      "type": "company",
+      "name": "Ur-Energy",
+      "slug": "ur-energy"
+    },
+    {
+      "id": "company/various-coppergoldlead-mines",
+      "type": "company",
+      "name": "Various copper/gold/lead mines",
+      "slug": "various-coppergoldlead-mines"
+    },
+    {
+      "id": "company/various-mines",
+      "type": "company",
+      "name": "Various mines",
+      "slug": "various-mines"
+    },
+    {
+      "id": "company/warrior-met-coal",
+      "type": "company",
+      "name": "Warrior Met Coal",
+      "slug": "warrior-met-coal"
+    },
+    {
+      "id": "company/westinghouse-electric",
+      "type": "company",
+      "name": "Westinghouse Electric",
+      "slug": "westinghouse-electric"
+    },
+    {
+      "id": "company/evac-magnetics",
+      "type": "company",
+      "name": "eVAC Magnetics",
+      "slug": "evac-magnetics"
+    },
+    {
+      "id": "company/ioneer",
+      "type": "company",
+      "name": "ioneer",
+      "slug": "ioneer"
+    },
+    {
+      "id": "company/ioneer-ltd",
+      "type": "company",
+      "name": "ioneer Ltd",
+      "slug": "ioneer-ltd"
+    },
+    {
+      "id": "constellation/beidou",
+      "type": "constellation",
+      "name": "BeiDou",
+      "slug": "beidou"
+    },
+    {
+      "id": "constellation/glonass",
+      "type": "constellation",
+      "name": "GLONASS",
+      "slug": "glonass"
+    },
+    {
+      "id": "constellation/gps",
+      "type": "constellation",
+      "name": "GPS",
+      "slug": "gps"
+    },
+    {
+      "id": "constellation/galileo",
+      "type": "constellation",
+      "name": "Galileo",
+      "slug": "galileo"
+    },
+    {
+      "id": "constellation/guowang",
+      "type": "constellation",
+      "name": "Guowang",
+      "slug": "guowang"
+    },
+    {
+      "id": "constellation/kuiper",
+      "type": "constellation",
+      "name": "Kuiper",
+      "slug": "kuiper"
+    },
+    {
+      "id": "constellation/oneweb",
+      "type": "constellation",
+      "name": "OneWeb",
+      "slug": "oneweb"
+    },
+    {
+      "id": "constellation/starlink",
+      "type": "constellation",
+      "name": "Starlink",
+      "slug": "starlink"
+    },
+    {
+      "id": "country/AR",
+      "type": "country",
+      "name": "Argentina",
+      "slug": "ar"
+    },
+    {
+      "id": "country/AU",
+      "type": "country",
+      "name": "Australia",
+      "slug": "au"
+    },
+    {
+      "id": "country/AT",
+      "type": "country",
+      "name": "Austria",
+      "slug": "at"
+    },
+    {
+      "id": "country/BY",
+      "type": "country",
+      "name": "Belarus",
+      "slug": "by"
+    },
+    {
+      "id": "country/BE",
+      "type": "country",
+      "name": "Belgium",
+      "slug": "be"
+    },
+    {
+      "id": "country/BO",
+      "type": "country",
+      "name": "Bolivia",
+      "slug": "bo"
+    },
+    {
+      "id": "country/BR",
+      "type": "country",
+      "name": "Brazil",
+      "slug": "br"
+    },
+    {
+      "id": "country/CA",
+      "type": "country",
+      "name": "Canada",
+      "slug": "ca"
+    },
+    {
+      "id": "country/CL",
+      "type": "country",
+      "name": "Chile",
+      "slug": "cl"
+    },
+    {
+      "id": "country/CN",
+      "type": "country",
+      "name": "China",
+      "slug": "cn"
+    },
+    {
+      "id": "country/CD",
+      "type": "country",
+      "name": "DR Congo",
+      "slug": "cd"
+    },
+    {
+      "id": "country/EU",
+      "type": "country",
+      "name": "EU",
+      "slug": "eu"
+    },
+    {
+      "id": "country/EG",
+      "type": "country",
+      "name": "Egypt",
+      "slug": "eg"
+    },
+    {
+      "id": "country/FI",
+      "type": "country",
+      "name": "Finland",
+      "slug": "fi"
+    },
+    {
+      "id": "country/FR",
+      "type": "country",
+      "name": "France",
+      "slug": "fr"
+    },
+    {
+      "id": "country/GA",
+      "type": "country",
+      "name": "Gabon",
+      "slug": "ga"
+    },
+    {
+      "id": "country/DE",
+      "type": "country",
+      "name": "Germany",
+      "slug": "de"
+    },
+    {
+      "id": "country/GR",
+      "type": "country",
+      "name": "Greece",
+      "slug": "gr"
+    },
+    {
+      "id": "country/GN",
+      "type": "country",
+      "name": "Guinea",
+      "slug": "gn"
+    },
+    {
+      "id": "country/IS",
+      "type": "country",
+      "name": "Iceland",
+      "slug": "is"
+    },
+    {
+      "id": "country/IN",
+      "type": "country",
+      "name": "India",
+      "slug": "in"
+    },
+    {
+      "id": "country/ID",
+      "type": "country",
+      "name": "Indonesia",
+      "slug": "id"
+    },
+    {
+      "id": "country/IR",
+      "type": "country",
+      "name": "Iran",
+      "slug": "ir"
+    },
+    {
+      "id": "country/IL",
+      "type": "country",
+      "name": "Israel",
+      "slug": "il"
+    },
+    {
+      "id": "country/IT",
+      "type": "country",
+      "name": "Italy",
+      "slug": "it"
+    },
+    {
+      "id": "country/JA",
+      "type": "country",
+      "name": "Jamaica",
+      "slug": "ja"
+    },
+    {
+      "id": "country/JP",
+      "type": "country",
+      "name": "Japan",
+      "slug": "jp"
+    },
+    {
+      "id": "country/KZ",
+      "type": "country",
+      "name": "Kazakhstan",
+      "slug": "kz"
+    },
+    {
+      "id": "country/MG",
+      "type": "country",
+      "name": "Madagascar",
+      "slug": "mg"
+    },
+    {
+      "id": "country/MY",
+      "type": "country",
+      "name": "Malaysia",
+      "slug": "my"
+    },
+    {
+      "id": "country/MX",
+      "type": "country",
+      "name": "Mexico",
+      "slug": "mx"
+    },
+    {
+      "id": "country/MA",
+      "type": "country",
+      "name": "Morocco",
+      "slug": "ma"
+    },
+    {
+      "id": "country/MZ",
+      "type": "country",
+      "name": "Mozambique",
+      "slug": "mz"
+    },
+    {
+      "id": "country/NL",
+      "type": "country",
+      "name": "Netherlands",
+      "slug": "nl"
+    },
+    {
+      "id": "country/NO",
+      "type": "country",
+      "name": "Norway",
+      "slug": "no"
+    },
+    {
+      "id": "country/PE",
+      "type": "country",
+      "name": "Peru",
+      "slug": "pe"
+    },
+    {
+      "id": "country/PH",
+      "type": "country",
+      "name": "Philippines",
+      "slug": "ph"
+    },
+    {
+      "id": "country/PL",
+      "type": "country",
+      "name": "Poland",
+      "slug": "pl"
+    },
+    {
+      "id": "country/RU",
+      "type": "country",
+      "name": "Russia",
+      "slug": "ru"
+    },
+    {
+      "id": "country/SA",
+      "type": "country",
+      "name": "Saudi Arabia",
+      "slug": "sa"
+    },
+    {
+      "id": "country/SN",
+      "type": "country",
+      "name": "Senegal",
+      "slug": "sn"
+    },
+    {
+      "id": "country/SG",
+      "type": "country",
+      "name": "Singapore",
+      "slug": "sg"
+    },
+    {
+      "id": "country/SK",
+      "type": "country",
+      "name": "Slovakia",
+      "slug": "sk"
+    },
+    {
+      "id": "country/ZA",
+      "type": "country",
+      "name": "South Africa",
+      "slug": "za"
+    },
+    {
+      "id": "country/KR",
+      "type": "country",
+      "name": "South Korea",
+      "slug": "kr"
+    },
+    {
+      "id": "country/ES",
+      "type": "country",
+      "name": "Spain",
+      "slug": "es"
+    },
+    {
+      "id": "country/SE",
+      "type": "country",
+      "name": "Sweden",
+      "slug": "se"
+    },
+    {
+      "id": "country/TZ",
+      "type": "country",
+      "name": "Tanzania",
+      "slug": "tz"
+    },
+    {
+      "id": "country/TH",
+      "type": "country",
+      "name": "Thailand",
+      "slug": "th"
+    },
+    {
+      "id": "country/TR",
+      "type": "country",
+      "name": "Turkey",
+      "slug": "tr"
+    },
+    {
+      "id": "country/GB",
+      "type": "country",
+      "name": "UK",
+      "slug": "gb"
+    },
+    {
+      "id": "country/US",
+      "type": "country",
+      "name": "United States",
+      "slug": "us"
+    },
+    {
+      "id": "country/VN",
+      "type": "country",
+      "name": "Vietnam",
+      "slug": "vn"
+    },
+    {
+      "id": "country/ZW",
+      "type": "country",
+      "name": "Zimbabwe",
+      "slug": "zw"
+    },
+    {
+      "id": "energy-facility/alta-wind-energy-center",
+      "type": "energy-facility",
+      "name": "Alta Wind Energy Center",
+      "slug": "alta-wind-energy-center"
+    },
+    {
+      "id": "energy-facility/grand-coulee-dam",
+      "type": "energy-facility",
+      "name": "Grand Coulee Dam",
+      "slug": "grand-coulee-dam"
+    },
+    {
+      "id": "energy-facility/ivanpah-solar-electric",
+      "type": "energy-facility",
+      "name": "Ivanpah Solar Electric",
+      "slug": "ivanpah-solar-electric"
+    },
+    {
+      "id": "energy-facility/palo-verde-nuclear-generating-station",
+      "type": "energy-facility",
+      "name": "Palo Verde Nuclear Generating Station",
+      "slug": "palo-verde-nuclear-generating-station"
+    },
+    {
+      "id": "energy-facility/robert-moses-niagara",
+      "type": "energy-facility",
+      "name": "Robert Moses Niagara",
+      "slug": "robert-moses-niagara"
+    },
+    {
+      "id": "energy-facility/stp-nuclear-operating-company",
+      "type": "energy-facility",
+      "name": "STP Nuclear Operating Company",
+      "slug": "stp-nuclear-operating-company"
+    },
+    {
+      "id": "energy-facility/solar-star",
+      "type": "energy-facility",
+      "name": "Solar Star",
+      "slug": "solar-star"
+    },
+    {
+      "id": "energy-facility/vogtle-electric-generating-plant",
+      "type": "energy-facility",
+      "name": "Vogtle Electric Generating Plant",
+      "slug": "vogtle-electric-generating-plant"
+    },
+    {
+      "id": "energy-facility/watts-bar-nuclear-plant",
+      "type": "energy-facility",
+      "name": "Watts Bar Nuclear Plant",
+      "slug": "watts-bar-nuclear-plant"
+    },
+    {
+      "id": "energy-facility/west-county-energy-center",
+      "type": "energy-facility",
+      "name": "West County Energy Center",
+      "slug": "west-county-energy-center"
+    },
+    {
+      "id": "facility/msha-5001677",
+      "type": "facility",
+      "name": "#7 Below Discovery",
+      "slug": "msha-5001677"
+    },
+    {
+      "id": "facility/msha-3402221",
+      "type": "facility",
+      "name": "1300J Portable Crushing Plant",
+      "slug": "msha-3402221"
+    },
+    {
+      "id": "facility/msha-2302416",
+      "type": "facility",
+      "name": "4-E Sand & Gravel",
+      "slug": "msha-2302416"
+    },
+    {
+      "id": "facility/msha-3102306",
+      "type": "facility",
+      "name": "421 Sand",
+      "slug": "msha-3102306"
+    },
+    {
+      "id": "facility/msha-3102302",
+      "type": "facility",
+      "name": "ACE Portable Plant",
+      "slug": "msha-3102302"
+    },
+    {
+      "id": "facility/msha-2200856",
+      "type": "facility",
+      "name": "AJ Mine Terry",
+      "slug": "msha-2200856"
+    },
+    {
+      "id": "facility/msha-4105205",
+      "type": "facility",
+      "name": "ALVORD",
+      "slug": "msha-4105205"
+    },
+    {
+      "id": "facility/msha-1600825",
+      "type": "facility",
+      "name": "AMELIA BARITE PLANT",
+      "slug": "msha-1600825"
+    },
+    {
+      "id": "facility/msha-2800956",
+      "type": "facility",
+      "name": "ASBURY PLANT",
+      "slug": "msha-2800956"
+    },
+    {
+      "id": "facility/msha-4703767",
+      "type": "facility",
+      "name": "ASTEC Screener on Tracks",
+      "slug": "msha-4703767"
+    },
+    {
+      "id": "facility/msha-4105413",
+      "type": "facility",
+      "name": "Abrego",
+      "slug": "msha-4105413"
+    },
+    {
+      "id": "facility/msha-0301926",
+      "type": "facility",
+      "name": "Alabama Mine",
+      "slug": "msha-0301926"
+    },
+    {
+      "id": "facility/msha-2902289",
+      "type": "facility",
+      "name": "Alcon Sand & Gravel",
+      "slug": "msha-2902289"
+    },
+    {
+      "id": "facility/msha-0504987",
+      "type": "facility",
+      "name": "Alma Placer",
+      "slug": "msha-0504987"
+    },
+    {
+      "id": "facility/msha-4105655",
+      "type": "facility",
+      "name": "Alpine Silica-Lamesa",
+      "slug": "msha-4105655"
+    },
+    {
+      "id": "facility/msha-4105426",
+      "type": "facility",
+      "name": "Alpine Silica-San Antonio",
+      "slug": "msha-4105426"
+    },
+    {
+      "id": "facility/msha-4801295",
+      "type": "facility",
+      "name": "American Soda LLC",
+      "slug": "msha-4801295"
+    },
+    {
+      "id": "facility/msha-0103631",
+      "type": "facility",
+      "name": "Andress Pit",
+      "slug": "msha-0103631"
+    },
+    {
+      "id": "facility/msha-2602912",
+      "type": "facility",
+      "name": "Archimedes Underground Mine",
+      "slug": "msha-2602912"
+    },
+    {
+      "id": "facility/msha-4105471",
+      "type": "facility",
+      "name": "Arepet Industries",
+      "slug": "msha-4105471"
+    },
+    {
+      "id": "facility/msha-4202798",
+      "type": "facility",
+      "name": "Ares Processing Plant",
+      "slug": "msha-4202798"
+    },
+    {
+      "id": "facility/msha-0300257",
+      "type": "facility",
+      "name": "Arkansas Operations Mill",
+      "slug": "msha-0300257"
+    },
+    {
+      "id": "facility/msha-2602767",
+      "type": "facility",
+      "name": "Arturo",
+      "slug": "msha-2602767"
+    },
+    {
+      "id": "facility/msha-3607028",
+      "type": "facility",
+      "name": "Asbury Sunbury",
+      "slug": "msha-3607028"
+    },
+    {
+      "id": "facility/msha-3503921",
+      "type": "facility",
+      "name": "Auburn Creek Mine",
+      "slug": "msha-3503921"
+    },
+    {
+      "id": "facility/msha-2902293",
+      "type": "facility",
+      "name": "Aviation Mine",
+      "slug": "msha-2902293"
+    },
+    {
+      "id": "facility/msha-2801044",
+      "type": "facility",
+      "name": "Aztec",
+      "slug": "msha-2801044"
+    },
+    {
+      "id": "facility/msha-0301916",
+      "type": "facility",
+      "name": "B & B MATERIALS",
+      "slug": "msha-0301916"
+    },
+    {
+      "id": "facility/msha-1001854",
+      "type": "facility",
+      "name": "BFB & Ballard Mines",
+      "slug": "msha-1001854"
+    },
+    {
+      "id": "facility/msha-4105095",
+      "type": "facility",
+      "name": "BG001",
+      "slug": "msha-4105095"
+    },
+    {
+      "id": "facility/msha-0300681",
+      "type": "facility",
+      "name": "BLOCKER LEAD #4",
+      "slug": "msha-0300681"
+    },
+    {
+      "id": "facility/msha-2302201",
+      "type": "facility",
+      "name": "BMC Sand - Old Monroe",
+      "slug": "msha-2302201"
+    },
+    {
+      "id": "facility/msha-0100096",
+      "type": "facility",
+      "name": "BORAL CLAY PITS",
+      "slug": "msha-0100096"
+    },
+    {
+      "id": "facility/msha-3003261",
+      "type": "facility",
+      "name": "BUFFALO DOCK",
+      "slug": "msha-3003261"
+    },
+    {
+      "id": "facility/msha-1000083",
+      "type": "facility",
+      "name": "BUNKER HILL MINE",
+      "slug": "msha-1000083"
+    },
+    {
+      "id": "facility/msha-4703742",
+      "type": "facility",
+      "name": "Badger Mining Hixton",
+      "slug": "msha-4703742"
+    },
+    {
+      "id": "facility/msha-2402794",
+      "type": "facility",
+      "name": "Bainville",
+      "slug": "msha-2402794"
+    },
+    {
+      "id": "facility/msha-2601842",
+      "type": "facility",
+      "name": "Bald Mountain Mine",
+      "slug": "msha-2601842"
+    },
+    {
+      "id": "facility/msha-2602823",
+      "type": "facility",
+      "name": "Bald Mountain Mine South Operation Area",
+      "slug": "msha-2602823"
+    },
+    {
+      "id": "facility/msha-0505129",
+      "type": "facility",
+      "name": "Bancroft Placer Mine",
+      "slug": "msha-0505129"
+    },
+    {
+      "id": "facility/msha-4407071",
+      "type": "facility",
+      "name": "Bar C Sand #1",
+      "slug": "msha-4407071"
+    },
+    {
+      "id": "facility/msha-1601357",
+      "type": "facility",
+      "name": "Baramin US, LLC",
+      "slug": "msha-1601357"
+    },
+    {
+      "id": "facility/msha-3800732",
+      "type": "facility",
+      "name": "Barefoot  Pit",
+      "slug": "msha-3800732"
+    },
+    {
+      "id": "facility/msha-2402718",
+      "type": "facility",
+      "name": "Barry Hatler",
+      "slug": "msha-2402718"
+    },
+    {
+      "id": "facility/msha-0302026",
+      "type": "facility",
+      "name": "Batesville Plant #15",
+      "slug": "msha-0302026"
+    },
+    {
+      "id": "facility/msha-2600828",
+      "type": "facility",
+      "name": "Battle Mountain Grinding Plant",
+      "slug": "msha-2600828"
+    },
+    {
+      "id": "facility/msha-1001735",
+      "type": "facility",
+      "name": "Bayer Quartzite Quarry",
+      "slug": "msha-1001735"
+    },
+    {
+      "id": "facility/msha-0103597",
+      "type": "facility",
+      "name": "Baylor Pit",
+      "slug": "msha-0103597"
+    },
+    {
+      "id": "facility/msha-2602872",
+      "type": "facility",
+      "name": "Beach Mining, LLC",
+      "slug": "msha-2602872"
+    },
+    {
+      "id": "facility/msha-3901687",
+      "type": "facility",
+      "name": "Beecher / Longview",
+      "slug": "msha-3901687"
+    },
+    {
+      "id": "facility/msha-2801000",
+      "type": "facility",
+      "name": "Belvidere Sand & Gravel",
+      "slug": "msha-2801000"
+    },
+    {
+      "id": "facility/msha-4602805",
+      "type": "facility",
+      "name": "Berkeley Plant",
+      "slug": "msha-4602805"
+    },
+    {
+      "id": "facility/msha-3300015",
+      "type": "facility",
+      "name": "Best Sand - Chardon",
+      "slug": "msha-3300015"
+    },
+    {
+      "id": "facility/msha-4800154",
+      "type": "facility",
+      "name": "Big Island Mine & Refinery",
+      "slug": "msha-4800154"
+    },
+    {
+      "id": "facility/msha-4101126",
+      "type": "facility",
+      "name": "Big Oak Plant",
+      "slug": "msha-4101126"
+    },
+    {
+      "id": "facility/msha-0405946",
+      "type": "facility",
+      "name": "Big Rock Creek Quarry",
+      "slug": "msha-0405946"
+    },
+    {
+      "id": "facility/msha-0404468",
+      "type": "facility",
+      "name": "Big Seam mine",
+      "slug": "msha-0404468"
+    },
+    {
+      "id": "facility/msha-4200149",
+      "type": "facility",
+      "name": "Bingham Canyon Mine",
+      "slug": "msha-4200149"
+    },
+    {
+      "id": "facility/msha-2602228",
+      "type": "facility",
+      "name": "Black Mountain",
+      "slug": "msha-2602228"
+    },
+    {
+      "id": "facility/msha-4703599",
+      "type": "facility",
+      "name": "Blair East",
+      "slug": "msha-4703599"
+    },
+    {
+      "id": "facility/msha-0405990",
+      "type": "facility",
+      "name": "Blue Moon Underground Mine",
+      "slug": "msha-0405990"
+    },
+    {
+      "id": "facility/msha-2601655",
+      "type": "facility",
+      "name": "Borealis Mine",
+      "slug": "msha-2601655"
+    },
+    {
+      "id": "facility/msha-0400743",
+      "type": "facility",
+      "name": "Boron Operations",
+      "slug": "msha-0400743"
+    },
+    {
+      "id": "facility/msha-0505123",
+      "type": "facility",
+      "name": "Box Creek Placer",
+      "slug": "msha-0505123"
+    },
+    {
+      "id": "facility/msha-5001848",
+      "type": "facility",
+      "name": "Brandys Mobile",
+      "slug": "msha-5001848"
+    },
+    {
+      "id": "facility/msha-2902427",
+      "type": "facility",
+      "name": "Brie Mine",
+      "slug": "msha-2902427"
+    },
+    {
+      "id": "facility/msha-3102193",
+      "type": "facility",
+      "name": "Broad River Mine",
+      "slug": "msha-3102193"
+    },
+    {
+      "id": "facility/msha-2300499",
+      "type": "facility",
+      "name": "Brushy Creek Mine/Mill",
+      "slug": "msha-2300499"
+    },
+    {
+      "id": "facility/msha-3201082",
+      "type": "facility",
+      "name": "Buffalo Sands",
+      "slug": "msha-3201082"
+    },
+    {
+      "id": "facility/msha-2300457",
+      "type": "facility",
+      "name": "Buick Mine/Mill",
+      "slug": "msha-2300457"
+    },
+    {
+      "id": "facility/msha-0503973",
+      "type": "facility",
+      "name": "Bullger Basin",
+      "slug": "msha-0503973"
+    },
+    {
+      "id": "facility/msha-3100364",
+      "type": "facility",
+      "name": "Buna Mine",
+      "slug": "msha-3100364"
+    },
+    {
+      "id": "facility/msha-4202760",
+      "type": "facility",
+      "name": "Bundick Sand Mine",
+      "slug": "msha-4202760"
+    },
+    {
+      "id": "facility/msha-4105369",
+      "type": "facility",
+      "name": "Burleson Sand",
+      "slug": "msha-4105369"
+    },
+    {
+      "id": "facility/msha-4703747",
+      "type": "facility",
+      "name": "Burlington Spring Valley",
+      "slug": "msha-4703747"
+    },
+    {
+      "id": "facility/msha-4405407",
+      "type": "facility",
+      "name": "C E D ENTERPRISES INC",
+      "slug": "msha-4405407"
+    },
+    {
+      "id": "facility/msha-4703853",
+      "type": "facility",
+      "name": "CHILTON",
+      "slug": "msha-4703853"
+    },
+    {
+      "id": "facility/msha-4103112",
+      "type": "facility",
+      "name": "CIMBAR Resources Inc.",
+      "slug": "msha-4103112"
+    },
+    {
+      "id": "facility/msha-4103461",
+      "type": "facility",
+      "name": "CIMBAR Resources Inc.",
+      "slug": "msha-4103461"
+    },
+    {
+      "id": "facility/msha-1202507",
+      "type": "facility",
+      "name": "CIMBAR-MV",
+      "slug": "msha-1202507"
+    },
+    {
+      "id": "facility/msha-0301615",
+      "type": "facility",
+      "name": "COLLIER CREEK",
+      "slug": "msha-0301615"
+    },
+    {
+      "id": "facility/msha-3800138",
+      "type": "facility",
+      "name": "COLUMBIA PLANT",
+      "slug": "msha-3800138"
+    },
+    {
+      "id": "facility/msha-4104010",
+      "type": "facility",
+      "name": "CORPUS CHRISTI GRINDING PLANT",
+      "slug": "msha-4104010"
+    },
+    {
+      "id": "facility/msha-1401754",
+      "type": "facility",
+      "name": "COYVILLE PIT",
+      "slug": "msha-1401754"
+    },
+    {
+      "id": "facility/msha-0103640",
+      "type": "facility",
+      "name": "CRETECON INNOVATIONS, LLC",
+      "slug": "msha-0103640"
+    },
+    {
+      "id": "facility/msha-5400460",
+      "type": "facility",
+      "name": "Cantera H R /LAVADERO",
+      "slug": "msha-5400460"
+    },
+    {
+      "id": "facility/msha-0401888",
+      "type": "facility",
+      "name": "Canyon Rock Plant",
+      "slug": "msha-0401888"
+    },
+    {
+      "id": "facility/msha-0405971",
+      "type": "facility",
+      "name": "Capital Rock LLC",
+      "slug": "msha-0405971"
+    },
+    {
+      "id": "facility/msha-0202653",
+      "type": "facility",
+      "name": "Carlota Copper Company",
+      "slug": "msha-0202653"
+    },
+    {
+      "id": "facility/msha-1103299",
+      "type": "facility",
+      "name": "Carlyle Sand and Gravel - South",
+      "slug": "msha-1103299"
+    },
+    {
+      "id": "facility/msha-0103630",
+      "type": "facility",
+      "name": "Carroll Pit",
+      "slug": "msha-0103630"
+    },
+    {
+      "id": "facility/msha-0404918",
+      "type": "facility",
+      "name": "Castle Mountain Mine",
+      "slug": "msha-0404918"
+    },
+    {
+      "id": "facility/msha-0302057",
+      "type": "facility",
+      "name": "Cave City",
+      "slug": "msha-0302057"
+    },
+    {
+      "id": "facility/msha-1601575",
+      "type": "facility",
+      "name": "Cedar Bluff",
+      "slug": "msha-1601575"
+    },
+    {
+      "id": "facility/msha-4703989",
+      "type": "facility",
+      "name": "Cedar Rapids TEREX  impact Crusher",
+      "slug": "msha-4703989"
+    },
+    {
+      "id": "facility/msha-2103902",
+      "type": "facility",
+      "name": "Cedarapids Crushing Plant",
+      "slug": "msha-2103902"
+    },
+    {
+      "id": "facility/msha-1800823",
+      "type": "facility",
+      "name": "Chesapeake Minerals",
+      "slug": "msha-1800823"
+    },
+    {
+      "id": "facility/msha-2900708",
+      "type": "facility",
+      "name": "Chino Mines Co Mine",
+      "slug": "msha-2900708"
+    },
+    {
+      "id": "facility/msha-3402097",
+      "type": "facility",
+      "name": "Choska Sand Plant",
+      "slug": "msha-3402097"
+    },
+    {
+      "id": "facility/msha-4503734",
+      "type": "facility",
+      "name": "Circle M Construction and Landscape",
+      "slug": "msha-4503734"
+    },
+    {
+      "id": "facility/msha-4101059",
+      "type": "facility",
+      "name": "Cleburne Plant",
+      "slug": "msha-4101059"
+    },
+    {
+      "id": "facility/msha-0502256",
+      "type": "facility",
+      "name": "Climax Mine",
+      "slug": "msha-0502256"
+    },
+    {
+      "id": "facility/msha-3503951",
+      "type": "facility",
+      "name": "Climax Mine",
+      "slug": "msha-3503951"
+    },
+    {
+      "id": "facility/msha-4703671",
+      "type": "facility",
+      "name": "Clinton Dry Plant",
+      "slug": "msha-4703671"
+    },
+    {
+      "id": "facility/msha-3901282",
+      "type": "facility",
+      "name": "Coeur Wharf",
+      "slug": "msha-3901282"
+    },
+    {
+      "id": "facility/msha-0103135",
+      "type": "facility",
+      "name": "Coldwater Quarry",
+      "slug": "msha-0103135"
+    },
+    {
+      "id": "facility/msha-3401937",
+      "type": "facility",
+      "name": "College",
+      "slug": "msha-3401937"
+    },
+    {
+      "id": "facility/msha-4300598",
+      "type": "facility",
+      "name": "Colt Screener",
+      "slug": "msha-4300598"
+    },
+    {
+      "id": "facility/msha-3304147",
+      "type": "facility",
+      "name": "Columbus Plant",
+      "slug": "msha-3304147"
+    },
+    {
+      "id": "facility/msha-4105233",
+      "type": "facility",
+      "name": "Columbus Sand & Gravel",
+      "slug": "msha-4105233"
+    },
+    {
+      "id": "facility/msha-4407222",
+      "type": "facility",
+      "name": "Concord Mine & Concentrator",
+      "slug": "msha-4407222"
+    },
+    {
+      "id": "facility/msha-4104992",
+      "type": "facility",
+      "name": "Conroe Dryer Plant",
+      "slug": "msha-4104992"
+    },
+    {
+      "id": "facility/msha-2401648",
+      "type": "facility",
+      "name": "Contact Concentrator",
+      "slug": "msha-2401648"
+    },
+    {
+      "id": "facility/msha-2400338",
+      "type": "facility",
+      "name": "Continental Mine",
+      "slug": "msha-2400338"
+    },
+    {
+      "id": "facility/msha-2003672",
+      "type": "facility",
+      "name": "Coon Hill",
+      "slug": "msha-2003672"
+    },
+    {
+      "id": "facility/msha-4300606",
+      "type": "facility",
+      "name": "Copper Mine Corp.",
+      "slug": "msha-4300606"
+    },
+    {
+      "id": "facility/msha-0201656",
+      "type": "facility",
+      "name": "Copper Queen Branch",
+      "slug": "msha-0201656"
+    },
+    {
+      "id": "facility/msha-4201996",
+      "type": "facility",
+      "name": "Copperton Concentrator",
+      "slug": "msha-4201996"
+    },
+    {
+      "id": "facility/msha-4105175",
+      "type": "facility",
+      "name": "Corpus Processing Facility",
+      "slug": "msha-4105175"
+    },
+    {
+      "id": "facility/msha-2600827",
+      "type": "facility",
+      "name": "Cortez District",
+      "slug": "msha-2600827"
+    },
+    {
+      "id": "facility/msha-2602573",
+      "type": "facility",
+      "name": "Cortez District-Underground",
+      "slug": "msha-2602573"
+    },
+    {
+      "id": "facility/msha-0801416",
+      "type": "facility",
+      "name": "County Line Mine",
+      "slug": "msha-0801416"
+    },
+    {
+      "id": "facility/msha-2602915",
+      "type": "facility",
+      "name": "County Line Mine",
+      "slug": "msha-2602915"
+    },
+    {
+      "id": "facility/msha-4000166",
+      "type": "facility",
+      "name": "Coy Mine",
+      "slug": "msha-4000166"
+    },
+    {
+      "id": "facility/msha-4105776",
+      "type": "facility",
+      "name": "Coyote Run River Pit",
+      "slug": "msha-4105776"
+    },
+    {
+      "id": "facility/msha-4105331",
+      "type": "facility",
+      "name": "Crane County Plant",
+      "slug": "msha-4105331"
+    },
+    {
+      "id": "facility/msha-0503695",
+      "type": "facility",
+      "name": "Cripple Creek and Victor Gold Mining Com",
+      "slug": "msha-0503695"
+    },
+    {
+      "id": "facility/msha-2901968",
+      "type": "facility",
+      "name": "Crusher #1",
+      "slug": "msha-2901968"
+    },
+    {
+      "id": "facility/msha-0202503",
+      "type": "facility",
+      "name": "Crusher 1",
+      "slug": "msha-0202503"
+    },
+    {
+      "id": "facility/msha-0405929",
+      "type": "facility",
+      "name": "Cucamonga Creek Mine",
+      "slug": "msha-0405929"
+    },
+    {
+      "id": "facility/msha-0202579",
+      "type": "facility",
+      "name": "Cyprus Tohono Corporation",
+      "slug": "msha-0202579"
+    },
+    {
+      "id": "facility/msha-2200858",
+      "type": "facility",
+      "name": "DIDLAKE PIT",
+      "slug": "msha-2200858"
+    },
+    {
+      "id": "facility/msha-2602724",
+      "type": "facility",
+      "name": "DMI Osino Barite Mill",
+      "slug": "msha-2602724"
+    },
+    {
+      "id": "facility/msha-2103890",
+      "type": "facility",
+      "name": "DNR Pit-Sturgeon Lake",
+      "slug": "msha-2103890"
+    },
+    {
+      "id": "facility/msha-3302551",
+      "type": "facility",
+      "name": "DOCK #1 WHISKEY ISLAND",
+      "slug": "msha-3302551"
+    },
+    {
+      "id": "facility/msha-2600412",
+      "type": "facility",
+      "name": "DUNPHY MILL",
+      "slug": "msha-2600412"
+    },
+    {
+      "id": "facility/msha-3503945",
+      "type": "facility",
+      "name": "Dark canyon",
+      "slug": "msha-3503945"
+    },
+    {
+      "id": "facility/msha-3102311",
+      "type": "facility",
+      "name": "Daurity Springs Quarry",
+      "slug": "msha-3102311"
+    },
+    {
+      "id": "facility/msha-5002045",
+      "type": "facility",
+      "name": "Dawson Mine",
+      "slug": "msha-5002045"
+    },
+    {
+      "id": "facility/msha-1302480",
+      "type": "facility",
+      "name": "DeLoss Pit",
+      "slug": "msha-1302480"
+    },
+    {
+      "id": "facility/msha-3503901",
+      "type": "facility",
+      "name": "Deadman Pit",
+      "slug": "msha-3503901"
+    },
+    {
+      "id": "facility/msha-2200859",
+      "type": "facility",
+      "name": "Dees Rocks",
+      "slug": "msha-2200859"
+    },
+    {
+      "id": "facility/msha-0505084",
+      "type": "facility",
+      "name": "Destiny Pit",
+      "slug": "msha-0505084"
+    },
+    {
+      "id": "facility/msha-3800772",
+      "type": "facility",
+      "name": "Diamond Mine #3",
+      "slug": "msha-3800772"
+    },
+    {
+      "id": "facility/msha-1103172",
+      "type": "facility",
+      "name": "Dimension Stone/Portable Block Crew",
+      "slug": "msha-1103172"
+    },
+    {
+      "id": "facility/msha-4105387",
+      "type": "facility",
+      "name": "Dimmit Mine",
+      "slug": "msha-4105387"
+    },
+    {
+      "id": "facility/msha-4104635",
+      "type": "facility",
+      "name": "Dolen Plant",
+      "slug": "msha-4104635"
+    },
+    {
+      "id": "facility/msha-3100718",
+      "type": "facility",
+      "name": "Drowning Creek Dredge & Plant",
+      "slug": "msha-3100718"
+    },
+    {
+      "id": "facility/msha-5001759",
+      "type": "facility",
+      "name": "Dry Gulch LLC",
+      "slug": "msha-5001759"
+    },
+    {
+      "id": "facility/msha-4105187",
+      "type": "facility",
+      "name": "Duncan Plant",
+      "slug": "msha-4105187"
+    },
+    {
+      "id": "facility/msha-3102358",
+      "type": "facility",
+      "name": "Duncan Tailings Facility",
+      "slug": "msha-3102358"
+    },
+    {
+      "id": "facility/msha-0401097",
+      "type": "facility",
+      "name": "Dunn Mill",
+      "slug": "msha-0401097"
+    },
+    {
+      "id": "facility/msha-4003183",
+      "type": "facility",
+      "name": "Dyersburg Plant",
+      "slug": "msha-4003183"
+    },
+    {
+      "id": "facility/msha-3003699",
+      "type": "facility",
+      "name": "EAGLE 1400",
+      "slug": "msha-3003699"
+    },
+    {
+      "id": "facility/msha-0405574",
+      "type": "facility",
+      "name": "EAGLE VALLEY",
+      "slug": "msha-0405574"
+    },
+    {
+      "id": "facility/msha-2401879",
+      "type": "facility",
+      "name": "EAST BOULDER MINE",
+      "slug": "msha-2401879"
+    },
+    {
+      "id": "facility/msha-4300619",
+      "type": "facility",
+      "name": "EXTEC PORTABLE SCREEN PLANT",
+      "slug": "msha-4300619"
+    },
+    {
+      "id": "facility/msha-2003454",
+      "type": "facility",
+      "name": "Eagle Mine",
+      "slug": "msha-2003454"
+    },
+    {
+      "id": "facility/msha-0302050",
+      "type": "facility",
+      "name": "East Cave City Quarry",
+      "slug": "msha-0302050"
+    },
+    {
+      "id": "facility/msha-4105411",
+      "type": "facility",
+      "name": "Ecleto Creek Mine",
+      "slug": "msha-4105411"
+    },
+    {
+      "id": "facility/msha-2602830",
+      "type": "facility",
+      "name": "El Nino",
+      "slug": "msha-2602830"
+    },
+    {
+      "id": "facility/msha-1101981",
+      "type": "facility",
+      "name": "Elco Plant",
+      "slug": "msha-1101981"
+    },
+    {
+      "id": "facility/msha-2501315",
+      "type": "facility",
+      "name": "Elizabeth Valley Pit (EV Pit)",
+      "slug": "msha-2501315"
+    },
+    {
+      "id": "facility/msha-2103886",
+      "type": "facility",
+      "name": "Elk River Pit",
+      "slug": "msha-2103886"
+    },
+    {
+      "id": "facility/msha-0403698",
+      "type": "facility",
+      "name": "Ellwood Pit",
+      "slug": "msha-0403698"
+    },
+    {
+      "id": "facility/msha-2602697",
+      "type": "facility",
+      "name": "Emigrant",
+      "slug": "msha-2602697"
+    },
+    {
+      "id": "facility/msha-2800539",
+      "type": "facility",
+      "name": "Empire Blended Products Inc",
+      "slug": "msha-2800539"
+    },
+    {
+      "id": "facility/msha-3001185",
+      "type": "facility",
+      "name": "Empire State Mines",
+      "slug": "msha-3001185"
+    },
+    {
+      "id": "facility/msha-5001556",
+      "type": "facility",
+      "name": "Ester",
+      "slug": "msha-5001556"
+    },
+    {
+      "id": "facility/msha-0405891",
+      "type": "facility",
+      "name": "Estrella Sand Pit",
+      "slug": "msha-0405891"
+    },
+    {
+      "id": "facility/msha-3503848",
+      "type": "facility",
+      "name": "Eureka Mine",
+      "slug": "msha-3503848"
+    },
+    {
+      "id": "facility/msha-2602661",
+      "type": "facility",
+      "name": "Exodus",
+      "slug": "msha-2602661"
+    },
+    {
+      "id": "facility/msha-4105429",
+      "type": "facility",
+      "name": "FCI Sand Operations LLC",
+      "slug": "msha-4105429"
+    },
+    {
+      "id": "facility/msha-4609571",
+      "type": "facility",
+      "name": "FX Minerals Processing, Inc.",
+      "slug": "msha-4609571"
+    },
+    {
+      "id": "facility/msha-5001562",
+      "type": "facility",
+      "name": "Fairbanks Creek Mine",
+      "slug": "msha-5001562"
+    },
+    {
+      "id": "facility/msha-5001986",
+      "type": "facility",
+      "name": "Fairbanks Excavation Mine",
+      "slug": "msha-5001986"
+    },
+    {
+      "id": "facility/msha-4701184",
+      "type": "facility",
+      "name": "Fairwater Plant",
+      "slug": "msha-4701184"
+    },
+    {
+      "id": "facility/msha-2302480",
+      "type": "facility",
+      "name": "Festus Underground",
+      "slug": "msha-2302480"
+    },
+    {
+      "id": "facility/msha-0203166",
+      "type": "facility",
+      "name": "Fisher Industries Plant 37",
+      "slug": "msha-0203166"
+    },
+    {
+      "id": "facility/msha-0302069",
+      "type": "facility",
+      "name": "Fisher Mountain",
+      "slug": "msha-0302069"
+    },
+    {
+      "id": "facility/msha-2300409",
+      "type": "facility",
+      "name": "Fletcher Mine and Mill",
+      "slug": "msha-2300409"
+    },
+    {
+      "id": "facility/msha-2601947",
+      "type": "facility",
+      "name": "Florida Canyon Mine",
+      "slug": "msha-2601947"
+    },
+    {
+      "id": "facility/msha-0405959",
+      "type": "facility",
+      "name": "Fort Independence Quarry",
+      "slug": "msha-0405959"
+    },
+    {
+      "id": "facility/msha-5001616",
+      "type": "facility",
+      "name": "Fort Knox Mine",
+      "slug": "msha-5001616"
+    },
+    {
+      "id": "facility/msha-0301607",
+      "type": "facility",
+      "name": "Fort Smith Plant",
+      "slug": "msha-0301607"
+    },
+    {
+      "id": "facility/msha-0801117",
+      "type": "facility",
+      "name": "Four Corners",
+      "slug": "msha-0801117"
+    },
+    {
+      "id": "facility/msha-5001557",
+      "type": "facility",
+      "name": "Fox Mine",
+      "slug": "msha-5001557"
+    },
+    {
+      "id": "facility/msha-2801043",
+      "type": "facility",
+      "name": "Fox Road Sand Pit",
+      "slug": "msha-2801043"
+    },
+    {
+      "id": "facility/msha-0203445",
+      "type": "facility",
+      "name": "Fraguita Mill Site",
+      "slug": "msha-0203445"
+    },
+    {
+      "id": "facility/msha-2602616",
+      "type": "facility",
+      "name": "Fraser Pit",
+      "slug": "msha-2602616"
+    },
+    {
+      "id": "facility/msha-0200112",
+      "type": "facility",
+      "name": "Freeport McMoRan Miami Inc",
+      "slug": "msha-0200112"
+    },
+    {
+      "id": "facility/msha-0200137",
+      "type": "facility",
+      "name": "Freeport-McMoRan Bagdad Inc",
+      "slug": "msha-0200137"
+    },
+    {
+      "id": "facility/msha-0200024",
+      "type": "facility",
+      "name": "Freeport-McMoRan Morenci Inc.",
+      "slug": "msha-0200024"
+    },
+    {
+      "id": "facility/msha-0203131",
+      "type": "facility",
+      "name": "Freeport-McMoRan Safford Inc",
+      "slug": "msha-0203131"
+    },
+    {
+      "id": "facility/msha-0200144",
+      "type": "facility",
+      "name": "Freeport-McMoRan Sierrita Ops.",
+      "slug": "msha-0200144"
+    },
+    {
+      "id": "facility/msha-4703933",
+      "type": "facility",
+      "name": "Frey's Sand Plant",
+      "slug": "msha-4703933"
+    },
+    {
+      "id": "facility/msha-3000883",
+      "type": "facility",
+      "name": "G W Bryant Core Sands Inc.",
+      "slug": "msha-3000883"
+    },
+    {
+      "id": "facility/msha-0801461",
+      "type": "facility",
+      "name": "G2C Sand Mine",
+      "slug": "msha-0801461"
+    },
+    {
+      "id": "facility/msha-0203480",
+      "type": "facility",
+      "name": "GCE Blaisdell Mine",
+      "slug": "msha-0203480"
+    },
+    {
+      "id": "facility/msha-3503896",
+      "type": "facility",
+      "name": "GMA Garnet (USA) Corp",
+      "slug": "msha-3503896"
+    },
+    {
+      "id": "facility/msha-0103608",
+      "type": "facility",
+      "name": "GOB Farms",
+      "slug": "msha-0103608"
+    },
+    {
+      "id": "facility/msha-3003442",
+      "type": "facility",
+      "name": "Gabel-Thomas",
+      "slug": "msha-3003442"
+    },
+    {
+      "id": "facility/msha-1000082",
+      "type": "facility",
+      "name": "Galena",
+      "slug": "msha-1000082"
+    },
+    {
+      "id": "facility/msha-2600062",
+      "type": "facility",
+      "name": "Genesis",
+      "slug": "msha-2600062"
+    },
+    {
+      "id": "facility/msha-5001801",
+      "type": "facility",
+      "name": "Glacier Creek Mine",
+      "slug": "msha-5001801"
+    },
+    {
+      "id": "facility/msha-0203532",
+      "type": "facility",
+      "name": "Gladiator Mine",
+      "slug": "msha-0203532"
+    },
+    {
+      "id": "facility/msha-0203490",
+      "type": "facility",
+      "name": "Globe Mill",
+      "slug": "msha-0203490"
+    },
+    {
+      "id": "facility/msha-2602818",
+      "type": "facility",
+      "name": "Gold Bar",
+      "slug": "msha-2602818"
+    },
+    {
+      "id": "facility/msha-0202620",
+      "type": "facility",
+      "name": "Gold Road Mine",
+      "slug": "msha-0202620"
+    },
+    {
+      "id": "facility/msha-1000414",
+      "type": "facility",
+      "name": "Golden Chest Mine",
+      "slug": "msha-1000414"
+    },
+    {
+      "id": "facility/msha-1002155",
+      "type": "facility",
+      "name": "Golden Eagle",
+      "slug": "msha-1002155"
+    },
+    {
+      "id": "facility/msha-2401417",
+      "type": "facility",
+      "name": "Golden Sunlight Mines Inc",
+      "slug": "msha-2401417"
+    },
+    {
+      "id": "facility/msha-2602822",
+      "type": "facility",
+      "name": "Goldrush",
+      "slug": "msha-2602822"
+    },
+    {
+      "id": "facility/msha-5002079",
+      "type": "facility",
+      "name": "Goldstream",
+      "slug": "msha-5002079"
+    },
+    {
+      "id": "facility/msha-2601089",
+      "type": "facility",
+      "name": "Goldstrike Mine",
+      "slug": "msha-2601089"
+    },
+    {
+      "id": "facility/msha-2602647",
+      "type": "facility",
+      "name": "Goni Pit",
+      "slug": "msha-2602647"
+    },
+    {
+      "id": "facility/msha-1600352",
+      "type": "facility",
+      "name": "Gramercy Operation",
+      "slug": "msha-1600352"
+    },
+    {
+      "id": "facility/msha-2601597",
+      "type": "facility",
+      "name": "Granite Creek Mine",
+      "slug": "msha-2601597"
+    },
+    {
+      "id": "facility/msha-4105103",
+      "type": "facility",
+      "name": "Gravel N More",
+      "slug": "msha-4105103"
+    },
+    {
+      "id": "facility/msha-4703836",
+      "type": "facility",
+      "name": "Graystone Wash Screen",
+      "slug": "msha-4703836"
+    },
+    {
+      "id": "facility/msha-2200834",
+      "type": "facility",
+      "name": "Green Plant 5",
+      "slug": "msha-2200834"
+    },
+    {
+      "id": "facility/msha-0405703",
+      "type": "facility",
+      "name": "Greenwood Aggregates",
+      "slug": "msha-0405703"
+    },
+    {
+      "id": "facility/msha-2600411",
+      "type": "facility",
+      "name": "Greystone Mine",
+      "slug": "msha-2600411"
+    },
+    {
+      "id": "facility/msha-0202824",
+      "type": "facility",
+      "name": "Gunnison & Johnson Camp Mines",
+      "slug": "msha-0202824"
+    },
+    {
+      "id": "facility/msha-0103482",
+      "type": "facility",
+      "name": "Guntersville Sand",
+      "slug": "msha-0103482"
+    },
+    {
+      "id": "facility/msha-3401939",
+      "type": "facility",
+      "name": "Guthrie Sand Plant",
+      "slug": "msha-3401939"
+    },
+    {
+      "id": "facility/msha-1103292",
+      "type": "facility",
+      "name": "HASTIE MINING AND TRUCKING",
+      "slug": "msha-1103292"
+    },
+    {
+      "id": "facility/msha-4703611",
+      "type": "facility",
+      "name": "HC Wyeville Mine",
+      "slug": "msha-4703611"
+    },
+    {
+      "id": "facility/msha-0500790",
+      "type": "facility",
+      "name": "HENDERSON OPERATIONS",
+      "slug": "msha-0500790"
+    },
+    {
+      "id": "facility/msha-0504594",
+      "type": "facility",
+      "name": "HP 300 (Crusher 4)",
+      "slug": "msha-0504594"
+    },
+    {
+      "id": "facility/msha-3003951",
+      "type": "facility",
+      "name": "HUNTINGTON READY MIX",
+      "slug": "msha-3003951"
+    },
+    {
+      "id": "facility/msha-3800600",
+      "type": "facility",
+      "name": "Haile Gold Mine",
+      "slug": "msha-3800600"
+    },
+    {
+      "id": "facility/msha-4105252",
+      "type": "facility",
+      "name": "Halo Pit",
+      "slug": "msha-4105252"
+    },
+    {
+      "id": "facility/msha-4003608",
+      "type": "facility",
+      "name": "Hampton Stone",
+      "slug": "msha-4003608"
+    },
+    {
+      "id": "facility/msha-1101023",
+      "type": "facility",
+      "name": "Hastie Mine",
+      "slug": "msha-1101023"
+    },
+    {
+      "id": "facility/msha-3100362",
+      "type": "facility",
+      "name": "Hawkins Mine",
+      "slug": "msha-3100362"
+    },
+    {
+      "id": "facility/msha-0200826",
+      "type": "facility",
+      "name": "Hayden Concentrator",
+      "slug": "msha-0200826"
+    },
+    {
+      "id": "facility/msha-3201086",
+      "type": "facility",
+      "name": "Hazen Mine",
+      "slug": "msha-3201086"
+    },
+    {
+      "id": "facility/msha-2200841",
+      "type": "facility",
+      "name": "Hazlehurst Sand & Gravel",
+      "slug": "msha-2200841"
+    },
+    {
+      "id": "facility/msha-4105522",
+      "type": "facility",
+      "name": "Heard Plant",
+      "slug": "msha-4105522"
+    },
+    {
+      "id": "facility/msha-2602599",
+      "type": "facility",
+      "name": "Heart of Nature",
+      "slug": "msha-2602599"
+    },
+    {
+      "id": "facility/msha-5001267",
+      "type": "facility",
+      "name": "Hecla Greens Creek Mine",
+      "slug": "msha-5001267"
+    },
+    {
+      "id": "facility/msha-0504989",
+      "type": "facility",
+      "name": "Hector Placer Mine",
+      "slug": "msha-0504989"
+    },
+    {
+      "id": "facility/msha-0103619",
+      "type": "facility",
+      "name": "Henderson",
+      "slug": "msha-0103619"
+    },
+    {
+      "id": "facility/msha-2402786",
+      "type": "facility",
+      "name": "Henderson",
+      "slug": "msha-2402786"
+    },
+    {
+      "id": "facility/msha-0203423",
+      "type": "facility",
+      "name": "Henrietta Mine",
+      "slug": "msha-0203423"
+    },
+    {
+      "id": "facility/msha-2302278",
+      "type": "facility",
+      "name": "Hermann Sand-Jefferson City Plant",
+      "slug": "msha-2302278"
+    },
+    {
+      "id": "facility/msha-3100233",
+      "type": "facility",
+      "name": "Hillsborough Mine",
+      "slug": "msha-3100233"
+    },
+    {
+      "id": "facility/msha-4703708",
+      "type": "facility",
+      "name": "Hillside Aggregates",
+      "slug": "msha-4703708"
+    },
+    {
+      "id": "facility/msha-3402250",
+      "type": "facility",
+      "name": "Hinton Plant",
+      "slug": "msha-3402250"
+    },
+    {
+      "id": "facility/msha-2103743",
+      "type": "facility",
+      "name": "Hoogland Quarry",
+      "slug": "msha-2103743"
+    },
+    {
+      "id": "facility/msha-4105806",
+      "type": "facility",
+      "name": "Houghton Ranch Location",
+      "slug": "msha-4105806"
+    },
+    {
+      "id": "facility/msha-4104038",
+      "type": "facility",
+      "name": "Houston Plant",
+      "slug": "msha-4104038"
+    },
+    {
+      "id": "facility/msha-4104449",
+      "type": "facility",
+      "name": "Houston Plant",
+      "slug": "msha-4104449"
+    },
+    {
+      "id": "facility/msha-1401806",
+      "type": "facility",
+      "name": "Huber Sand Pit #5",
+      "slug": "msha-1401806"
+    },
+    {
+      "id": "facility/msha-2000420",
+      "type": "facility",
+      "name": "Humboldt Mill",
+      "slug": "msha-2000420"
+    },
+    {
+      "id": "facility/msha-0405949",
+      "type": "facility",
+      "name": "Humboldt Screener",
+      "slug": "msha-0405949"
+    },
+    {
+      "id": "facility/msha-1001938",
+      "type": "facility",
+      "name": "Husky 1, North Dry Ridge",
+      "slug": "msha-1001938"
+    },
+    {
+      "id": "facility/msha-2601962",
+      "type": "facility",
+      "name": "Hycroft Mine",
+      "slug": "msha-2601962"
+    },
+    {
+      "id": "facility/msha-1202496",
+      "type": "facility",
+      "name": "IMI Logansport Sand & Gravel",
+      "slug": "msha-1202496"
+    },
+    {
+      "id": "facility/msha-4000170",
+      "type": "facility",
+      "name": "Immel Mine",
+      "slug": "msha-4000170"
+    },
+    {
+      "id": "facility/msha-2200854",
+      "type": "facility",
+      "name": "Imperial Aggregates",
+      "slug": "msha-2200854"
+    },
+    {
+      "id": "facility/msha-4700813",
+      "type": "facility",
+      "name": "Industrial  Sand Plant",
+      "slug": "msha-4700813"
+    },
+    {
+      "id": "facility/msha-2900170",
+      "type": "facility",
+      "name": "Intrepid Potash East",
+      "slug": "msha-2900170"
+    },
+    {
+      "id": "facility/msha-2902028",
+      "type": "facility",
+      "name": "Intrepid Potash North",
+      "slug": "msha-2902028"
+    },
+    {
+      "id": "facility/msha-2900175",
+      "type": "facility",
+      "name": "Intrepid Potash West",
+      "slug": "msha-2900175"
+    },
+    {
+      "id": "facility/msha-2602812",
+      "type": "facility",
+      "name": "Isabella Pearl Mine",
+      "slug": "msha-2602812"
+    },
+    {
+      "id": "facility/msha-3700065",
+      "type": "facility",
+      "name": "J Santoro Pit & Plant",
+      "slug": "msha-3700065"
+    },
+    {
+      "id": "facility/msha-5002060",
+      "type": "facility",
+      "name": "JD Mining",
+      "slug": "msha-5002060"
+    },
+    {
+      "id": "facility/msha-2801046",
+      "type": "facility",
+      "name": "JERSEY SOIL BLENDING LLC",
+      "slug": "msha-2801046"
+    },
+    {
+      "id": "facility/msha-5001240",
+      "type": "facility",
+      "name": "JS-4",
+      "slug": "msha-5001240"
+    },
+    {
+      "id": "facility/msha-4002937",
+      "type": "facility",
+      "name": "Jackson Plant",
+      "slug": "msha-4002937"
+    },
+    {
+      "id": "facility/msha-4300695",
+      "type": "facility",
+      "name": "Jaw Plant",
+      "slug": "msha-4300695"
+    },
+    {
+      "id": "facility/msha-2501316",
+      "type": "facility",
+      "name": "Jeffres #3",
+      "slug": "msha-2501316"
+    },
+    {
+      "id": "facility/msha-2601621",
+      "type": "facility",
+      "name": "Jerritt Canyon Mill",
+      "slug": "msha-2601621"
+    },
+    {
+      "id": "facility/msha-3402209",
+      "type": "facility",
+      "name": "Jones Sand Plant",
+      "slug": "msha-3402209"
+    },
+    {
+      "id": "facility/msha-5001961",
+      "type": "facility",
+      "name": "Jubilee Mine",
+      "slug": "msha-5001961"
+    },
+    {
+      "id": "facility/msha-0900265",
+      "type": "facility",
+      "name": "Junction City Sand",
+      "slug": "msha-0900265"
+    },
+    {
+      "id": "facility/msha-3101334",
+      "type": "facility",
+      "name": "K-T Feldspar Plant and Mine",
+      "slug": "msha-3101334"
+    },
+    {
+      "id": "facility/msha-3004065",
+      "type": "facility",
+      "name": "KLEEMANN IMPACT 130#289",
+      "slug": "msha-3004065"
+    },
+    {
+      "id": "facility/msha-0505159",
+      "type": "facility",
+      "name": "Keenesburg #2",
+      "slug": "msha-0505159"
+    },
+    {
+      "id": "facility/msha-4201392",
+      "type": "facility",
+      "name": "Kennecott Keystone Underground",
+      "slug": "msha-4201392"
+    },
+    {
+      "id": "facility/msha-5001544",
+      "type": "facility",
+      "name": "Kensington",
+      "slug": "msha-5001544"
+    },
+    {
+      "id": "facility/msha-4105398",
+      "type": "facility",
+      "name": "Kermit 115",
+      "slug": "msha-4105398"
+    },
+    {
+      "id": "facility/msha-4105330",
+      "type": "facility",
+      "name": "Kermit Mine",
+      "slug": "msha-4105330"
+    },
+    {
+      "id": "facility/msha-0800434",
+      "type": "facility",
+      "name": "Keuka Sand Plant",
+      "slug": "msha-0800434"
+    },
+    {
+      "id": "facility/msha-4202560",
+      "type": "facility",
+      "name": "Kiewit Mine",
+      "slug": "msha-4202560"
+    },
+    {
+      "id": "facility/msha-4703927",
+      "type": "facility",
+      "name": "Kleeman Screen Plant",
+      "slug": "msha-4703927"
+    },
+    {
+      "id": "facility/msha-1519209",
+      "type": "facility",
+      "name": "Klondike II",
+      "slug": "msha-1519209"
+    },
+    {
+      "id": "facility/msha-5000482",
+      "type": "facility",
+      "name": "Kougarok Dredge Pit",
+      "slug": "msha-5000482"
+    },
+    {
+      "id": "facility/msha-1500149",
+      "type": "facility",
+      "name": "L R Chapman Inc",
+      "slug": "msha-1500149"
+    },
+    {
+      "id": "facility/msha-3503819",
+      "type": "facility",
+      "name": "LCR",
+      "slug": "msha-3503819"
+    },
+    {
+      "id": "facility/msha-4200158",
+      "type": "facility",
+      "name": "LOST SHEEP MINE",
+      "slug": "msha-4200158"
+    },
+    {
+      "id": "facility/msha-0405932",
+      "type": "facility",
+      "name": "LYNX CAT QUARRY",
+      "slug": "msha-0405932"
+    },
+    {
+      "id": "facility/msha-4200769",
+      "type": "facility",
+      "name": "La Sal Complex",
+      "slug": "msha-4200769"
+    },
+    {
+      "id": "facility/msha-4503546",
+      "type": "facility",
+      "name": "LaCrosse Sand Pit",
+      "slug": "msha-4503546"
+    },
+    {
+      "id": "facility/msha-1601032",
+      "type": "facility",
+      "name": "Lake Charles Grinding Plant",
+      "slug": "msha-1601032"
+    },
+    {
+      "id": "facility/msha-0103638",
+      "type": "facility",
+      "name": "Landsdown Montgomery Plant",
+      "slug": "msha-0103638"
+    },
+    {
+      "id": "facility/msha-4500983",
+      "type": "facility",
+      "name": "Lane Mtn Silica Quarry & Mill",
+      "slug": "msha-4500983"
+    },
+    {
+      "id": "facility/msha-1601504",
+      "type": "facility",
+      "name": "Larose Grinding Plant",
+      "slug": "msha-1601504"
+    },
+    {
+      "id": "facility/msha-0405945",
+      "type": "facility",
+      "name": "Latona Aggregates",
+      "slug": "msha-0405945"
+    },
+    {
+      "id": "facility/msha-3100212",
+      "type": "facility",
+      "name": "Lee Creek Mine",
+      "slug": "msha-3100212"
+    },
+    {
+      "id": "facility/msha-3610222",
+      "type": "facility",
+      "name": "Leetsdale PA",
+      "slug": "msha-3610222"
+    },
+    {
+      "id": "facility/msha-2602512",
+      "type": "facility",
+      "name": "Leeville",
+      "slug": "msha-2602512"
+    },
+    {
+      "id": "facility/msha-4003627",
+      "type": "facility",
+      "name": "Lewisburg",
+      "slug": "msha-4003627"
+    },
+    {
+      "id": "facility/msha-4104792",
+      "type": "facility",
+      "name": "Liberty Materials Moss Hill Plant",
+      "slug": "msha-4104792"
+    },
+    {
+      "id": "facility/msha-2302507",
+      "type": "facility",
+      "name": "Lickcreek",
+      "slug": "msha-2302507"
+    },
+    {
+      "id": "facility/msha-4202406",
+      "type": "facility",
+      "name": "Lisbon Valley Mining Co",
+      "slug": "msha-4202406"
+    },
+    {
+      "id": "facility/msha-5001613",
+      "type": "facility",
+      "name": "Little Eldorado",
+      "slug": "msha-5001613"
+    },
+    {
+      "id": "facility/msha-4105185",
+      "type": "facility",
+      "name": "Llano Sand Plant",
+      "slug": "msha-4105185"
+    },
+    {
+      "id": "facility/msha-2602159",
+      "type": "facility",
+      "name": "Lone Tree Mine",
+      "slug": "msha-2602159"
+    },
+    {
+      "id": "facility/msha-2602778",
+      "type": "facility",
+      "name": "Long Canyon",
+      "slug": "msha-2602778"
+    },
+    {
+      "id": "facility/msha-2902273",
+      "type": "facility",
+      "name": "Los Padillas Pit",
+      "slug": "msha-2902273"
+    },
+    {
+      "id": "facility/msha-5000313",
+      "type": "facility",
+      "name": "Lost Chicken Mine",
+      "slug": "msha-5000313"
+    },
+    {
+      "id": "facility/msha-1516865",
+      "type": "facility",
+      "name": "Louisville Yard",
+      "slug": "msha-1516865"
+    },
+    {
+      "id": "facility/msha-1000088",
+      "type": "facility",
+      "name": "Lucky Friday",
+      "slug": "msha-1000088"
+    },
+    {
+      "id": "facility/msha-3800299",
+      "type": "facility",
+      "name": "Lugoff Plant",
+      "slug": "msha-3800299"
+    },
+    {
+      "id": "facility/msha-0103588",
+      "type": "facility",
+      "name": "Luster Pit",
+      "slug": "msha-0103588"
+    },
+    {
+      "id": "facility/msha-0800298",
+      "type": "facility",
+      "name": "Lynne Mine",
+      "slug": "msha-0800298"
+    },
+    {
+      "id": "facility/msha-0505179",
+      "type": "facility",
+      "name": "Lyons Pit",
+      "slug": "msha-0505179"
+    },
+    {
+      "id": "facility/msha-1101016",
+      "type": "facility",
+      "name": "MANLEY BROS.",
+      "slug": "msha-1101016"
+    },
+    {
+      "id": "facility/msha-1101212",
+      "type": "facility",
+      "name": "MARENGO MATERIALS",
+      "slug": "msha-1101212"
+    },
+    {
+      "id": "facility/msha-2602081",
+      "type": "facility",
+      "name": "MARIGOLD MINE",
+      "slug": "msha-2602081"
+    },
+    {
+      "id": "facility/msha-3300156",
+      "type": "facility",
+      "name": "MARTIN MARIETTA MAGNESIA SPECIAL",
+      "slug": "msha-3300156"
+    },
+    {
+      "id": "facility/msha-1400868",
+      "type": "facility",
+      "name": "MICRO-LITE LLC",
+      "slug": "msha-1400868"
+    },
+    {
+      "id": "facility/msha-3003509",
+      "type": "facility",
+      "name": "MINE #1",
+      "slug": "msha-3003509"
+    },
+    {
+      "id": "facility/msha-0200135",
+      "type": "facility",
+      "name": "MISSION/SAN XAVIER/EISENHOWER",
+      "slug": "msha-0200135"
+    },
+    {
+      "id": "facility/msha-2103690",
+      "type": "facility",
+      "name": "MN Reclamation Crew",
+      "slug": "msha-2103690"
+    },
+    {
+      "id": "facility/msha-0404794",
+      "type": "facility",
+      "name": "MT. GAINES MINE",
+      "slug": "msha-0404794"
+    },
+    {
+      "id": "facility/msha-0505178",
+      "type": "facility",
+      "name": "MW Sorter LLC (London Mine)",
+      "slug": "msha-0505178"
+    },
+    {
+      "id": "facility/msha-1700939",
+      "type": "facility",
+      "name": "Madawaska Plant",
+      "slug": "msha-1700939"
+    },
+    {
+      "id": "facility/msha-2301770",
+      "type": "facility",
+      "name": "Madison Mine",
+      "slug": "msha-2301770"
+    },
+    {
+      "id": "facility/msha-2602810",
+      "type": "facility",
+      "name": "Maggie Creek Ranch Pit",
+      "slug": "msha-2602810"
+    },
+    {
+      "id": "facility/msha-0300299",
+      "type": "facility",
+      "name": "Malvern Minerals Sandstone Quarry",
+      "slug": "msha-0300299"
+    },
+    {
+      "id": "facility/msha-5002020",
+      "type": "facility",
+      "name": "Mammoth Valley Mining LLC",
+      "slug": "msha-5002020"
+    },
+    {
+      "id": "facility/msha-5002102",
+      "type": "facility",
+      "name": "Manh Choh",
+      "slug": "msha-5002102"
+    },
+    {
+      "id": "facility/msha-2602658",
+      "type": "facility",
+      "name": "Manhattan Gulch",
+      "slug": "msha-2602658"
+    },
+    {
+      "id": "facility/msha-0800222",
+      "type": "facility",
+      "name": "Manko Co Sec 5 Mine/Phos",
+      "slug": "msha-0800222"
+    },
+    {
+      "id": "facility/msha-3603122",
+      "type": "facility",
+      "name": "Mapleton Depot Plant",
+      "slug": "msha-3603122"
+    },
+    {
+      "id": "facility/msha-3304798",
+      "type": "facility",
+      "name": "Marietta Plant",
+      "slug": "msha-3304798"
+    },
+    {
+      "id": "facility/msha-3004175",
+      "type": "facility",
+      "name": "Mark A Perkins Mine",
+      "slug": "msha-3004175"
+    },
+    {
+      "id": "facility/msha-3800768",
+      "type": "facility",
+      "name": "Marlboro Mine",
+      "slug": "msha-3800768"
+    },
+    {
+      "id": "facility/msha-3101518",
+      "type": "facility",
+      "name": "Marston Plant",
+      "slug": "msha-3101518"
+    },
+    {
+      "id": "facility/msha-4200706",
+      "type": "facility",
+      "name": "Materion Natural Resources",
+      "slug": "msha-4200706"
+    },
+    {
+      "id": "facility/msha-2800526",
+      "type": "facility",
+      "name": "Mauricetown Plant",
+      "slug": "msha-2800526"
+    },
+    {
+      "id": "facility/msha-2200851",
+      "type": "facility",
+      "name": "McDonald Pit",
+      "slug": "msha-2200851"
+    },
+    {
+      "id": "facility/msha-2602246",
+      "type": "facility",
+      "name": "Meikle Mine",
+      "slug": "msha-2602246"
+    },
+    {
+      "id": "facility/msha-4703512",
+      "type": "facility",
+      "name": "Menomonie Plant",
+      "slug": "msha-4703512"
+    },
+    {
+      "id": "facility/msha-1800787",
+      "type": "facility",
+      "name": "Merrick Sand & Gravel",
+      "slug": "msha-1800787"
+    },
+    {
+      "id": "facility/msha-0404614",
+      "type": "facility",
+      "name": "Mesquite",
+      "slug": "msha-0404614"
+    },
+    {
+      "id": "facility/msha-4300607",
+      "type": "facility",
+      "name": "Metso LT 106",
+      "slug": "msha-4300607"
+    },
+    {
+      "id": "facility/msha-4300609",
+      "type": "facility",
+      "name": "Metso ST272",
+      "slug": "msha-4300609"
+    },
+    {
+      "id": "facility/msha-5001549",
+      "type": "facility",
+      "name": "Middle Fork Mine",
+      "slug": "msha-5001549"
+    },
+    {
+      "id": "facility/msha-4003284",
+      "type": "facility",
+      "name": "Middle Quarry",
+      "slug": "msha-4003284"
+    },
+    {
+      "id": "facility/msha-4000864",
+      "type": "facility",
+      "name": "Middle Tennessee Mine",
+      "slug": "msha-4000864"
+    },
+    {
+      "id": "facility/msha-3503935",
+      "type": "facility",
+      "name": "Mill",
+      "slug": "msha-3503935"
+    },
+    {
+      "id": "facility/msha-2602678",
+      "type": "facility",
+      "name": "Mill 6",
+      "slug": "msha-2602678"
+    },
+    {
+      "id": "facility/msha-3400377",
+      "type": "facility",
+      "name": "Mill Creek Plant #37",
+      "slug": "msha-3400377"
+    },
+    {
+      "id": "facility/msha-2200850",
+      "type": "facility",
+      "name": "Mill Creek Sand and Gravel LLC",
+      "slug": "msha-2200850"
+    },
+    {
+      "id": "facility/msha-2602674",
+      "type": "facility",
+      "name": "Mill/Autoclave Operations",
+      "slug": "msha-2602674"
+    },
+    {
+      "id": "facility/msha-0901232",
+      "type": "facility",
+      "name": "Millen Plant",
+      "slug": "msha-0901232"
+    },
+    {
+      "id": "facility/msha-0200843",
+      "type": "facility",
+      "name": "Mineral Park",
+      "slug": "msha-0200843"
+    },
+    {
+      "id": "facility/msha-2602302",
+      "type": "facility",
+      "name": "Mineral Ridge Mine",
+      "slug": "msha-2602302"
+    },
+    {
+      "id": "facility/msha-4407221",
+      "type": "facility",
+      "name": "Mineral Separation Plant",
+      "slug": "msha-4407221"
+    },
+    {
+      "id": "facility/msha-0901230",
+      "type": "facility",
+      "name": "Mission Mine",
+      "slug": "msha-0901230"
+    },
+    {
+      "id": "facility/msha-3901608",
+      "type": "facility",
+      "name": "Mitchell Quarry",
+      "slug": "msha-3901608"
+    },
+    {
+      "id": "facility/msha-2902561",
+      "type": "facility",
+      "name": "Mo's Crusher",
+      "slug": "msha-2902561"
+    },
+    {
+      "id": "facility/msha-1103295",
+      "type": "facility",
+      "name": "Moline Road",
+      "slug": "msha-1103295"
+    },
+    {
+      "id": "facility/msha-0901126",
+      "type": "facility",
+      "name": "Morgan County Quarry",
+      "slug": "msha-0901126"
+    },
+    {
+      "id": "facility/msha-2900802",
+      "type": "facility",
+      "name": "Mosaic Potash Carlsbad Inc",
+      "slug": "msha-2900802"
+    },
+    {
+      "id": "facility/msha-5001336",
+      "type": "facility",
+      "name": "Mosquito",
+      "slug": "msha-5001336"
+    },
+    {
+      "id": "facility/msha-0202367",
+      "type": "facility",
+      "name": "Moss Mine",
+      "slug": "msha-0202367"
+    },
+    {
+      "id": "facility/msha-4609653",
+      "type": "facility",
+      "name": "Moundsville Plant",
+      "slug": "msha-4609653"
+    },
+    {
+      "id": "facility/msha-2601390",
+      "type": "facility",
+      "name": "Mountain Springs Beneficiation Plant",
+      "slug": "msha-2601390"
+    },
+    {
+      "id": "facility/msha-0402542",
+      "type": "facility",
+      "name": "Mt Pass Mine & Mill",
+      "slug": "msha-0402542"
+    },
+    {
+      "id": "facility/msha-4400029",
+      "type": "facility",
+      "name": "NO. 2 PIT",
+      "slug": "msha-4400029"
+    },
+    {
+      "id": "facility/msha-5001035",
+      "type": "facility",
+      "name": "NYAC Mining Co",
+      "slug": "msha-5001035"
+    },
+    {
+      "id": "facility/msha-0400023",
+      "type": "facility",
+      "name": "Napa Quarry",
+      "slug": "msha-0400023"
+    },
+    {
+      "id": "facility/msha-1601302",
+      "type": "facility",
+      "name": "New Iberia Plant",
+      "slug": "msha-1601302"
+    },
+    {
+      "id": "facility/msha-1001913",
+      "type": "facility",
+      "name": "New Jersey Mill",
+      "slug": "msha-1001913"
+    },
+    {
+      "id": "facility/msha-0900245",
+      "type": "facility",
+      "name": "New Riverside Ochre Company Incorporated",
+      "slug": "msha-0900245"
+    },
+    {
+      "id": "facility/msha-2100789",
+      "type": "facility",
+      "name": "New Ulm Quarry",
+      "slug": "msha-2100789"
+    },
+    {
+      "id": "facility/msha-3609878",
+      "type": "facility",
+      "name": "Nicholson Pit",
+      "slug": "msha-3609878"
+    },
+    {
+      "id": "facility/msha-4105772",
+      "type": "facility",
+      "name": "Nomad - Midland",
+      "slug": "msha-4105772"
+    },
+    {
+      "id": "facility/msha-4105470",
+      "type": "facility",
+      "name": "North American Silica Sand, LLC",
+      "slug": "msha-4105470"
+    },
+    {
+      "id": "facility/msha-1103253",
+      "type": "facility",
+      "name": "Northern White Sand",
+      "slug": "msha-1103253"
+    },
+    {
+      "id": "facility/msha-2103658",
+      "type": "facility",
+      "name": "Northmet",
+      "slug": "msha-2103658"
+    },
+    {
+      "id": "facility/msha-2000780",
+      "type": "facility",
+      "name": "Nugent Sand Plant #2",
+      "slug": "msha-2000780"
+    },
+    {
+      "id": "facility/msha-4202431",
+      "type": "facility",
+      "name": "OK and Hidden Treasure",
+      "slug": "msha-4202431"
+    },
+    {
+      "id": "facility/msha-4105461",
+      "type": "facility",
+      "name": "Odem Sand Plant",
+      "slug": "msha-4105461"
+    },
+    {
+      "id": "facility/msha-0901236",
+      "type": "facility",
+      "name": "Offerman Mineral Sand Plant",
+      "slug": "msha-0901236"
+    },
+    {
+      "id": "facility/msha-0801404",
+      "type": "facility",
+      "name": "Okahumpka",
+      "slug": "msha-0801404"
+    },
+    {
+      "id": "facility/msha-4105760",
+      "type": "facility",
+      "name": "OnCore 2B",
+      "slug": "msha-4105760"
+    },
+    {
+      "id": "facility/msha-0402801",
+      "type": "facility",
+      "name": "Orange County Operation",
+      "slug": "msha-0402801"
+    },
+    {
+      "id": "facility/msha-1002303",
+      "type": "facility",
+      "name": "Orogrande Processing Facility",
+      "slug": "msha-1002303"
+    },
+    {
+      "id": "facility/msha-1101013",
+      "type": "facility",
+      "name": "Ottawa Plant",
+      "slug": "msha-1101013"
+    },
+    {
+      "id": "facility/msha-0402834",
+      "type": "facility",
+      "name": "Owens Lake Mine",
+      "slug": "msha-0402834"
+    },
+    {
+      "id": "facility/msha-1002202",
+      "type": "facility",
+      "name": "Owyhee Noble Mill",
+      "slug": "msha-1002202"
+    },
+    {
+      "id": "facility/msha-4703713",
+      "type": "facility",
+      "name": "PC-14",
+      "slug": "msha-4703713"
+    },
+    {
+      "id": "facility/msha-3607535",
+      "type": "facility",
+      "name": "PENN MAG INC. PLANT #2",
+      "slug": "msha-3607535"
+    },
+    {
+      "id": "facility/msha-0103623",
+      "type": "facility",
+      "name": "PERDUE HILL PIT",
+      "slug": "msha-0103623"
+    },
+    {
+      "id": "facility/msha-0301530",
+      "type": "facility",
+      "name": "PHANTOM",
+      "slug": "msha-0301530"
+    },
+    {
+      "id": "facility/msha-4703860",
+      "type": "facility",
+      "name": "PLANT 23",
+      "slug": "msha-4703860"
+    },
+    {
+      "id": "facility/msha-0404647",
+      "type": "facility",
+      "name": "PLANT 25",
+      "slug": "msha-0404647"
+    },
+    {
+      "id": "facility/msha-4703681",
+      "type": "facility",
+      "name": "PLANT 92",
+      "slug": "msha-4703681"
+    },
+    {
+      "id": "facility/msha-2302387",
+      "type": "facility",
+      "name": "PORT-CEC #1",
+      "slug": "msha-2302387"
+    },
+    {
+      "id": "facility/msha-1302429",
+      "type": "facility",
+      "name": "PORTABLE GRIZZLY",
+      "slug": "msha-1302429"
+    },
+    {
+      "id": "facility/msha-2300544",
+      "type": "facility",
+      "name": "Pacific Plant",
+      "slug": "msha-2300544"
+    },
+    {
+      "id": "facility/msha-0404201",
+      "type": "facility",
+      "name": "Packway Portable",
+      "slug": "msha-0404201"
+    },
+    {
+      "id": "facility/msha-1401836",
+      "type": "facility",
+      "name": "Pakkebier Rock Quarry",
+      "slug": "msha-1401836"
+    },
+    {
+      "id": "facility/msha-2602755",
+      "type": "facility",
+      "name": "Pan Mine",
+      "slug": "msha-2602755"
+    },
+    {
+      "id": "facility/msha-2902513",
+      "type": "facility",
+      "name": "Parker Pit",
+      "slug": "msha-2902513"
+    },
+    {
+      "id": "facility/msha-4105241",
+      "type": "facility",
+      "name": "Patriot Mining and Materials, LLC",
+      "slug": "msha-4105241"
+    },
+    {
+      "id": "facility/msha-1302297",
+      "type": "facility",
+      "name": "Pattison Company, LLC",
+      "slug": "msha-1302297"
+    },
+    {
+      "id": "facility/msha-4703695",
+      "type": "facility",
+      "name": "Pattison Company, LLC",
+      "slug": "msha-4703695"
+    },
+    {
+      "id": "facility/msha-5002099",
+      "type": "facility",
+      "name": "Pedro Creek Mine",
+      "slug": "msha-5002099"
+    },
+    {
+      "id": "facility/msha-4105161",
+      "type": "facility",
+      "name": "Permian Frac Sand",
+      "slug": "msha-4105161"
+    },
+    {
+      "id": "facility/msha-2602689",
+      "type": "facility",
+      "name": "Pete Bajo",
+      "slug": "msha-2602689"
+    },
+    {
+      "id": "facility/msha-3102182",
+      "type": "facility",
+      "name": "Pete Lawson/Beaver Creek Mine",
+      "slug": "msha-3102182"
+    },
+    {
+      "id": "facility/msha-4300608",
+      "type": "facility",
+      "name": "Petti Bone Crusher",
+      "slug": "msha-4300608"
+    },
+    {
+      "id": "facility/msha-2300706",
+      "type": "facility",
+      "name": "Pevely Plant",
+      "slug": "msha-2300706"
+    },
+    {
+      "id": "facility/msha-2600550",
+      "type": "facility",
+      "name": "Phoenix Mine",
+      "slug": "msha-2600550"
+    },
+    {
+      "id": "facility/msha-0302086",
+      "type": "facility",
+      "name": "Pine Ridge Crystals",
+      "slug": "msha-0302086"
+    },
+    {
+      "id": "facility/msha-3610449",
+      "type": "facility",
+      "name": "PioneerGD30 SN#GD301095",
+      "slug": "msha-3610449"
+    },
+    {
+      "id": "facility/msha-0103636",
+      "type": "facility",
+      "name": "Pit 31 Castleberry",
+      "slug": "msha-0103636"
+    },
+    {
+      "id": "facility/msha-3503675",
+      "type": "facility",
+      "name": "Plant #1",
+      "slug": "msha-3503675"
+    },
+    {
+      "id": "facility/msha-1001840",
+      "type": "facility",
+      "name": "Plant 3",
+      "slug": "msha-1001840"
+    },
+    {
+      "id": "facility/msha-1002187",
+      "type": "facility",
+      "name": "Plant 4",
+      "slug": "msha-1002187"
+    },
+    {
+      "id": "facility/msha-2302592",
+      "type": "facility",
+      "name": "Plant 5 / Smreker Supply",
+      "slug": "msha-2302592"
+    },
+    {
+      "id": "facility/msha-4703723",
+      "type": "facility",
+      "name": "Plant 93",
+      "slug": "msha-4703723"
+    },
+    {
+      "id": "facility/msha-5001642",
+      "type": "facility",
+      "name": "Pogo Mine",
+      "slug": "msha-5001642"
+    },
+    {
+      "id": "facility/msha-2002685",
+      "type": "facility",
+      "name": "Pointe North",
+      "slug": "msha-2002685"
+    },
+    {
+      "id": "facility/msha-0103427",
+      "type": "facility",
+      "name": "Pope Pit #2",
+      "slug": "msha-0103427"
+    },
+    {
+      "id": "facility/msha-3401930",
+      "type": "facility",
+      "name": "Pope's Point",
+      "slug": "msha-3401930"
+    },
+    {
+      "id": "facility/msha-5001992",
+      "type": "facility",
+      "name": "Porcupine Creek Mine",
+      "slug": "msha-5001992"
+    },
+    {
+      "id": "facility/msha-5002115",
+      "type": "facility",
+      "name": "Porcupine Mine",
+      "slug": "msha-5002115"
+    },
+    {
+      "id": "facility/msha-3503763",
+      "type": "facility",
+      "name": "Portable # 1",
+      "slug": "msha-3503763"
+    },
+    {
+      "id": "facility/msha-4202085",
+      "type": "facility",
+      "name": "Portable #2",
+      "slug": "msha-4202085"
+    },
+    {
+      "id": "facility/msha-2602782",
+      "type": "facility",
+      "name": "Portable Crusher #1",
+      "slug": "msha-2602782"
+    },
+    {
+      "id": "facility/msha-3503736",
+      "type": "facility",
+      "name": "Portable Crusher #5",
+      "slug": "msha-3503736"
+    },
+    {
+      "id": "facility/msha-0203496",
+      "type": "facility",
+      "name": "Portable Crusher No. 2",
+      "slug": "msha-0203496"
+    },
+    {
+      "id": "facility/msha-0405715",
+      "type": "facility",
+      "name": "Portable Plant #2",
+      "slug": "msha-0405715"
+    },
+    {
+      "id": "facility/msha-4700749",
+      "type": "facility",
+      "name": "Portage Plant",
+      "slug": "msha-4700749"
+    },
+    {
+      "id": "facility/msha-0700110",
+      "type": "facility",
+      "name": "Porter Sand & Gravel, Inc.",
+      "slug": "msha-0700110"
+    },
+    {
+      "id": "facility/msha-0301986",
+      "type": "facility",
+      "name": "Possum Grape",
+      "slug": "msha-0301986"
+    },
+    {
+      "id": "facility/msha-4105415",
+      "type": "facility",
+      "name": "Poteet Plant",
+      "slug": "msha-4105415"
+    },
+    {
+      "id": "facility/msha-4703793",
+      "type": "facility",
+      "name": "PowerScreen #2",
+      "slug": "msha-4703793"
+    },
+    {
+      "id": "facility/msha-3102273",
+      "type": "facility",
+      "name": "Prevette",
+      "slug": "msha-3102273"
+    },
+    {
+      "id": "facility/msha-3100673",
+      "type": "facility",
+      "name": "Quartz / Feldspar Operation",
+      "slug": "msha-3100673"
+    },
+    {
+      "id": "facility/msha-2301597",
+      "type": "facility",
+      "name": "Quikrete Companys Inc.",
+      "slug": "msha-2301597"
+    },
+    {
+      "id": "facility/msha-2200786",
+      "type": "facility",
+      "name": "Quikrete of Picayune",
+      "slug": "msha-2200786"
+    },
+    {
+      "id": "facility/msha-5001854",
+      "type": "facility",
+      "name": "R B Gravel Company",
+      "slug": "msha-5001854"
+    },
+    {
+      "id": "facility/msha-0200150",
+      "type": "facility",
+      "name": "RAY MINE",
+      "slug": "msha-0200150"
+    },
+    {
+      "id": "facility/msha-4202700",
+      "type": "facility",
+      "name": "RHEX Vernal Mine",
+      "slug": "msha-4202700"
+    },
+    {
+      "id": "facility/msha-0403108",
+      "type": "facility",
+      "name": "RUBY MINE",
+      "slug": "msha-0403108"
+    },
+    {
+      "id": "facility/msha-3003678",
+      "type": "facility",
+      "name": "RWR Crane Service, Inc.",
+      "slug": "msha-3003678"
+    },
+    {
+      "id": "facility/msha-2300695",
+      "type": "facility",
+      "name": "Randolph Plant #9",
+      "slug": "msha-2300695"
+    },
+    {
+      "id": "facility/msha-5001545",
+      "type": "facility",
+      "name": "Red Dog Operations",
+      "slug": "msha-5001545"
+    },
+    {
+      "id": "facility/msha-2602657",
+      "type": "facility",
+      "name": "Relief Canyon Mine",
+      "slug": "msha-2602657"
+    },
+    {
+      "id": "facility/msha-2402809",
+      "type": "facility",
+      "name": "Revenue Mine",
+      "slug": "msha-2402809"
+    },
+    {
+      "id": "facility/msha-4703844",
+      "type": "facility",
+      "name": "Revline Grantsburg Pit",
+      "slug": "msha-4703844"
+    },
+    {
+      "id": "facility/msha-2200857",
+      "type": "facility",
+      "name": "Ripley Sand",
+      "slug": "msha-2200857"
+    },
+    {
+      "id": "facility/msha-0203509",
+      "type": "facility",
+      "name": "Rising Fawn",
+      "slug": "msha-0203509"
+    },
+    {
+      "id": "facility/msha-2200849",
+      "type": "facility",
+      "name": "River Rd Sand & Gravel LLC - Forrest Co",
+      "slug": "msha-2200849"
+    },
+    {
+      "id": "facility/msha-1202493",
+      "type": "facility",
+      "name": "Riverside Aggregates & Materials, Inc.",
+      "slug": "msha-1202493"
+    },
+    {
+      "id": "facility/msha-0404263",
+      "type": "facility",
+      "name": "Riverside Operation",
+      "slug": "msha-0404263"
+    },
+    {
+      "id": "facility/msha-2602673",
+      "type": "facility",
+      "name": "Roaster Operations",
+      "slug": "msha-2602673"
+    },
+    {
+      "id": "facility/msha-5001550",
+      "type": "facility",
+      "name": "Robert Cook",
+      "slug": "msha-5001550"
+    },
+    {
+      "id": "facility/msha-0405780",
+      "type": "facility",
+      "name": "Roberti Ranch",
+      "slug": "msha-0405780"
+    },
+    {
+      "id": "facility/msha-2601916",
+      "type": "facility",
+      "name": "Robinson Operation",
+      "slug": "msha-2601916"
+    },
+    {
+      "id": "facility/msha-2601941",
+      "type": "facility",
+      "name": "Rochester Mine",
+      "slug": "msha-2601941"
+    },
+    {
+      "id": "facility/msha-4801888",
+      "type": "facility",
+      "name": "Rock Creek Placer",
+      "slug": "msha-4801888"
+    },
+    {
+      "id": "facility/msha-1001798",
+      "type": "facility",
+      "name": "Rock Garden",
+      "slug": "msha-1001798"
+    },
+    {
+      "id": "facility/msha-2200817",
+      "type": "facility",
+      "name": "RockCo Mining LLC-Batesville",
+      "slug": "msha-2200817"
+    },
+    {
+      "id": "facility/msha-4003612",
+      "type": "facility",
+      "name": "Rockvale",
+      "slug": "msha-4003612"
+    },
+    {
+      "id": "facility/msha-2000608",
+      "type": "facility",
+      "name": "Rockwood Plant",
+      "slug": "msha-2000608"
+    },
+    {
+      "id": "facility/msha-1102998",
+      "type": "facility",
+      "name": "Rosiclare Facility Hastie Mining",
+      "slug": "msha-1102998"
+    },
+    {
+      "id": "facility/msha-2602735",
+      "type": "facility",
+      "name": "Rossi Crusher",
+      "slug": "msha-2602735"
+    },
+    {
+      "id": "facility/msha-2602239",
+      "type": "facility",
+      "name": "Rossi Jig Plant",
+      "slug": "msha-2602239"
+    },
+    {
+      "id": "facility/msha-3402237",
+      "type": "facility",
+      "name": "Rother Crescent Sand Mine",
+      "slug": "msha-3402237"
+    },
+    {
+      "id": "facility/msha-0901257",
+      "type": "facility",
+      "name": "Royal Vindicator Mine",
+      "slug": "msha-0901257"
+    },
+    {
+      "id": "facility/msha-0302097",
+      "type": "facility",
+      "name": "Rubie Mine",
+      "slug": "msha-0302097"
+    },
+    {
+      "id": "facility/msha-2602307",
+      "type": "facility",
+      "name": "Ruby Hill Mine",
+      "slug": "msha-2602307"
+    },
+    {
+      "id": "facility/msha-5001583",
+      "type": "facility",
+      "name": "Ruby Mine",
+      "slug": "msha-5001583"
+    },
+    {
+      "id": "facility/msha-2602918",
+      "type": "facility",
+      "name": "Rulco Chimney 1",
+      "slug": "msha-2602918"
+    },
+    {
+      "id": "facility/msha-3304750",
+      "type": "facility",
+      "name": "S&S Aggregate Portable Plant 3",
+      "slug": "msha-3304750"
+    },
+    {
+      "id": "facility/msha-4703972",
+      "type": "facility",
+      "name": "SCREENING PLANT-RENTAL",
+      "slug": "msha-4703972"
+    },
+    {
+      "id": "facility/msha-0801465",
+      "type": "facility",
+      "name": "SH SAND INC",
+      "slug": "msha-0801465"
+    },
+    {
+      "id": "facility/msha-0200134",
+      "type": "facility",
+      "name": "SILVER BELL MINING LLC",
+      "slug": "msha-0200134"
+    },
+    {
+      "id": "facility/msha-2401490",
+      "type": "facility",
+      "name": "STILLWATER MINE",
+      "slug": "msha-2401490"
+    },
+    {
+      "id": "facility/msha-4003597",
+      "type": "facility",
+      "name": "Saltillo Sand and Gravel",
+      "slug": "msha-4003597"
+    },
+    {
+      "id": "facility/msha-4105696",
+      "type": "facility",
+      "name": "SanBar Stateline #1",
+      "slug": "msha-4105696"
+    },
+    {
+      "id": "facility/msha-4103760",
+      "type": "facility",
+      "name": "Sand Express",
+      "slug": "msha-4103760"
+    },
+    {
+      "id": "facility/msha-4105276",
+      "type": "facility",
+      "name": "Sand Pit",
+      "slug": "msha-4105276"
+    },
+    {
+      "id": "facility/msha-2902432",
+      "type": "facility",
+      "name": "Sand Plant",
+      "slug": "msha-2902432"
+    },
+    {
+      "id": "facility/msha-4503687",
+      "type": "facility",
+      "name": "Sanderling Dredge",
+      "slug": "msha-4503687"
+    },
+    {
+      "id": "facility/msha-0405799",
+      "type": "facility",
+      "name": "Sanger Aggregate Plant",
+      "slug": "msha-0405799"
+    },
+    {
+      "id": "facility/msha-4105797",
+      "type": "facility",
+      "name": "Santa Barbara",
+      "slug": "msha-4105797"
+    },
+    {
+      "id": "facility/msha-0405779",
+      "type": "facility",
+      "name": "Santa Fe Aggregates Portable",
+      "slug": "msha-0405779"
+    },
+    {
+      "id": "facility/msha-3610227",
+      "type": "facility",
+      "name": "Schell Quarry",
+      "slug": "msha-3610227"
+    },
+    {
+      "id": "facility/msha-3100375",
+      "type": "facility",
+      "name": "Schoolhouse Quartz Plant",
+      "slug": "msha-3100375"
+    },
+    {
+      "id": "facility/msha-4703714",
+      "type": "facility",
+      "name": "Screen 766",
+      "slug": "msha-4703714"
+    },
+    {
+      "id": "facility/msha-2003503",
+      "type": "facility",
+      "name": "Screen Plant",
+      "slug": "msha-2003503"
+    },
+    {
+      "id": "facility/msha-4703499",
+      "type": "facility",
+      "name": "Screen Plant",
+      "slug": "msha-4703499"
+    },
+    {
+      "id": "facility/msha-2602781",
+      "type": "facility",
+      "name": "Screen Plant #1",
+      "slug": "msha-2602781"
+    },
+    {
+      "id": "facility/msha-0301979",
+      "type": "facility",
+      "name": "Section 27",
+      "slug": "msha-0301979"
+    },
+    {
+      "id": "facility/msha-3301355",
+      "type": "facility",
+      "name": "Select Materials-Millwood Operation",
+      "slug": "msha-3301355"
+    },
+    {
+      "id": "facility/msha-5002015",
+      "type": "facility",
+      "name": "Serendipity Mines",
+      "slug": "msha-5002015"
+    },
+    {
+      "id": "facility/msha-1002200",
+      "type": "facility",
+      "name": "Shelley Pit",
+      "slug": "msha-1002200"
+    },
+    {
+      "id": "facility/msha-0405791",
+      "type": "facility",
+      "name": "Sheridan Quarry",
+      "slug": "msha-0405791"
+    },
+    {
+      "id": "facility/msha-0301937",
+      "type": "facility",
+      "name": "Sheridan White Rock Inc.-Blake Rd",
+      "slug": "msha-0301937"
+    },
+    {
+      "id": "facility/msha-0103621",
+      "type": "facility",
+      "name": "Shorter Pit",
+      "slug": "msha-0103621"
+    },
+    {
+      "id": "facility/msha-0801464",
+      "type": "facility",
+      "name": "Shortleaf Borrow Pit",
+      "slug": "msha-0801464"
+    },
+    {
+      "id": "facility/msha-2602594",
+      "type": "facility",
+      "name": "Sierra Ready Mix Quarry",
+      "slug": "msha-2602594"
+    },
+    {
+      "id": "facility/msha-0405879",
+      "type": "facility",
+      "name": "Sierra Silica Resources",
+      "slug": "msha-0405879"
+    },
+    {
+      "id": "facility/msha-4105317",
+      "type": "facility",
+      "name": "Signal Peak Silica of Atascosa",
+      "slug": "msha-4105317"
+    },
+    {
+      "id": "facility/msha-0203270",
+      "type": "facility",
+      "name": "Silica Services Mining, LLC",
+      "slug": "msha-0203270"
+    },
+    {
+      "id": "facility/msha-0203405",
+      "type": "facility",
+      "name": "Silverbell Screen and Crush",
+      "slug": "msha-0203405"
+    },
+    {
+      "id": "facility/msha-3900008",
+      "type": "facility",
+      "name": "Sioux Falls Quarry",
+      "slug": "msha-3900008"
+    },
+    {
+      "id": "facility/msha-4703759",
+      "type": "facility",
+      "name": "Smart Sand Blair LLC",
+      "slug": "msha-4703759"
+    },
+    {
+      "id": "facility/msha-4703625",
+      "type": "facility",
+      "name": "Smart Sand, Inc.",
+      "slug": "msha-4703625"
+    },
+    {
+      "id": "facility/msha-1001590",
+      "type": "facility",
+      "name": "Smoky Canyon Mine",
+      "slug": "msha-1001590"
+    },
+    {
+      "id": "facility/msha-2602584",
+      "type": "facility",
+      "name": "Smoky Valley Common Operation-UG",
+      "slug": "msha-2602584"
+    },
+    {
+      "id": "facility/msha-2600594",
+      "type": "facility",
+      "name": "Smoky Valley Common Operations",
+      "slug": "msha-2600594"
+    },
+    {
+      "id": "facility/msha-0505130",
+      "type": "facility",
+      "name": "Snowstorm",
+      "slug": "msha-0505130"
+    },
+    {
+      "id": "facility/msha-0405319",
+      "type": "facility",
+      "name": "Soledad Mountain Project",
+      "slug": "msha-0405319"
+    },
+    {
+      "id": "facility/msha-2200855",
+      "type": "facility",
+      "name": "Solid Rock Materials",
+      "slug": "msha-2200855"
+    },
+    {
+      "id": "facility/msha-2600500",
+      "type": "facility",
+      "name": "South Area",
+      "slug": "msha-2600500"
+    },
+    {
+      "id": "facility/msha-0801183",
+      "type": "facility",
+      "name": "South Fort Meade Mine",
+      "slug": "msha-0801183"
+    },
+    {
+      "id": "facility/msha-0800903",
+      "type": "facility",
+      "name": "South Pasture Mine",
+      "slug": "msha-0800903"
+    },
+    {
+      "id": "facility/msha-3402252",
+      "type": "facility",
+      "name": "Southern Sand-Colbert",
+      "slug": "msha-3402252"
+    },
+    {
+      "id": "facility/msha-4703668",
+      "type": "facility",
+      "name": "Sparta Plant",
+      "slug": "msha-4703668"
+    },
+    {
+      "id": "facility/msha-4703644",
+      "type": "facility",
+      "name": "Sparta, WI Plant",
+      "slug": "msha-4703644"
+    },
+    {
+      "id": "facility/msha-3102264",
+      "type": "facility",
+      "name": "Spout Springs Pit",
+      "slug": "msha-3102264"
+    },
+    {
+      "id": "facility/msha-2602916",
+      "type": "facility",
+      "name": "Spring Valley",
+      "slug": "msha-2602916"
+    },
+    {
+      "id": "facility/msha-2602470",
+      "type": "facility",
+      "name": "Spring Valley Mine",
+      "slug": "msha-2602470"
+    },
+    {
+      "id": "facility/msha-2901960",
+      "type": "facility",
+      "name": "St Cloud Surface",
+      "slug": "msha-2901960"
+    },
+    {
+      "id": "facility/msha-0103598",
+      "type": "facility",
+      "name": "Stange",
+      "slug": "msha-0103598"
+    },
+    {
+      "id": "facility/msha-2601503",
+      "type": "facility",
+      "name": "Sterling Mine",
+      "slug": "msha-2601503"
+    },
+    {
+      "id": "facility/msha-1302452",
+      "type": "facility",
+      "name": "Stripping Crew",
+      "slug": "msha-1302452"
+    },
+    {
+      "id": "facility/msha-3304427",
+      "type": "facility",
+      "name": "Summit Sand & Gravel -Beaver Plant",
+      "slug": "msha-3304427"
+    },
+    {
+      "id": "facility/msha-3304512",
+      "type": "facility",
+      "name": "Summit Sand & Gravel -Jackson Plant",
+      "slug": "msha-3304512"
+    },
+    {
+      "id": "facility/msha-4703686",
+      "type": "facility",
+      "name": "Sumner Wet Plant",
+      "slug": "msha-4703686"
+    },
+    {
+      "id": "facility/msha-0405514",
+      "type": "facility",
+      "name": "Superior - Twin Oaks",
+      "slug": "msha-0405514"
+    },
+    {
+      "id": "facility/msha-5002081",
+      "type": "facility",
+      "name": "Swanberg",
+      "slug": "msha-5002081"
+    },
+    {
+      "id": "facility/msha-2300458",
+      "type": "facility",
+      "name": "Sweetwater Mine/Mill",
+      "slug": "msha-2300458"
+    },
+    {
+      "id": "facility/msha-0800798",
+      "type": "facility",
+      "name": "Swift Creek Mine",
+      "slug": "msha-0800798"
+    },
+    {
+      "id": "facility/msha-4402962",
+      "type": "facility",
+      "name": "Sylvatus Quarry",
+      "slug": "msha-4402962"
+    },
+    {
+      "id": "facility/msha-3003632",
+      "type": "facility",
+      "name": "TOWN OF JOHNSTOWN",
+      "slug": "msha-3003632"
+    },
+    {
+      "id": "facility/msha-4104654",
+      "type": "facility",
+      "name": "TQP-Eagle Lake",
+      "slug": "msha-4104654"
+    },
+    {
+      "id": "facility/msha-4202751",
+      "type": "facility",
+      "name": "TSJ Crusher #2",
+      "slug": "msha-4202751"
+    },
+    {
+      "id": "facility/msha-2900159",
+      "type": "facility",
+      "name": "TYRONE MINE",
+      "slug": "msha-2900159"
+    },
+    {
+      "id": "facility/msha-5001603",
+      "type": "facility",
+      "name": "Taiga Mining Company - Hog River",
+      "slug": "msha-5001603"
+    },
+    {
+      "id": "facility/msha-4800155",
+      "type": "facility",
+      "name": "Tata Chemicals Mine",
+      "slug": "msha-4800155"
+    },
+    {
+      "id": "facility/msha-4703655",
+      "type": "facility",
+      "name": "Taylor Frac",
+      "slug": "msha-4703655"
+    },
+    {
+      "id": "facility/msha-4702555",
+      "type": "facility",
+      "name": "Taylor Plant",
+      "slug": "msha-4702555"
+    },
+    {
+      "id": "facility/msha-4003195",
+      "type": "facility",
+      "name": "Teague Transports, LLC Airways",
+      "slug": "msha-4003195"
+    },
+    {
+      "id": "facility/msha-2602762",
+      "type": "facility",
+      "name": "Thacker Pass",
+      "slug": "msha-2602762"
+    },
+    {
+      "id": "facility/msha-0800225",
+      "type": "facility",
+      "name": "The Chemours Company FC LLC",
+      "slug": "msha-0800225"
+    },
+    {
+      "id": "facility/msha-3100354",
+      "type": "facility",
+      "name": "The Feldspar Plant",
+      "slug": "msha-3100354"
+    },
+    {
+      "id": "facility/msha-0203352",
+      "type": "facility",
+      "name": "The Gravel Pit",
+      "slug": "msha-0203352"
+    },
+    {
+      "id": "facility/msha-1000531",
+      "type": "facility",
+      "name": "Thompson Creek Mine",
+      "slug": "msha-1000531"
+    },
+    {
+      "id": "facility/msha-4703718",
+      "type": "facility",
+      "name": "Thompson Hills",
+      "slug": "msha-4703718"
+    },
+    {
+      "id": "facility/msha-3301944",
+      "type": "facility",
+      "name": "Thompson Mine",
+      "slug": "msha-3301944"
+    },
+    {
+      "id": "facility/msha-1002184",
+      "type": "facility",
+      "name": "Thornton",
+      "slug": "msha-1002184"
+    },
+    {
+      "id": "facility/msha-2801048",
+      "type": "facility",
+      "name": "Tilcon NY-Perth Amboy Sand",
+      "slug": "msha-2801048"
+    },
+    {
+      "id": "facility/msha-3605077",
+      "type": "facility",
+      "name": "Tioga County Quarry",
+      "slug": "msha-3605077"
+    },
+    {
+      "id": "facility/msha-0505176",
+      "type": "facility",
+      "name": "Track Jaw Crusher PS330",
+      "slug": "msha-0505176"
+    },
+    {
+      "id": "facility/msha-4104637",
+      "type": "facility",
+      "name": "Trini Fine Materials",
+      "slug": "msha-4104637"
+    },
+    {
+      "id": "facility/msha-5002046",
+      "type": "facility",
+      "name": "Tripple Creek Mine",
+      "slug": "msha-5002046"
+    },
+    {
+      "id": "facility/msha-4200147",
+      "type": "facility",
+      "name": "Trixie",
+      "slug": "msha-4200147"
+    },
+    {
+      "id": "facility/msha-1901328",
+      "type": "facility",
+      "name": "Trommel Screen",
+      "slug": "msha-1901328"
+    },
+    {
+      "id": "facility/msha-1101580",
+      "type": "facility",
+      "name": "Troy Grove Plant",
+      "slug": "msha-1101580"
+    },
+    {
+      "id": "facility/msha-2401467",
+      "type": "facility",
+      "name": "Troy Mine",
+      "slug": "msha-2401467"
+    },
+    {
+      "id": "facility/msha-0103620",
+      "type": "facility",
+      "name": "Turkey Trot",
+      "slug": "msha-0103620"
+    },
+    {
+      "id": "facility/msha-5002032",
+      "type": "facility",
+      "name": "Turner Enterprises",
+      "slug": "msha-5002032"
+    },
+    {
+      "id": "facility/msha-2602286",
+      "type": "facility",
+      "name": "Turquoise Ridge",
+      "slug": "msha-2602286"
+    },
+    {
+      "id": "facility/msha-2601942",
+      "type": "facility",
+      "name": "Twin Creeks Mine",
+      "slug": "msha-2601942"
+    },
+    {
+      "id": "facility/msha-1601525",
+      "type": "facility",
+      "name": "U.S. Sports Field Sand- Kentwood Plant",
+      "slug": "msha-1601525"
+    },
+    {
+      "id": "facility/msha-0300261",
+      "type": "facility",
+      "name": "U.S. Vanadium - Benton, LLC",
+      "slug": "msha-0300261"
+    },
+    {
+      "id": "facility/msha-0300479",
+      "type": "facility",
+      "name": "US Vanadium, LLC",
+      "slug": "msha-0300479"
+    },
+    {
+      "id": "facility/msha-0801466",
+      "type": "facility",
+      "name": "USA Calcium",
+      "slug": "msha-0801466"
+    },
+    {
+      "id": "facility/msha-3304770",
+      "type": "facility",
+      "name": "Upper Sandusky",
+      "slug": "msha-3304770"
+    },
+    {
+      "id": "facility/msha-2601317",
+      "type": "facility",
+      "name": "VICTORIA MINE",
+      "slug": "msha-2601317"
+    },
+    {
+      "id": "facility/msha-4300637",
+      "type": "facility",
+      "name": "Varin's Pit",
+      "slug": "msha-4300637"
+    },
+    {
+      "id": "facility/msha-4201527",
+      "type": "facility",
+      "name": "Velvet Mine",
+      "slug": "msha-4201527"
+    },
+    {
+      "id": "facility/msha-4200998",
+      "type": "facility",
+      "name": "Vernal Pit & Mill",
+      "slug": "msha-4200998"
+    },
+    {
+      "id": "facility/msha-0405783",
+      "type": "facility",
+      "name": "Vernalis Plant",
+      "slug": "msha-0405783"
+    },
+    {
+      "id": "facility/msha-2300495",
+      "type": "facility",
+      "name": "Viburnum #29 Mine",
+      "slug": "msha-2300495"
+    },
+    {
+      "id": "facility/msha-2301800",
+      "type": "facility",
+      "name": "Viburnum #35 (Casteel Mine)",
+      "slug": "msha-2301800"
+    },
+    {
+      "id": "facility/msha-0203344",
+      "type": "facility",
+      "name": "Vulture Mine",
+      "slug": "msha-0203344"
+    },
+    {
+      "id": "facility/msha-0202668",
+      "type": "facility",
+      "name": "WASH PLANT",
+      "slug": "msha-0202668"
+    },
+    {
+      "id": "facility/msha-4800152",
+      "type": "facility",
+      "name": "WE Soda @ WESTVACO",
+      "slug": "msha-4800152"
+    },
+    {
+      "id": "facility/msha-3304799",
+      "type": "facility",
+      "name": "WELLSVILLE FACILITY",
+      "slug": "msha-3304799"
+    },
+    {
+      "id": "facility/msha-1901177",
+      "type": "facility",
+      "name": "WHITE WOLF MINE",
+      "slug": "msha-1901177"
+    },
+    {
+      "id": "facility/msha-4105305",
+      "type": "facility",
+      "name": "WI TEXAS FRAC LLC, dba TEXAS FRAC, LLC",
+      "slug": "msha-4105305"
+    },
+    {
+      "id": "facility/msha-3503971",
+      "type": "facility",
+      "name": "Walker",
+      "slug": "msha-3503971"
+    },
+    {
+      "id": "facility/msha-5001301",
+      "type": "facility",
+      "name": "Walker Fork",
+      "slug": "msha-5001301"
+    },
+    {
+      "id": "facility/msha-5001949",
+      "type": "facility",
+      "name": "Walker Fork Mine",
+      "slug": "msha-5001949"
+    },
+    {
+      "id": "facility/msha-2601030",
+      "type": "facility",
+      "name": "Walker Lane Mining LLC (Rawhide)",
+      "slug": "msha-2601030"
+    },
+    {
+      "id": "facility/msha-3402202",
+      "type": "facility",
+      "name": "Wall Sand And Gravel",
+      "slug": "msha-3402202"
+    },
+    {
+      "id": "facility/msha-4105726",
+      "type": "facility",
+      "name": "Wall Street Sand Co",
+      "slug": "msha-4105726"
+    },
+    {
+      "id": "facility/msha-3609169",
+      "type": "facility",
+      "name": "Wampum",
+      "slug": "msha-3609169"
+    },
+    {
+      "id": "facility/msha-0405895",
+      "type": "facility",
+      "name": "Warrior 1800/Cone Crusher FT200",
+      "slug": "msha-0405895"
+    },
+    {
+      "id": "facility/msha-2103900",
+      "type": "facility",
+      "name": "Wash Plant",
+      "slug": "msha-2103900"
+    },
+    {
+      "id": "facility/msha-0403425",
+      "type": "facility",
+      "name": "Washington Mine",
+      "slug": "msha-0403425"
+    },
+    {
+      "id": "facility/msha-2902425",
+      "type": "facility",
+      "name": "Waterflow Pit",
+      "slug": "msha-2902425"
+    },
+    {
+      "id": "facility/msha-0405846",
+      "type": "facility",
+      "name": "Waverly",
+      "slug": "msha-0405846"
+    },
+    {
+      "id": "facility/msha-2301448",
+      "type": "facility",
+      "name": "Wayland Sand",
+      "slug": "msha-2301448"
+    },
+    {
+      "id": "facility/msha-1101578",
+      "type": "facility",
+      "name": "Wedron Plant",
+      "slug": "msha-1101578"
+    },
+    {
+      "id": "facility/msha-0203522",
+      "type": "facility",
+      "name": "Welton",
+      "slug": "msha-0203522"
+    },
+    {
+      "id": "facility/msha-4801833",
+      "type": "facility",
+      "name": "Western Proppants Facility #1",
+      "slug": "msha-4801833"
+    },
+    {
+      "id": "facility/msha-4703703",
+      "type": "facility",
+      "name": "Weyerhaeuser Operations",
+      "slug": "msha-4703703"
+    },
+    {
+      "id": "facility/msha-5001994",
+      "type": "facility",
+      "name": "White Creek Mine",
+      "slug": "msha-5001994"
+    },
+    {
+      "id": "facility/msha-4201429",
+      "type": "facility",
+      "name": "White Mesa Mill",
+      "slug": "msha-4201429"
+    },
+    {
+      "id": "facility/msha-4300191",
+      "type": "facility",
+      "name": "White River Pit",
+      "slug": "msha-4300191"
+    },
+    {
+      "id": "facility/msha-5001957",
+      "type": "facility",
+      "name": "Wild Goose",
+      "slug": "msha-5001957"
+    },
+    {
+      "id": "facility/msha-0504855",
+      "type": "facility",
+      "name": "Willow Creek Mine",
+      "slug": "msha-0504855"
+    },
+    {
+      "id": "facility/msha-0700100",
+      "type": "facility",
+      "name": "Wilmington Plant",
+      "slug": "msha-0700100"
+    },
+    {
+      "id": "facility/msha-2700486",
+      "type": "facility",
+      "name": "Wilton Pit",
+      "slug": "msha-2700486"
+    },
+    {
+      "id": "facility/msha-0800981",
+      "type": "facility",
+      "name": "Wingate Creek Mine",
+      "slug": "msha-0800981"
+    },
+    {
+      "id": "facility/msha-3100117",
+      "type": "facility",
+      "name": "Wiseman Sullins/Chalk",
+      "slug": "msha-3100117"
+    },
+    {
+      "id": "facility/msha-0700112",
+      "type": "facility",
+      "name": "Wolman",
+      "slug": "msha-0700112"
+    },
+    {
+      "id": "facility/msha-4001981",
+      "type": "facility",
+      "name": "Young Mill",
+      "slug": "msha-4001981"
+    },
+    {
+      "id": "facility/msha-4000168",
+      "type": "facility",
+      "name": "Young Mine",
+      "slug": "msha-4000168"
+    },
+    {
+      "id": "facility/msha-4105532",
+      "type": "facility",
+      "name": "Z&T Ranch Sand Plant",
+      "slug": "msha-4105532"
+    },
+    {
+      "id": "facility/msha-5001837",
+      "type": "facility",
+      "name": "placer mine",
+      "slug": "msha-5001837"
+    },
+    {
+      "id": "investment/ira-48c-evac-magnetics",
+      "type": "investment",
+      "name": "Advanced Energy Project Tax Credit for Magnet Plant",
+      "slug": "ira-48c-evac-magnetics"
+    },
+    {
+      "id": "investment/ira-48c-novonix-anode",
+      "type": "investment",
+      "name": "Anode Material Manufacturing",
+      "slug": "ira-48c-novonix-anode"
+    },
+    {
+      "id": "investment/nds-antimony-stockpile",
+      "type": "investment",
+      "name": "Antimony Strategic Reserve Acquisition",
+      "slug": "nds-antimony-stockpile"
+    },
+    {
+      "id": "investment/ira-ascend-elements",
+      "type": "investment",
+      "name": "Battery Cathode Manufacturing",
+      "slug": "ira-ascend-elements"
+    },
+    {
+      "id": "investment/doe-lpo-redwood",
+      "type": "investment",
+      "name": "Battery Recycling Campus",
+      "slug": "doe-lpo-redwood"
+    },
+    {
+      "id": "investment/doe-byproduct-recovery",
+      "type": "investment",
+      "name": "By-Product Critical Minerals Recovery at Industrial Facilities",
+      "slug": "doe-byproduct-recovery"
+    },
+    {
+      "id": "investment/chips-act-total-deployment",
+      "type": "investment",
+      "name": "CHIPS Act Total Deployment — 32 Projects in 20 States",
+      "slug": "chips-act-total-deployment"
+    },
+    {
+      "id": "investment/doe-lpo-novonix-graphite",
+      "type": "investment",
+      "name": "Chattanooga Synthetic Graphite Plant",
+      "slug": "doe-lpo-novonix-graphite"
+    },
+    {
+      "id": "investment/nds-cobalt-stockpile",
+      "type": "investment",
+      "name": "Cobalt Strategic Reserve Acquisition",
+      "slug": "nds-cobalt-stockpile"
+    },
+    {
+      "id": "investment/dfc-drc-cobalt",
+      "type": "investment",
+      "name": "DRC Copper and Cobalt Venture",
+      "slug": "dfc-drc-cobalt"
+    },
+    {
+      "id": "investment/doe-gallium-production-rd",
+      "type": "investment",
+      "name": "Domestic Gallium Production R&D",
+      "slug": "doe-gallium-production-rd"
+    },
+    {
+      "id": "investment/dpa-gallium-elementus",
+      "type": "investment",
+      "name": "Domestic Gallium and Scandium Supply",
+      "slug": "dpa-gallium-elementus"
+    },
+    {
+      "id": "investment/doe-uranium-enrichment",
+      "type": "investment",
+      "name": "Domestic LEU and HALEU Enrichment Expansion",
+      "slug": "doe-uranium-enrichment"
+    },
+    {
+      "id": "investment/dod-nickel-prospecting",
+      "type": "investment",
+      "name": "Domestic Nickel Prospecting in Minnesota and Michigan",
+      "slug": "dod-nickel-prospecting"
+    },
+    {
+      "id": "investment/dpa-niobium-gam",
+      "type": "investment",
+      "name": "Domestic Niobium Oxide Production",
+      "slug": "dpa-niobium-gam"
+    },
+    {
+      "id": "investment/dod-scandium-niocorp",
+      "type": "investment",
+      "name": "Domestic Scandium Production Development",
+      "slug": "dod-scandium-niocorp"
+    },
+    {
+      "id": "investment/dpa-tin-nathan-trotter",
+      "type": "investment",
+      "name": "Domestic Tin Smelting and Refining Facility",
+      "slug": "dpa-tin-nathan-trotter"
+    },
+    {
+      "id": "investment/dpa-tungsten",
+      "type": "investment",
+      "name": "Domestic Tungsten Processing",
+      "slug": "dpa-tungsten"
+    },
+    {
+      "id": "investment/dpa-scandium-niocorp",
+      "type": "investment",
+      "name": "Elk Creek Critical Minerals Project",
+      "slug": "dpa-scandium-niocorp"
+    },
+    {
+      "id": "investment/ndaa-fy25-stockpile-expansion",
+      "type": "investment",
+      "name": "FY2025 National Defense Stockpile Expansion",
+      "slug": "ndaa-fy25-stockpile-expansion"
+    },
+    {
+      "id": "investment/dod-globalfoundries-gan",
+      "type": "investment",
+      "name": "GaN-on-Silicon Chip Manufacturing",
+      "slug": "dod-globalfoundries-gan"
+    },
+    {
+      "id": "investment/dpa-germanium-5nplus",
+      "type": "investment",
+      "name": "Germanium Substrate Production for Space Solar Cells",
+      "slug": "dpa-germanium-5nplus"
+    },
+    {
+      "id": "investment/dpa-graphite",
+      "type": "investment",
+      "name": "Graphite Creek Mine + Processing",
+      "slug": "dpa-graphite"
+    },
+    {
+      "id": "investment/doe-centrus-haleu",
+      "type": "investment",
+      "name": "HALEU Production at Piketon, Ohio",
+      "slug": "doe-centrus-haleu"
+    },
+    {
+      "id": "investment/dpa-cobalt-jervois",
+      "type": "investment",
+      "name": "Idaho Cobalt Operations Expansion Study",
+      "slug": "dpa-cobalt-jervois"
+    },
+    {
+      "id": "investment/doe-lpo-form-energy",
+      "type": "investment",
+      "name": "Iron-Air Battery Factory",
+      "slug": "doe-lpo-form-energy"
+    },
+    {
+      "id": "investment/dpa-albemarle-lithium-v2",
+      "type": "investment",
+      "name": "Kings Mountain Lithium Mine Reopening",
+      "slug": "dpa-albemarle-lithium-v2"
+    },
+    {
+      "id": "investment/dpa-title-iii-albemarle",
+      "type": "investment",
+      "name": "Lithium Processing Expansion",
+      "slug": "dpa-title-iii-albemarle"
+    },
+    {
+      "id": "investment/dod-iperionx-titanium-sbir",
+      "type": "investment",
+      "name": "Low-Cost Domestic Titanium for Defense Applications",
+      "slug": "dod-iperionx-titanium-sbir"
+    },
+    {
+      "id": "investment/155mm-expansion",
+      "type": "investment",
+      "name": "Mesquite TX 155mm Shell Plant",
+      "slug": "155mm-expansion"
+    },
+    {
+      "id": "investment/doe-mine-of-future",
+      "type": "investment",
+      "name": "Mine of the Future Proving Grounds",
+      "slug": "doe-mine-of-future"
+    },
+    {
+      "id": "investment/dod-mp-materials-hree-loan",
+      "type": "investment",
+      "name": "Mountain Pass Heavy Rare Earth Separation",
+      "slug": "dod-mp-materials-hree-loan"
+    },
+    {
+      "id": "investment/dpa-title-iii-mp-materials",
+      "type": "investment",
+      "name": "Mountain Pass Rare Earth Processing",
+      "slug": "dpa-title-iii-mp-materials"
+    },
+    {
+      "id": "investment/chips-intel",
+      "type": "investment",
+      "name": "Ohio Fab Complex",
+      "slug": "chips-intel"
+    },
+    {
+      "id": "investment/chips-tsmc",
+      "type": "investment",
+      "name": "Phoenix Fab Complex (3 fabs)",
+      "slug": "chips-tsmc"
+    },
+    {
+      "id": "investment/dod-tungsten-pilot-mountain",
+      "type": "investment",
+      "name": "Pilot Mountain Tungsten Mine Development",
+      "slug": "dod-tungsten-pilot-mountain"
+    },
+    {
+      "id": "investment/ira-48c-mp-materials-magnets",
+      "type": "investment",
+      "name": "Rare Earth Magnet Manufacturing",
+      "slug": "ira-48c-mp-materials-magnets"
+    },
+    {
+      "id": "investment/dod-mp-materials-equity",
+      "type": "investment",
+      "name": "Rare Earth Mine-to-Magnet Independence Partnership",
+      "slug": "dod-mp-materials-equity"
+    },
+    {
+      "id": "investment/dpa-title-iii-lynas",
+      "type": "investment",
+      "name": "Rare Earth Processing Facility",
+      "slug": "dpa-title-iii-lynas"
+    },
+    {
+      "id": "investment/doe-lpo-ioneer",
+      "type": "investment",
+      "name": "Rhyolite Ridge Lithium-Boron Mine",
+      "slug": "doe-lpo-ioneer"
+    },
+    {
+      "id": "investment/nds-scandium-stockpile",
+      "type": "investment",
+      "name": "Scandium Strategic Reserve Acquisition",
+      "slug": "nds-scandium-stockpile"
+    },
+    {
+      "id": "investment/dod-evac-magnetics",
+      "type": "investment",
+      "name": "SmCo and NdFeB Permanent Magnet Manufacturing Plant",
+      "slug": "dod-evac-magnetics"
+    },
+    {
+      "id": "investment/dod-perpetua-antimony-exploration",
+      "type": "investment",
+      "name": "Stibnite Gold-Antimony Exploration",
+      "slug": "dod-perpetua-antimony-exploration"
+    },
+    {
+      "id": "investment/dpa-antimony",
+      "type": "investment",
+      "name": "Stibnite Gold-Antimony Mine",
+      "slug": "dpa-antimony"
+    },
+    {
+      "id": "investment/exim-perpetua-antimony",
+      "type": "investment",
+      "name": "Stibnite Gold-Antimony Mine Development",
+      "slug": "exim-perpetua-antimony"
+    },
+    {
+      "id": "investment/sub-industrial-base",
+      "type": "investment",
+      "name": "Submarine Industrial Base Investment",
+      "slug": "sub-industrial-base"
+    },
+    {
+      "id": "investment/chips-micron",
+      "type": "investment",
+      "name": "Syracuse NY Memory Fab",
+      "slug": "chips-micron"
+    },
+    {
+      "id": "investment/nds-tantalum-stockpile",
+      "type": "investment",
+      "name": "Tantalum Strategic Reserve Acquisition",
+      "slug": "nds-tantalum-stockpile"
+    },
+    {
+      "id": "investment/chips-samsung",
+      "type": "investment",
+      "name": "Taylor TX Fab Expansion",
+      "slug": "chips-samsung"
+    },
+    {
+      "id": "investment/dod-hree-texas-facility",
+      "type": "investment",
+      "name": "Texas Heavy Rare Earth Separation Facility",
+      "slug": "dod-hree-texas-facility"
+    },
+    {
+      "id": "investment/doe-lpo-lithium-americas",
+      "type": "investment",
+      "name": "Thacker Pass Lithium Mine",
+      "slug": "doe-lpo-lithium-americas"
+    },
+    {
+      "id": "investment/dod-iperionx-titanium",
+      "type": "investment",
+      "name": "Titanium Manufacturing Campus Scale-Up",
+      "slug": "dod-iperionx-titanium"
+    },
+    {
+      "id": "investment/dpa-titanium",
+      "type": "investment",
+      "name": "Titanium Metal Production",
+      "slug": "dpa-titanium"
+    },
+    {
+      "id": "investment/us-australia-critical-minerals",
+      "type": "investment",
+      "name": "U.S.-Australia Critical Minerals Framework Agreement",
+      "slug": "us-australia-critical-minerals"
+    },
+    {
+      "id": "investment/doe-lpo-syrah-graphite",
+      "type": "investment",
+      "name": "Vidalia Graphite Active Anode Material Facility",
+      "slug": "doe-lpo-syrah-graphite"
+    },
+    {
+      "id": "landing-point/bilbao-spain",
+      "type": "landing-point",
+      "name": "Bilbao, Spain",
+      "slug": "bilbao-spain"
+    },
+    {
+      "id": "landing-point/bude-uk-bilbao-spain",
+      "type": "landing-point",
+      "name": "Bude, UK / Bilbao, Spain",
+      "slug": "bude-uk-bilbao-spain"
+    },
+    {
+      "id": "landing-point/cape-town-south-africa",
+      "type": "landing-point",
+      "name": "Cape Town, South Africa",
+      "slug": "cape-town-south-africa"
+    },
+    {
+      "id": "landing-point/lisbon-portugal",
+      "type": "landing-point",
+      "name": "Lisbon, Portugal",
+      "slug": "lisbon-portugal"
+    },
+    {
+      "id": "landing-point/los-angeles-us",
+      "type": "landing-point",
+      "name": "Los Angeles, US",
+      "slug": "los-angeles-us"
+    },
+    {
+      "id": "landing-point/marseille-france",
+      "type": "landing-point",
+      "name": "Marseille, France",
+      "slug": "marseille-france"
+    },
+    {
+      "id": "landing-point/multiple-africa",
+      "type": "landing-point",
+      "name": "Multiple (Africa)",
+      "slug": "multiple-africa"
+    },
+    {
+      "id": "landing-point/multiple-europeme",
+      "type": "landing-point",
+      "name": "Multiple (Europe/ME)",
+      "slug": "multiple-europeme"
+    },
+    {
+      "id": "landing-point/new-york-us",
+      "type": "landing-point",
+      "name": "New York, US",
+      "slug": "new-york-us"
+    },
+    {
+      "id": "landing-point/philippinestaiwan",
+      "type": "landing-point",
+      "name": "Philippines/Taiwan",
+      "slug": "philippinestaiwan"
+    },
+    {
+      "id": "landing-point/saint-hilaire-france",
+      "type": "landing-point",
+      "name": "Saint-Hilaire, France",
+      "slug": "saint-hilaire-france"
+    },
+    {
+      "id": "landing-point/singapore",
+      "type": "landing-point",
+      "name": "Singapore",
+      "slug": "singapore"
+    },
+    {
+      "id": "landing-point/virginia-beach-us",
+      "type": "landing-point",
+      "name": "Virginia Beach, US",
+      "slug": "virginia-beach-us"
+    },
+    {
+      "id": "mineral/aluminum",
+      "type": "mineral",
+      "name": "Aluminum",
+      "slug": "aluminum"
+    },
+    {
+      "id": "mineral/antimony",
+      "type": "mineral",
+      "name": "Antimony",
+      "slug": "antimony"
+    },
+    {
+      "id": "mineral/arsenic",
+      "type": "mineral",
+      "name": "Arsenic",
+      "slug": "arsenic"
+    },
+    {
+      "id": "mineral/barite",
+      "type": "mineral",
+      "name": "Barite",
+      "slug": "barite"
+    },
+    {
+      "id": "mineral/beryllium",
+      "type": "mineral",
+      "name": "Beryllium",
+      "slug": "beryllium"
+    },
+    {
+      "id": "mineral/bismuth",
+      "type": "mineral",
+      "name": "Bismuth",
+      "slug": "bismuth"
+    },
+    {
+      "id": "mineral/boron",
+      "type": "mineral",
+      "name": "Boron",
+      "slug": "boron"
+    },
+    {
+      "id": "mineral/cerium",
+      "type": "mineral",
+      "name": "Cerium",
+      "slug": "cerium"
+    },
+    {
+      "id": "mineral/cesium",
+      "type": "mineral",
+      "name": "Cesium",
+      "slug": "cesium"
+    },
+    {
+      "id": "mineral/chromium",
+      "type": "mineral",
+      "name": "Chromium",
+      "slug": "chromium"
+    },
+    {
+      "id": "mineral/cobalt",
+      "type": "mineral",
+      "name": "Cobalt",
+      "slug": "cobalt"
+    },
+    {
+      "id": "mineral/copper",
+      "type": "mineral",
+      "name": "Copper",
+      "slug": "copper"
+    },
+    {
+      "id": "mineral/dysprosium",
+      "type": "mineral",
+      "name": "Dysprosium",
+      "slug": "dysprosium"
+    },
+    {
+      "id": "mineral/erbium",
+      "type": "mineral",
+      "name": "Erbium",
+      "slug": "erbium"
+    },
+    {
+      "id": "mineral/europium",
+      "type": "mineral",
+      "name": "Europium",
+      "slug": "europium"
+    },
+    {
+      "id": "mineral/fluorspar",
+      "type": "mineral",
+      "name": "Fluorspar",
+      "slug": "fluorspar"
+    },
+    {
+      "id": "mineral/gadolinium",
+      "type": "mineral",
+      "name": "Gadolinium",
+      "slug": "gadolinium"
+    },
+    {
+      "id": "mineral/gallium",
+      "type": "mineral",
+      "name": "Gallium",
+      "slug": "gallium"
+    },
+    {
+      "id": "mineral/germanium",
+      "type": "mineral",
+      "name": "Germanium",
+      "slug": "germanium"
+    },
+    {
+      "id": "mineral/graphite",
+      "type": "mineral",
+      "name": "Graphite",
+      "slug": "graphite"
+    },
+    {
+      "id": "mineral/hafnium",
+      "type": "mineral",
+      "name": "Hafnium",
+      "slug": "hafnium"
+    },
+    {
+      "id": "mineral/holmium",
+      "type": "mineral",
+      "name": "Holmium",
+      "slug": "holmium"
+    },
+    {
+      "id": "mineral/indium",
+      "type": "mineral",
+      "name": "Indium",
+      "slug": "indium"
+    },
+    {
+      "id": "mineral/iridium",
+      "type": "mineral",
+      "name": "Iridium",
+      "slug": "iridium"
+    },
+    {
+      "id": "mineral/lanthanum",
+      "type": "mineral",
+      "name": "Lanthanum",
+      "slug": "lanthanum"
+    },
+    {
+      "id": "mineral/lead",
+      "type": "mineral",
+      "name": "Lead",
+      "slug": "lead"
+    },
+    {
+      "id": "mineral/lithium",
+      "type": "mineral",
+      "name": "Lithium",
+      "slug": "lithium"
+    },
+    {
+      "id": "mineral/lutetium",
+      "type": "mineral",
+      "name": "Lutetium",
+      "slug": "lutetium"
+    },
+    {
+      "id": "mineral/magnesium",
+      "type": "mineral",
+      "name": "Magnesium",
+      "slug": "magnesium"
+    },
+    {
+      "id": "mineral/manganese",
+      "type": "mineral",
+      "name": "Manganese",
+      "slug": "manganese"
+    },
+    {
+      "id": "mineral/metallurgical-coal",
+      "type": "mineral",
+      "name": "Metallurgical Coal",
+      "slug": "metallurgical-coal"
+    },
+    {
+      "id": "mineral/neodymium",
+      "type": "mineral",
+      "name": "Neodymium",
+      "slug": "neodymium"
+    },
+    {
+      "id": "mineral/nickel",
+      "type": "mineral",
+      "name": "Nickel",
+      "slug": "nickel"
+    },
+    {
+      "id": "mineral/niobium",
+      "type": "mineral",
+      "name": "Niobium",
+      "slug": "niobium"
+    },
+    {
+      "id": "mineral/palladium",
+      "type": "mineral",
+      "name": "Palladium",
+      "slug": "palladium"
+    },
+    {
+      "id": "mineral/phosphate",
+      "type": "mineral",
+      "name": "Phosphate",
+      "slug": "phosphate"
+    },
+    {
+      "id": "mineral/phosphate-rock",
+      "type": "mineral",
+      "name": "Phosphate Rock",
+      "slug": "phosphate-rock"
+    },
+    {
+      "id": "mineral/platinum",
+      "type": "mineral",
+      "name": "Platinum",
+      "slug": "platinum"
+    },
+    {
+      "id": "mineral/potash",
+      "type": "mineral",
+      "name": "Potash",
+      "slug": "potash"
+    },
+    {
+      "id": "mineral/praseodymium",
+      "type": "mineral",
+      "name": "Praseodymium",
+      "slug": "praseodymium"
+    },
+    {
+      "id": "mineral/rare-earths",
+      "type": "mineral",
+      "name": "Rare Earths",
+      "slug": "rare-earths"
+    },
+    {
+      "id": "mineral/rhenium",
+      "type": "mineral",
+      "name": "Rhenium",
+      "slug": "rhenium"
+    },
+    {
+      "id": "mineral/rhodium",
+      "type": "mineral",
+      "name": "Rhodium",
+      "slug": "rhodium"
+    },
+    {
+      "id": "mineral/rubidium",
+      "type": "mineral",
+      "name": "Rubidium",
+      "slug": "rubidium"
+    },
+    {
+      "id": "mineral/ruthenium",
+      "type": "mineral",
+      "name": "Ruthenium",
+      "slug": "ruthenium"
+    },
+    {
+      "id": "mineral/samarium",
+      "type": "mineral",
+      "name": "Samarium",
+      "slug": "samarium"
+    },
+    {
+      "id": "mineral/scandium",
+      "type": "mineral",
+      "name": "Scandium",
+      "slug": "scandium"
+    },
+    {
+      "id": "mineral/silicon",
+      "type": "mineral",
+      "name": "Silicon",
+      "slug": "silicon"
+    },
+    {
+      "id": "mineral/silver",
+      "type": "mineral",
+      "name": "Silver",
+      "slug": "silver"
+    },
+    {
+      "id": "mineral/tantalum",
+      "type": "mineral",
+      "name": "Tantalum",
+      "slug": "tantalum"
+    },
+    {
+      "id": "mineral/tellurium",
+      "type": "mineral",
+      "name": "Tellurium",
+      "slug": "tellurium"
+    },
+    {
+      "id": "mineral/terbium",
+      "type": "mineral",
+      "name": "Terbium",
+      "slug": "terbium"
+    },
+    {
+      "id": "mineral/thulium",
+      "type": "mineral",
+      "name": "Thulium",
+      "slug": "thulium"
+    },
+    {
+      "id": "mineral/tin",
+      "type": "mineral",
+      "name": "Tin",
+      "slug": "tin"
+    },
+    {
+      "id": "mineral/titanium",
+      "type": "mineral",
+      "name": "Titanium",
+      "slug": "titanium"
+    },
+    {
+      "id": "mineral/tungsten",
+      "type": "mineral",
+      "name": "Tungsten",
+      "slug": "tungsten"
+    },
+    {
+      "id": "mineral/uranium",
+      "type": "mineral",
+      "name": "Uranium",
+      "slug": "uranium"
+    },
+    {
+      "id": "mineral/vanadium",
+      "type": "mineral",
+      "name": "Vanadium",
+      "slug": "vanadium"
+    },
+    {
+      "id": "mineral/ytterbium",
+      "type": "mineral",
+      "name": "Ytterbium",
+      "slug": "ytterbium"
+    },
+    {
+      "id": "mineral/yttrium",
+      "type": "mineral",
+      "name": "Yttrium",
+      "slug": "yttrium"
+    },
+    {
+      "id": "mineral/zinc",
+      "type": "mineral",
+      "name": "Zinc",
+      "slug": "zinc"
+    },
+    {
+      "id": "mineral/zirconium",
+      "type": "mineral",
+      "name": "Zirconium",
+      "slug": "zirconium"
+    },
+    {
+      "id": "port/port-of-busan",
+      "type": "port",
+      "name": "Port of Busan",
+      "slug": "port-of-busan"
+    },
+    {
+      "id": "port/port-of-houston",
+      "type": "port",
+      "name": "Port of Houston",
+      "slug": "port-of-houston"
+    },
+    {
+      "id": "port/port-of-long-beach",
+      "type": "port",
+      "name": "Port of Long Beach",
+      "slug": "port-of-long-beach"
+    },
+    {
+      "id": "port/port-of-los-angeles",
+      "type": "port",
+      "name": "Port of Los Angeles",
+      "slug": "port-of-los-angeles"
+    },
+    {
+      "id": "port/port-of-new-yorknew-jersey",
+      "type": "port",
+      "name": "Port of New York/New Jersey",
+      "slug": "port-of-new-yorknew-jersey"
+    },
+    {
+      "id": "port/port-of-ningbo-zhoushan",
+      "type": "port",
+      "name": "Port of Ningbo-Zhoushan",
+      "slug": "port-of-ningbo-zhoushan"
+    },
+    {
+      "id": "port/port-of-norfolk",
+      "type": "port",
+      "name": "Port of Norfolk",
+      "slug": "port-of-norfolk"
+    },
+    {
+      "id": "port/port-of-rotterdam",
+      "type": "port",
+      "name": "Port of Rotterdam",
+      "slug": "port-of-rotterdam"
+    },
+    {
+      "id": "port/port-of-san-diego",
+      "type": "port",
+      "name": "Port of San Diego",
+      "slug": "port-of-san-diego"
+    },
+    {
+      "id": "port/port-of-savannah",
+      "type": "port",
+      "name": "Port of Savannah",
+      "slug": "port-of-savannah"
+    },
+    {
+      "id": "port/port-of-shanghai",
+      "type": "port",
+      "name": "Port of Shanghai",
+      "slug": "port-of-shanghai"
+    },
+    {
+      "id": "port/port-of-shenzhen",
+      "type": "port",
+      "name": "Port of Shenzhen",
+      "slug": "port-of-shenzhen"
+    },
+    {
+      "id": "port/port-of-singapore",
+      "type": "port",
+      "name": "Port of Singapore",
+      "slug": "port-of-singapore"
+    },
+    {
+      "id": "port/port-of-yokosuka",
+      "type": "port",
+      "name": "Port of Yokosuka",
+      "slug": "port-of-yokosuka"
+    },
+    {
+      "id": "program/155mm",
+      "type": "program",
+      "name": "155mm Artillery Shell",
+      "slug": "155mm"
+    },
+    {
+      "id": "program/ddg51",
+      "type": "program",
+      "name": "Arleigh Burke-class Destroyer (DDG-51)",
+      "slug": "ddg51"
+    },
+    {
+      "id": "program/b21",
+      "type": "program",
+      "name": "B-21 Raider Stealth Bomber",
+      "slug": "b21"
+    },
+    {
+      "id": "program/columbia-class",
+      "type": "program",
+      "name": "Columbia-class SSBN",
+      "slug": "columbia-class"
+    },
+    {
+      "id": "program/f35",
+      "type": "program",
+      "name": "F-35 Lightning II",
+      "slug": "f35"
+    },
+    {
+      "id": "program/stinger",
+      "type": "program",
+      "name": "FIM-92 Stinger MANPADS",
+      "slug": "stinger"
+    },
+    {
+      "id": "program/gmlrs",
+      "type": "program",
+      "name": "GMLRS / HIMARS Ammunition",
+      "slug": "gmlrs"
+    },
+    {
+      "id": "program/jdam",
+      "type": "program",
+      "name": "JDAM (Joint Direct Attack Munition)",
+      "slug": "jdam"
+    },
+    {
+      "id": "program/javelin",
+      "type": "program",
+      "name": "Javelin Anti-Tank Missile",
+      "slug": "javelin"
+    },
+    {
+      "id": "program/jltv",
+      "type": "program",
+      "name": "Joint Light Tactical Vehicle (JLTV)",
+      "slug": "jltv"
+    },
+    {
+      "id": "program/abrams",
+      "type": "program",
+      "name": "M1A2 Abrams SEPv3",
+      "slug": "abrams"
+    },
+    {
+      "id": "program/excalibur",
+      "type": "program",
+      "name": "M982 Excalibur GPS-Guided 155mm",
+      "slug": "excalibur"
+    },
+    {
+      "id": "program/patriot",
+      "type": "program",
+      "name": "Patriot Air Defense (PAC-3 MSE)",
+      "slug": "patriot"
+    },
+    {
+      "id": "program/sm6",
+      "type": "program",
+      "name": "SM-6 Standard Missile",
+      "slug": "sm6"
+    },
+    {
+      "id": "program/thaad",
+      "type": "program",
+      "name": "THAAD (Terminal High Altitude Area Defense)",
+      "slug": "thaad"
+    },
+    {
+      "id": "program/tomahawk",
+      "type": "program",
+      "name": "Tomahawk Cruise Missile (Block V)",
+      "slug": "tomahawk"
+    },
+    {
+      "id": "program/virginia-class",
+      "type": "program",
+      "name": "Virginia-class Submarine",
+      "slug": "virginia-class"
+    },
+    {
+      "id": "rd-entity/china-pla",
+      "type": "rd-entity",
+      "name": "China PLA",
+      "slug": "china-pla"
+    },
+    {
+      "id": "rd-entity/darpa",
+      "type": "rd-entity",
+      "name": "DARPA",
+      "slug": "darpa"
+    },
+    {
+      "id": "rd-entity/doe-office-of-science",
+      "type": "rd-entity",
+      "name": "DOE Office of Science",
+      "slug": "doe-office-of-science"
+    },
+    {
+      "id": "rd-entity/nasa",
+      "type": "rd-entity",
+      "name": "NASA",
+      "slug": "nasa"
+    },
+    {
+      "id": "rd-entity/nsf",
+      "type": "rd-entity",
+      "name": "NSF",
+      "slug": "nsf"
+    },
+    {
+      "id": "rd-entity/us-dod",
+      "type": "rd-entity",
+      "name": "U.S. DoD",
+      "slug": "us-dod"
+    },
+    {
+      "id": "sector/325",
+      "type": "sector",
+      "name": "Chemicals",
+      "slug": "325"
+    },
+    {
+      "id": "sector/334",
+      "type": "sector",
+      "name": "Computer & Electronic Products",
+      "slug": "334"
+    },
+    {
+      "id": "sector/335",
+      "type": "sector",
+      "name": "Electrical Equipment",
+      "slug": "335"
+    },
+    {
+      "id": "sector/energy-storage",
+      "type": "sector",
+      "name": "Energy Storage (Batteries)",
+      "slug": "energy-storage"
+    },
+    {
+      "id": "sector/332",
+      "type": "sector",
+      "name": "Fabricated Metal Products",
+      "slug": "332"
+    },
+    {
+      "id": "sector/global-trade",
+      "type": "sector",
+      "name": "Global Trade",
+      "slug": "global-trade"
+    },
+    {
+      "id": "sector/333",
+      "type": "sector",
+      "name": "Machinery",
+      "slug": "333"
+    },
+    {
+      "id": "sector/327",
+      "type": "sector",
+      "name": "Nonmetallic Mineral Products",
+      "slug": "327"
+    },
+    {
+      "id": "sector/331",
+      "type": "sector",
+      "name": "Primary Metals",
+      "slug": "331"
+    },
+    {
+      "id": "sector/336",
+      "type": "sector",
+      "name": "Transportation Equipment",
+      "slug": "336"
+    },
+    {
+      "id": "shipyard/austal-mobile",
+      "type": "shipyard",
+      "name": "Austal USA",
+      "slug": "austal-mobile"
+    },
+    {
+      "id": "shipyard/cssc-dalian",
+      "type": "shipyard",
+      "name": "Dalian Shipbuilding (CSSC)",
+      "slug": "cssc-dalian"
+    },
+    {
+      "id": "shipyard/fincantieri-marinette",
+      "type": "shipyard",
+      "name": "Fincantieri Marinette Marine",
+      "slug": "fincantieri-marinette"
+    },
+    {
+      "id": "shipyard/fincantieri-monfalcone",
+      "type": "shipyard",
+      "name": "Fincantieri Monfalcone",
+      "slug": "fincantieri-monfalcone"
+    },
+    {
+      "id": "shipyard/gdbiw",
+      "type": "shipyard",
+      "name": "General Dynamics Bath Iron Works",
+      "slug": "gdbiw"
+    },
+    {
+      "id": "shipyard/gdeb",
+      "type": "shipyard",
+      "name": "General Dynamics Electric Boat",
+      "slug": "gdeb"
+    },
+    {
+      "id": "shipyard/nassco",
+      "type": "shipyard",
+      "name": "General Dynamics NASSCO",
+      "slug": "nassco"
+    },
+    {
+      "id": "shipyard/hii-ingalls",
+      "type": "shipyard",
+      "name": "HII Ingalls Shipbuilding",
+      "slug": "hii-ingalls"
+    },
+    {
+      "id": "shipyard/hii-newport-news",
+      "type": "shipyard",
+      "name": "HII Newport News Shipbuilding",
+      "slug": "hii-newport-news"
+    },
+    {
+      "id": "shipyard/hyundai-ulsan",
+      "type": "shipyard",
+      "name": "Hyundai Heavy Industries Ulsan",
+      "slug": "hyundai-ulsan"
+    },
+    {
+      "id": "shipyard/imabari",
+      "type": "shipyard",
+      "name": "Imabari Shipbuilding",
+      "slug": "imabari"
+    },
+    {
+      "id": "shipyard/cssc-jiangnan",
+      "type": "shipyard",
+      "name": "Jiangnan Shipyard (CSSC)",
+      "slug": "cssc-jiangnan"
+    },
+    {
+      "id": "shipyard/philly-shipyard",
+      "type": "shipyard",
+      "name": "Philly Shipyard",
+      "slug": "philly-shipyard"
+    },
+    {
+      "id": "shipyard/samsung-geoje",
+      "type": "shipyard",
+      "name": "Samsung Heavy Industries Geoje",
+      "slug": "samsung-geoje"
+    },
+    {
+      "id": "technology/5g6g-networks",
+      "type": "technology",
+      "name": "5G/6G Networks",
+      "slug": "5g6g-networks"
+    },
+    {
+      "id": "technology/advanced-materials",
+      "type": "technology",
+      "name": "Advanced Materials",
+      "slug": "advanced-materials"
+    },
+    {
+      "id": "technology/artificial-intelligence",
+      "type": "technology",
+      "name": "Artificial Intelligence",
+      "slug": "artificial-intelligence"
+    },
+    {
+      "id": "technology/autonomous-vehicles",
+      "type": "technology",
+      "name": "Autonomous Vehicles",
+      "slug": "autonomous-vehicles"
+    },
+    {
+      "id": "technology/biotechnology",
+      "type": "technology",
+      "name": "Biotechnology",
+      "slug": "biotechnology"
+    },
+    {
+      "id": "technology/directed-energy-weapons",
+      "type": "technology",
+      "name": "Directed Energy Weapons",
+      "slug": "directed-energy-weapons"
+    },
+    {
+      "id": "technology/hypersonic-weapons",
+      "type": "technology",
+      "name": "Hypersonic Weapons",
+      "slug": "hypersonic-weapons"
+    },
+    {
+      "id": "technology/quantum-computing",
+      "type": "technology",
+      "name": "Quantum Computing",
+      "slug": "quantum-computing"
+    },
+    {
+      "id": "technology/semiconductor-manufacturing",
+      "type": "technology",
+      "name": "Semiconductor Manufacturing",
+      "slug": "semiconductor-manufacturing"
+    },
+    {
+      "id": "technology/space-launch",
+      "type": "technology",
+      "name": "Space Launch",
+      "slug": "space-launch"
+    }
+  ]
+}

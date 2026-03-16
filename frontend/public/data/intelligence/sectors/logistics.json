@@ -1,0 +1,197 @@
+{
+  "id": "logistics",
+  "category": "sector",
+  "subject": "U.S. Logistics & Supply Chain Infrastructure",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The U.S. logistics and supply chain sector is experiencing a period of acute strategic vulnerability driven by three converging threats: deep structural dependency on Chinese-controlled maritime infrastructure, a critically aging military sealift fleet, and the cascading disruptions of aggressive tariff policies. The most fundamental exposure lies in the maritime domain, where 80% of global trade moves by sea, yet the U.S. has allowed its port infrastructure and shipbuilding capacity to become dominated by Chinese state-linked entities. Shanghai Zhenhua Heavy Industries Company (ZPMC), a Chinese state-owned military contractor, built 80% of the ship-to-shore cranes at U.S. ports, with congressional investigators discovering unauthorized cellular modems hidden on ZPMC cranes that could bypass port firewalls. COSCO Shipping, designated a Chinese military asset by the Department of Defense in January 2025, owns stakes in joint ventures at five U.S. ports including Long Beach and Seattle, and is the fourth-largest ocean carrier globally at 10.7% of worldwide container movement.\n\nThe military logistics picture is equally concerning. The U.S. shipbuilding capacity gap with China has reached staggering proportions -- a declassified Office of Naval Intelligence slide estimates China has 232 times the shipbuilding capability of the United States, with Chinese shipyards producing over 1,000 commercial vessels in 2024 versus just 8 by the U.S. TRANSCOM's Ready Reserve Force fleet averages over 45 years of age, with 17 of 47 ships over 50 years old and 27 scheduled for retirement in the next eight years. The command is seeking authority to purchase used foreign-built cargo ships to maintain minimum sealift capacity, a stopgap measure that underscores the severity of domestic shipbuilding atrophy.\n\nThe 2025 tariff escalation has added a layer of acute disruption to these structural weaknesses. The Trump administration's imposition of duties as high as 145% on Chinese imports has triggered global port congestion described as a 'full-scale logistics crisis' by June 2025, with 96% of major container ports reporting operational disruptions and vessel delays surging up to 300% above normal. An estimated 60% of U.S. companies experienced logistics cost increases of 10-15%, while global shipping costs rose 12%. While tariffs are accelerating reshoring conversations, actual domestic manufacturing buildout will take years -- most announced projects remain in planning stages, and the deeper supplier networks that make local production sustainable take far longer to mature.\n\nThe defense industrial base faces its own supply chain crisis. A GAO report found that DOD efforts to assess risks from foreign suppliers are uncoordinated and have provided little insight into the vast majority of its over 200,000 suppliers. The Pentagon's logistics systems lack a single enterprise resource planning system, instead relying on multiple stove-piped data silos. The 2017 NotPetya cyberattack on Maersk, attributed to Russian military intelligence, demonstrated how a single attack could cost hundreds of millions and cripple global shipping operations, while the Colonial Pipeline ransomware attack cut off 45% of the U.S. East Coast's fuel supply.",
+  "key_findings": [
+    {
+      "headline": "China Has 232x the Shipbuilding Capacity of the United States",
+      "detail": "A declassified Office of Naval Intelligence slide estimates Chinese shipyards have a manufacturing capacity of roughly 23.25 million tons versus less than 100,000 tons for U.S. shipyards. China built over 1,000 commercial vessels in 2024 compared to 8 by the U.S. China also manufactures 80% of ship-to-shore cranes and 96% of shipping containers used globally, while U.S. domestic production of both is effectively zero. China's Military-Civil Fusion strategy enables cost-sharing between civilian and military shipbuilding, while 50-60% of new U.S. shipyard recruits leave within their first year.",
+      "severity": "critical",
+      "source_url": "https://www.americanmanufacturing.org/blog/chinas-shipbuilding-capacity-is-232-times-greater-than-that-of-the-united-states/"
+    },
+    {
+      "headline": "Hidden Surveillance Devices Found on Chinese Port Cranes",
+      "detail": "A yearlong congressional investigation found that ZPMC, which built 80% of ship-to-shore cranes at U.S. ports, installed unauthorized cellular modems on cranes that could bypass port firewalls. In February 2021, the FBI discovered intelligence-gathering equipment on ZPMC cranes at the Port of Baltimore. ZPMC has repeatedly requested remote access to its cranes at various U.S. ports. The Senate advanced the Maritime Supply Chain Security Act in June 2025 to allow federal funding for replacing Chinese-made cranes with allied-sourced equipment.",
+      "severity": "critical",
+      "source_url": "https://homeland.house.gov/2024/03/12/wtas-joint-investigation-intoccp-backed-company-supplying-cranes-to-u-s-ports-reveals-shocking-findings/"
+    },
+    {
+      "headline": "COSCO Shipping Designated Chinese Military Asset",
+      "detail": "The Department of Defense added COSCO Shipping and two subsidiaries to its list of Chinese military-linked companies in January 2025. COSCO owns stakes in joint ventures at five U.S. ports, including Long Beach and Seattle, and is responsible for 10.7% of global container movement. Lawmakers warned that given China's track record of exploiting commercial assets for intelligence purposes, COSCO's operations at major U.S. ports present risks including espionage, cyber intrusions, sabotage, and supply chain disruptions. COSCO has been tied to participating in military drills to prepare for a Chinese invasion of Taiwan.",
+      "severity": "critical",
+      "source_url": "https://industrialcyber.co/transport/us-lawmakers-sound-alarm-on-cosco-shippings-national-security-risks-seek-uscg-briefing/"
+    },
+    {
+      "headline": "Military Sealift Fleet Aging Beyond Operational Viability",
+      "detail": "TRANSCOM's Ready Reserve Force fleet of 48 vessels averages more than 45 years of age, with 17 of 47 ships over 50 years old. Twenty-seven ships are scheduled for retirement in the next eight years. TRANSCOM is seeking authority to buy 10 used foreign-built cargo ships as a stopgap measure, having purchased seven used vessels with two more expected in FY25. The FY 2025 budget requested $318 million for the Maritime Security Program supporting 60 commercially viable, militarily useful vessels.",
+      "severity": "high",
+      "source_url": "https://news.usni.org/2025/03/06/u-s-transcom-wants-authority-to-buy-10-used-cargo-ships"
+    },
+    {
+      "headline": "Tariff Escalation Triggers Global Logistics Crisis",
+      "detail": "The 2025 tariff regime, including duties up to 145% on Chinese imports, triggered what was described as a 'full-scale logistics crisis' by June 2025, with 96% of global major container ports reporting operational disruptions and vessel delays surging up to 300% above normal. Sixty percent of U.S. companies experienced logistics cost increases of 10-15%, while global shipping costs rose 12%. While tariffs accelerate reshoring discussion, actual domestic manufacturing buildout remains largely in planning stages, with deeper supplier networks taking years to mature.",
+      "severity": "high",
+      "source_url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/41852-how-tariffs-are-reshaping-global-supply-chains-in-2025"
+    },
+    {
+      "headline": "Defense Industrial Base Supplier Risks Largely Unmapped",
+      "detail": "A GAO report found that while the DOD considers reliance on foreign sources a national security risk, its efforts to assess these risks are uncoordinated and have provided little insight into the vast majority of its over 200,000 suppliers. The Pentagon lacks a single enterprise resource planning system, instead relying on multiple stove-piped data silos that cannot communicate with each other. Transmission of logistics information over unclassified networks provides vulnerabilities that adversaries can leverage.",
+      "severity": "high",
+      "source_url": "https://www.gao.gov/products/gao-25-107283"
+    },
+    {
+      "headline": "Supply Chains Still Not Recognized as Critical Infrastructure",
+      "detail": "Despite repeated disruptions from COVID-19, the Suez Canal blockage, Houthi attacks, and cyberattacks, U.S. policy has not designated supply chains as a formal critical infrastructure sector. Current mechanisms remain reactive rather than preventive, the Defense Production Act only activates post-crisis, and the Senate-passed Promoting Resilient Supply Chains Act remains blocked in the House. Analysts recommend designating the Department of Commerce as lead coordinating agency with continuous supply chain mapping and stress testing authority.",
+      "severity": "high",
+      "source_url": "https://warontherocks.com/2025/10/supply-chains-are-critical-infrastructure-its-time-u-s-policy-caught-up/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-06",
+      "headline": "Senate Advances Maritime Supply Chain Security Act",
+      "summary": "The Senate advanced the Maritime Supply Chain Security Act one day after it passed the House. The legislation allows U.S. ports to use federal grant funding to replace Chinese-made cranes and control systems with equipment manufactured domestically or sourced from trusted allied countries, addressing the ZPMC crane security concerns documented by congressional investigators.",
+      "source_url": "https://www.fdd.org/analysis/2025/09/09/protecting-u-s-ports-requires-congress-to-get-cyber-specific/",
+      "impact": "First major legislative action to address Chinese-manufactured port equipment; however, replacing 80% of port cranes is a multi-year, multi-billion dollar undertaking."
+    },
+    {
+      "date": "2025-01",
+      "headline": "COSCO Shipping Designated Chinese Military Company by DOD",
+      "summary": "The Department of Defense added COSCO Shipping and two subsidiaries to its annual listing of companies linked to China's military. Lawmakers requested a classified U.S. Coast Guard briefing on COSCO's operations at five U.S. ports. COSCO contested the designation but it remains in effect.",
+      "source_url": "https://www.yahoo.com/news/cosco-shipping-designated-chinese-military-185744249.html",
+      "impact": "Raised legal and operational questions about a Chinese military-linked entity controlling terminal operations at major U.S. ports; potential for investment restrictions."
+    },
+    {
+      "date": "2025-04",
+      "headline": "145% Tariff on Chinese Imports Triggers Port Congestion Crisis",
+      "summary": "The Trump administration implemented a 145% tariff on all Chinese imports in April 2025, escalating trade tensions and triggering massive logistics disruptions. By June 2025, 96% of global major container ports reported operational disruptions with vessel delays surging up to 300% above normal levels.",
+      "source_url": "https://www.supplychaindive.com/news/tariffs-strikes-tragedies-how-2025-transformed-supply-chains/808216/",
+      "impact": "Cascading disruptions across global supply chains; accelerated nearshoring discussions but actual manufacturing repatriation remains years away."
+    },
+    {
+      "date": "2025-03",
+      "headline": "TRANSCOM Seeks Authority to Buy 10 Used Foreign Cargo Ships",
+      "summary": "U.S. Transportation Command requested discretionary authority to purchase foreign-built, used ships to address the aging Ready Reserve Force fleet, which averages over 45 years of age. TRANSCOM wants to buy four vessels per year but requested 'two at a minimum' as the critical floor to maintain minimum sealift capacity.",
+      "source_url": "https://news.usni.org/2025/03/06/u-s-transcom-wants-authority-to-buy-10-used-cargo-ships",
+      "impact": "Highlights the severity of military sealift atrophy; purchasing foreign-built used ships is a stopgap that underscores the collapse of domestic commercial shipbuilding."
+    },
+    {
+      "date": "2025-06",
+      "headline": "U.S. Coast Guard Issues Special Cyber Threat Report on Chinese Cranes",
+      "summary": "The U.S. Coast Guard Cyber Command published a special edition threat assessment on Chinese-manufactured cranes at U.S. ports, detailing cyber vulnerabilities and recommending enhanced monitoring and access controls at port facilities operating ZPMC equipment.",
+      "source_url": "https://www.uscg.mil/Portals/0/Images/cyber/2025CTIME_Chinese_Cranes_Special_Edition.pdf",
+      "impact": "Provided operational guidance to port operators for immediate risk mitigation while longer-term crane replacement plans are developed."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The U.S. logistics and supply chain sector faces critical-level risk from structural Chinese dependencies in maritime infrastructure (80% of port cranes, COSCO port operations, 96% of container manufacturing), a collapsing domestic shipbuilding base (232x capacity gap with China), an aging military sealift fleet nearing mass retirement, and acute disruptions from tariff-driven port congestion. The defense industrial base remains largely unmapped in terms of foreign supplier dependencies, while supply chains lack formal designation as critical infrastructure.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's 232x shipbuilding capacity advantage enabling military-civil fusion across maritime domains",
+      "ZPMC crane dominance (80% of U.S. port cranes) with documented hidden surveillance devices",
+      "COSCO military-linked entity operating at five U.S. ports with 10.7% of global container movement",
+      "Ready Reserve Force fleet averaging 45+ years with 27 ships retiring in 8 years",
+      "Tariff-driven logistics crisis with 96% of ports reporting disruptions and 300% delay surges",
+      "DOD supplier risk assessment covering only a fraction of 200,000+ suppliers",
+      "Houthi attacks forcing costly rerouting around Africa for Red Sea shipping"
+    ],
+    "mitigation_actions": [
+      "Maritime Supply Chain Security Act passed both chambers allowing federal funding for crane replacement",
+      "COSCO designated as Chinese military company by DOD, enabling potential investment restrictions",
+      "TRANSCOM purchasing used vessels to maintain minimum sealift capacity",
+      "FY 2025 budget requested $318 million for Maritime Security Program (60 vessels)",
+      "U.S. Coast Guard published cyber threat guidance for Chinese crane operators",
+      "Three additional maritime security bills passed in 2025 addressing domestic port infrastructure",
+      "78% of automotive companies moving to domestic sourcing, 48% relocating production facilities"
+    ]
+  },
+  "sources": [
+    {
+      "title": "An Overlooked National Security Challenge: Maritime Supply Chain Security",
+      "url": "https://breakingdefense.com/2025/12/an-overlooked-national-security-challenge-maritime-supply-chain-security/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "U.S. vs. China Shipbuilding Tonnage Gap",
+      "url": "https://debuglies.com/2025/12/25/us-vs-china-shipbuilding-tonnage-gap-can-the-national-defense-industrial-strategy-overcome-50-global-parity/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Alarming Navy Intel Slide Warns of China's 200 Times Greater Shipbuilding Capacity",
+      "url": "https://www.twz.com/alarming-navy-intel-slide-warns-of-chinas-200-times-greater-shipbuilding-capacity",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Joint Congressional Investigation into CCP-Backed Company Supplying Cranes to U.S. Ports",
+      "url": "https://homeland.house.gov/2024/03/12/wtas-joint-investigation-intoccp-backed-company-supplying-cranes-to-u-s-ports-reveals-shocking-findings/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "U.S. Lawmakers Sound Alarm on COSCO Shipping National Security Risks",
+      "url": "https://industrialcyber.co/transport/us-lawmakers-sound-alarm-on-cosco-shippings-national-security-risks-seek-uscg-briefing/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "COSCO Shipping Designated a Chinese Military Asset by U.S. DOD",
+      "url": "https://www.yahoo.com/news/cosco-shipping-designated-chinese-military-185744249.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "U.S. TRANSCOM Wants Authority to Buy 10 Used Cargo Ships",
+      "url": "https://news.usni.org/2025/03/06/u-s-transcom-wants-authority-to-buy-10-used-cargo-ships",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Defense Industrial Base: Actions Needed to Address Risks from Foreign Suppliers - GAO",
+      "url": "https://www.gao.gov/products/gao-25-107283",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Supply Chains Are Critical Infrastructure. It's Time U.S. Policy Caught Up.",
+      "url": "https://warontherocks.com/2025/10/supply-chains-are-critical-infrastructure-its-time-u-s-policy-caught-up/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "The Department of Defense's Digital Logistics Are Under Attack",
+      "url": "https://www.brookings.edu/articles/the-department-of-defenses-digital-logistics-are-under-attack/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "How Tariffs Are Reshaping Global Supply Chains in 2025",
+      "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/41852-how-tariffs-are-reshaping-global-supply-chains-in-2025",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "U.S. Coast Guard Cyber Command - Chinese Cranes Special Edition",
+      "url": "https://www.uscg.mil/Portals/0/Images/cyber/2025CTIME_Chinese_Cranes_Special_Edition.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Protecting U.S. Ports Requires Congress to Get Cyber-Specific",
+      "url": "https://www.fdd.org/analysis/2025/09/09/protecting-u-s-ports-requires-congress-to-get-cyber-specific/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Tariffs, Strikes and Tragedies: How 2025 Transformed Supply Chains",
+      "url": "https://www.supplychaindive.com/news/tariffs-strikes-tragedies-how-2025-transformed-supply-chains/808216/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

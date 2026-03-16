@@ -1,0 +1,131 @@
+{
+  "id": "guowang",
+  "category": "satellite",
+  "subject": "Guowang (SatNet) Constellation",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Guowang (also known as SatNet or GW) is China's state-backed low Earth orbit mega-constellation, managed by China Satellite Network Group (China SatNet), targeting over 13,000 satellites for global broadband coverage. The project was initiated in 2022 as a direct strategic response to SpaceX's Starlink, with both civilian broadband and military dual-use applications. As of November 2025, approximately 136 satellites have been launched across multiple batches, with the constellation reaching over 100 operational satellites in late 2025.\n\nThe constellation consists of two sub-constellations: GW-A59 (6,080 satellites at approximately 500-600 km altitude) and GW-2 (6,912 satellites at 1,145 km altitude). The deployment timeline targets 310 satellites in 2026, 900 in 2027, and 3,600 per year beginning in 2028. While this represents an ambitious acceleration from the current pace, China's demonstrated ability to scale launch operations — having hit 90 orbital launches in 2025 — suggests the targets may be achievable.\n\nGuowang's strategic significance extends beyond broadband connectivity. Several test satellites have demonstrated capabilities related to positioning, navigation, imaging, and signals intelligence, confirming the constellation's dual-use military character. The program uses two satellite classes — a larger platform of approximately 16,600 kg and a smaller one of about 900 kg — with the larger platforms believed to carry military payloads. Guowang, along with the privately-funded Qianfan constellation (another 15,000+ satellites), represents China's bid to challenge Western dominance in LEO and establish independent space-based broadband infrastructure aligned with national security priorities and Belt and Road Initiative connectivity goals.",
+  "key_findings": [
+    {
+      "headline": "136 Satellites Launched with Aggressive Ramp to 310 in 2026",
+      "detail": "As of November 2025, Guowang has 136 satellites in orbit following a year of steady launches including a batch of nine satellites on November 10, 2025. The deployment plan targets 310 satellites in 2026, 900 in 2027, and 3,600 per year starting 2028. The near-term target is 400 satellites in orbit by 2027. While the current pace is modest, China's launch infrastructure expansion — particularly the commercial Hainan spaceport — is designed to support the dramatic acceleration required.",
+      "severity": "high",
+      "source_url": "https://www.connectivity.technology/2025/11/chinas-growing-constellations-ambitions.html"
+    },
+    {
+      "headline": "Dual-Use Military Constellation with SIGINT, Navigation, and Imaging Capabilities",
+      "detail": "Several Guowang test satellites have demonstrated capabilities beyond broadband, including signals intelligence (SIGINT), positioning and navigation, and imaging. The constellation uses two satellite classes: a larger platform (approximately 16,600 kg) and a smaller one (about 900 kg), with the larger platforms believed to carry military payloads. This confirms Guowang as a dual-use program aligned with PLA requirements for space-based ISR and communications in contested environments.",
+      "severity": "critical",
+      "source_url": "https://www.thespacereview.com/article/5004/1"
+    },
+    {
+      "headline": "Two Sub-Constellations Spanning 500 km to 1,145 km Altitude",
+      "detail": "Guowang consists of two sub-constellations: GW-A59 with 6,080 satellites orbiting at approximately 500-600 km (comparable to Starlink altitude) and GW-2 with 6,912 satellites at 1,145 km. This dual-altitude architecture provides operational flexibility, with lower orbits offering reduced latency and higher orbits providing broader coverage per satellite. The total planned constellation exceeds 13,000 satellites, rivaling Starlink's authorized fleet.",
+      "severity": "high",
+      "source_url": "https://en.wikipedia.org/wiki/Guowang"
+    },
+    {
+      "headline": "State-Backed Through China SatNet — Strategic Competitor to Starlink",
+      "detail": "Guowang is managed by China Satellite Network Group (China SatNet), a state-owned enterprise established specifically to develop China's LEO broadband capability as a counter to Starlink. The program receives direct government funding and launch priority, insulating it from commercial market pressures. China SatNet's mandate includes both civilian broadband services and national defense applications, making Guowang a key element of China's space power projection strategy.",
+      "severity": "high",
+      "source_url": "https://circleid.com/posts/chinese-leo-satellite-internet-update-guowang-qianfan-and-honghu-3"
+    },
+    {
+      "headline": "Part of Broader Chinese LEO Ecosystem Including Qianfan (15,000+ Satellites)",
+      "detail": "Guowang is the state-backed component of a broader Chinese LEO ecosystem that includes the privately-funded Qianfan (Thousand Sails) constellation targeting over 15,000 satellites. Together, these programs aim to deploy more than 28,000 Chinese satellites in LEO, potentially exceeding Starlink's planned constellation. The parallel programs create redundancy and industrial competition while ensuring China maintains independent global broadband capability regardless of geopolitical developments.",
+      "severity": "high",
+      "source_url": "https://www.china-in-space.com/p/chinas-mega-constellations-mega-article"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-01",
+      "headline": "China Opens 2026 Launch Manifest with Guowang Deployment",
+      "summary": "China successfully executed its first orbital launches of 2026 on January 13, including a batch of nine Guowang satellites launched on a Long March 8A rocket. This early-year deployment signals China's intent to maintain the accelerated launch cadence needed to reach the 310-satellite target for 2026. The launches took place alongside a classified Yaogan reconnaissance satellite mission.",
+      "source_url": "https://satnews.com/2026/01/14/china-opens-2026-launch-manifest-with-retrograde-yaogan-and-guowang-deployments/",
+      "impact": "Demonstrates sustained deployment momentum entering 2026, though the pace must significantly accelerate from 9-satellite batches to meet the 310-satellite annual target."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Guowang Exceeds 100 Satellites with Eighth Launch Batch",
+      "summary": "China launched the eighth batch of Guowang satellites in November 2025, bringing the constellation to over 136 satellites in orbit — a year after the first batch of 10 launched on a Long March 5B. The steady cadence of launches throughout 2025 demonstrated the industrial and launch infrastructure required for the planned acceleration to 310 satellites in 2026.",
+      "source_url": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-8th-batch-satellites-guowang-satnet-internet-megaconstellation-video",
+      "impact": "Milestone demonstrating China's ability to sustain constellation deployment, though the 136-satellite count still represents only about 1% of the planned 13,000-satellite fleet."
+    },
+    {
+      "date": "2025-06",
+      "headline": "Analysis Highlights Slow Start Relative to Ambitious Targets",
+      "summary": "A Forecast International analysis noted that Guowang was 'off to a slow start' relative to its ambitious deployment timeline, with approximately 100 satellites launched by mid-2025 against plans for thousands by decade's end. The analysis highlighted launch vehicle production constraints and the challenge of scaling from current batch sizes (9-18 satellites) to the mass-production cadence required for 3,600 launches per year by 2028.",
+      "source_url": "https://flightplan.forecastinternational.com/2025/06/09/too-ambitious-chinas-guowang-constellation-off-to-a-slow-start/",
+      "impact": "Raises legitimate questions about the feasibility of Guowang's deployment timeline, though China's track record of infrastructure acceleration should not be underestimated."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "High. Guowang represents a state-backed Chinese effort to establish an independent LEO broadband constellation with confirmed dual-use military capabilities including SIGINT and imaging. While the current deployment pace is slow relative to targets, China's demonstrated ability to scale launch operations and the program's state funding insulate it from commercial market pressures. The dual-use nature of the constellation creates direct strategic competition with Western satellite infrastructure.",
+    "trend": "worsening",
+    "key_drivers": [
+      "State funding and strategic priority insulate program from commercial viability requirements",
+      "Confirmed dual-use military capabilities including SIGINT, navigation, and imaging payloads",
+      "Planned scale (13,000+ satellites) would challenge Starlink's orbital dominance if achieved",
+      "Combined with Qianfan (15,000+), China targets 28,000+ LEO satellites — exceeding total Western constellation plans",
+      "Deployment acceleration to 3,600 satellites/year by 2028 would require unprecedented Chinese launch cadence"
+    ],
+    "mitigation_actions": [
+      "Monitor Guowang launch cadence and satellite capability testing for military payload indicators",
+      "Assess orbital debris and congestion implications of 13,000-satellite Chinese constellation at multiple altitudes",
+      "Track Guowang service deployments in Belt and Road Initiative countries for strategic influence assessment",
+      "Coordinate with allies on space situational awareness to track dual-use satellite operations",
+      "Develop counter-space doctrine accounting for adversary LEO mega-constellation capabilities"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Guowang - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Guowang",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China's Growing Constellations, Ambitions and the Future of Satellite Broadband",
+      "url": "https://www.connectivity.technology/2025/11/chinas-growing-constellations-ambitions.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China Opens 2026 Launch Manifest with Guowang Deployments - SatNews",
+      "url": "https://satnews.com/2026/01/14/china-opens-2026-launch-manifest-with-retrograde-yaogan-and-guowang-deployments/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Developing and Testing China's Guowang Constellation - The Space Review",
+      "url": "https://www.thespacereview.com/article/5004/1",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "China's Mega-Constellations Mega-Article - China in Space",
+      "url": "https://www.china-in-space.com/p/chinas-mega-constellations-mega-article",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Chinese LEO Satellite Internet Update: Guowang, Qianfan, and Honghu-3 - CircleID",
+      "url": "https://circleid.com/posts/chinese-leo-satellite-internet-update-guowang-qianfan-and-honghu-3",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Too Ambitious? China's Guowang Constellation off to a Slow Start - Forecast International",
+      "url": "https://flightplan.forecastinternational.com/2025/06/09/too-ambitious-chinas-guowang-constellation-off-to-a-slow-start/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China Launches 8th Batch of Satellites for Guowang - Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/china-launches-8th-batch-satellites-guowang-satnet-internet-megaconstellation-video",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

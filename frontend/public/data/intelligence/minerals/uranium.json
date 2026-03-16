@@ -1,0 +1,152 @@
+{
+  "id": "uranium",
+  "category": "mineral",
+  "subject": "Uranium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Uranium supply chain security has become a first-order national security priority as the United States simultaneously pursues a nuclear energy renaissance — driven by AI data center power demands, decarbonization goals, and energy security imperatives — while attempting to sever decades-long dependency on Russian enrichment services. Russia controls approximately 44% of global uranium enrichment capacity and had historically supplied roughly 25% of enriched uranium for U.S. nuclear reactors, which generate approximately 20% of total U.S. electricity. The Prohibiting Russian Uranium Imports Act, signed in August 2024, bans Russian LEU imports with a phaseout through 2028, unlocking $2.72 billion in Congressional appropriations to expand domestic enrichment.\n\nU.S. uranium mine production surged from just 50,000 pounds U3O8 in 2023 to 677,000 pounds in 2024 — a dramatic recovery but still covering less than 2% of annual reactor requirements. Approximately 99% of uranium consumed by U.S. power plants is imported, primarily from Kazakhstan (39% of global production), Canada (24%), Namibia (12%), Australia, and Uzbekistan. The critical bottleneck is not mining but enrichment: Russia and China are currently the only countries confirmed to have infrastructure for producing high-assay low-enriched uranium (HALEU) at scale, which is required for the next generation of advanced reactors.\n\nTwo domestic enrichment expansion programs are underway: Urenco USA installed three new cascades ahead of schedule in 2025, produced its first LEU+ (enriched to 8.5% U-235), and targets 700,000 SWU of capacity by 2027. Centrus Energy secured a $900 million DOE HALEU task order in January 2026 and plans multi-billion-dollar expansion at its Piketon, Ohio facility, with first new production capacity expected in 2029. Despite this progress, a fuel supply gap threatens to hold back the nuclear renaissance as demand for both conventional LEU and HALEU outpaces the timeline for domestic enrichment capacity to come online.",
+  "key_findings": [
+    {
+      "headline": "Russia controls 44% of global uranium enrichment and supplied 25% of U.S. reactor fuel",
+      "detail": "Russia holds approximately 44% of the world's uranium enrichment capacity through Rosatom's subsidiary TENEX and the TVEL fuel company. Prior to the import ban, Russia supplied approximately 25% of enriched uranium for U.S. nuclear reactors, which generate roughly 20% of total U.S. electricity (approximately 5% of total U.S. electricity from Russian-enriched uranium). Despite the legislative ban, some Russian uranium imports continued through 2025 under waiver provisions, with full prohibition phasing in by 2028.",
+      "severity": "critical",
+      "source_url": "https://bellona.org/news/nuclear-issues/2025-03-enriched-uranium-fuels-russias-war-machine-but-the-u-s-still-imports-it"
+    },
+    {
+      "headline": "U.S. imports 99% of uranium feedstock; domestic mining covers less than 2% of needs",
+      "detail": "Approximately 99% of uranium consumed by U.S. nuclear power plants is imported. U.S. mine production surged from 50,000 pounds U3O8 in 2023 to 677,000 pounds in 2024, a dramatic recovery driven by higher prices and the Russian import ban, but still covers less than 2% of the approximately 40 million pounds of natural uranium equivalent required annually by the U.S. reactor fleet. Major import sources include Kazakhstan, Canada, Australia, Namibia, and Uzbekistan.",
+      "severity": "critical",
+      "source_url": "https://www.eia.gov/uranium/production/annual/"
+    },
+    {
+      "headline": "Russia and China are the only confirmed producers of HALEU at scale for advanced reactors",
+      "detail": "High-assay low-enriched uranium (HALEU), enriched to between 5% and 19.5% U-235, is required for virtually all next-generation advanced reactor designs. The DOE projects that more than 50 metric tons of HALEU will be needed per year by the end of the decade for the 20 different U.S. companies developing advanced reactors. Currently, Russia and China are the only countries confirmed to have the infrastructure to produce HALEU at scale, creating a critical dependency for the U.S. advanced nuclear program.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/fueling-future-recommendations-strengthening-us-uranium-security"
+    },
+    {
+      "headline": "$2.72 billion appropriated for domestic uranium enrichment expansion",
+      "detail": "The passage of the Russian uranium import ban unlocked $2.72 billion in Congressional appropriations to increase production of LEU and HALEU. In January 2026, the DOE announced $2.7 billion in funding to expand domestic uranium enrichment capacity over the next decade. This includes a $900 million HALEU task order awarded to Centrus Energy in early 2026. The funding represents the largest federal investment in domestic enrichment since the Cold War era.",
+      "severity": "high",
+      "source_url": "https://www.energy.gov/ne/articles/russian-uranium-ban-will-speed-development-us-nuclear-fuel-supply-chain"
+    },
+    {
+      "headline": "Urenco USA produces first LEU+ and installs three new cascades ahead of schedule",
+      "detail": "Urenco USA completed its initial production run of uranium enriched to 8.5% U-235 (LEU+) in December 2025, demonstrating capability to produce fuel enriched above the traditional 5% threshold. Three new centrifuge cascades were installed and began operation ahead of schedule in 2025. The company targets 700,000 SWU of capacity by 2027 and anticipates commercial LEU+ production by mid-2026. LEU+ can also serve as feedstock for HALEU production.",
+      "severity": "high",
+      "source_url": "https://www.ans.org/news/2025-12-19/article-7633/urenco-usa-marks-enrichment-milestones/"
+    },
+    {
+      "headline": "Centrus Energy secures $900 million DOE HALEU task order, plans multi-billion expansion",
+      "detail": "In January 2026, the DOE selected Centrus Energy for a $900 million HALEU task order at its Piketon, Ohio facility. Centrus has begun domestic centrifuge manufacturing and plans a multi-billion-dollar enrichment expansion to meet its $2.3 billion backlog of contingent LEU sales contracts. First new production capacity is expected in 2029. Centrus is the only U.S.-owned company with operational enrichment technology, though it currently operates at demonstration scale.",
+      "severity": "high",
+      "source_url": "https://investors.centrusenergy.com/news-releases/news-release-details/centrus-launches-commercial-leu-enrichment-activities"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12",
+      "headline": "Urenco USA produces first LEU+ fuel and installs three cascades ahead of schedule",
+      "summary": "Urenco USA completed its initial production of uranium enriched to 8.5% U-235 in December 2025, marking a milestone in domestic enrichment capability beyond the traditional 5% LEU threshold. Three new centrifuge cascades installed in 2025 began operation ahead of schedule. The company targets 700,000 SWU capacity by 2027 and commercial LEU+ production by mid-2026. LEU+ can serve as feedstock for HALEU required by advanced reactors.",
+      "source_url": "https://www.ans.org/news/2025-12-19/article-7633/urenco-usa-marks-enrichment-milestones/",
+      "impact": "Demonstrates that domestic enrichment capacity expansion is feasible and proceeding faster than planned. However, 700,000 SWU represents a fraction of the approximately 15 million SWU of enrichment services consumed annually by the U.S. reactor fleet. Significant additional capacity is needed to replace Russian enrichment services."
+    },
+    {
+      "date": "2026-01",
+      "headline": "DOE awards Centrus $900 million HALEU task order for Piketon, Ohio facility",
+      "summary": "The Department of Energy selected Centrus Energy for a $900 million HALEU task order at the American Centrifuge Plant in Piketon, Ohio. Centrus has begun domestic centrifuge manufacturing to support commercial-scale enrichment. The company plans multi-billion-dollar expansion leveraging a $2.3 billion backlog of contingent LEU sales contracts, with first new production capacity expected in 2029.",
+      "source_url": "https://investors.centrusenergy.com/news-releases/news-release-details/centrus-launches-commercial-leu-enrichment-activities",
+      "impact": "Represents the largest single federal investment in domestic HALEU capability. The 2029 timeline for first production creates a multi-year gap during which advanced reactor programs remain dependent on non-domestic HALEU sources. The $900 million commitment signals sustained federal support for enrichment sovereignty."
+    },
+    {
+      "date": "2024-08",
+      "headline": "Prohibiting Russian Uranium Imports Act signed into law",
+      "summary": "The Prohibiting Russian Uranium Imports Act was signed into law, banning imports of unirradiated low-enriched uranium produced in the Russian Federation or by Russian entities. The ban includes waiver provisions allowing limited imports through 2027 to prevent reactor fuel disruptions while domestic and allied enrichment capacity ramps up. The legislation unlocked $2.72 billion in appropriated funds for domestic LEU and HALEU production.",
+      "source_url": "https://www.energy.gov/ne/articles/russian-uranium-ban-will-speed-development-us-nuclear-fuel-supply-chain",
+      "impact": "Creates a legal framework for severing Russian uranium dependency while providing transition time. The ban plus funding package represents the most significant U.S. nuclear fuel policy action in decades. However, implementation faces challenges as utilities manage existing Russian fuel contracts and seek alternative enrichment services from Urenco, Orano, and emerging domestic sources."
+    },
+    {
+      "date": "2025-03",
+      "headline": "Investigation reveals U.S. still importing Russian enriched uranium despite ban",
+      "summary": "Multiple investigative reports documented that enriched uranium continued flowing from Russia to the United States through 2025 under waiver provisions in the import ban legislation. The reports highlighted that Russia's Rosatom continued generating billions in revenue from nuclear fuel exports globally, with China significantly increasing purchases of Russian enriched uranium to fuel its expanding reactor fleet. U.S. utilities argued waivers were necessary to prevent reactor fuel disruptions during the transition period.",
+      "source_url": "https://bellona.org/news/nuclear-issues/2025-03-enriched-uranium-fuels-russias-war-machine-but-the-u-s-still-imports-it",
+      "impact": "Demonstrates the difficulty of rapidly severing established nuclear fuel supply relationships. The continued imports highlight the multi-year timeline required to build alternative enrichment capacity. Russia's ability to redirect sales to China reduces the economic pressure of the U.S. ban on Rosatom's overall business."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Uranium supply chain risk is critical across the full fuel cycle. The U.S. imports 99% of natural uranium and historically depended on Russia for 25% of enriched reactor fuel. While the Russian import ban creates a legal framework for severing this dependency, domestic enrichment capacity is insufficient to fill the gap — Urenco USA and Centrus together will not reach meaningful scale until 2027-2029. For HALEU required by advanced reactors, only Russia and China have proven production infrastructure. The nuclear renaissance driven by AI/data center demand is creating urgency that outpaces the enrichment capacity buildout timeline.",
+    "trend": "improving",
+    "key_drivers": [
+      "Russia controls 44% of global enrichment capacity; import ban creates transition risk",
+      "99% import dependency for natural uranium feedstock",
+      "Russia and China are the only confirmed HALEU producers for advanced reactors",
+      "Domestic enrichment expansion (Urenco, Centrus) won't reach meaningful scale until 2027-2029",
+      "Nuclear renaissance driven by AI/data center demand accelerating fuel requirements",
+      "$2.72 billion federal investment in enrichment represents largest commitment since Cold War"
+    ],
+    "mitigation_actions": [
+      "Accelerate domestic enrichment capacity expansion at Urenco USA and Centrus Energy",
+      "Secure long-term enrichment service contracts with allied-nation providers (Urenco, Orano)",
+      "Expand domestic uranium mining through accelerated permitting in Wyoming, Texas, and Arizona",
+      "Fund emergency HALEU production pathway independent of Russian or Chinese sources",
+      "Establish strategic uranium fuel reserve for defense and civilian reactor requirements",
+      "Support Canadian and Australian uranium mine expansion as secure allied-nation supply"
+    ]
+  },
+  "sources": [
+    {
+      "title": "2024 Domestic Uranium Production Report - U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/uranium/production/annual/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Russian Uranium Ban Will Speed Development of U.S. Nuclear Fuel Supply Chain - DOE",
+      "url": "https://www.energy.gov/ne/articles/russian-uranium-ban-will-speed-development-us-nuclear-fuel-supply-chain",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Fueling the Future: Recommendations for Strengthening U.S. Uranium Security - CSIS",
+      "url": "https://www.csis.org/analysis/fueling-future-recommendations-strengthening-us-uranium-security",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Enriched Uranium Fuels Russia's War Machine - Bellona Foundation",
+      "url": "https://bellona.org/news/nuclear-issues/2025-03-enriched-uranium-fuels-russias-war-machine-but-the-u-s-still-imports-it",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Urenco USA Marks Enrichment Milestones - ANS Nuclear Newswire",
+      "url": "https://www.ans.org/news/2025-12-19/article-7633/urenco-usa-marks-enrichment-milestones/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Centrus Launches Commercial LEU Enrichment Activities",
+      "url": "https://investors.centrusenergy.com/news-releases/news-release-details/centrus-launches-commercial-leu-enrichment-activities",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Securing Energy Independence: The US Path to Resilient Enriched Uranium Supply Chain - Atlantic Council",
+      "url": "https://www.atlanticcouncil.org/blogs/securing-energy-independence-the-us-path-to-resilient-enriched-uranium-supply-chain/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "US Nuclear Fuel Cycle - World Nuclear Association",
+      "url": "https://world-nuclear.org/information-library/country-profiles/countries-t-z/usa-nuclear-fuel-cycle",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "World Uranium Mining Production - World Nuclear Association",
+      "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

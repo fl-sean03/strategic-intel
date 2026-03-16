@@ -1,0 +1,42 @@
+{
+  "sector": "telecom",
+  "summary": {
+    "submarine_cables": 574,
+    "total_cable_length_km": 1400000,
+    "satellite_constellations": 8,
+    "us_5g_coverage_pct": 53,
+    "headline": "95% of intercontinental data flows through undersea cables. China investing heavily in competing constellations."
+  },
+  "key_cables": [
+    {"name": "MAREA", "from": "Virginia Beach, US", "to": "Bilbao, Spain", "length_km": 6600, "capacity_tbps": 200, "owner": "Microsoft/Meta/Telxius", "year": 2018, "lat_from": 36.85, "lon_from": -75.98, "lat_to": 43.26, "lon_to": -2.93},
+    {"name": "Dunant", "from": "Virginia Beach, US", "to": "Saint-Hilaire, France", "length_km": 6400, "capacity_tbps": 250, "owner": "Google", "year": 2020, "lat_from": 36.85, "lon_from": -75.98, "lat_to": 46.35, "lon_to": -1.17},
+    {"name": "Grace Hopper", "from": "New York, US", "to": "Bude, UK / Bilbao, Spain", "length_km": 7200, "capacity_tbps": 350, "owner": "Google", "year": 2022, "lat_from": 40.57, "lon_from": -73.97, "lat_to": 50.83, "lon_to": -4.55},
+    {"name": "PEACE Cable", "from": "Marseille, France", "to": "Singapore", "length_km": 15000, "capacity_tbps": 96, "owner": "Hengtong (China)", "year": 2022, "lat_from": 43.30, "lon_from": 5.37, "lat_to": 1.35, "lon_to": 103.82},
+    {"name": "2Africa", "from": "Multiple (Africa)", "to": "Multiple (Europe/ME)", "length_km": 45000, "capacity_tbps": 180, "owner": "Meta consortium", "year": 2024, "lat_from": -33.92, "lon_from": 18.42, "lat_to": 43.30, "lon_to": 5.37},
+    {"name": "SEA-ME-WE 6", "from": "Singapore", "to": "Marseille, France", "length_km": 19200, "capacity_tbps": 120, "owner": "Consortium (China Mobile lead)", "year": 2025, "lat_from": 1.35, "lon_from": 103.82, "lat_to": 43.30, "lon_to": 5.37},
+    {"name": "Equiano", "from": "Lisbon, Portugal", "to": "Cape Town, South Africa", "length_km": 12000, "capacity_tbps": 144, "owner": "Google", "year": 2023, "lat_from": 38.72, "lon_from": -9.14, "lat_to": -33.92, "lon_to": 18.42},
+    {"name": "Pacific Light Cable", "from": "Los Angeles, US", "to": "Philippines/Taiwan", "length_km": 12800, "capacity_tbps": 144, "owner": "Google (originally with China)", "year": 2023, "lat_from": 33.94, "lon_from": -118.41, "lat_to": 14.60, "lon_to": 120.98}
+  ],
+  "satellite_constellations": [
+    {"name": "Starlink", "country": "US", "country_iso": "US", "operator": "SpaceX", "satellites_deployed": 6000, "satellites_planned": 42000, "orbit": "LEO (550km)", "purpose": "Broadband internet", "status": "Operational"},
+    {"name": "GPS", "country": "US", "country_iso": "US", "operator": "U.S. Space Force", "satellites_deployed": 31, "satellites_planned": 32, "orbit": "MEO (20,200km)", "purpose": "Navigation/timing", "status": "Operational"},
+    {"name": "BeiDou", "country": "China", "country_iso": "CN", "operator": "CNSA", "satellites_deployed": 45, "satellites_planned": 45, "orbit": "MEO/GEO/IGSO", "purpose": "Navigation/timing", "status": "Operational"},
+    {"name": "Galileo", "country": "EU", "country_iso": "EU", "operator": "ESA/EU", "satellites_deployed": 28, "satellites_planned": 30, "orbit": "MEO (23,222km)", "purpose": "Navigation/timing", "status": "Operational"},
+    {"name": "OneWeb", "country": "UK", "country_iso": "GB", "operator": "Eutelsat OneWeb", "satellites_deployed": 634, "satellites_planned": 648, "orbit": "LEO (1,200km)", "purpose": "Broadband internet", "status": "Operational"},
+    {"name": "Kuiper", "country": "US", "country_iso": "US", "operator": "Amazon", "satellites_deployed": 2, "satellites_planned": 3236, "orbit": "LEO (590-630km)", "purpose": "Broadband internet", "status": "Early deployment"},
+    {"name": "Guowang", "country": "China", "country_iso": "CN", "operator": "China SatNet", "satellites_deployed": 0, "satellites_planned": 13000, "orbit": "LEO", "purpose": "Broadband internet", "status": "Planned"},
+    {"name": "GLONASS", "country": "Russia", "country_iso": "RU", "operator": "Roscosmos", "satellites_deployed": 24, "satellites_planned": 24, "orbit": "MEO (19,100km)", "purpose": "Navigation/timing", "status": "Operational"}
+  ],
+  "vulnerabilities": [
+    {"issue": "Cable landing point concentration", "severity": "high", "description": "75% of Atlantic cables land at just 3 U.S. locations (Virginia Beach, New York, Miami). Physical attack or natural disaster could sever multiple cables."},
+    {"issue": "Chinese cable ownership growing", "severity": "high", "description": "Hengtong Group (China) building PEACE cable system. China Mobile leading SEA-ME-WE 6. Potential surveillance or kill-switch concerns."},
+    {"issue": "Space debris threat", "severity": "moderate", "description": "Kessler syndrome risk increasing with 10,000+ active satellites. Anti-satellite weapons tested by China (2007), Russia (2021), India (2019)."},
+    {"issue": "GPS dependency", "severity": "critical", "description": "GPS timing underpins financial markets, power grids, telecom networks, military operations. Jamming and spoofing attacks increasing."},
+    {"issue": "5G equipment supply chain", "severity": "high", "description": "Huawei banned from U.S./Five Eyes networks. Ericsson and Nokia only Western alternatives. Limited U.S. domestic manufacturing."}
+  ],
+  "source_urls": [
+    {"label": "TeleGeography Submarine Cable Map", "url": "https://www.submarinecablemap.com/"},
+    {"label": "UCS Satellite Database", "url": "https://www.ucsusa.org/resources/satellite-database"},
+    {"label": "CRS Space Systems", "url": "https://crsreports.congress.gov/product/pdf/IF/IF11895"}
+  ]
+}

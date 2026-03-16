@@ -1,0 +1,139 @@
+{
+  "id": "rubidium",
+  "category": "mineral",
+  "subject": "Rubidium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Rubidium is a critical mineral classified on the 2025 U.S. Critical Minerals List based on qualitative assessment due to insufficient data to apply the USGS quantitative methodology — itself a reflection of how opaque and fragile this supply chain is. The global rubidium market is valued at $4.46 billion and projected to reach $7.2 billion by 2032 at a CAGR of 5.48%, driven by growing demand for military-grade GPS systems, quantum computing, secure communications, and advanced telecommunications.\n\nRubidium's defense significance is profound: rubidium atomic clocks underpin GPS navigation, military timing systems, and secure data network synchronization, with the rubidium and chip-scale atomic clock segment holding a 52% market share of the overall atomic clock market. China currently dominates global rubidium supply, and is mass-producing ultra-thin rubidium atomic clocks (17mm thick) for its BeiDou navigation satellite system, demonstrating both supply chain control and technology leadership. The United States has no domestic rubidium production. The most significant supply chain development is Everest Metals' Mt Edon project in Western Australia, which has joined the U.S. Defence Industrial Base Consortium (DIBC) and aims to establish a pilot plant by late 2026, achieving 97% recovery rates with its patented Direct Rubidium Extraction technology.",
+  "key_findings": [
+    {
+      "headline": "China dominates global rubidium supply while U.S. has zero domestic production",
+      "detail": "China currently maintains control of the global rubidium supply chain, while the United States has no domestic rubidium production. Rubidium is not mined directly but is recovered as a byproduct of lithium and cesium mining, leading to limited availability and complex extraction processes with high production costs. The supply chain is geographically concentrated in China, amplifying geopolitical risk for a mineral critical to military navigation and timing systems.",
+      "severity": "critical",
+      "source_url": "https://www.mordorintelligence.com/industry-reports/rubidium-market"
+    },
+    {
+      "headline": "Rubidium atomic clocks are essential to GPS, military navigation, and secure communications",
+      "detail": "Rubidium atomic clocks dominate the timing market with a 52% share, underpinning GPS systems, telecommunications networks, and military navigation technologies. Ultra-pure rubidium is indispensable in these devices, which provide the precision timing signals that synchronize data networks, guide precision weapons, and enable secure military communications. Loss of rubidium supply would directly degrade GPS accuracy and military timing capabilities.",
+      "severity": "critical",
+      "source_url": "https://www.futuremarketinsights.com/reports/atomic-clock-market"
+    },
+    {
+      "headline": "China mass-producing ultra-thin rubidium clocks for BeiDou satellite system",
+      "detail": "China has achieved mass production of rubidium atomic clocks measuring just 17 millimeters thick, developed by a research institute under China Aerospace Science and Industry Corp (CASIC). These clocks are key to the positioning and timing accuracy of China's BeiDou navigation satellites. In January 2025, Chinese researchers also developed the most precise portable atomic clock ever (NIM-TF3), demonstrating both supply chain control and technology leadership in rubidium applications.",
+      "severity": "high",
+      "source_url": "https://www.gpsworld.com/chinas-super-thin-atomic-clocks-achieve-mass-production/"
+    },
+    {
+      "headline": "Everest Metals joins U.S. Defense Consortium with rubidium pilot plant targeting late 2026",
+      "detail": "Everest Metals has been granted membership in the U.S. Defence Industrial Base Consortium (DIBC), enabling advancement of its Mt Edon rubidium project in Western Australia. The company has achieved 97% recovery rates with its patented Direct Rubidium Extraction (DRE) technology and is aiming to establish a commercial pilot plant by late 2026. DIBC membership provides access to DoD prototyping funding, commercial solutions, and streamlined contracting.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/news/rubidium-us-defense-supply-chain-global-demand/"
+    },
+    {
+      "headline": "Rubidium is critical for quantum computing and quantum sensing defense applications",
+      "detail": "Quantum computers use rubidium in laser-cooled atomic traps to perform ultra-precise calculations. Rubidium is also used in quantum magnetometers that can map minute changes in Earth's magnetic field for potential submarine tracking, and in quantum inertial sensors that could keep platforms on course in GPS-denied environments. These emerging defense applications will significantly increase demand for ultra-pure rubidium.",
+      "severity": "high",
+      "source_url": "https://www.quantumcriticalmetals.com/pages/rubidium"
+    },
+    {
+      "headline": "Rubidium carbonate used in specialty glass for fiber optics and night-vision systems",
+      "detail": "Beyond atomic clocks and quantum applications, rubidium carbonate is used in specialty glass and optics, improving performance in fiber optics and night-vision systems — both critical defense technologies. Rubidium's highly reactive alkali metal properties and easy ionization make it ideal for precision timing, quantum sensing, and optical applications that span civilian and military use cases.",
+      "severity": "moderate",
+      "source_url": "https://investingnews.com/rubidium-could-be-next-frontier-for-critical-minerals-exploration-investment/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "Rubidium confirmed on final 2025 U.S. Critical Minerals List via qualitative assessment",
+      "summary": "The Interior Department included rubidium on the final 2025 Critical Minerals List based on a qualitative assessment rather than the standard USGS quantitative methodology, due to insufficient production and trade data. This data deficit itself highlights the opacity and fragility of the rubidium supply chain, where reliable statistics on production, consumption, and trade flows are largely unavailable.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Critical mineral designation enables federal funding, Defense Production Act authorities, and strategic stockpiling mechanisms, but the data deficit complicates effective policy implementation."
+    },
+    {
+      "date": "2025-06",
+      "headline": "Everest Metals joins U.S. Defence Industrial Base Consortium for rubidium project",
+      "summary": "Australian mining company Everest Metals received DIBC membership, managed by Advanced Technology International on behalf of the U.S. Department of Defense. The membership enables access to prototyping, DoD funding, and streamlined contracting for the Mt Edon rubidium project in Western Australia, which aims for a pilot plant by late 2026 using patented Direct Rubidium Extraction technology with 97% recovery rates.",
+      "source_url": "https://discoveryalert.com.au/news/rubidium-us-defense-supply-chain-global-demand/",
+      "impact": "This represents the first concrete step toward establishing a non-Chinese rubidium supply chain for defense applications, though commercial-scale production remains years away."
+    },
+    {
+      "date": "2025-01",
+      "headline": "Chinese researchers develop world's most precise portable atomic clock using rubidium",
+      "summary": "China's National Institute of Metrology developed the NIM-TF3, described as the most precise portable atomic clock ever created, capable of autonomous operation over long periods with minimal maintenance. This builds on China's mass production of 17mm-thick rubidium clocks for the BeiDou navigation satellite system, demonstrating comprehensive technology leadership in rubidium applications.",
+      "source_url": "https://insidegnss.com/china-now-mass-producing-ultra-thin-atomic-clocks/",
+      "impact": "China's combined control over rubidium supply and leadership in rubidium-based technology creates a dual advantage that could translate into military navigation superiority if Western supply chains are not diversified."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Rubidium supply chain risk is critical and severely under-monitored. China dominates global supply while the U.S. has zero domestic production and insufficient data to even quantify its vulnerability. The mineral underpins GPS, military timing, secure communications, and emerging quantum defense technologies — all areas where supply disruption would have immediate operational military consequences.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China dominates global rubidium supply with no U.S. domestic production",
+      "Insufficient data to quantify supply chain risk (USGS could not apply quantitative methodology)",
+      "Rubidium atomic clocks are essential for GPS and military navigation",
+      "China's dual advantage in supply control and technology leadership (BeiDou clocks)",
+      "Emerging quantum computing and sensing defense applications increasing demand",
+      "Byproduct-only recovery makes production scaling difficult"
+    ],
+    "mitigation_actions": [
+      "Accelerate Everest Metals DIBC partnership and Mt Edon pilot plant development",
+      "Establish strategic stockpile of ultra-pure rubidium for military atomic clock production",
+      "Fund USGS data collection to close the rubidium supply chain information gap",
+      "Support domestic rubidium extraction from lithium and cesium mining byproducts",
+      "Invest in alternative timing technologies that reduce rubidium dependence",
+      "Develop Defense Production Act authorities for rubidium procurement"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mordor Intelligence - Rubidium Market Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/rubidium-market",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Discovery Alert - Everest Metals Joins U.S. Defense Consortium for Rubidium Project",
+      "url": "https://discoveryalert.com.au/news/rubidium-us-defense-supply-chain-global-demand/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Future Market Insights - Atomic Clock Market Global Analysis to 2036",
+      "url": "https://www.futuremarketinsights.com/reports/atomic-clock-market",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "GPS World - China's Super-Thin Atomic Clocks Achieve Mass Production",
+      "url": "https://www.gpsworld.com/chinas-super-thin-atomic-clocks-achieve-mass-production/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Inside GNSS - China Now Mass Producing Ultra-Thin Atomic Clocks",
+      "url": "https://insidegnss.com/china-now-mass-producing-ultra-thin-atomic-clocks/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Quantum Critical Metals - Rubidium",
+      "url": "https://www.quantumcriticalmetals.com/pages/rubidium",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Investing News - Rubidium Could Be Next Frontier for Critical Minerals Exploration",
+      "url": "https://investingnews.com/rubidium-could-be-next-frontier-for-critical-minerals-exploration-investment/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

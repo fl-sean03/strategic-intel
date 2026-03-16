@@ -1,0 +1,133 @@
+{
+  "id": "rhenium",
+  "category": "mineral",
+  "subject": "Rhenium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Rhenium is a rare refractory metal indispensable to aerospace and defense, with approximately 80% of global production consumed in nickel-base superalloys for high-temperature jet engine turbine blades. The remaining 15% goes to petroleum-reforming catalysts. Rhenium was added to the 2025 U.S. Critical Minerals List as one of ten new designations, reflecting growing supply chain concerns.\n\nThe United States produces primary rhenium as a byproduct of molybdenum roasting from copper-molybdenum deposits in Arizona and Montana, with estimated production increasing 5% to 9,800 kilograms in 2025. However, the U.S. continued to rely significantly on imports, with Canada (27%), Chile (31%), Germany (16%), and Poland (14%) as primary sources. Imports of unwrought rhenium and powders surged 83% in 2025 compared to 2024, reflecting rising aerospace demand.\n\nChile controls over 60% of global primary rhenium output, creating a critical geographic concentration. Alarmingly, China overtook the U.S. as the largest importer of Chilean rhenium in 2023, taking 26 tonnes compared to just 2 tonnes in 2018 — a strategic shift that threatens U.S. access to the world's dominant supply source. Rhenium prices surged 78% in 2025, with catalytic-grade ammonium perrhenate averaging $2,300/kg, driven by record commercial aircraft backlogs at Boeing and Airbus and expanding military aviation programs. The U.S. remains a leading producer of secondary rhenium from superalloy scrap and spent catalysts, a critical buffer that partially offsets import dependence.",
+  "key_findings": [
+    {
+      "headline": "80% of global rhenium consumption is in aerospace superalloys for jet engine turbine blades",
+      "detail": "Rhenium is a critical alloying element in single-crystal nickel-base superalloys used in the hot sections of military and commercial jet engines. Second- and third-generation superalloys contain 3% and 6% rhenium respectively, enabling turbine blades to withstand temperatures exceeding 1,100C. Without rhenium, jet engines cannot achieve current performance levels for fuel efficiency and thrust.",
+      "severity": "critical",
+      "source_url": "https://www.questmetals.com/blog/rhenium-in-aerospace-superalloys"
+    },
+    {
+      "headline": "Chile controls 60%+ of global rhenium production but China is rapidly increasing offtake",
+      "detail": "Chile dominates global rhenium supply through its massive copper-molybdenum mining operations. However, China's rhenium imports from Chile surged from 2 tonnes in 2018 to 26 tonnes in 2023, overtaking the United States as Chile's largest customer. This strategic purchasing pattern threatens to redirect the world's dominant rhenium supply toward China at the expense of U.S. and allied access.",
+      "severity": "critical",
+      "source_url": "https://theoregongroup.com/rhenium/rhenium-takes-off-why-jet-engines-geopolitics-are-fueling-a-price-surge-guest-post-by-louis-oconnor/"
+    },
+    {
+      "headline": "Rhenium prices surged 78% in 2025 to $2,300/kg amid aerospace demand boom",
+      "detail": "The estimated price for catalytic-grade ammonium perrhenate averaged $2,300 per kilogram in 2025, 78% higher than the 2024 annual average. Price increases were driven by record aircraft delivery backlogs at Boeing and Airbus, expanding military aviation programs, and tightening global supply. Total estimated world production in 2025 was only 81,000 kilograms.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rhenium.pdf"
+    },
+    {
+      "headline": "U.S. rhenium imports surged 83% in 2025 reflecting growing aerospace demand",
+      "detail": "Estimated imports of unwrought rhenium and rhenium powders increased by 83% in 2025 compared to 2024, with primary sources being Chile (31%), Canada (27%), Germany (16%), and Poland (14%). U.S. domestic primary production of 9,800 kg is insufficient to meet demand from both military and commercial aerospace programs.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rhenium.pdf"
+    },
+    {
+      "headline": "U.S. is a leading producer of secondary rhenium from recycling",
+      "detail": "The United States is a significant producer of secondary rhenium, recovering the metal from nickel-base superalloy scrap, spent petroleum-reforming catalysts, and foundry revert. This recycling capacity provides a critical domestic buffer, though secondary production alone cannot meet total demand. Increasing recycling efficiency and recovery rates represent a near-term mitigation opportunity.",
+      "severity": "moderate",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rhenium.pdf"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11-07",
+      "headline": "Rhenium added to 2025 U.S. Critical Minerals List",
+      "summary": "The Department of the Interior added rhenium to the final 2025 List of Critical Minerals, one of ten new additions based on the USGS updated methodology. The designation recognizes rhenium's essential role in aerospace superalloys and petroleum catalysts, combined with significant import dependence and geographic supply concentration in Chile.",
+      "source_url": "https://www.metaltechnews.com/story/2025/12/10/tech-metals/rhenium-returns-to-critical-mineral-status/2578.html",
+      "impact": "Enables Defense Production Act investments, strategic stockpiling, and permitting support for domestic rhenium recovery. Signals policy recognition of aerospace supply chain vulnerabilities."
+    },
+    {
+      "date": "2025-12-10",
+      "headline": "Rhenium prices reach multi-year highs as aerospace demand outpaces supply",
+      "summary": "Catalytic-grade ammonium perrhenate prices averaged $2,300/kg in 2025, a 78% increase over 2024. The surge was driven by record aircraft delivery backlogs, military aviation modernization programs, and limited ability to rapidly expand primary production given rhenium's byproduct nature. Global production grew only 1% to 81,000 kg.",
+      "source_url": "https://earthrarest.com/rhenium/price/",
+      "impact": "Price increases raise procurement costs for both commercial and military jet engine programs. GE Aerospace and others are accelerating R&D to reduce rhenium content in superalloys."
+    },
+    {
+      "date": "2025-06-01",
+      "headline": "China surpasses U.S. as largest importer of Chilean rhenium",
+      "summary": "Data confirmed that China's rhenium imports from Chile reached 26 tonnes in 2023, overtaking the United States. China's strategic purchasing began ramping in 2018 from just 2 tonnes, suggesting a deliberate effort to secure supply of the aerospace-critical metal, potentially for both commercial aviation and military programs.",
+      "source_url": "https://theoregongroup.com/rhenium/rhenium-takes-off-why-jet-engines-geopolitics-are-fueling-a-price-surge-guest-post-by-louis-oconnor/",
+      "impact": "Threatens long-term U.S. access to the world's dominant rhenium source. If China continues increasing offtake, U.S. may face supply competition for its most critical aerospace material."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Rhenium presents a high and escalating supply chain risk. The metal is produced in tiny quantities globally (81,000 kg/year), almost entirely as a byproduct of copper-molybdenum mining, meaning supply cannot be scaled independently of primary copper production. Chile's 60%+ production share creates severe geographic concentration, and China's rapid increase in Chilean rhenium purchasing directly threatens U.S. access. With 80% of consumption going to irreplaceable aerospace superalloys, and prices surging 78% in a single year, the combination of inelastic demand, constrained supply, and growing Chinese competition creates a worsening risk trajectory.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Chile controls 60%+ of global production with China rapidly increasing offtake",
+      "Byproduct nature means supply cannot be scaled independently of copper mining",
+      "Record commercial aircraft backlogs driving sustained demand growth",
+      "78% price surge in 2025 reflecting supply-demand tightening",
+      "U.S. import dependence increasing (imports up 83% in 2025)",
+      "No viable substitute for rhenium in high-performance aerospace superalloys"
+    ],
+    "mitigation_actions": [
+      "Negotiate long-term supply agreements with Chilean producers to secure U.S. access",
+      "Expand domestic secondary rhenium recovery from superalloy scrap and spent catalysts",
+      "Increase National Defense Stockpile reserves of rhenium metal and ammonium perrhenate",
+      "Fund R&D to reduce rhenium content in next-generation superalloys",
+      "Incentivize domestic molybdenum roasters to maximize rhenium recovery rates",
+      "Monitor and counter China's strategic purchasing of Chilean rhenium supply"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2026 - Rhenium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rhenium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Metal Tech News - Rhenium Returns to Critical Mineral Status",
+      "url": "https://www.metaltechnews.com/story/2025/12/10/tech-metals/rhenium-returns-to-critical-mineral-status/2578.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "The Oregon Group - Rhenium Takes Off: Jet Engines and Geopolitics Fueling a Price Surge",
+      "url": "https://theoregongroup.com/rhenium/rhenium-takes-off-why-jet-engines-geopolitics-are-fueling-a-price-surge-guest-post-by-louis-oconnor/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Quest Metals - Rhenium in Aerospace Superalloys",
+      "url": "https://www.questmetals.com/blog/rhenium-in-aerospace-superalloys",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "SFA Oxford - The Rhenium Market",
+      "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/rhenium-market-and-rhenium-price-drivers/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Earth Rarest - Rhenium Price History and Trends",
+      "url": "https://earthrarest.com/rhenium/price/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Aerospace Global News - Jet Engines Can't Fly as Far Without Rhenium",
+      "url": "https://aerospaceglobalnews.com/opinion/jet-engines-rhenium-supplies-shortage/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "yttrium",
+  "category": "mineral",
+  "subject": "Yttrium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Yttrium is experiencing the most dramatic supply crisis of any critical mineral in 2025-2026, with prices surging up to 4,400% — from under $8/kg to $270-$300+/kg in European spot markets — following China's April 2025 export licensing requirements. China produces 99% of the world's yttrium and controls virtually all processing capacity, giving Beijing an effective chokehold on supply. Chinese yttrium exports to the U.S. stopped entirely after the April 2025 controls, and late-2025 markets remain extremely tight with restrictions largely intact despite broader trade negotiations.\n\nYttrium's defense applications are both critical and irreplaceable. Yttria-stabilized zirconia (YSZ) is the thermal barrier coating that allows jet engine turbine blades to operate at temperatures exceeding the melting point of their superalloys — without it, the world's most advanced military jet engines cannot function. Yttrium is also essential for missile guidance systems, semiconductor manufacturing, and medical imaging equipment. The USGS determined that yttrium has among the largest probability-weighted net decreases in U.S. GDP of any mineral commodity, owing to the near-complete lack of production outside China. New supply sources in Australia, South Africa, and the Nordics show promise but will not materially impact supply until the late 2020s, creating a critical 3-year gap that threatens defense industrial readiness.",
+  "key_findings": [
+    {
+      "headline": "Yttrium prices surged 4,400% as China's export controls collapsed U.S. supply",
+      "detail": "Yttrium oxide prices in Europe reached as high as $270/kg — a 4,400% increase from under $8/kg at the start of the year — following China's April 2025 export licensing system. Chinese yttrium exports to the U.S. slowed early in 2025 before stopping altogether after the April controls. Despite trade negotiations leading to a partial suspension of October 2025 controls, the April restrictions on yttrium remain fully in effect and late-2025 markets remain extremely tight.",
+      "severity": "critical",
+      "source_url": "https://nai500.com/blog/2025/11/yttrium-oxide-prices-skyrocket-1500-as-chinas-export-controls-upend-global-supply-chains/"
+    },
+    {
+      "headline": "China produces 99% of global yttrium with near-total processing monopoly",
+      "detail": "China dominates over 90% of global yttrium mining and 99% of processing, primarily from ion-adsorption clay deposits in southern China. The U.S. relies entirely on imports for yttrium, with minimal production elsewhere. This near-total monopoly means that China's export licensing decisions are effectively supply allocation decisions for the entire world's yttrium-dependent industries.",
+      "severity": "critical",
+      "source_url": "https://rareearthexchanges.com/news/yttrium-the-quiet-rare-earth-powering-modern-technology-and-why-its-in-short-supply/"
+    },
+    {
+      "headline": "Yttria-stabilized zirconia is irreplaceable in jet engine thermal barrier coatings",
+      "detail": "Yttria-stabilized zirconia (YSZ) is the critical thermal barrier coating that allows jet engine turbine blades to operate at temperatures exceeding the melting point of their nickel superalloys. The Aerospace Industries Association stated that yttrium is 'critical to the world's most advanced jet engines' and U.S. supply chains remain heavily import-dependent. Without YSZ coatings, military jet engine performance would be severely degraded, affecting all modern fighter aircraft and bombers.",
+      "severity": "critical",
+      "source_url": "https://www.asiafinancial.com/yttrium-is-latest-rare-earth-concern-as-global-supplies-fall"
+    },
+    {
+      "headline": "USGS rates yttrium among highest GDP-impact minerals from supply disruption",
+      "detail": "The USGS 2025 Critical Minerals methodology determined that yttrium has among the largest probability-weighted net decreases in U.S. GDP of all mineral commodities examined, along with lutetium, terbium, dysprosium, and gadolinium. This extreme impact rating reflects the near-complete lack of yttrium production outside China and the mineral's essential role across defense, electronics, and energy sectors.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/publication/ofr20251047/full"
+    },
+    {
+      "headline": "Alternative supply sources 3+ years from meaningful production",
+      "detail": "New yttrium sources under development in Australia, the United States, South Africa, and the Nordics show promise but are not expected to materially impact supply until the late 2020s. This creates a critical 3-year gap during which the U.S. and allies have no viable alternative to Chinese supply. Strategic stockpiling, recycling innovation, and accelerated processing capacity development are the only near-term mitigations.",
+      "severity": "high",
+      "source_url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/"
+    },
+    {
+      "headline": "April 2025 export controls remain in force despite October 2025 partial trade deal",
+      "detail": "While China suspended implementation of its broader October 9, 2025 export control expansion for one year until November 10, 2026, the initial April 2025 restrictions on seven rare earth elements including yttrium remain fully in effect. Companies with any affiliation to foreign militaries are largely denied export licenses starting December 1, 2025, and any requests to use rare earths for military purposes are automatically rejected.",
+      "severity": "high",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "Yttrium oxide prices reach 4,400% above January levels in European markets",
+      "summary": "European spot prices for yttrium oxide reached $270/kg, a 4,400% increase from under $8/kg at the start of 2025. The price explosion was triggered by China's April export licensing requirements and sustained by the near-total absence of non-Chinese supply. Defense and aerospace buyers face severe procurement challenges as contracted supplies are exhausted.",
+      "source_url": "https://nai500.com/blog/2025/11/yttrium-oxide-prices-skyrocket-1500-as-chinas-export-controls-upend-global-supply-chains/",
+      "impact": "The extreme price surge directly increases costs for jet engine maintenance, missile production, and semiconductor manufacturing. Defense programs requiring YSZ thermal barrier coatings face potential delays if stockpiled yttrium is depleted."
+    },
+    {
+      "date": "2025-04",
+      "headline": "China imposes export licensing on yttrium and six other heavy rare earth elements",
+      "summary": "China's Ministry of Commerce mandated national-security-based export licenses for seven rare earth elements: samarium, gadolinium, terbium, dysprosium, lutetium, scandium, and yttrium. The licensing system requires declaration of end use and effectively halted yttrium exports, with Chinese customs data showing shipments to the U.S. dropping to near zero.",
+      "source_url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "impact": "The export controls represent the most significant disruption to the yttrium supply chain in decades, exposing the catastrophic consequences of 99% supply concentration in a single geopolitical rival."
+    },
+    {
+      "date": "2026-02",
+      "headline": "Global Policy Watch publishes analysis of heavy rare earth supply chain risks and policy responses",
+      "summary": "A comprehensive policy analysis documented severe supply constraints for heavy rare earth elements including yttrium as of January 2026, noting that China's export controls collapsed U.S. imports and caused European prices to surge dramatically. The report identified a critical 3-year gap before alternative supply sources can materialize.",
+      "source_url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/",
+      "impact": "The analysis strengthens the policy case for emergency stockpiling, Defense Production Act invocations, and accelerated development of non-Chinese rare earth processing capacity."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Yttrium is in active supply crisis. China's April 2025 export controls have effectively cut off the sole significant source of supply (99% of global production), causing prices to surge 4,400%. U.S. defense programs dependent on yttria-stabilized zirconia for jet engine coatings face material risk as stockpiled supplies are drawn down with no alternative source available before the late 2020s.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China produces 99% of global yttrium and has imposed export licensing since April 2025",
+      "Yttrium exports to the U.S. have effectively ceased",
+      "No alternative supply sources will be available at scale for 3+ years",
+      "Yttria-stabilized zirconia is irreplaceable in jet engine thermal barrier coatings",
+      "Military end-use license applications are automatically rejected under December 2025 rules",
+      "April 2025 controls remain in force despite October 2025 partial trade deal"
+    ],
+    "mitigation_actions": [
+      "Emergency acquisition of yttrium for the National Defense Stockpile from existing global inventories",
+      "Invoke Defense Production Act to accelerate domestic rare earth separation capacity for yttrium",
+      "Fast-track permitting for Australian, South African, and Nordic yttrium projects",
+      "Fund yttrium recycling from spent thermal barrier coatings and electronic waste",
+      "Develop interim substitute thermal barrier coating technologies that reduce yttrium loading",
+      "Negotiate bilateral supply agreements with allied rare earth producers (Australia, Canada)"
+    ]
+  },
+  "sources": [
+    {
+      "title": "NAI 500 - Yttrium Oxide Prices Skyrocket 1,500% as China's Export Controls Upend Supply Chains",
+      "url": "https://nai500.com/blog/2025/11/yttrium-oxide-prices-skyrocket-1500-as-chinas-export-controls-upend-global-supply-chains/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Rare Earth Exchanges - Yttrium Shock: Why Prices Exploded in 2025",
+      "url": "https://rareearthexchanges.com/news/yttrium-shock-why-prices-exploded-in-2025and-why-relief-remains-elusive/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Asia Financial - Yttrium Is Latest Rare Earth Concern as Global Supplies Fall",
+      "url": "https://www.asiafinancial.com/yttrium-is-latest-rare-earth-concern-as-global-supplies-fall",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Global Policy Watch - Heavy Rare Earth Elements: Rising Supply Chain Risks",
+      "url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USGS - Methodology for 2025 U.S. List of Critical Minerals",
+      "url": "https://pubs.usgs.gov/publication/ofr20251047/full",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China MOFCOM - Announcement No.18 of 2025 on Export Control of Rare Earth Items",
+      "url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Intelligent Living - The Two-Month Critical Minerals Warning: Yttrium",
+      "url": "https://www.intelligentliving.co/two-month-critical-minerals-warning/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

@@ -1,0 +1,3240 @@
+{
+  "sector": "cross-sector",
+  "summary": {
+    "total_dependencies": 160,
+    "critical_dependencies": 57,
+    "minerals_mapped": 61,
+    "sectors_affected": 8
+  },
+  "dependencies": [
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Gallium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Semiconductors (GaAs/GaN)",
+        "Radar systems",
+        "Electronic warfare",
+        "5G infrastructure",
+        "LED lighting"
+      ],
+      "note": "China controls 98% of gallium production. No near-term substitutes for GaAs/GaN in defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Gallium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Semiconductors (GaAs/GaN)",
+        "Radar systems",
+        "Electronic warfare",
+        "5G infrastructure",
+        "LED lighting"
+      ],
+      "note": "China controls 98% of gallium production. No near-term substitutes for GaAs/GaN in defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Germanium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Fiber optics",
+        "Infrared optics",
+        "Night vision",
+        "Satellite systems",
+        "Solar cells"
+      ],
+      "note": "China controls ~60% of production. Critical for defense ISR systems and IR sensor windows."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Germanium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Fiber optics",
+        "Infrared optics",
+        "Night vision",
+        "Satellite systems",
+        "Solar cells"
+      ],
+      "note": "China controls ~60% of production. Critical for defense ISR systems and IR sensor windows."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cobalt"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Jet engine superalloys",
+        "Military batteries",
+        "Armor plating",
+        "Cemented carbides"
+      ],
+      "note": "DRC dominates mining (76%). China dominates refining. DRC export quotas create structural deficit."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cobalt"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Jet engine superalloys",
+        "Military batteries",
+        "Armor plating",
+        "Cemented carbides"
+      ],
+      "note": "DRC dominates mining (76%). China dominates refining. DRC export quotas create structural deficit."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cobalt"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Jet engine superalloys",
+        "Military batteries",
+        "Armor plating",
+        "Cemented carbides"
+      ],
+      "note": "DRC dominates mining (76%). China dominates refining. DRC export quotas create structural deficit."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lithium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Military batteries",
+        "Ceramics armor",
+        "Nuclear applications",
+        "Lubricating greases"
+      ],
+      "note": "Battery-grade lithium increasingly constrained. Chile/Australia mine, China refines 65%+."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lithium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Military batteries",
+        "Ceramics armor",
+        "Nuclear applications",
+        "Lubricating greases"
+      ],
+      "note": "Battery-grade lithium increasingly constrained. Chile/Australia mine, China refines 65%+."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lithium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Military batteries",
+        "Ceramics armor",
+        "Nuclear applications",
+        "Lubricating greases"
+      ],
+      "note": "Battery-grade lithium increasingly constrained. Chile/Australia mine, China refines 65%+."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Titanium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aircraft frames",
+        "Jet engines",
+        "Armor",
+        "Naval vessels",
+        "Chemical processing"
+      ],
+      "note": "Russia was a major supplier. Aerospace depends heavily on titanium sponge. F-35 is 15% Ti by weight."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Titanium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aircraft frames",
+        "Jet engines",
+        "Armor",
+        "Naval vessels",
+        "Chemical processing"
+      ],
+      "note": "Russia was a major supplier. Aerospace depends heavily on titanium sponge. F-35 is 15% Ti by weight."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Titanium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aircraft frames",
+        "Jet engines",
+        "Armor",
+        "Naval vessels",
+        "Chemical processing"
+      ],
+      "note": "Russia was a major supplier. Aerospace depends heavily on titanium sponge. F-35 is 15% Ti by weight."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tungsten"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Armor-piercing munitions",
+        "Tooling and cutting tools",
+        "Kinetic penetrators",
+        "Electronics"
+      ],
+      "note": "China controls 84% of production. Essential for kinetic energy penetrators and cemented carbide tooling."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tungsten"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Armor-piercing munitions",
+        "Tooling and cutting tools",
+        "Kinetic penetrators",
+        "Electronics"
+      ],
+      "note": "China controls 84% of production. Essential for kinetic energy penetrators and cemented carbide tooling."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Machinery",
+        "naics": "333"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tungsten"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Armor-piercing munitions",
+        "Tooling and cutting tools",
+        "Kinetic penetrators",
+        "Electronics"
+      ],
+      "note": "China controls 84% of production. Essential for kinetic energy penetrators and cemented carbide tooling."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Chromium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Stainless steel",
+        "Superalloys",
+        "Armor",
+        "Corrosion-resistant coatings"
+      ],
+      "note": "Zero U.S. primary production. No substitutes in stainless steel or superalloys. South Africa 45% of ferrochrome."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Chromium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Stainless steel",
+        "Superalloys",
+        "Armor",
+        "Corrosion-resistant coatings"
+      ],
+      "note": "Zero U.S. primary production. No substitutes in stainless steel or superalloys. South Africa 45% of ferrochrome."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Chromium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Stainless steel",
+        "Superalloys",
+        "Armor",
+        "Corrosion-resistant coatings"
+      ],
+      "note": "Zero U.S. primary production. No substitutes in stainless steel or superalloys. South Africa 45% of ferrochrome."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Manganese"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Steel production",
+        "Battery cathodes",
+        "Aluminum alloys",
+        "Munition shell steel"
+      ],
+      "note": "100% imported. South Africa, Gabon, Australia are key sources. Essential for all steel production."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Manganese"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Steel production",
+        "Battery cathodes",
+        "Aluminum alloys",
+        "Munition shell steel"
+      ],
+      "note": "100% imported. South Africa, Gabon, Australia are key sources. Essential for all steel production."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Manganese"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Steel production",
+        "Battery cathodes",
+        "Aluminum alloys",
+        "Munition shell steel"
+      ],
+      "note": "100% imported. South Africa, Gabon, Australia are key sources. Essential for all steel production."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Niobium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "High-strength steel",
+        "Jet engine superalloys",
+        "Superconductors",
+        "HSLA hull steel"
+      ],
+      "note": "Brazil controls 85%+ of production. Single-source risk. Critical for submarine hull steel."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Niobium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "High-strength steel",
+        "Jet engine superalloys",
+        "Superconductors",
+        "HSLA hull steel"
+      ],
+      "note": "Brazil controls 85%+ of production. Single-source risk. Critical for submarine hull steel."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Niobium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "High-strength steel",
+        "Jet engine superalloys",
+        "Superconductors",
+        "HSLA hull steel"
+      ],
+      "note": "Brazil controls 85%+ of production. Single-source risk. Critical for submarine hull steel."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tantalum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Capacitors",
+        "Jet engine blades",
+        "Surgical instruments",
+        "Chemical processing"
+      ],
+      "note": "DRC and Rwanda are key sources. Conflict mineral regulation applies. Essential for defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tantalum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Capacitors",
+        "Jet engine blades",
+        "Surgical instruments",
+        "Chemical processing"
+      ],
+      "note": "DRC and Rwanda are key sources. Conflict mineral regulation applies. Essential for defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tantalum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Capacitors",
+        "Jet engine blades",
+        "Surgical instruments",
+        "Chemical processing"
+      ],
+      "note": "DRC and Rwanda are key sources. Conflict mineral regulation applies. Essential for defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Graphite"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Battery anodes",
+        "Nuclear reactor moderators",
+        "Crucibles",
+        "Carbon fiber composites"
+      ],
+      "note": "China produces ~77% of natural graphite. Critical for EV battery and stealth composite supply chains."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Graphite"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Battery anodes",
+        "Nuclear reactor moderators",
+        "Crucibles",
+        "Carbon fiber composites"
+      ],
+      "note": "China produces ~77% of natural graphite. Critical for EV battery and stealth composite supply chains."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Graphite"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Battery anodes",
+        "Nuclear reactor moderators",
+        "Crucibles",
+        "Carbon fiber composites"
+      ],
+      "note": "China produces ~77% of natural graphite. Critical for EV battery and stealth composite supply chains."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Antimony"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Ammunition primers",
+        "Flame retardants",
+        "Lead-acid batteries",
+        "IR detectors"
+      ],
+      "note": "China military end-use ban in force. Used in 200+ DOD ammunition types. Zero U.S. production since 2001."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Antimony"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Ammunition primers",
+        "Flame retardants",
+        "Lead-acid batteries",
+        "IR detectors"
+      ],
+      "note": "China military end-use ban in force. Used in 200+ DOD ammunition types. Zero U.S. production since 2001."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Antimony"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Ammunition primers",
+        "Flame retardants",
+        "Lead-acid batteries",
+        "IR detectors"
+      ],
+      "note": "China military end-use ban in force. Used in 200+ DOD ammunition types. Zero U.S. production since 2001."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Vanadium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "High-strength steel alloys",
+        "Armor",
+        "Energy storage (flow batteries)",
+        "Aerospace Ti alloys"
+      ],
+      "note": "China and Russia are major producers. Ti-6Al-4V alloy is primary aerospace titanium. Flow battery demand growing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Vanadium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "High-strength steel alloys",
+        "Armor",
+        "Energy storage (flow batteries)",
+        "Aerospace Ti alloys"
+      ],
+      "note": "China and Russia are major producers. Ti-6Al-4V alloy is primary aerospace titanium. Flow battery demand growing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Vanadium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "High-strength steel alloys",
+        "Armor",
+        "Energy storage (flow batteries)",
+        "Aerospace Ti alloys"
+      ],
+      "note": "China and Russia are major producers. Ti-6Al-4V alloy is primary aerospace titanium. Flow battery demand growing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Beryllium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aerospace structures",
+        "Nuclear weapons components",
+        "X-ray windows",
+        "Satellite mirrors"
+      ],
+      "note": "U.S. dominates via Materion Corp (60%+ global). Single-producer concentration risk. Irreplaceable in defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Beryllium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aerospace structures",
+        "Nuclear weapons components",
+        "X-ray windows",
+        "Satellite mirrors"
+      ],
+      "note": "U.S. dominates via Materion Corp (60%+ global). Single-producer concentration risk. Irreplaceable in defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Beryllium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Aerospace structures",
+        "Nuclear weapons components",
+        "X-ray windows",
+        "Satellite mirrors"
+      ],
+      "note": "U.S. dominates via Materion Corp (60%+ global). Single-producer concentration risk. Irreplaceable in defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Nickel"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Superalloys",
+        "Batteries",
+        "Armor steel",
+        "Submarine hulls (HY-80/100)"
+      ],
+      "note": "Indonesia dominates new production. Class 1 nickel for batteries is constrained. Essential for naval vessels."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Nickel"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Superalloys",
+        "Batteries",
+        "Armor steel",
+        "Submarine hulls (HY-80/100)"
+      ],
+      "note": "Indonesia dominates new production. Class 1 nickel for batteries is constrained. Essential for naval vessels."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Nickel"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Superalloys",
+        "Batteries",
+        "Armor steel",
+        "Submarine hulls (HY-80/100)"
+      ],
+      "note": "Indonesia dominates new production. Class 1 nickel for batteries is constrained. Essential for naval vessels."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Aluminum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aircraft structures",
+        "Armor",
+        "Naval vessels",
+        "Munitions casings",
+        "Grid conductors"
+      ],
+      "note": "Only 4 domestic smelters at 50% utilization. 47-60% import reliant. On all 4 federal critical mineral lists."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Aluminum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aircraft structures",
+        "Armor",
+        "Naval vessels",
+        "Munitions casings",
+        "Grid conductors"
+      ],
+      "note": "Only 4 domestic smelters at 50% utilization. 47-60% import reliant. On all 4 federal critical mineral lists."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Aluminum"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aircraft structures",
+        "Armor",
+        "Naval vessels",
+        "Munitions casings",
+        "Grid conductors"
+      ],
+      "note": "Only 4 domestic smelters at 50% utilization. 47-60% import reliant. On all 4 federal critical mineral lists."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Uranium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear weapons",
+        "Naval propulsion reactors",
+        "Power generation",
+        "DU armor"
+      ],
+      "note": "Kazakhstan is top producer. Russia controls enrichment. U.S. rebuilding domestic enrichment capacity."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Uranium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear weapons",
+        "Naval propulsion reactors",
+        "Power generation",
+        "DU armor"
+      ],
+      "note": "Kazakhstan is top producer. Russia controls enrichment. U.S. rebuilding domestic enrichment capacity."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Arsenic"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "GaAs semiconductors",
+        "Wood preservatives",
+        "Pesticides",
+        "LED manufacturing"
+      ],
+      "note": "100% import-dependent since 1985. China supplies 96% of arsenic metal. Essential for GaAs defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Arsenic"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "GaAs semiconductors",
+        "Wood preservatives",
+        "Pesticides",
+        "LED manufacturing"
+      ],
+      "note": "100% import-dependent since 1985. China supplies 96% of arsenic metal. Essential for GaAs defense electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Barite"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Oil/gas drilling fluids",
+        "Barium chemicals",
+        "Medical imaging contrast",
+        "Radiation shielding"
+      ],
+      "note": "75%+ import reliant. Over 90% used in drilling. India (40%) and China (25%) dominate imports."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Barite"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Oil/gas drilling fluids",
+        "Barium chemicals",
+        "Medical imaging contrast",
+        "Radiation shielding"
+      ],
+      "note": "75%+ import reliant. Over 90% used in drilling. India (40%) and China (25%) dominate imports."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Bismuth"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Lead-free solder",
+        "Pharmaceuticals",
+        "Cosmetics",
+        "Fusible alloys"
+      ],
+      "note": "China controls 80% production. 700% price surge in 2025. Leading impacted material in weapons systems by part count."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Bismuth"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Lead-free solder",
+        "Pharmaceuticals",
+        "Cosmetics",
+        "Fusible alloys"
+      ],
+      "note": "China controls 80% production. 700% price surge in 2025. Leading impacted material in weapons systems by part count."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Bismuth"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Lead-free solder",
+        "Pharmaceuticals",
+        "Cosmetics",
+        "Fusible alloys"
+      ],
+      "note": "China controls 80% production. 700% price surge in 2025. Leading impacted material in weapons systems by part count."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Boron"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Armor ceramics (B4C)",
+        "NdFeB permanent magnets",
+        "Nuclear shielding",
+        "Fiberglass",
+        "Agriculture"
+      ],
+      "note": "U.S. supply depends on single Rio Tinto operation. China controls 80% of boron carbide for defense armor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Boron"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Armor ceramics (B4C)",
+        "NdFeB permanent magnets",
+        "Nuclear shielding",
+        "Fiberglass",
+        "Agriculture"
+      ],
+      "note": "U.S. supply depends on single Rio Tinto operation. China controls 80% of boron carbide for defense armor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Boron"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Armor ceramics (B4C)",
+        "NdFeB permanent magnets",
+        "Nuclear shielding",
+        "Fiberglass",
+        "Agriculture"
+      ],
+      "note": "U.S. supply depends on single Rio Tinto operation. China controls 80% of boron carbide for defense armor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cerium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Glass polishing for defense optics",
+        "Diesel fuel additives",
+        "UV filters"
+      ],
+      "note": "Most abundant rare earth but China controls 80%+ processing. Essential for defense optics polishing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cerium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Glass polishing for defense optics",
+        "Diesel fuel additives",
+        "UV filters"
+      ],
+      "note": "Most abundant rare earth but China controls 80%+ processing. Essential for defense optics polishing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cerium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Glass polishing for defense optics",
+        "Diesel fuel additives",
+        "UV filters"
+      ],
+      "note": "Most abundant rare earth but China controls 80%+ processing. Essential for defense optics polishing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cesium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Atomic clocks (GPS/missile guidance)",
+        "Drilling fluids (cesium formate)",
+        "Photoelectric cells"
+      ],
+      "note": "Chinese company Sinomine controls both active global production facilities. 100% U.S. import dependent."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Cesium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Atomic clocks (GPS/missile guidance)",
+        "Drilling fluids (cesium formate)",
+        "Photoelectric cells"
+      ],
+      "note": "Chinese company Sinomine controls both active global production facilities. 100% U.S. import dependent."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Copper"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Electrical wiring",
+        "Ammunition",
+        "Heat exchangers",
+        "Motor windings",
+        "Naval systems"
+      ],
+      "note": "45% import reliant. 65% from Chile. 50% Section 232 tariffs imposed Aug 2025. 24-year mine development timeline."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Copper"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Electrical wiring",
+        "Ammunition",
+        "Heat exchangers",
+        "Motor windings",
+        "Naval systems"
+      ],
+      "note": "45% import reliant. 65% from Chile. 50% Section 232 tariffs imposed Aug 2025. 24-year mine development timeline."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Copper"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Electrical wiring",
+        "Ammunition",
+        "Heat exchangers",
+        "Motor windings",
+        "Naval systems"
+      ],
+      "note": "45% import reliant. 65% from Chile. 50% Section 232 tariffs imposed Aug 2025. 24-year mine development timeline."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Copper"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Electrical wiring",
+        "Ammunition",
+        "Heat exchangers",
+        "Motor windings",
+        "Naval systems"
+      ],
+      "note": "45% import reliant. 65% from Chile. 50% Section 232 tariffs imposed Aug 2025. 24-year mine development timeline."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Dysprosium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant NdFeB magnets",
+        "Guided munitions",
+        "Jet engine actuators",
+        "EV motors"
+      ],
+      "note": "China controls 98% of processing. Military end-user export ban. Irreplaceable in high-temp permanent magnets."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Dysprosium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant NdFeB magnets",
+        "Guided munitions",
+        "Jet engine actuators",
+        "EV motors"
+      ],
+      "note": "China controls 98% of processing. Military end-user export ban. Irreplaceable in high-temp permanent magnets."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Dysprosium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant NdFeB magnets",
+        "Guided munitions",
+        "Jet engine actuators",
+        "EV motors"
+      ],
+      "note": "China controls 98% of processing. Military end-user export ban. Irreplaceable in high-temp permanent magnets."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Erbium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Fiber optic amplifiers (EDFA)",
+        "Laser systems",
+        "Nuclear applications",
+        "Glass colorant"
+      ],
+      "note": "Backbone of all long-distance fiber optic communications including military networks. China 85-90% processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Erbium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Fiber optic amplifiers (EDFA)",
+        "Laser systems",
+        "Nuclear applications",
+        "Glass colorant"
+      ],
+      "note": "Backbone of all long-distance fiber optic communications including military networks. China 85-90% processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Europium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Anti-counterfeiting phosphors",
+        "Military displays",
+        "Nuclear control rods",
+        "X-ray screens"
+      ],
+      "note": "Irreplaceable for anti-counterfeiting features in U.S. currency. China 85% processing. Military end-user ban."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Europium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Anti-counterfeiting phosphors",
+        "Military displays",
+        "Nuclear control rods",
+        "X-ray screens"
+      ],
+      "note": "Irreplaceable for anti-counterfeiting features in U.S. currency. China 85% processing. Military end-user ban."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Fluorspar"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Hydrofluoric acid",
+        "Aluminum smelting flux",
+        "Semiconductor etching",
+        "Uranium enrichment"
+      ],
+      "note": "100% import dependent for decades. Precursor to HF which underpins batteries, semiconductors, and aluminum."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Fluorspar"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Hydrofluoric acid",
+        "Aluminum smelting flux",
+        "Semiconductor etching",
+        "Uranium enrichment"
+      ],
+      "note": "100% import dependent for decades. Precursor to HF which underpins batteries, semiconductors, and aluminum."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Fluorspar"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Hydrofluoric acid",
+        "Aluminum smelting flux",
+        "Semiconductor etching",
+        "Uranium enrichment"
+      ],
+      "note": "100% import dependent for decades. Precursor to HF which underpins batteries, semiconductors, and aluminum."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Gadolinium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Nuclear reactor shielding",
+        "MRI contrast agents",
+        "Sonar systems",
+        "Magnetostrictive actuators"
+      ],
+      "note": "China 85%+ processing. Used in submarine sonar, nuclear shielding, and MRI. Co-produced with other rare earths."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Gadolinium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Nuclear reactor shielding",
+        "MRI contrast agents",
+        "Sonar systems",
+        "Magnetostrictive actuators"
+      ],
+      "note": "China 85%+ processing. Used in submarine sonar, nuclear shielding, and MRI. Co-produced with other rare earths."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Gadolinium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Nuclear reactor shielding",
+        "MRI contrast agents",
+        "Sonar systems",
+        "Magnetostrictive actuators"
+      ],
+      "note": "China 85%+ processing. Used in submarine sonar, nuclear shielding, and MRI. Co-produced with other rare earths."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Hafnium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear reactor control rods",
+        "Superalloy additive",
+        "Semiconductor gate dielectric",
+        "Plasma cutting"
+      ],
+      "note": "Essential for Virginia/Columbia-class submarine reactor control rods. Co-produced with zirconium. Limited global supply."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Hafnium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear reactor control rods",
+        "Superalloy additive",
+        "Semiconductor gate dielectric",
+        "Plasma cutting"
+      ],
+      "note": "Essential for Virginia/Columbia-class submarine reactor control rods. Co-produced with zirconium. Limited global supply."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Hafnium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear reactor control rods",
+        "Superalloy additive",
+        "Semiconductor gate dielectric",
+        "Plasma cutting"
+      ],
+      "note": "Essential for Virginia/Columbia-class submarine reactor control rods. Co-produced with zirconium. Limited global supply."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Holmium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "High-strength magnets",
+        "Nuclear reactor components",
+        "Laser systems",
+        "Flux concentrators"
+      ],
+      "note": "Strongest magnetic moment of any element. Used in specialized magnetic and nuclear applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Holmium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "High-strength magnets",
+        "Nuclear reactor components",
+        "Laser systems",
+        "Flux concentrators"
+      ],
+      "note": "Strongest magnetic moment of any element. Used in specialized magnetic and nuclear applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Indium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "ITO display coatings",
+        "Semiconductors (InSb IR detectors)",
+        "Solders",
+        "Solar cells (CIGS)"
+      ],
+      "note": "China export controls imposed Feb 2025. Essential for cockpit displays (ITO) and IR missile seekers (InSb)."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Indium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "ITO display coatings",
+        "Semiconductors (InSb IR detectors)",
+        "Solders",
+        "Solar cells (CIGS)"
+      ],
+      "note": "China export controls imposed Feb 2025. Essential for cockpit displays (ITO) and IR missile seekers (InSb)."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Iridium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Spark plugs (jet engines)",
+        "Crucibles",
+        "Electrodes",
+        "Catalysts",
+        "Satellite thrusters"
+      ],
+      "note": "South Africa dominates production. Used in jet engine spark plugs and satellite propulsion. Extremely rare."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Iridium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Spark plugs (jet engines)",
+        "Crucibles",
+        "Electrodes",
+        "Catalysts",
+        "Satellite thrusters"
+      ],
+      "note": "South Africa dominates production. Used in jet engine spark plugs and satellite propulsion. Extremely rare."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Iridium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Spark plugs (jet engines)",
+        "Crucibles",
+        "Electrodes",
+        "Catalysts",
+        "Satellite thrusters"
+      ],
+      "note": "South Africa dominates production. Used in jet engine spark plugs and satellite propulsion. Extremely rare."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lanthanum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Night vision optics",
+        "Catalytic converters",
+        "Battery alloys (NiMH)",
+        "Camera lenses"
+      ],
+      "note": "Most abundant light rare earth after cerium. Essential for night vision optics. China 80%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lanthanum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Night vision optics",
+        "Catalytic converters",
+        "Battery alloys (NiMH)",
+        "Camera lenses"
+      ],
+      "note": "Most abundant light rare earth after cerium. Essential for night vision optics. China 80%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lanthanum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Night vision optics",
+        "Catalytic converters",
+        "Battery alloys (NiMH)",
+        "Camera lenses"
+      ],
+      "note": "Most abundant light rare earth after cerium. Essential for night vision optics. China 80%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lead"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Ammunition",
+        "Lead-acid batteries",
+        "Radiation shielding",
+        "Cable sheathing"
+      ],
+      "note": "Domestic production significant but declining. Used in ammunition, military batteries, and nuclear shielding."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lead"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Ammunition",
+        "Lead-acid batteries",
+        "Radiation shielding",
+        "Cable sheathing"
+      ],
+      "note": "Domestic production significant but declining. Used in ammunition, military batteries, and nuclear shielding."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lead"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Ammunition",
+        "Lead-acid batteries",
+        "Radiation shielding",
+        "Cable sheathing"
+      ],
+      "note": "Domestic production significant but declining. Used in ammunition, military batteries, and nuclear shielding."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lutetium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "PET scan detectors",
+        "LED phosphors",
+        "Nuclear applications",
+        "Catalysts"
+      ],
+      "note": "Rarest and most expensive stable rare earth. Used in medical imaging and specialized nuclear applications."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Lutetium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "PET scan detectors",
+        "LED phosphors",
+        "Nuclear applications",
+        "Catalysts"
+      ],
+      "note": "Rarest and most expensive stable rare earth. Used in medical imaging and specialized nuclear applications."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Magnesium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aerospace alloy castings",
+        "Military flares and incendiary",
+        "Aluminum alloying",
+        "Steel desulfurization"
+      ],
+      "note": "China produces 84% of global supply. U.S. has one primary producer (US Magnesium). Essential for aerospace and munitions."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Magnesium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aerospace alloy castings",
+        "Military flares and incendiary",
+        "Aluminum alloying",
+        "Steel desulfurization"
+      ],
+      "note": "China produces 84% of global supply. U.S. has one primary producer (US Magnesium). Essential for aerospace and munitions."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Magnesium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Aerospace alloy castings",
+        "Military flares and incendiary",
+        "Aluminum alloying",
+        "Steel desulfurization"
+      ],
+      "note": "China produces 84% of global supply. U.S. has one primary producer (US Magnesium). Essential for aerospace and munitions."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Metallurgical Coal"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Steel production (coke for blast furnaces)",
+        "Carbon additives"
+      ],
+      "note": "U.S. is a major producer and exporter. Essential for steelmaking \u2014 all military armor, hulls, and munitions need steel."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Neodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdFeB permanent magnets",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines",
+        "Headphones/speakers"
+      ],
+      "note": "China controls 85%+ processing. NdFeB magnets are in every guided weapon, jet engine, and submarine motor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Neodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdFeB permanent magnets",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines",
+        "Headphones/speakers"
+      ],
+      "note": "China controls 85%+ processing. NdFeB magnets are in every guided weapon, jet engine, and submarine motor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Neodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdFeB permanent magnets",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines",
+        "Headphones/speakers"
+      ],
+      "note": "China controls 85%+ processing. NdFeB magnets are in every guided weapon, jet engine, and submarine motor."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Palladium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electronics",
+        "Hydrogen purification",
+        "Fuel cells",
+        "Dental alloys"
+      ],
+      "note": "Russia and South Africa produce 80%+ of global supply. Essential for catalytic converters and hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Palladium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electronics",
+        "Hydrogen purification",
+        "Fuel cells",
+        "Dental alloys"
+      ],
+      "note": "Russia and South Africa produce 80%+ of global supply. Essential for catalytic converters and hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Palladium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electronics",
+        "Hydrogen purification",
+        "Fuel cells",
+        "Dental alloys"
+      ],
+      "note": "Russia and South Africa produce 80%+ of global supply. Essential for catalytic converters and hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Phosphate Rock"
+      },
+      "relationship": "requires",
+      "criticality": "low",
+      "applications": [
+        "Fertilizers",
+        "Phosphoric acid",
+        "Animal feed supplements",
+        "Water treatment"
+      ],
+      "note": "U.S. is a major producer (Florida, Idaho). Critical for food security. Morocco holds 70% of global reserves."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Platinum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Fuel cells",
+        "Electronics",
+        "Petroleum refining catalysts"
+      ],
+      "note": "South Africa produces 72% of global supply. Essential for hydrogen fuel cells and catalytic converters."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Platinum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Fuel cells",
+        "Electronics",
+        "Petroleum refining catalysts"
+      ],
+      "note": "South Africa produces 72% of global supply. Essential for hydrogen fuel cells and catalytic converters."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Platinum"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Fuel cells",
+        "Electronics",
+        "Petroleum refining catalysts"
+      ],
+      "note": "South Africa produces 72% of global supply. Essential for hydrogen fuel cells and catalytic converters."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Potash"
+      },
+      "relationship": "requires",
+      "criticality": "low",
+      "applications": [
+        "Fertilizers (potassium chloride)",
+        "Chemical manufacturing",
+        "Water softening"
+      ],
+      "note": "Canada, Russia, Belarus dominate. Critical for agriculture/food security. U.S. imports ~93% of potash."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Praseodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdPr permanent magnets",
+        "Aircraft engine alloys",
+        "Ceramic colorants",
+        "Arc carbons"
+      ],
+      "note": "Co-produced with neodymium (NdPr alloy). Essential component of all NdFeB permanent magnets for defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Praseodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdPr permanent magnets",
+        "Aircraft engine alloys",
+        "Ceramic colorants",
+        "Arc carbons"
+      ],
+      "note": "Co-produced with neodymium (NdPr alloy). Essential component of all NdFeB permanent magnets for defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Praseodymium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "NdPr permanent magnets",
+        "Aircraft engine alloys",
+        "Ceramic colorants",
+        "Arc carbons"
+      ],
+      "note": "Co-produced with neodymium (NdPr alloy). Essential component of all NdFeB permanent magnets for defense."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rare Earths"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Permanent magnets",
+        "Radar systems",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines"
+      ],
+      "note": "China controls 85%+ of processing. Pentagon invested $400M in MP Materials. Suspension expires Nov 2026."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rare Earths"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Permanent magnets",
+        "Radar systems",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines"
+      ],
+      "note": "China controls 85%+ of processing. Pentagon invested $400M in MP Materials. Suspension expires Nov 2026."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rare Earths"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Permanent magnets",
+        "Radar systems",
+        "Guided munitions",
+        "EV motors",
+        "Wind turbines"
+      ],
+      "note": "China controls 85%+ of processing. Pentagon invested $400M in MP Materials. Suspension expires Nov 2026."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rhenium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Single-crystal turbine blades",
+        "Petroleum reforming catalysts",
+        "Jet engine superalloys"
+      ],
+      "note": "Only ~60 tonnes produced annually worldwide. Chile and U.S. lead production. Irreplaceable in single-crystal turbine blades."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rhenium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Single-crystal turbine blades",
+        "Petroleum reforming catalysts",
+        "Jet engine superalloys"
+      ],
+      "note": "Only ~60 tonnes produced annually worldwide. Chile and U.S. lead production. Irreplaceable in single-crystal turbine blades."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rhodium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electrical contacts",
+        "Glass manufacturing",
+        "Chemical catalysts"
+      ],
+      "note": "South Africa produces 80%+ of global supply. Extremely rare PGM. Used in autocatalysts and electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rhodium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electrical contacts",
+        "Glass manufacturing",
+        "Chemical catalysts"
+      ],
+      "note": "South Africa produces 80%+ of global supply. Extremely rare PGM. Used in autocatalysts and electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rhodium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Catalytic converters",
+        "Electrical contacts",
+        "Glass manufacturing",
+        "Chemical catalysts"
+      ],
+      "note": "South Africa produces 80%+ of global supply. Extremely rare PGM. Used in autocatalysts and electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Rubidium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Atomic clocks",
+        "GPS systems",
+        "Fiber optic telecoms",
+        "Medical imaging"
+      ],
+      "note": "Similar strategic applications to cesium in atomic clocks. Limited global production, mostly from lepidolite."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Ruthenium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Hard disk coatings",
+        "Chip resistors",
+        "Fuel cells",
+        "Chemical catalysts",
+        "Solar cells"
+      ],
+      "note": "South Africa produces 93% of global supply. Critical for data storage and emerging hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Ruthenium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Hard disk coatings",
+        "Chip resistors",
+        "Fuel cells",
+        "Chemical catalysts",
+        "Solar cells"
+      ],
+      "note": "South Africa produces 93% of global supply. Critical for data storage and emerging hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Ruthenium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Hard disk coatings",
+        "Chip resistors",
+        "Fuel cells",
+        "Chemical catalysts",
+        "Solar cells"
+      ],
+      "note": "South Africa produces 93% of global supply. Critical for data storage and emerging hydrogen economy."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Samarium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "SmCo permanent magnets",
+        "Radar systems",
+        "Guided missiles",
+        "Jet engine actuators"
+      ],
+      "note": "SmCo magnets operate at higher temperatures than NdFeB. Used in missile seekers and radar gimbals."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Samarium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "SmCo permanent magnets",
+        "Radar systems",
+        "Guided missiles",
+        "Jet engine actuators"
+      ],
+      "note": "SmCo magnets operate at higher temperatures than NdFeB. Used in missile seekers and radar gimbals."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Samarium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "SmCo permanent magnets",
+        "Radar systems",
+        "Guided missiles",
+        "Jet engine actuators"
+      ],
+      "note": "SmCo magnets operate at higher temperatures than NdFeB. Used in missile seekers and radar gimbals."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Scandium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Aluminum-scandium alloys",
+        "Solid oxide fuel cells",
+        "Sports equipment",
+        "Aerospace castings"
+      ],
+      "note": "Extremely limited production. Al-Sc alloys are lightweight and weldable for aerospace. China export controls applied."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Scandium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Aluminum-scandium alloys",
+        "Solid oxide fuel cells",
+        "Sports equipment",
+        "Aerospace castings"
+      ],
+      "note": "Extremely limited production. Al-Sc alloys are lightweight and weldable for aerospace. China export controls applied."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silicon"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Semiconductors",
+        "Solar cells",
+        "Aluminum alloys",
+        "Silicones",
+        "Ferrosilicon for steelmaking"
+      ],
+      "note": "Foundation of all electronics. U.S. has some production but imports high-purity polysilicon. China dominates solar-grade."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silicon"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Semiconductors",
+        "Solar cells",
+        "Aluminum alloys",
+        "Silicones",
+        "Ferrosilicon for steelmaking"
+      ],
+      "note": "Foundation of all electronics. U.S. has some production but imports high-purity polysilicon. China dominates solar-grade."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silicon"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Semiconductors",
+        "Solar cells",
+        "Aluminum alloys",
+        "Silicones",
+        "Ferrosilicon for steelmaking"
+      ],
+      "note": "Foundation of all electronics. U.S. has some production but imports high-purity polysilicon. China dominates solar-grade."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silver"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Electronics (contacts, conductors)",
+        "Solar panels",
+        "Brazing alloys",
+        "Antimicrobial coatings"
+      ],
+      "note": "Mexico, Peru, China lead production. Highest electrical conductivity of any element. Essential for electronics and solar."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silver"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Electronics (contacts, conductors)",
+        "Solar panels",
+        "Brazing alloys",
+        "Antimicrobial coatings"
+      ],
+      "note": "Mexico, Peru, China lead production. Highest electrical conductivity of any element. Essential for electronics and solar."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Silver"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Electronics (contacts, conductors)",
+        "Solar panels",
+        "Brazing alloys",
+        "Antimicrobial coatings"
+      ],
+      "note": "Mexico, Peru, China lead production. Highest electrical conductivity of any element. Essential for electronics and solar."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tellurium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "CdTe solar cells",
+        "Thermoelectric devices",
+        "Infrared detectors",
+        "Alloying agent"
+      ],
+      "note": "China export controls imposed Feb 2025. 60-70% of supply from China. Essential for CdTe solar and IR detectors."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tellurium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "CdTe solar cells",
+        "Thermoelectric devices",
+        "Infrared detectors",
+        "Alloying agent"
+      ],
+      "note": "China export controls imposed Feb 2025. 60-70% of supply from China. Essential for CdTe solar and IR detectors."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Terbium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant magnets",
+        "Sonar systems",
+        "Radar actuators",
+        "Green phosphors"
+      ],
+      "note": "Co-additive with dysprosium for NdFeB magnet thermal stability. China 98% processing. Military end-user ban."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Terbium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant magnets",
+        "Sonar systems",
+        "Radar actuators",
+        "Green phosphors"
+      ],
+      "note": "Co-additive with dysprosium for NdFeB magnet thermal stability. China 98% processing. Military end-user ban."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Terbium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Heat-resistant magnets",
+        "Sonar systems",
+        "Radar actuators",
+        "Green phosphors"
+      ],
+      "note": "Co-additive with dysprosium for NdFeB magnet thermal stability. China 98% processing. Military end-user ban."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Thulium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Portable X-ray machines",
+        "Laser systems",
+        "Nuclear applications",
+        "High-temperature superconductors"
+      ],
+      "note": "Rarest naturally occurring lanthanide. Military X-ray and laser applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Chemicals",
+        "naics": "325"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Thulium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Portable X-ray machines",
+        "Laser systems",
+        "Nuclear applications",
+        "High-temperature superconductors"
+      ],
+      "note": "Rarest naturally occurring lanthanide. Military X-ray and laser applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tin"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Solder (electronics assembly)",
+        "Tin plate (food cans)",
+        "Bronze alloys",
+        "Chemicals"
+      ],
+      "note": "China and Indonesia produce 60%+ of global supply. Lead-free solder mandate makes tin essential for all electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tin"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Solder (electronics assembly)",
+        "Tin plate (food cans)",
+        "Bronze alloys",
+        "Chemicals"
+      ],
+      "note": "China and Indonesia produce 60%+ of global supply. Lead-free solder mandate makes tin essential for all electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Tin"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Solder (electronics assembly)",
+        "Tin plate (food cans)",
+        "Bronze alloys",
+        "Chemicals"
+      ],
+      "note": "China and Indonesia produce 60%+ of global supply. Lead-free solder mandate makes tin essential for all electronics."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Ytterbium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Fiber lasers",
+        "Stress gauges",
+        "Metallurgical applications",
+        "Quantum computing"
+      ],
+      "note": "Used in high-power fiber lasers for military and industrial applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Electrical Equipment",
+        "naics": "335"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Ytterbium"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Fiber lasers",
+        "Stress gauges",
+        "Metallurgical applications",
+        "Quantum computing"
+      ],
+      "note": "Used in high-power fiber lasers for military and industrial applications. China 85%+ processing."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Computer & Electronic Products",
+        "naics": "334"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Yttrium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Thermal barrier coatings (YSZ)",
+        "LED phosphors",
+        "Superconductors",
+        "Jet engine coatings"
+      ],
+      "note": "Yttria-stabilized zirconia coatings on jet engine turbine blades. China export controls. Co-produced with heavy RE."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Yttrium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Thermal barrier coatings (YSZ)",
+        "LED phosphors",
+        "Superconductors",
+        "Jet engine coatings"
+      ],
+      "note": "Yttria-stabilized zirconia coatings on jet engine turbine blades. China export controls. Co-produced with heavy RE."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Yttrium"
+      },
+      "relationship": "requires",
+      "criticality": "high",
+      "applications": [
+        "Thermal barrier coatings (YSZ)",
+        "LED phosphors",
+        "Superconductors",
+        "Jet engine coatings"
+      ],
+      "note": "Yttria-stabilized zirconia coatings on jet engine turbine blades. China export controls. Co-produced with heavy RE."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zinc"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Galvanizing steel",
+        "Brass ammunition components",
+        "Die casting",
+        "Zinc-carbon batteries"
+      ],
+      "note": "U.S. is a significant producer but imports ~57%. Essential for corrosion protection on all military steel and brass ammo."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Fabricated Metal Products",
+        "naics": "332"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zinc"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Galvanizing steel",
+        "Brass ammunition components",
+        "Die casting",
+        "Zinc-carbon batteries"
+      ],
+      "note": "U.S. is a significant producer but imports ~57%. Essential for corrosion protection on all military steel and brass ammo."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zinc"
+      },
+      "relationship": "requires",
+      "criticality": "moderate",
+      "applications": [
+        "Galvanizing steel",
+        "Brass ammunition components",
+        "Die casting",
+        "Zinc-carbon batteries"
+      ],
+      "note": "U.S. is a significant producer but imports ~57%. Essential for corrosion protection on all military steel and brass ammo."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Transportation Equipment",
+        "naics": "336"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zirconium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear fuel cladding",
+        "Ceramics",
+        "Corrosion-resistant alloys",
+        "Foundry molds"
+      ],
+      "note": "Essential for Virginia/Columbia-class reactor fuel cladding. Transparent to neutrons. Co-produced with hafnium."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Primary Metals",
+        "naics": "331"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zirconium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear fuel cladding",
+        "Ceramics",
+        "Corrosion-resistant alloys",
+        "Foundry molds"
+      ],
+      "note": "Essential for Virginia/Columbia-class reactor fuel cladding. Transparent to neutrons. Co-produced with hafnium."
+    },
+    {
+      "from": {
+        "sector": "manufacturing",
+        "entity": "Nonmetallic Mineral Products",
+        "naics": "327"
+      },
+      "to": {
+        "sector": "metals-mining",
+        "entity": "Zirconium"
+      },
+      "relationship": "requires",
+      "criticality": "critical",
+      "applications": [
+        "Nuclear fuel cladding",
+        "Ceramics",
+        "Corrosion-resistant alloys",
+        "Foundry molds"
+      ],
+      "note": "Essential for Virginia/Columbia-class reactor fuel cladding. Transparent to neutrons. Co-produced with hafnium."
+    }
+  ],
+  "generated_at": "2026-03-16T15:45:33.768639+00:00"
+}

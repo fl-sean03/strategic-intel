@@ -1,0 +1,159 @@
+{
+  "id": "lithium",
+  "category": "mineral",
+  "subject": "Lithium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Lithium is the foundational mineral for the global energy transition, with demand projected to grow 16% year-over-year in 2026, driven primarily by electric vehicles (58% of incremental demand) and energy storage systems (30%). Global production surged 31% in 2025 to approximately 290,000 metric tons, yet the U.S. produced only about 4,000 tons from a single mine — Albemarle's Silver Peak in Nevada — representing less than 1% of world output. The supply chain is dominated by Australia (mining), Chile (brine extraction), and China (refining), with China projected to supply over 60% of refined lithium through 2035.\n\nThe U.S. government has committed massive investment to build domestic capacity. The DOE finalized a $2.26 billion loan for Lithium Americas' Thacker Pass mine in Nevada (targeting 40,000 t/yr capacity by late 2027) and a $996 million loan guarantee for Ioneer's Rhyolite Ridge project (expected to quadruple U.S. domestic supply). Combined capital expenditure at Thacker Pass alone is projected at $1.3-1.6 billion in 2026 during peak construction. Additional smaller projects in East Texas and Pennsylvania target production starts in 2026.\n\nLithium prices experienced extreme volatility, crashing from 2022 highs before recovering 56% in 2025 to approximately $16,883/mt for lithium carbonate. Analysts project prices could rise 58-110% in 2026 as the market potentially flips to a 1,500-ton deficit. Despite this recovery, the economics of new U.S. mines remain challenging, and the timeline to meaningful domestic production extends to 2027-2028 for the largest projects.",
+  "key_findings": [
+    {
+      "headline": "U.S. produces less than 1% of global lithium from a single mine",
+      "detail": "Albemarle's Silver Peak operation in Esmeralda County, Nevada is the only active lithium mine in the United States, producing approximately 4,000 metric tons in 2024. This represents less than 1% of global production of approximately 290,000 tons, leaving the U.S. almost entirely dependent on imports for a mineral critical to EVs, grid storage, and defense applications.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf"
+    },
+    {
+      "headline": "DOE commits $3.2 billion in loans for two Nevada lithium projects",
+      "detail": "The Department of Energy finalized a $2.26 billion loan for Lithium Americas' Thacker Pass project and a $996 million loan guarantee for Ioneer's Rhyolite Ridge project, both in Nevada. Thacker Pass targets 40,000 t/yr capacity with Phase 1 operations by late 2027, while Rhyolite Ridge aims to quadruple U.S. domestic lithium supply. The DOE also took a 5% equity stake in Lithium Americas.",
+      "severity": "high",
+      "source_url": "https://www.energy.gov/edf/articles/doe-announces-996-million-loan-guarantee-ioneer-rhyolite-ridge-advance-domestic"
+    },
+    {
+      "headline": "China dominates lithium refining with 60%+ share projected through 2035",
+      "detail": "While mining is distributed across Australia, Chile, Argentina, and China, the refining bottleneck remains concentrated in China, which processes the majority of raw lithium into battery-grade materials. By 2035, China is projected to supply over 60% of refined lithium, creating a processing chokepoint even if mining diversifies.",
+      "severity": "high",
+      "source_url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025"
+    },
+    {
+      "headline": "Global lithium production will be 42% higher in 2026 than 2024",
+      "detail": "Worldwide lithium production increased 31% in 2025 to 290,000 tons and is forecast to grow further in 2026, with the U.S. and Argentina seeing the fastest expansion rates. However, demand is also accelerating — global consumption grew 20% to 263,000 tons in 2025 — and some forecasts project the market could flip to a 1,500-ton deficit in 2026.",
+      "severity": "medium",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf"
+    },
+    {
+      "headline": "Lithium prices could surge 58-110% in 2026",
+      "detail": "After recovering 56% in 2025 (from $10,799/mt to $16,883/mt for lithium carbonate equivalent), prices are forecast to rise further in 2026. Ganfeng Lithium's chairman projects 58-110% increases depending on market dynamics, while S&P Global expects the uptrend to continue into the 2030s. The recovery is driven by tightening supply-demand fundamentals and accelerating EV adoption.",
+      "severity": "medium",
+      "source_url": "https://investingnews.com/daily/resource-investing/battery-metals-investing/lithium-investing/lithium-forecast/"
+    },
+    {
+      "headline": "Thacker Pass enters peak construction phase with $1.3-1.6B in 2026 capex",
+      "detail": "Lithium Americas issued 2026 capital expenditure guidance of $1.3-1.6 billion for Thacker Pass, with workforce expected to reach approximately 1,800 at peak construction. The project received its first $435 million DOE draw and is the largest lithium development project in the Western Hemisphere. Phase 1 production targets late 2027 with full ramp-up through 2028.",
+      "severity": "medium",
+      "source_url": "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Provides-a-Project-Update-and-2026-Capex-Guidance-for-Thacker-Pass/default.aspx"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-10",
+      "headline": "U.S. government takes 5% equity stake in Lithium Americas and Thacker Pass",
+      "summary": "The U.S. government announced a direct equity investment in Lithium Americas and its Thacker Pass mine in Nevada, with the DOE taking warrants for a 5% equity stake. The move signaled unprecedented government commitment to securing domestic lithium production capacity, with the administration explicitly classifying lithium as a resource critical to national security.",
+      "source_url": "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Provides-a-Project-Update-and-2026-Capex-Guidance-for-Thacker-Pass/default.aspx",
+      "impact": "Establishes a new model for government-backed critical mineral development, de-risking the project for private investors and ensuring completion of the largest U.S. lithium mine. Sets precedent for potential government stakes in other critical mineral projects."
+    },
+    {
+      "date": "2025-01",
+      "headline": "DOE finalizes $996 million loan for Ioneer's Rhyolite Ridge lithium-boron project",
+      "summary": "The DOE Loan Programs Office closed a $996 million loan guarantee (including $968 million principal and $28 million capitalized interest) for the Rhyolite Ridge project in Esmeralda County, Nevada. The project is expected to quadruple U.S. domestic lithium supply and support production of over 370,000 EVs annually. Construction targeted for late 2025 with first production in 2028.",
+      "source_url": "https://www.energy.gov/edf/articles/doe-announces-996-million-loan-guarantee-ioneer-rhyolite-ridge-advance-domestic",
+      "impact": "When operational, Rhyolite Ridge will be the first new lithium mine in the U.S. in nearly 60 years. Combined with Thacker Pass, these two projects could bring U.S. lithium production from 4,000 to over 60,000 tonnes annually by 2029-2030."
+    },
+    {
+      "date": "2025-12",
+      "headline": "Lithium prices recover 56% in 2025 after multi-year downturn",
+      "summary": "Lithium carbonate equivalent prices rose from $10,799/mt in January 2025 to $16,883/mt by year-end, a 56% recovery. The rebound was driven by production cuts from major producers who shuttered uneconomic operations, accelerating EV demand (J.P. Morgan projects 16% YoY growth in 2026), and growing energy storage system deployments.",
+      "source_url": "https://investingnews.com/daily/resource-investing/battery-metals-investing/lithium-investing/lithium-forecast/",
+      "impact": "Price recovery improves the economics of new domestic mining projects but remains below the levels needed to incentivize many proposed developments. The Dallas Fed noted that U.S. lithium production encounters tough economics at current price levels."
+    },
+    {
+      "date": "2025-04",
+      "headline": "IEA Global Critical Minerals Outlook 2025 flags lithium supply concentration risks",
+      "summary": "The International Energy Agency's comprehensive outlook highlighted that despite production diversification in mining, lithium refining remains heavily concentrated in China. The report warned that strategic alliances and joint ventures are essential to ensure reliable, diversified supply, and flagged emerging extraction technologies including direct lithium extraction and AI-based exploration.",
+      "source_url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025",
+      "impact": "Reinforced the urgency of building refining capacity outside China. Even as mining diversifies to Australia, Chile, Argentina, and eventually the U.S., the refining bottleneck continues to give China leverage over global battery supply chains."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Lithium supply chain risk is elevated but moderating. Unlike gallium or rare earths, lithium mining is geographically distributed across multiple countries (Australia, Chile, Argentina, China), reducing single-point-of-failure risk at the extraction stage. However, China's dominance in refining (60%+ share) creates a persistent processing bottleneck. U.S. domestic production remains negligible at less than 1% of global output, with major projects (Thacker Pass, Rhyolite Ridge) not reaching meaningful production until 2027-2028. Price volatility threatens the economics of new projects, and permitting challenges continue to delay development timelines.",
+    "trend": "improving",
+    "key_drivers": [
+      "China's 60%+ share of lithium refining creating a processing chokepoint",
+      "U.S. domestic production at less than 1% of global output with major projects years from production",
+      "Accelerating demand from EVs (16% YoY growth in 2026) and energy storage systems",
+      "Price volatility threatening economics of new domestic mining projects",
+      "Lengthy permitting processes delaying project timelines by years",
+      "Potential 1,500-ton supply deficit in 2026 tightening global markets"
+    ],
+    "mitigation_actions": [
+      "Complete Thacker Pass Phase 1 construction (targeting late 2027 production, 40,000 t/yr capacity)",
+      "Advance Rhyolite Ridge to first production (2028 target, expected to quadruple U.S. supply)",
+      "Invest in domestic lithium refining capacity to break China's processing dominance",
+      "Support direct lithium extraction (DLE) technology development for brine and clay deposits",
+      "Expand IRA tax credits and production incentives to improve project economics",
+      "Develop lithium recycling infrastructure to create secondary supply from spent EV batteries",
+      "Negotiate critical mineral agreements with allied producers (Australia, Chile, Argentina, Canada)"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Lithium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-lithium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2026 - Lithium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-lithium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "IEA Global Critical Minerals Outlook 2025",
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025",
+      "accessed": "2026-03-16",
+      "type": "international_organization"
+    },
+    {
+      "title": "DOE - Ioneer Rhyolite Ridge $996M Loan Guarantee",
+      "url": "https://www.energy.gov/edf/articles/doe-announces-996-million-loan-guarantee-ioneer-rhyolite-ridge-advance-domestic",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Lithium Americas - Project Update and 2026 Capex Guidance for Thacker Pass",
+      "url": "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Provides-a-Project-Update-and-2026-Capex-Guidance-for-Thacker-Pass/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Investing News - Lithium Market 2026: Rebound Ahead?",
+      "url": "https://investingnews.com/daily/resource-investing/battery-metals-investing/lithium-investing/lithium-forecast/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "J.P. Morgan - The Growing Demand for Critical Minerals",
+      "url": "https://www.jpmorgan.com/insights/global-research/commodities/critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "financial"
+    },
+    {
+      "title": "Dallas Fed - Rush for U.S. lithium production encounters tough economics",
+      "url": "https://www.dallasfed.org/research/economics/2025/1014-plante-lithium",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Sprott - Lithium Gains Momentum in 2025",
+      "url": "https://sprott.com/insights/lithium-gains-momentum-in-2025/",
+      "accessed": "2026-03-16",
+      "type": "financial"
+    },
+    {
+      "title": "deVere Group - Lithium Price Forecast to Recover in 2026",
+      "url": "https://www.devere-group.com/lithium-price-forecast-to-recover-in-2026-as-demand-mounts/",
+      "accessed": "2026-03-16",
+      "type": "financial"
+    }
+  ]
+}

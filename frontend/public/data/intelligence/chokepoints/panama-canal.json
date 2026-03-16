@@ -1,0 +1,160 @@
+{
+  "id": "panama-canal",
+  "category": "chokepoint",
+  "subject": "Panama Canal",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The Panama Canal is a 50-mile artificial waterway connecting the Atlantic and Pacific Oceans through the Isthmus of Panama, handling approximately 5% of global shipping and serving as a critical transit point for U.S. trade, particularly LNG and LPG exports. In fiscal year 2025, the canal recorded 13,404 transits (averaging 33 vessels/day), handling 489.1 million CP/SUAB tons and generating $5.7 billion in revenue — a strong recovery from the drought-disrupted FY2024 which saw only 11,240 transits and a 29% drop from normal operations.\n\nThe canal faces two distinct categories of risk: climate-driven water scarcity and geopolitical tensions over sovereignty. The 2023-2024 drought, exacerbated by El Nino, was the most severe operational disruption in the canal's modern history. Gatun Lake water levels fell to record lows, forcing the Panama Canal Authority to reduce daily transits from the normal 38 to just 24 by November 2023. Average tanker waiting times surged from 8 to 18 days, LNG transits fell 66%, and ships were forced to reroute via the Cape of Good Hope or Suez Canal at significantly higher cost. Total rainfall in 2023 was 30% below average. While water levels have since recovered (Gatun Lake at 86.6 ft as of mid-2025), the Panama government approved a new dam project on the Indio River in January 2025 to provide water reserves for future dry periods.\n\nGeopolitically, the canal has become a flashpoint in U.S.-China competition. Since his January 2025 inauguration, President Trump has repeatedly claimed 'China is running the Panama Canal' and suggested using military force to retake control, despite the canal being operated by the Panama Canal Authority, a Panamanian government entity. The controversy centers on two ports (Balboa and Cristobal) operated by Hong Kong-based Hutchison Ports since 1997. In early 2026, a Panamanian court transferred temporary port operations to Maersk after pressure from Washington, prompting Chinese threats that Panama 'will inevitably pay a heavy price.' Panama has rejected Trump's sovereignty claims while canceling its Belt and Road Initiative MOU with China to ease tensions.",
+  "key_findings": [
+    {
+      "headline": "FY2025 recovery: 13,404 transits, $5.7B revenue after drought disruption",
+      "detail": "The Panama Canal recorded a strong recovery in FY2025 with 13,404 total transits (19.3% increase over FY2024), 489.1 million CP/SUAB tons (15.6% increase), and $5.7 billion in revenue (14.4% increase). Daily transits averaged 33 vessels versus 27 in the drought year. Container and LPG segments led the recovery. The canal delivered nearly $3 billion to the Panamanian treasury.",
+      "severity": "moderate",
+      "source_url": "https://dredgewire.com/panama-canal-posts-5-7-bln-in-fy2025-revenue-transits-jump-19/"
+    },
+    {
+      "headline": "2023-2024 drought cut transits 30%, LNG transits down 66%",
+      "detail": "The 2023-2024 El Nino drought reduced Gatun Lake water levels to record lows, forcing the PCA to cut daily transits from 38 to 24 by November 2023. Total transits fell 30% from normal, with LNG transits plummeting 66%. Average tanker wait times surged from 8 to 18 days. Even after water levels recovered, LNG carriers continued choosing the Cape of Good Hope route, demonstrating lasting behavioral change in shipping patterns.",
+      "severity": "high",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=60842"
+    },
+    {
+      "headline": "Trump sovereignty claims create U.S.-Panama-China geopolitical flashpoint",
+      "detail": "President Trump has claimed 'China is running the Panama Canal' and suggested military force to retake it, despite the canal being operated by the Panama Canal Authority. The dispute centers on two ports operated by Hong Kong-based Hutchison Ports since 1997. Secretary Rubio delivered direct warnings to Panamanian leadership about Chinese influence. Panama's president rejected sovereignty claims, stating 'the canal is and will remain Panama's.'",
+      "severity": "high",
+      "source_url": "https://www.cnbc.com/2026/02/13/panama-ports-us-china-ck-hutchison-trump.html"
+    },
+    {
+      "headline": "Port transfer to Maersk triggers Chinese retaliation threats",
+      "detail": "A Panamanian court transferred temporary operations of the Balboa and Cristobal ports from Hutchison to Danish shipping giant Maersk under U.S. pressure. CK Hutchison Holdings threatened legal action. Beijing warned that Panama 'will inevitably pay a heavy price both politically and economically' unless it changes course. The dispute risks making the canal a proxy battleground in broader U.S.-China competition.",
+      "severity": "high",
+      "source_url": "https://www.cnbc.com/2026/02/13/panama-ports-us-china-ck-hutchison-trump.html"
+    },
+    {
+      "headline": "Climate change poses recurring drought risk; Indio River dam approved",
+      "detail": "Research indicates that disruption risks will grow in a warming climate unless emissions are reduced or adaptation measures implemented. The Panamanian government approved construction of a new dam on the Indio River in January 2025 to provide supplemental water during dry periods. The 2023 drought was deemed 'unlikely without El Nino' but climate projections suggest more frequent extreme dry periods. Construction will extend into the early 2030s.",
+      "severity": "moderate",
+      "source_url": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html"
+    },
+    {
+      "headline": "LNG traffic has not returned despite water level recovery",
+      "detail": "Even with Gatun Lake levels back to normal operating conditions (86.6 ft as of mid-2025), LNG traffic has not returned to pre-drought activity levels. LNG carriers continue choosing the longer Cape of Good Hope route rather than risk future Panama disruptions. This represents a structural shift in LNG shipping patterns that may persist regardless of water conditions.",
+      "severity": "moderate",
+      "source_url": "https://mykn.kuehne-nagel.com/news/article/panama-canal-has-plenty-of-water-10-jul-2025"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "U.S.-China port dispute escalates as CK Hutchison threatens legal action",
+      "summary": "After a Panamanian court transferred temporary operations of the Balboa and Cristobal ports from Hong Kong-based CK Hutchison to Maersk under U.S. pressure, CK Hutchison threatened legal action. China warned Panama of severe consequences. The dispute has become the most tangible manifestation of U.S.-China competition over Latin American infrastructure, with the canal at its center.",
+      "source_url": "https://www.cnbc.com/2026/02/13/panama-ports-us-china-ck-hutchison-trump.html",
+      "impact": "Creates investment uncertainty for canal infrastructure; risks making Panama a proxy battleground; could affect canal operational efficiency if dispute disrupts port management."
+    },
+    {
+      "date": "2025-09",
+      "headline": "Panama Canal Authority confirms water levels adequate through early 2026",
+      "summary": "The PCA confirmed that Gatun Lake water levels are adequate for the remainder of 2025 and into early 2026, with levels at 86.6 ft (26.4 m) — well above operational thresholds. The canal has topped the 26 m level since August 2025, ruling out a repeat of the 2023-2024 drought restrictions in the near term.",
+      "source_url": "https://mykn.kuehne-nagel.com/news/article/panama-canal-has-plenty-of-water-10-jul-2025",
+      "impact": "Positive for near-term operational reliability; does not address longer-term climate risk; LNG traffic still not returning despite improved water levels."
+    },
+    {
+      "date": "2025-08",
+      "headline": "China and U.S. clash at U.N. over Panama Canal sovereignty",
+      "summary": "The U.S. and China confronted each other at the United Nations over the Panama Canal, with the U.S. citing security concerns about Chinese influence and China defending its commercial investments. The clash elevated what was a bilateral dispute into a multilateral arena, drawing attention from Latin American nations concerned about sovereignty implications.",
+      "source_url": "https://www.npr.org/2025/08/12/nx-s1-5500001/china-us-un-panama-canal-clash",
+      "impact": "Internationalization of the dispute; regional solidarity with Panama's sovereignty; increased tension in U.S.-China relations over Latin American influence."
+    },
+    {
+      "date": "2025-01",
+      "headline": "Panama approves Indio River dam to protect canal water supply",
+      "summary": "The Panamanian government approved a plan to build a new dam on the Indio River to provide supplemental water for the canal during drought periods. The project aims to meet canal water needs during dry seasons and prevent future transit restrictions. Construction is expected to extend into the early 2030s.",
+      "source_url": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html",
+      "impact": "Long-term infrastructure solution for climate risk; construction timeline means vulnerability persists through the early 2030s; demonstrates PCA's proactive approach to resilience."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The Panama Canal faces a moderate and bifurcated risk profile. Operationally, water levels are healthy and traffic has recovered strongly in FY2025. However, recurring climate-driven drought risk remains a structural concern, and LNG traffic has not returned despite improved conditions. Geopolitically, the canal is caught in an intensifying U.S.-China power competition, with Trump's sovereignty rhetoric, the Hutchison port transfer dispute, and Chinese retaliation threats creating an unstable political environment that could affect operational decisions, investment, and international perception of the canal's neutrality.",
+    "trend": "stable",
+    "key_drivers": [
+      "Climate change increasing frequency and severity of drought risk for Gatun Lake water supply",
+      "U.S.-China geopolitical competition over canal influence and port operations",
+      "Trump administration sovereignty claims and pressure on Panama",
+      "CK Hutchison/Maersk port operations dispute and Chinese retaliation threats",
+      "Structural shift in LNG shipping patterns away from canal despite water recovery",
+      "Indio River dam project timeline (early 2030s) leaving near-term climate vulnerability",
+      "Panama's position between U.S. security demands and Chinese economic interests"
+    ],
+    "mitigation_actions": [
+      "Indio River dam project approved (January 2025) to supplement canal water supply",
+      "PCA water management improvements and monitoring systems",
+      "Panama canceling Belt and Road Initiative MOU to ease U.S. tensions",
+      "FY2025 revenue recovery ($5.7B) strengthening PCA financial position",
+      "Alternative routing via Suez Canal or Cape of Good Hope available for LNG/LPG",
+      "Diplomatic engagement between Panama, U.S., and China to manage tensions",
+      "Container traffic exceeding pre-drought levels demonstrating resilience in core segments"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panama Canal posts $5.7 bln in FY2025 revenue, transits jump 19% - DredgeWire",
+      "url": "https://dredgewire.com/panama-canal-posts-5-7-bln-in-fy2025-revenue-transits-jump-19/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Panama Canal Delivers Nearly $3 Billion to Treasury After Drought Recovery - gCaptain",
+      "url": "https://gcaptain.com/panama-canal-delivers-nearly-3-billion-to-treasury-after-drought-recovery/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Drought at the Panama Canal delays energy shipments - U.S. EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=60842",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Inside the Panama Canal's mega-project plan - CNBC",
+      "url": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "U.S.-China proxy battle over Panama Canal ports - CNBC",
+      "url": "https://www.cnbc.com/2026/02/13/panama-ports-us-china-ck-hutchison-trump.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China and U.S. clash at U.N. over the Panama Canal - NPR",
+      "url": "https://www.npr.org/2025/08/12/nx-s1-5500001/china-us-un-panama-canal-clash",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Panama Canal has plenty of water but transits still below pre-drought levels - Kuehne+Nagel",
+      "url": "https://mykn.kuehne-nagel.com/news/article/panama-canal-has-plenty-of-water-10-jul-2025",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Trump's Panama Canal Policy: Impact on Chinese Presence - Defense.info",
+      "url": "https://defense.info/highlight-of-the-week/trumps-panama-canal-policy-impact-on-chineses-presence-in-latin-america/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "The Crisis Trump Is Causing in Panama - Carnegie Endowment",
+      "url": "https://carnegieendowment.org/emissary/2025/02/panama-canal-trump-china-crisis",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Recovery of the Panama Canal - project44",
+      "url": "https://www.project44.com/supply-chain-insights/recovery-of-the-panama-canal/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

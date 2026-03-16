@@ -1,0 +1,154 @@
+{
+  "id": "vanadium",
+  "category": "mineral",
+  "subject": "Vanadium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Vanadium presents a stark example of U.S. critical mineral vulnerability: the country lacks any active primary vanadium mines (domestic ore mining ceased in 2020), while 99% of global supply is concentrated in China (70%), Russia (21%), and South Africa (8%). The United States meets all demand through imports and recycling, importing ferrovanadium primarily from Canada (48%) and Austria (37%), and vanadium pentoxide from Brazil (49%) and South Africa (35%).\n\nVanadium faces a unique dual-demand dynamic. Steel applications dominate current consumption at 94% of U.S. use in 2023, primarily as an alloying agent for high-strength low-alloy (HSLA) steel. However, the fastest-growing application is vanadium redox flow batteries (VRFBs), projected to grow from 3% to 17% of global vanadium consumption by 2033 — a 6x increase. China's September 2024 implementation of new rebar standards requiring increased vanadium intensity is simultaneously tightening supply and could make China a net vanadium importer by 2026.\n\nThe Trump administration signaled urgency by approving Anfield Energy's Velvet-Wood uranium-vanadium mine in Utah through a new 14-day expedited permitting process — the first mine approved under this accelerated framework. The DLA has issued RFPs for vanadium stockpiling, and the EIA is conducting field studies of vanadium as part of its Energy Minerals Observatory. CRU Group projects vanadium prices to recover from late 2026, supported by tightening supply from China's rebar standards and growing VRFB deployment.\n\nThe Chinese government recently announced a new VRFB production target aiming to reach 12 GWh annual capacity by 2027, further accelerating demand for vanadium within China and potentially constraining export availability for the rest of the world.",
+  "key_findings": [
+    {
+      "headline": "U.S. has zero active vanadium mines and is entirely import-dependent",
+      "detail": "The United States currently has no active primary vanadium mines, with production from domestic ore having ended in 2020 when mining of uraniferous sandstones on the Colorado Plateau ceased. All U.S. vanadium demand is met through imports and recycling, despite the country possessing sufficient domestic resources to supply most of its needs. This gap between resource potential and actual production reflects regulatory, economic, and infrastructure barriers.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-vanadium.pdf"
+    },
+    {
+      "headline": "99% of global vanadium supply concentrated in China, Russia, and South Africa",
+      "detail": "China accounts for approximately 70% of global vanadium production (70,000 metric tons in 2024), with Russia at 21% and South Africa at 8%. This 99% concentration in three countries — two of which are geopolitical adversaries — represents one of the most extreme supply concentration risks among all critical minerals. China also dominates vanadium processing, controlling more than 50% of global processed vanadium output.",
+      "severity": "critical",
+      "source_url": "https://theoregongroup.com/energy-transition/mining/vanadium-double-edged-demand/"
+    },
+    {
+      "headline": "Chinese rebar standards and VRFB demand creating global supply gap beyond 2025",
+      "detail": "China's September 2024 implementation of new rebar standards requiring increased vanadium intensity, combined with surging vanadium redox flow battery deployment, is creating a domestic supply gap that could make China a net importer of vanadium by 2026. The Chinese government announced a VRFB production target of 12 GWh annual capacity by 2027. Without new supply, this structural demand shift will tighten global vanadium availability significantly.",
+      "severity": "critical",
+      "source_url": "https://www.crugroup.com/en/communities/thought-leadership/2025/vanadium-supply-gap-looms-as-chinese-rebar-standards-tighten-amid-battery-boom/"
+    },
+    {
+      "headline": "VRFB demand projected to grow 6x from 3% to 17% of global vanadium use by 2033",
+      "detail": "Vanadium redox flow batteries are projected to account for 17% of global vanadium consumption by 2033, up from just 3% in 2021 — a 6x increase. VRFBs are emerging as the preferred long-duration energy storage technology for grid-scale applications, offering advantages over lithium-ion in longevity, safety, and scalability. Steel still dominates at 94% of U.S. consumption, but the battery demand growth will create new supply pressure.",
+      "severity": "high",
+      "source_url": "https://theoregongroup.com/energy-transition/mining/vanadium-double-edged-demand/"
+    },
+    {
+      "headline": "First mine approved under Trump administration's 14-day expedited permitting",
+      "detail": "In 2025, Anfield Energy's Velvet-Wood uranium-vanadium mine in Utah became the first mine approved under the Trump administration's new 14-day expedited permitting process, reflecting unprecedented urgency around critical mineral production. The mine will produce both uranium for nuclear fuel and vanadium from Colorado Plateau sandstone deposits, addressing two critical mineral supply chains simultaneously.",
+      "severity": "high",
+      "source_url": "https://asiatimes.com/2026/01/central-asia-vanadium-and-the-us-national-security-strategy/"
+    },
+    {
+      "headline": "DLA issues RFPs for vanadium strategic stockpiling",
+      "detail": "The Defense Logistics Agency has issued requests for proposals seeking offers for sale of vanadium as part of the federal push for critical minerals stockpiling in 2025-2026. Vanadium is essential for high-strength steel alloys used in military vehicles, naval vessels, aircraft, and infrastructure. The DLA procurement signals recognition that U.S. import dependency for vanadium from adversary nations poses an unacceptable national security risk.",
+      "severity": "high",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-01",
+      "headline": "EIA announces vanadium field studies as part of Energy Minerals Observatory",
+      "summary": "The U.S. Energy Information Administration announced plans to conduct field studies of vanadium, graphite, and zirconium as part of its Energy Minerals Observatory and Manufacturing Energy Consumption Survey (MECS) in 2026. The studies aim to address critical data gaps in understanding domestic vanadium consumption, processing, and supply chain vulnerabilities.",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=66824",
+      "impact": "Will provide the first comprehensive federal data on U.S. vanadium flows and consumption patterns, informing policy decisions on stockpiling, domestic production incentives, and supply chain resilience measures."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Vanadium retained on final 2025 List of Critical Minerals",
+      "summary": "The U.S. Department of the Interior retained vanadium on the final 2025 List of Critical Minerals, reflecting its importance to defense steel alloys, energy storage, and aerospace applications, as well as the severe supply concentration risks from 99% dependency on China, Russia, and South Africa.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Maintains vanadium's eligibility for Defense Production Act funding, expedited permitting, and other federal support programs designed to strengthen domestic supply chains."
+    },
+    {
+      "date": "2025-09",
+      "headline": "Velvet-Wood uranium-vanadium mine approved under 14-day expedited permitting",
+      "summary": "Anfield Energy's Velvet-Wood uranium-vanadium mine in Utah became the first mine approved under the Trump administration's new 14-day expedited permitting process. The mine will produce vanadium as a co-product alongside uranium from Colorado Plateau sandstone deposits, potentially establishing the first U.S. primary vanadium production since 2020.",
+      "source_url": "https://asiatimes.com/2026/01/central-asia-vanadium-and-the-us-national-security-strategy/",
+      "impact": "Signals a dramatic shift in permitting policy for critical mineral projects and could catalyze additional vanadium mining proposals on the Colorado Plateau, where significant known resources exist but have been uneconomic to develop under normal permitting timelines."
+    },
+    {
+      "date": "2025-12",
+      "headline": "World's largest vanadium flow battery commissioned in China with 1 GW solar plant",
+      "summary": "China commissioned the world's largest vanadium redox flow battery system alongside a 1 GW solar plant, demonstrating the growing scale and commercial viability of VRFB technology. The Chinese government set a production target of 12 GWh annual VRFB capacity by 2027, which will significantly increase domestic vanadium consumption.",
+      "source_url": "https://article.wn.com/view-steel/2025/12/31/World_s_largest_vanadium_flow_battery_goes_online_in_China_w/",
+      "impact": "Accelerates Chinese domestic vanadium consumption, potentially making China a net importer by 2026. This structural demand shift will reduce vanadium availability on global markets and increase prices, creating both risks and opportunities for Western producers."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Vanadium supply chain risk is critical due to complete U.S. import dependency with zero domestic production, combined with 99% global supply concentration in China (70%), Russia (21%), and South Africa (8%). China's new rebar standards and VRFB production targets are structurally tightening supply, potentially making China a net importer by 2026 and reducing global availability. The Velvet-Wood mine approval signals policy urgency but meaningful domestic production is still years away. The DLA's stockpiling RFPs provide a short-term buffer, but the fundamental supply chain vulnerability requires sustained investment in domestic and allied production.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Zero U.S. domestic vanadium production since 2020 with 100% import dependency",
+      "99% global supply concentration in China (70%), Russia (21%), and South Africa (8%)",
+      "China's new rebar standards increasing domestic vanadium consumption",
+      "VRFB demand projected to grow 6x from 3% to 17% of global use by 2033",
+      "China may become net vanadium importer by 2026, tightening global supply",
+      "Essential for high-strength steel alloys in defense vehicles, naval vessels, and infrastructure"
+    ],
+    "mitigation_actions": [
+      "Accelerate permitting and development of Velvet-Wood and other Colorado Plateau vanadium projects",
+      "Execute DLA vanadium stockpile procurement to build strategic reserve",
+      "Negotiate long-term vanadium supply agreements with Brazil and South Africa",
+      "Invest in vanadium recycling from spent steel catalysts and industrial waste streams",
+      "Fund domestic VRFB electrolyte production using recycled and imported vanadium",
+      "Support development of Central Asian vanadium sources through bilateral partnerships",
+      "Develop vanadium recovery from U.S. uranium tailings and phosphate rock processing",
+      "Fund R&D into iron-based and zinc-based alternatives to vanadium for flow battery applications"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Vanadium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-vanadium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Oregon Group - Vanadium: Double-Edged Demand",
+      "url": "https://theoregongroup.com/energy-transition/mining/vanadium-double-edged-demand/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CRU Group - Vanadium Supply Gap Looms as Chinese Rebar Standards Tighten",
+      "url": "https://www.crugroup.com/en/communities/thought-leadership/2025/vanadium-supply-gap-looms-as-chinese-rebar-standards-tighten-amid-battery-boom/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Asia Times - Central Asia, Vanadium and the US National Security Strategy",
+      "url": "https://asiatimes.com/2026/01/central-asia-vanadium-and-the-us-national-security-strategy/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Inside Government Contracts - Federal Push for Critical Minerals Stockpiling",
+      "url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "EIA - Energy Minerals Observatory Data Deficits",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=66824",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "CRU Group - Vanadium Market Prices to Recover by End of 2026",
+      "url": "https://www.crugroup.com/en/communities/thought-leadership/2025/vanadium-prices-to-recover-by-end-of-2026/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "InvestorNews - Vanadium Double-Edged Demand",
+      "url": "https://investornews.com/critical-minerals-rare-earths/vanadium-double-edged-demand/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

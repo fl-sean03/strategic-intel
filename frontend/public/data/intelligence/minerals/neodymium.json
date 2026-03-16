@@ -1,0 +1,168 @@
+{
+  "id": "neodymium",
+  "category": "mineral",
+  "subject": "Neodymium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Neodymium is the single most strategically important rare earth element for U.S. defense, serving as the primary constituent of neodymium-iron-boron (NdFeB) permanent magnets -- the strongest permanent magnets known to science. These magnets are embedded in virtually every major U.S. weapons platform: each F-35 Lightning II contains over 900 pounds of rare earth materials (predominantly neodymium), with NdFeB magnets powering electric actuators, radar systems, and communications equipment. Virginia- and Columbia-class submarines, Tomahawk cruise missiles, JDAM guided bombs, Predator drones, and the LTAMDS air defense system all depend on neodymium magnets for critical functions.\n\nChina controls approximately 70% of global neodymium mining and 90% of separation and processing, plus 93% of NdFeB magnet manufacturing capacity. Neodymium oxide prices surged 55% in 2025 and an additional 51% in early 2026, with NdPr oxide reaching $108.64/kg by March 2026 -- a 105% gain from January 2026 levels. China's April 2025 export controls on rare earth magnets and the December 2025 military end-user ban have created de facto embargo conditions for defense-grade NdFeB magnets.\n\nThe Pentagon's response has been historic: a $400 million equity investment in MP Materials (making DOD the largest shareholder), a 10-year price floor of $110/kg for NdPr products, and a target of establishing a fully domestic 'mine-to-magnet' supply chain by 2027. MP Materials' Fort Worth facility has commenced trial production of sintered NdFeB magnets, with approximately 1,000 metric tons per year capacity. USA Rare Earth's Stillwater, Oklahoma facility targets first commercial NdFeB production in H1 2026 at 3,000 tonnes per year. Defense contractors will be banned from sourcing NdFeB magnets from adversary countries starting in 2027.",
+  "key_findings": [
+    {
+      "headline": "Every major U.S. weapons platform depends on neodymium magnets; F-35 contains 900+ pounds of rare earths",
+      "detail": "NdFeB permanent magnets provide the torque in electric actuators that replaced hydraulics in modern aircraft, power guidance systems in precision munitions, and drive motors in submarine systems. Each F-35 contains over 900 pounds of rare earth materials, with neodymium as the dominant constituent. Affected platforms include F-35 fighter jets, Virginia- and Columbia-class submarines, Tomahawk missiles, JDAM smart bombs, Predator UAVs, the AN/SPY-6 radar, and LTAMDS air defense. China can scale munitions manufacturing five to six times faster than the U.S., creating an asymmetric readiness advantage.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "China controls 90% of neodymium processing and 93% of global magnet manufacturing",
+      "detail": "China dominates approximately 90% of rare earth separation and processing globally and controls 93% of NdFeB magnet manufacturing capacity. Even neodymium mined outside China -- including at MP Materials' Mountain Pass -- has historically been shipped to China for final processing into separated oxides, metals, and magnets. This processing bottleneck is the most critical vulnerability, as building Western magnet manufacturing capability requires the entire upstream chain to be in place first.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "NdPr oxide prices surged 105% in early 2026, reaching $108.64/kg",
+      "detail": "Neodymium-praseodymium blended oxide prices surged from approximately $53/kg in January 2026 to $108.64/kg by early March 2026, a 105% gain. Pure neodymium oxide trades at $117.27/kg as of March 2026. The NdPr market is expected to remain in supply deficit for the second consecutive year in 2026, with demand growth from EVs and wind energy outpacing Chinese quota expansions and Western production ramp-ups. The DOD price floor of $110/kg for MP Materials' NdPr products is now near market parity.",
+      "severity": "critical",
+      "source_url": "https://www.cruxinvestor.com/posts/sharp-surge-in-praseodymium-neodymium-prices-signals-deepening-scarcity-premium-in-rare-earth-supply-chains"
+    },
+    {
+      "headline": "Pentagon becomes largest MP Materials shareholder with $400M investment and 10-year price floor",
+      "detail": "In July 2025, DOD purchased $400 million of MP Materials preferred stock convertible into 15% of outstanding shares, plus warrants, making it the largest shareholder. The package includes a 10-year price floor of $110/kg for NdPr products, a $150 million loan for Mountain Pass expansion, and a commitment that 100% of magnets from the planned 10X Texas facility will be purchased by defense and commercial customers. This represents the largest U.S. government investment in rare earth supply chain history.",
+      "severity": "high",
+      "source_url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/"
+    },
+    {
+      "headline": "MP Materials and USA Rare Earth racing to deliver domestic NdFeB magnet production in 2026",
+      "detail": "MP Materials' Independence facility in Fort Worth has commenced trial production of sintered NdFeB magnets with approximately 1,000 metric tons per year capacity, ramping production since late 2025. The $1.25 billion 10X expansion campus in Northlake, Texas will create 1,500+ jobs and target 10,000 MT/year magnet output. Separately, USA Rare Earth has completed a 310,000 ft2 sintered magnet Innovation Lab in Stillwater, Oklahoma, designed for 3,000 tonnes per year, targeting first commercial production in H1 2026.",
+      "severity": "high",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Restores-U.S.-Rare-Earth-Magnet-Production/default.aspx"
+    },
+    {
+      "headline": "Defense contractors banned from sourcing magnets from adversary countries starting 2027",
+      "detail": "The Pentagon has set a goal to establish a fully domestic mine-to-magnet supply chain by 2027, with U.S. defense contractors banned from sourcing NdFeB or SmCo magnets from adversary countries starting in 2027. This mandate creates guaranteed domestic demand for U.S.-produced neodymium magnets but also means any delays in domestic production capacity could directly impact weapons system manufacturing timelines.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/strategic-supply-chain-policy-innovation-2026/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-07-10",
+      "headline": "DOD invests $400 million in MP Materials, becomes largest shareholder",
+      "summary": "The Department of Defense purchased $400 million of MP Materials preferred stock, securing 15% ownership and becoming the company's largest shareholder. The comprehensive package includes a 10-year NdPr price floor of $110/kg, a $150 million expansion loan, and offtake commitments for 100% of magnets from the planned 10X facility. J.P. Morgan led the transaction in what the bank described as a landmark public-private partnership.",
+      "source_url": "https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html",
+      "impact": "Fundamentally altered the economics of domestic neodymium processing by eliminating Chinese price-dumping risk through a guaranteed price floor. Created a template for government de-risking of strategic mineral supply chains."
+    },
+    {
+      "date": "2025-09-09",
+      "headline": "Energy Fuels achieves first U.S. mine-to-magnet rare earth production",
+      "summary": "Energy Fuels announced that U.S.-mined and processed rare earths were successfully manufactured into permanent magnets for use in EVs and hybrids, representing the first complete American mine-to-magnet achievement. NdPr oxide from Energy Fuels' White Mesa Mill was used by a partner to produce qualified NdFeB magnets meeting automotive specifications.",
+      "source_url": "https://investors.energyfuels.com/2025-09-09-U-S-Mined-and-Processed-Rare-Earths-Successfully-Manufactured-into-Permanent-Magnets-for-Use-in-EVs-and-Hybrids",
+      "impact": "Proved the technical viability of a complete U.S. rare earth-to-magnet supply chain, validating the pathway that MP Materials and USA Rare Earth are scaling to industrial volumes."
+    },
+    {
+      "date": "2025-04-04",
+      "headline": "China imposes export licensing on rare earth magnets and seven elements",
+      "summary": "China placed export licensing requirements on NdFeB and SmCo permanent magnets alongside seven rare earth elements. The controls require per-shipment licensing with 45-day review periods and extensive end-user documentation. By May 2025, Chinese magnet exports dropped to approximately $60 million, the lowest monthly figure since 2015, with dysprosium prices increasing 180% within 60 days and magnet shipments decreasing 74% year-over-year.",
+      "source_url": "https://eastasiaforum.org/2025/11/20/china-leverages-paperwork-to-ration-rare-earths/",
+      "impact": "Triggered an immediate crisis in global NdFeB magnet supply chains. Defense contractors, EV manufacturers, and wind turbine producers faced acute shortages, accelerating domestic production efforts."
+    },
+    {
+      "date": "2026-02-26",
+      "headline": "MP Materials selects Northlake, Texas for $1.25 billion 10X rare earth magnet campus",
+      "summary": "MP Materials announced the selection of Northlake, Texas for its 10X rare earth magnet manufacturing campus, representing over $1.25 billion in capital investment and creating more than 1,500 jobs. The facility will target production of 10,000 metric tons per year of high-performance sintered NdFeB magnets for defense, EV, and wind energy applications.",
+      "source_url": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html",
+      "impact": "Establishes the largest planned domestic NdFeB magnet production facility, directly supporting the 2027 mandate banning adversary-sourced magnets in defense procurement."
+    },
+    {
+      "date": "2025-12-01",
+      "headline": "China's military end-user ban on rare earth exports takes effect",
+      "summary": "Starting December 1, 2025, China's MOFCOM will automatically reject export license applications for rare earth elements and magnets destined for military end-users. The ban extends to internationally made products containing Chinese-sourced materials or manufactured using Chinese technologies. Any requests to use rare earths for military purposes are automatically rejected.",
+      "source_url": "https://www.clarkhill.com/news-events/news/china-expands-export-controls-on-rare-earths-magnets-and-high-tech-materials-what-companies-need-to-know/",
+      "impact": "Created de facto embargo on defense-grade NdFeB magnets from any supply chain touching Chinese materials or technology, accelerating the urgency of domestic production timelines."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Neodymium presents the most consequential supply chain risk of any critical mineral for U.S. defense. China's 90% processing monopoly and 93% magnet manufacturing dominance, combined with the December 2025 military end-user ban, have created a de facto embargo on defense-grade NdFeB magnets from Chinese-connected supply chains. The 105% NdPr price surge in early 2026 reflects genuine physical scarcity. Every F-35, submarine, missile, and smart bomb in U.S. inventory depends on neodymium magnets. The Pentagon's unprecedented $400 million equity investment in MP Materials and the 2027 adversary-sourcing ban demonstrate the severity of this threat. However, domestic production capacity remains in early stages: MP Materials is producing trial magnets, USA Rare Earth targets H1 2026 commercial output, and the 10X facility is years from full production. The gap between current domestic capacity and defense needs remains the single largest materials vulnerability in the U.S. defense industrial base.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 90% of neodymium processing and 93% of global NdFeB magnet manufacturing",
+      "December 2025 military end-user ban creates de facto defense embargo from Chinese supply chains",
+      "NdPr oxide prices surged 105% in early 2026 to $108.64/kg amid persistent supply deficit",
+      "Every major U.S. weapons platform contains neodymium magnets with no substitutes",
+      "2027 defense mandate banning adversary-sourced magnets requires domestic capacity that does not yet exist at scale",
+      "EV and wind energy demand competing with defense for limited non-Chinese supply",
+      "China can scale munitions manufacturing 5-6x faster than the U.S., creating asymmetric readiness gap"
+    ],
+    "mitigation_actions": [
+      "Accelerate MP Materials Fort Worth magnet production ramp to 1,000 MT/yr capacity",
+      "Support USA Rare Earth Stillwater facility reaching 3,000 MT/yr commercial production in H1 2026",
+      "Fast-track MP Materials 10X Northlake campus construction for 10,000 MT/yr capacity",
+      "Build strategic stockpile of NdFeB magnets and NdPr oxide for defense surge capacity",
+      "Complete MP Materials heavy rare earth separation at Mountain Pass by mid-2026 for dysprosium needed in defense-grade magnets",
+      "Fund grain boundary diffusion and other technologies to reduce neodymium and dysprosium content per magnet",
+      "Expand U.S.-Australia framework to fast-track allied NdPr processing capacity",
+      "Prepare contingency plans for 2027 adversary-sourcing ban if domestic production timelines slip"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "MP Materials - DOD Public-Private Partnership Announcement",
+      "url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MP Materials - Restores U.S. Rare Earth Magnet Production",
+      "url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Restores-U.S.-Rare-Earth-Magnet-Production/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CNBC - Pentagon to Become Largest Shareholder in MP Materials",
+      "url": "https://www.cnbc.com/2025/07/10/pentagon-to-become-largest-shareholder-in-rare-earth-magnet-maker-mp-materials.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Crux Investor - Sharp Surge in NdPr Prices Signals Deepening Scarcity Premium",
+      "url": "https://www.cruxinvestor.com/posts/sharp-surge-in-praseodymium-neodymium-prices-signals-deepening-scarcity-premium-in-rare-earth-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Energy Fuels - U.S. Rare Earths Successfully Manufactured into Permanent Magnets",
+      "url": "https://investors.energyfuels.com/2025-09-09-U-S-Mined-and-Processed-Rare-Earths-Successfully-Manufactured-into-Permanent-Magnets-for-Use-in-EVs-and-Hybrids",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Visual Capitalist - Visualizing How Rare Earths Power U.S. Defense",
+      "url": "https://elements.visualcapitalist.com/visualizing-how-rare-earths-power-u-s-defense/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "DOD - Mine-to-Magnet Supply Chain for Rare Earth Materials",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/3700059/dod-looks-to-establish-mine-to-magnet-supply-chain-for-rare-earth-materials/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Discovery Alert - U.S. Rare-Earth Magnets Policy: Building Strategic Supply Chain Independence",
+      "url": "https://discoveryalert.com.au/strategic-supply-chain-policy-innovation-2026/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Rare Earths",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

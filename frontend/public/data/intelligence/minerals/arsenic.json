@@ -1,0 +1,152 @@
+{
+  "id": "arsenic",
+  "category": "mineral",
+  "subject": "Arsenic",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Arsenic is a strategically critical mineral for which the United States has been 100% import-dependent since domestic production ceased in 1985. China dominates global supply, accounting for approximately 57% of U.S. arsenic trioxide imports and 96% of arsenic metal imports through 2024. Peru, China, and Morocco together produce roughly 98% of global arsenic trioxide output.\n\nArsenic's most strategically significant application is in gallium arsenide (GaAs) semiconductors, which are essential for military radar systems, satellite communications, electronic warfare, and 5G infrastructure. GaAs devices operate at frequencies exceeding 10 GHz and temperatures up to 200C, far surpassing silicon's capabilities, with no viable substitutes in defense applications. The AN/FPS-117 radar, AEGIS Combat System, and Patriot air defense systems all depend on GaAs semiconductors.\n\nDespite initial USGS recommendations to remove arsenic from the Critical Minerals List based on quantitative criteria, the Department of War intervened to retain it on the final 2025 list due to its irreplaceable role in national security applications. China's export controls on gallium arsenide compounds, implemented in August 2023 and escalated through 2025, have created compounding supply chain risks. While China's gallium export ban was temporarily suspended through November 2026, the underlying vulnerability of arsenic supply remains unaddressed, with no domestic production capacity and no near-term plans to restart mining.",
+  "key_findings": [
+    {
+      "headline": "U.S. has been 100% import-dependent on arsenic since 1985",
+      "detail": "Arsenic trioxide and primary arsenic metal have not been produced in the United States since 1985. All domestic consumption is met through imports, with China and the Republic of Korea accounting for 92% of arsenic trioxide imports in 2024. China alone supplied 96% of arsenic metal imports through July 2024, creating an extreme single-source dependency.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-arsenic.pdf"
+    },
+    {
+      "headline": "China and Morocco control 98% of global arsenic trioxide production",
+      "detail": "Peru, China, and Morocco are the leading global producers of arsenic trioxide, accounting for approximately 98% of estimated world production. Peru leads at roughly 27,000 metric tons in 2023, followed by China at 24,000 metric tons. This extreme geographic concentration creates systemic supply fragility for all consuming nations.",
+      "severity": "critical",
+      "source_url": "https://www.indexmundi.com/minerals/?product=arsenic&graph=production"
+    },
+    {
+      "headline": "Gallium arsenide semiconductors are irreplaceable in defense systems",
+      "detail": "High-purity arsenic is essential for producing gallium arsenide (GaAs) semiconductors used in military radar (AN/FPS-117, AEGIS, Patriot), satellite communications, electronic warfare, and space research. GaAs provides electron mobility approximately three times higher than silicon, enabling operation at frequencies exceeding 10 GHz. Over 11,000 individual defense parts require gallium-based semiconductors, with no silicon-based equivalents offering comparable performance.",
+      "severity": "critical",
+      "source_url": "https://discoveryalert.com.au/gallium-modern-defense-semiconductors-2025/"
+    },
+    {
+      "headline": "China's export controls on gallium arsenide compounds compound arsenic supply risk",
+      "detail": "Since August 2023, China has imposed export controls on gallium arsenide and related compounds, requiring special export licenses. In December 2024, China escalated to a functional export ban on gallium to the U.S. While temporarily suspended through November 2026, the controls create dual vulnerability: both the arsenic feedstock and the gallium arsenide end-product face Chinese export restrictions.",
+      "severity": "high",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html"
+    },
+    {
+      "headline": "Department of War overrode USGS recommendation to remove arsenic from Critical Minerals List",
+      "detail": "The USGS's quantitative 2025 methodology did not qualify arsenic for inclusion on the Critical Minerals List. However, during interagency review, the Department of War noted the importance of arsenic for national security and successfully advocated for its retention on the final 2025 list, reflecting the gap between economic metrics and military strategic value.",
+      "severity": "high",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals"
+    },
+    {
+      "headline": "Domestic arsenic use is dominated by wood preservatives and pesticides, but semiconductor share is strategically critical",
+      "detail": "Leading domestic uses of arsenic are herbicides, insecticides, and wood preservatives at 84%, with semiconductors at 5% and metallurgical applications accounting for the remainder. While the semiconductor share is small by volume, its strategic value is disproportionately high given defense and telecommunications dependencies on GaAs chips.",
+      "severity": "moderate",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-arsenic.pdf"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11-07",
+      "headline": "Arsenic retained on final 2025 U.S. Critical Minerals List despite USGS methodology exclusion",
+      "summary": "The Department of the Interior published the final 2025 List of Critical Minerals, retaining arsenic despite its failure to meet quantitative inclusion criteria under the USGS methodology. The Department of War's intervention on national security grounds secured its continued designation, enabling policy tools and funding mechanisms tied to critical mineral status.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Preserves arsenic's eligibility for Defense Production Act investments, stockpiling programs, and permitting streamlining that critical mineral designation unlocks."
+    },
+    {
+      "date": "2025-11-07",
+      "headline": "China suspends gallium arsenide export controls through November 2026",
+      "summary": "As part of a broader trade agreement, China suspended export restrictions on gallium, germanium, antimony, and related products including gallium arsenide until November 27, 2026. However, the underlying licensing framework remains in force and the ban on exports to military end-users continues.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Provides temporary relief for commercial semiconductor supply chains but does not address defense sector needs. Creates a November 2026 supply cliff with no guaranteed renewal."
+    },
+    {
+      "date": "2026-01-28",
+      "headline": "Global gallium arsenide wafer market projected to reach $2.33 billion",
+      "summary": "Market analysis projects the GaAs wafer market to reach $2.33 billion, driven by 5G infrastructure buildout, defense modernization, and photovoltaic applications. Growing demand further strains the limited arsenic supply chain and increases the strategic importance of securing reliable feedstock.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/01/28/3227397/0/en/Gallium-Arsenide-GaAs-Wafer-Research-Report-2026-2-33-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "impact": "Rising GaAs wafer demand amplifies the strategic importance of securing arsenic supply, particularly as defense and telecommunications applications grow simultaneously."
+    },
+    {
+      "date": "2024-12-01",
+      "headline": "UK Ministry of Defence acquires Coherent's GaAs fabrication facility for $25.2 million",
+      "summary": "The UK Ministry of Defence purchased Coherent's gallium arsenide fabrication facility in the UK for $25.2 million, reflecting growing allied-nation concern over GaAs supply chain security and the strategic importance of maintaining domestic semiconductor manufacturing capacity for defense applications.",
+      "source_url": "https://discoveryalert.com.au/gallium-modern-defense-semiconductors-2025/",
+      "impact": "Signals allied nations are taking direct ownership of GaAs manufacturing assets, a potential model for U.S. defense industrial base strategy."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Arsenic presents a high supply chain risk driven by complete U.S. import dependence, extreme geographic concentration of global production in China, Peru, and Morocco, and the irreplaceable role of gallium arsenide semiconductors in defense systems. The absence of any domestic production since 1985, combined with China's demonstrated willingness to weaponize mineral export controls, creates a persistent vulnerability. While arsenic itself has not been directly targeted by Chinese export restrictions, the controls on gallium arsenide compounds create a compound risk that threatens downstream applications.",
+    "trend": "worsening",
+    "key_drivers": [
+      "100% U.S. import dependence with no domestic production since 1985",
+      "China supplies 57% of U.S. arsenic trioxide and 96% of arsenic metal imports",
+      "China's export controls on gallium arsenide compounds create compound supply risk",
+      "No viable substitutes for GaAs in high-frequency defense electronics",
+      "Growing demand from 5G infrastructure and defense modernization programs",
+      "No active plans or investments to restart domestic arsenic production"
+    ],
+    "mitigation_actions": [
+      "Diversify import sources away from China toward Morocco, Peru, and other producers",
+      "Establish strategic stockpile reserves of high-purity arsenic metal for semiconductor use",
+      "Invest in domestic GaAs wafer recycling and recovery capabilities",
+      "Fund research into arsenic extraction from domestic copper and gold mining byproducts",
+      "Negotiate long-term supply agreements with allied-nation producers",
+      "Support allied-nation GaAs fabrication capacity as hedge against Chinese export controls"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Arsenic",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-arsenic.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "USGS - Methodology and Technical Input for the 2025 U.S. List of Critical Minerals",
+      "url": "https://pubs.usgs.gov/publication/ofr20251047/full",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Discovery Alert - Gallium Supply Chain: Defense and Security Risks",
+      "url": "https://discoveryalert.com.au/gallium-modern-defense-semiconductors-2025/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "IndexMundi - Arsenic Trioxide Production by Country",
+      "url": "https://www.indexmundi.com/minerals/?product=arsenic&graph=production",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "GlobeNewsWire - Gallium Arsenide Wafer Market Research Report 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/28/3227397/0/en/Gallium-Arsenide-GaAs-Wafer-Research-Report-2026-2-33-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Visual Capitalist - Ranked: U.S. Import Reliance for 37 Critical Minerals",
+      "url": "https://www.visualcapitalist.com/ranked-u-s-import-reliance-on-critical-minerals/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "ODI - Critical Minerals Geopolitics in 2026",
+      "url": "https://odi.org/en/insights/critical-minerals-geopolitics-in-2026-risks-supply-chains-and-global-power-shifts/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    }
+  ]
+}

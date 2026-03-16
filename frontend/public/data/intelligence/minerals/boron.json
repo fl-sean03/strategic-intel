@@ -1,0 +1,141 @@
+{
+  "id": "boron",
+  "category": "mineral",
+  "subject": "Boron",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Boron was newly added to the U.S. critical minerals list in November 2025, reflecting its essential role in defense systems, energy technologies, advanced materials, and food security. The U.S. boron supply chain contains an extraordinary single point of failure: nearly all domestic supply and roughly 30% of global refined boron products come from Rio Tinto's operations near Boron, California, in the Mojave Desert. Globally, Turkey's state-owned Eti Maden and Rio Tinto control approximately 85% of the 4.5-million-ton annual supply.\n\nThe critical vulnerability extends beyond mining. China controls approximately 80% of global boron carbide production, creating a chokepoint for defense and aerospace applications where boron carbide is used in body armor, tank armor, and neutron shielding. Boron is also a key input for neodymium-iron-boron (NdFeB) permanent magnets essential to precision-guided munitions, electric vehicles, and wind turbines — making it a linchpin mineral for both defense and clean energy supply chains.\n\n5E Advanced Materials is developing the Fort Cady project in the Mojave Desert, one of the world's largest new conventional boron deposits outside Turkey, with initial boric acid production underway and a final investment decision targeted for 2026. The company has launched ferroboron trials targeting magnet-grade material for the NdFeB permanent magnet supply chain, with sample delivery to customers expected in H1 2026. Boron's critical mineral designation unlocks federal financing pathways that could accelerate Fort Cady and diversify the U.S. supply base.",
+  "key_findings": [
+    {
+      "headline": "U.S. boron supply depends on single Rio Tinto operation in California",
+      "detail": "Nearly all U.S. boron supply, and roughly 30% of the world's refined boron products, comes from Rio Tinto's mining and refining operations near the town of Boron in the Mojave Desert. This extraordinary concentration creates a single point of failure for domestic supply chains across agriculture, defense, and manufacturing sectors. Any disruption — whether from equipment failure, natural disaster, or labor action — would immediately impact U.S. boron availability.",
+      "severity": "critical",
+      "source_url": "https://www.metaltechnews.com/story/2025/12/03/tech-metals/boron-makes-its-critical-minerals-debut/2565.html"
+    },
+    {
+      "headline": "China controls 80% of global boron carbide production for defense applications",
+      "detail": "While Turkey and the U.S. (through Rio Tinto) dominate boron mineral production, China holds a near monopoly on downstream boron carbide processing, controlling approximately 80% of global output. Boron carbide is the third-hardest material known and is used in body armor, tank armor plates, and neutron radiation shielding for nuclear applications — all critical defense uses where supply disruption would directly impact military readiness.",
+      "severity": "critical",
+      "source_url": "https://discoveryalert.com.au/boron-critical-mineral-2025-industrial-applications/"
+    },
+    {
+      "headline": "Boron added to 2025 Critical Minerals List as newly designated mineral",
+      "detail": "In November 2025, the U.S. Department of the Interior formally added boron to the final 2025 List of Critical Minerals, one of 10 new additions expanding the list to 60 minerals. The USGS determined that boron meets two key criteria of criticality: it is essential to multiple American manufacturing sectors, and its supply is vulnerable to disruption. The designation unlocks access to federal financing, tax incentives, and expedited permitting.",
+      "severity": "high",
+      "source_url": "https://www.borax.com/news-events/november-2025/boron-us-critical-mineral"
+    },
+    {
+      "headline": "Boron is essential to NdFeB permanent magnet supply chain for defense and energy",
+      "detail": "Boron is a critical component of neodymium-iron-boron (NdFeB) permanent magnets, which are essential for precision-guided munitions, electric vehicle motors, wind turbine generators, and advanced electronics. 5E Advanced Materials has launched ferroboron trials targeting magnet-grade material for the U.S. NdFeB supply chain, with sample delivery to specialty steel and permanent magnet users expected in H1 2026.",
+      "severity": "high",
+      "source_url": "https://www.stocktitan.net/news/FEAM/5e-advanced-materials-launches-ferroboron-trial-program-to-support-u-qe0rr3nrvcc4.html"
+    },
+    {
+      "headline": "Turkey and Rio Tinto control 85% of global boron supply",
+      "detail": "Turkey's state-owned Eti Maden and Rio Tinto together control approximately 85% of the 4.5-million-ton annual global boron supply. Turkey holds the world's largest boron reserves at approximately 70% of the global total. This duopoly structure means that policy decisions by the Turkish government or operational issues at Rio Tinto could create immediate global supply shortages.",
+      "severity": "high",
+      "source_url": "https://www.mining.com/critical-mineral-boron-the-best-supporting-actor-of-us-magnet-supply-chain-5e-ceo/"
+    },
+    {
+      "headline": "5E Advanced Materials developing Fort Cady as major new non-Turkish boron source",
+      "detail": "5E Advanced Materials is developing the Fort Cady project in the Mojave Desert, one of the world's largest new conventional boron deposits outside of Turkey, with initial boric acid production of 2,000 tons per annum underway. The company is targeting a final investment decision in 2026 and is pursuing non-dilutive U.S. government capital support, commercial offtake agreements, and FEED engineering.",
+      "severity": "moderate",
+      "source_url": "https://www.5eadvancedmaterials.com/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "Boron officially designated as U.S. critical mineral for the first time",
+      "summary": "The U.S. Department of the Interior released the final 2025 List of Critical Minerals, formally adding boron as one of 10 new critical minerals. The designation was based on USGS analysis concluding that boron is essential to defense, energy, agriculture, and manufacturing sectors while facing supply concentration risks. 5E Advanced Materials welcomed the designation as strengthening the business case for its Fort Cady project.",
+      "source_url": "https://www.borax.com/news-events/november-2025/boron-us-critical-mineral",
+      "impact": "Opens access to Defense Production Act Title III funding, DOE loan guarantees, IRA/IIJA tax credits, and expedited permitting for domestic boron projects. Significantly improves the financing outlook for Fort Cady and other domestic boron developments."
+    },
+    {
+      "date": "2026-01",
+      "headline": "5E Advanced Materials launches ferroboron trial program for U.S. magnet supply chain",
+      "summary": "5E Advanced Materials commenced trials to evaluate production of magnet-grade ferroboron at its Fort Cady facility. Ferroboron is used in specialty steel production and as a boron source for NdFeB permanent magnet alloys. Initial sample delivery and qualification with specialty steel and permanent magnet users is targeted for H1 2026.",
+      "source_url": "https://www.stocktitan.net/news/FEAM/5e-advanced-materials-launches-ferroboron-trial-program-to-support-u-qe0rr3nrvcc4.html",
+      "impact": "Could establish the first domestic source of magnet-grade ferroboron, reducing U.S. dependence on imported boron inputs for the critical NdFeB permanent magnet supply chain used in defense and clean energy applications."
+    },
+    {
+      "date": "2026-02",
+      "headline": "5E Advanced Materials highlights progress toward 2026 final investment decision",
+      "summary": "During its fiscal Q1 earnings call, 5E Advanced Materials outlined continued execution across federal financing initiatives, customer discussions, and engineering advancement. CEO Paul Weibel highlighted priorities including securing non-dilutive U.S. capital support, converting customer progress into commercial offtake agreements, and completing FEED engineering to ensure construction readiness for a 2026 FID.",
+      "source_url": "https://natlawreview.com/press-releases/5e-advanced-materials-hosts-q1-call-highlights-federal-recognition-boron",
+      "impact": "A positive FID would advance Fort Cady toward full-scale production, potentially producing 90,000+ tons of boric acid annually and significantly diversifying U.S. boron supply beyond the Rio Tinto single-source dependency."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Boron supply chain risk is high due to extreme concentration in two producers (Turkey's Eti Maden and Rio Tinto) controlling 85% of global supply, with U.S. domestic supply entirely dependent on a single Rio Tinto operation. China's 80% control of boron carbide processing creates an additional critical chokepoint for defense applications. The new critical mineral designation provides policy tools to address these vulnerabilities, but diversification projects like Fort Cady are still pre-FID. Boron's essential role in NdFeB permanent magnets means its supply chain is interconnected with the broader rare earth and defense magnet supply chain.",
+    "trend": "stable",
+    "key_drivers": [
+      "Single-source U.S. dependency on Rio Tinto's Boron, California operation",
+      "Turkey and Rio Tinto duopoly controlling 85% of global supply",
+      "China's 80% monopoly on boron carbide processing for defense applications",
+      "Essential role in NdFeB permanent magnets for defense and clean energy",
+      "New critical mineral designation opening federal funding pathways",
+      "Fort Cady project approaching final investment decision in 2026"
+    ],
+    "mitigation_actions": [
+      "Support 5E Advanced Materials' Fort Cady project through federal financing and offtake agreements",
+      "Invest in domestic boron carbide processing to break China's 80% downstream monopoly",
+      "Diversify boron supply agreements with Turkey through bilateral mineral security frameworks",
+      "Fund ferroboron production R&D to establish domestic NdFeB magnet supply chain input",
+      "Develop boron recycling technologies from glass manufacturing and agricultural waste streams",
+      "Maintain strategic boron stockpile through DLA for defense-critical applications",
+      "Accelerate permitting for domestic boron exploration beyond Fort Cady",
+      "Conduct supply chain stress tests for Rio Tinto Boron operations disruption scenarios"
+    ]
+  },
+  "sources": [
+    {
+      "title": "U.S. Borax - USGS Adds Boron to 2025 List of Critical Minerals",
+      "url": "https://www.borax.com/news-events/november-2025/boron-us-critical-mineral",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Metal Tech News - Boron Makes Its Critical Minerals Debut",
+      "url": "https://www.metaltechnews.com/story/2025/12/03/tech-metals/boron-makes-its-critical-minerals-debut/2565.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MINING.COM - Critical Mineral Boron the Best Supporting Actor of US Magnet Supply Chain",
+      "url": "https://www.mining.com/critical-mineral-boron-the-best-supporting-actor-of-us-magnet-supply-chain-5e-ceo/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "5E Advanced Materials - Ferroboron Trial Program Launch",
+      "url": "https://www.stocktitan.net/news/FEAM/5e-advanced-materials-launches-ferroboron-trial-program-to-support-u-qe0rr3nrvcc4.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "5E Advanced Materials - Fort Cady Project",
+      "url": "https://www.5eadvancedmaterials.com/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Discovery Alert - Boron Critical Mineral Designation 2025 Supply Chain Analysis",
+      "url": "https://discoveryalert.com.au/boron-critical-mineral-2025-industrial-applications/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "5E Advanced Materials - Q1 Fiscal 2026 Earnings Call",
+      "url": "https://natlawreview.com/press-releases/5e-advanced-materials-hosts-q1-call-highlights-federal-recognition-boron",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

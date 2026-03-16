@@ -1,0 +1,152 @@
+{
+  "id": "indium",
+  "category": "mineral",
+  "subject": "Indium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Indium is a strategically vital trace metal with near-total U.S. import dependency, concentrated global production in China (approximately 70% of refined output), and expanding geopolitical risk following China's February 2025 imposition of export controls. The United States has no primary indium production and consumed an estimated 250 metric tons in 2024, valued at approximately $85 million. The dominant end use is indium tin oxide (ITO) thin-film coatings for flat-panel displays and touchscreens, followed by semiconductor applications (indium phosphide for high-speed communications), photovoltaics (CIGS solar cells), and solders. Import sources (2020-23) were: South Korea 29%, Japan 18%, Canada 14%, Belgium 9%, and other 30%.\n\nChina's February 2025 export controls on indium — requiring special export licenses under 41 HS codes — represent a significant supply chain escalation. While not a total ban like the germanium restrictions, the licensing regime creates uncertainty, delays, and the risk of denial for U.S. buyers. Indium prices have responded dramatically, rising from $340/kg average in 2024 to above $600/kg by early 2026, with spot prices reaching $972/kg. Korea Zinc, the world's largest refined indium producer at 150 tonnes/year (approximately 11% of global demand), has positioned itself as the critical alternative supplier, providing 29% of U.S. indium imports.\n\nThe West Desert project in Utah represents the most significant domestic supply opportunity: the only established indium resource in the United States, containing an estimated 23.8 million ounces of indium — enough to supply all U.S. demand for nearly 10 years. The Utah Geological Survey and USGS have initiated studies of the deposit with federal grant support. Meanwhile, the Defense Logistics Agency is seeking $85 million worth of indium for the National Defense Stockpile, reflecting Pentagon recognition of the supply vulnerability.",
+  "key_findings": [
+    {
+      "headline": "China imposed export controls on indium in February 2025, requiring special licenses",
+      "detail": "On February 4, 2025, China's Ministry of Commerce imposed export controls on five critical materials including indium, covering 41 HS codes at the 10-digit level. Exporters are required to apply for special licenses, creating bureaucratic barriers, uncertainty, and the risk of denial. While less severe than the total germanium export ban, the licensing regime affects approximately 70% of global refined indium production that originates in China.",
+      "severity": "critical",
+      "source_url": "https://www.exiger.com/perspectives/critical-minerals-export-controls/"
+    },
+    {
+      "headline": "U.S. is 100% import-dependent for indium with no domestic primary production",
+      "detail": "The United States has zero primary indium production and must import all of its supply. Estimated domestic consumption of refined indium was 250 tonnes in 2024, valued at approximately $85 million. Import sources (2020-23) are diversified across South Korea (29%), Japan (18%), Canada (14%), Belgium (9%), and other countries (30%), providing some insulation from Chinese supply disruption through allied-nation suppliers.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-indium.pdf"
+    },
+    {
+      "headline": "Korea Zinc is the world's largest indium producer at 150 tonnes/year, providing 29% of U.S. supply",
+      "detail": "South Korea's Korea Zinc is the world's largest producer of refined indium, producing approximately 150 tonnes annually — about 11% of total global demand of 1,400 tonnes. Korea Zinc supplies 29% of U.S. indium imports, making it the single largest source and a critical alternative to Chinese supply. The company's strategic importance has grown substantially since China's export controls, and it has positioned itself as a cornerstone of allied-nation supply chain resilience.",
+      "severity": "high",
+      "source_url": "https://www.prnewswire.com/news-releases/korea-zinc-solidifies-critical-role-in-us-korea-economic-security-amid-chinese-export-controls-as-the-worlds-no1-indium-producer-302376921.html"
+    },
+    {
+      "headline": "Pentagon seeks $85 million in indium for National Defense Stockpile",
+      "detail": "The Defense Logistics Agency is seeking $85 million worth of indium for the National Defense Stockpile, reflecting Pentagon recognition of indium's supply vulnerability and its importance to defense electronics, infrared sensors, and semiconductor applications. The procurement is part of the broader $1 billion defense stockpiling initiative for critical minerals announced in 2025.",
+      "severity": "high",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/"
+    },
+    {
+      "headline": "West Desert Utah deposit is the only domestic indium resource — enough for 10 years of U.S. demand",
+      "detail": "The West Desert deposit in Utah, being developed by American West Metals, is the only established indium resource in the United States. It contains an estimated 23.8 million ounces of indium along with significant zinc, copper, silver, and gold. According to the USGS, the deposit could supply all U.S. indium demand for nearly 10 years. A USGS-funded study led by the Utah Geological Survey is evaluating the resource.",
+      "severity": "high",
+      "source_url": "https://www.metaltechnews.com/story/2025/10/22/tech-metals/utah-hosts-americas-largest-indium-deposit/2517.html"
+    },
+    {
+      "headline": "Indium prices surged from $340/kg in 2024 to above $970/kg by early 2026",
+      "detail": "The estimated annual average U.S. warehouse price for indium was $340/kg in 2024, already 42% higher than 2023. Prices continued to surge following China's February 2025 export controls, reaching $618/kg by early 2026 and spiking above $970/kg at current spot levels — a nearly threefold increase from 2024 averages. The price surge reflects both supply constraint fears and actual logistical disruption from the licensing regime.",
+      "severity": "high",
+      "source_url": "https://strategicmetalsinvest.com/indium-prices/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-02",
+      "headline": "China imposes export controls on indium and four other critical minerals",
+      "summary": "China's Ministry of Commerce imposed export controls on tungsten, tellurium, bismuth, molybdenum, and indium effective February 4, 2025, requiring exporters to obtain special licenses under 41 HS codes. The controls affect approximately 70% of global refined indium supply that originates in China. Unlike the total germanium ban, the licensing regime allows continued trade but introduces uncertainty, delays, and the risk of strategic denial.",
+      "source_url": "https://www.exiger.com/perspectives/critical-minerals-export-controls/",
+      "impact": "Triggered immediate price increases and supply uncertainty for indium-dependent manufacturers globally. U.S. importers face potential licensing delays and refusal risk. The controls strengthen Korea Zinc, Japan, and Canada's position as alternative suppliers, but total non-Chinese production cannot fully substitute for Chinese supply in the near term."
+    },
+    {
+      "date": "2025-02",
+      "headline": "Korea Zinc positions as critical U.S. supply alternative amid Chinese export controls",
+      "summary": "Korea Zinc, the world's largest refined indium producer at 150 tonnes/year, publicly emphasized its strategic role in U.S.-Korea economic security following China's export controls. As South Korea's sole producer of indium, bismuth, and tellurium — three of the five minerals subject to China's new controls — Korea Zinc supplies 29% of U.S. indium imports and is expanding capacity to meet anticipated demand shifts away from Chinese sources.",
+      "source_url": "https://www.prnewswire.com/news-releases/korea-zinc-solidifies-critical-role-in-us-korea-economic-security-amid-chinese-export-controls-as-the-worlds-no1-indium-producer-302376921.html",
+      "impact": "Provides partial supply chain resilience through allied-nation sourcing, but Korea Zinc's 150 tonnes/year represents only 11% of global demand. The U.S.-Korea critical minerals partnership gains urgency as a framework for securing indium supply diversification at scale."
+    },
+    {
+      "date": "2025-10",
+      "headline": "USGS identifies West Desert Utah as America's largest indium deposit",
+      "summary": "Metal Tech News reported that the USGS designated the West Desert deposit in Utah as the largest and highest-grade domestic indium deposit, containing sufficient indium to supply all U.S. demand for approximately 10 years. The Utah Geological Survey is leading a new federally funded study of the critical mineral resource. American West Metals is developing the deposit, which also contains significant zinc, copper, silver, and gold resources.",
+      "source_url": "https://www.metaltechnews.com/story/2025/10/22/tech-metals/utah-hosts-americas-largest-indium-deposit/2517.html",
+      "impact": "Represents the most viable pathway to domestic indium production, though development timelines are measured in years. If successfully developed, the project could eliminate U.S. import dependency for indium. The polymetallic nature of the deposit (zinc-copper-silver-gold-indium) improves economic viability compared to indium-only production."
+    },
+    {
+      "date": "2026-02",
+      "headline": "DLA advances indium procurement for National Defense Stockpile",
+      "summary": "The Defense Logistics Agency advanced indium procurement to further evaluation and sole-source IDIQ contracts, seeking $85 million worth of indium for the National Defense Stockpile. The procurement is part of the broader federal push for critical minerals stockpiling that saw over $1 billion in Department of Defense stockpiling intent announced in 2025.",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "impact": "Signals Pentagon urgency in securing indium supply for defense applications. The stockpile procurement provides demand support for alternative suppliers and creates a buffer against future Chinese export restrictions. The $85 million scale represents a meaningful commitment relative to the $85 million annual value of total U.S. indium consumption."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Indium supply risk is high and actively escalating. The U.S. is 100% import-dependent with no domestic production, and China's February 2025 export controls affect approximately 70% of global refined supply. While diversified import sources (South Korea 29%, Japan 18%, Canada 14%) provide partial insulation, total non-Chinese production is insufficient to fully offset a supply disruption. Prices have nearly tripled from 2024 averages. The West Desert Utah deposit offers long-term domestic supply potential but remains years from production.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's February 2025 export controls requiring special licenses for indium exports",
+      "100% U.S. import dependency with no domestic primary production",
+      "China produces ~70% of global refined indium supply",
+      "Near-tripling of indium prices from $340/kg to above $970/kg",
+      "Growing demand from display technology, semiconductors, solar cells, and defense electronics",
+      "West Desert Utah deposit is years from production despite having adequate resources"
+    ],
+    "mitigation_actions": [
+      "Accelerate development of the West Desert Utah indium deposit through federal permitting and funding",
+      "Complete the $85 million DLA indium stockpile procurement for defense applications",
+      "Strengthen bilateral mineral supply agreements with South Korea and Japan for indium",
+      "Invest in ITO recycling technology to recover indium from end-of-life displays",
+      "Support Korea Zinc and other allied-nation producers in expanding capacity",
+      "Fund R&D on indium-free transparent conductors for display applications to reduce demand"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Indium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-indium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Push for Critical Minerals Stockpiling: 2025 in Review - Inside Government Contracts",
+      "url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Korea Zinc Solidifies Critical Role in U.S.-Korea Economic Security - PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/korea-zinc-solidifies-critical-role-in-us-korea-economic-security-amid-chinese-export-controls-as-the-worlds-no1-indium-producer-302376921.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Utah Hosts America's Largest Indium Deposit - Metal Tech News",
+      "url": "https://www.metaltechnews.com/story/2025/10/22/tech-metals/utah-hosts-americas-largest-indium-deposit/2517.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China Announces Export Controls on Five Critical Minerals - Exiger",
+      "url": "https://www.exiger.com/perspectives/critical-minerals-export-controls/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Indium Price History and Forecast - Strategic Metals Invest",
+      "url": "https://strategicmetalsinvest.com/indium-prices/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Indium Price Outlook 2026 - Strategic Metals Invest",
+      "url": "https://strategicmetalsinvest.com/indium-outlook-2026/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "All U.S. Critical Minerals in 2025, Ranked by Supply Disruption Risk - Visual Capitalist",
+      "url": "https://elements.visualcapitalist.com/all-u-s-critical-minerals-in-2025-ranked-by-supply-disruption-risk/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Indium - China's Dominance and New Export Restrictions - RFC Ambrian",
+      "url": "https://www.rfcambrian.com/indium-chinas-dominance-and-new-export-restrictions-heighten-risks-in-the-market/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

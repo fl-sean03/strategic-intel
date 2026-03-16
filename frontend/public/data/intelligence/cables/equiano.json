@@ -1,0 +1,125 @@
+{
+  "id": "equiano",
+  "category": "cable",
+  "subject": "Equiano Submarine Cable",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Equiano is a 12,000-kilometer submarine cable owned by Google, running from Sesimbra, Portugal down the west coast of Africa to Melkbosstrand near Cape Town, South Africa, with branching units to Lome (Togo), Lagos (Nigeria), Swakopmund (Namibia), and Rupert's Bay (Saint Helena). Operational since 2022-2023, Equiano is Google's third private international subsea cable and the 14th submarine cable in which Google has invested. It employs 12 fiber pairs with space-division multiplexing (SDM) technology derived from the Dunant cable, delivering a total design capacity of 144 Tbps.\n\nEquiano represents approximately 20 times more bandwidth capacity than the last cable built to serve the West African region, making it transformative for African digital infrastructure. Economic impact assessments project the cable will add approximately 37,000 jobs and $351 million in economic output to Togo alone between 2022-2025. In Namibia, the cable quadrupled the country's international bandwidth capacity compared to the existing WACS cable. SEACOM began commercial services on Equiano in March 2023, and Liquid Intelligent Technologies has landed capacity in Nigeria and South Africa.\n\nThe cable's strategic significance lies in its role as critical digital infrastructure for a continent where 77 cable systems now connect to the global telecommunications network, but where submarine cable disruptions can force traffic to route around the Cape of Good Hope — adding significant latency. Google's private ownership of Equiano, like its Dunant and Grace Hopper cables, concentrates critical African connectivity infrastructure under US hyperscaler control, raising the same sovereignty concerns that European policymakers have flagged for transatlantic cables.",
+  "key_findings": [
+    {
+      "headline": "144 Tbps Capacity — 20x More Than Prior West African Cables",
+      "detail": "Equiano delivers 144 Tbps total capacity across 12 fiber pairs (12 Tbps per pair), representing approximately 20 times more network capacity than the last cable built to serve West Africa. The cable employs the same space-division multiplexing (SDM) technology first deployed on Google's Dunant transatlantic cable, with optical switching at the fiber-pair level rather than the traditional wavelength-level approach. This capacity leap is enabling new cloud services, content delivery, and enterprise connectivity across the continent.",
+      "severity": "moderate",
+      "source_url": "https://cloud.google.com/blog/products/infrastructure/introducing-equiano-a-subsea-cable-from-portugal-to-south-africa"
+    },
+    {
+      "headline": "Five African Landing Points Enable Continental West Coast Connectivity",
+      "detail": "Equiano connects Sesimbra (Portugal) to five African locations: Lome (Togo), Lagos (Nigeria), Swakopmund (Namibia), Rupert's Bay (Saint Helena), and Melkbosstrand (South Africa). The landing sequence began with Togo in March 2022, followed by Nigeria (April 2022), Portugal (May 2022), Namibia (July 2022), and South Africa (August 2022). Each landing point serves as a regional connectivity hub, with local partners providing last-mile distribution.",
+      "severity": "moderate",
+      "source_url": "https://www.submarinenetworks.com/en/systems/euro-africa/equiano"
+    },
+    {
+      "headline": "Transformative Economic Impact for West African Nations",
+      "detail": "An economic impact assessment estimated that Equiano will add approximately 37,000 jobs in Togo between 2022-2025 and increase the country's economic output by $351 million. In Namibia, the cable quadrupled international bandwidth capacity compared to the existing WACS cable. The bandwidth increase has attracted data center investment and enabled cloud service deployment in markets previously constrained by connectivity limitations. These impacts demonstrate how submarine cable infrastructure directly drives economic development.",
+      "severity": "high",
+      "source_url": "https://www.submarinenetworks.com/en/systems/euro-africa/equiano/equiano-subsea-cable-lands-in-togo-first-stop-in-africa"
+    },
+    {
+      "headline": "Google's Private Ownership Raises Sovereignty Concerns for African Digital Infrastructure",
+      "detail": "Equiano is wholly owned by Google, the third such private international cable in Google's portfolio. While private ownership enables faster deployment and capacity scaling, it concentrates critical African digital infrastructure under a single US corporation's control. Multiple carriers (SEACOM, Liquid Technologies, local ISPs) purchase capacity on the cable, but Google retains ultimate control over infrastructure that billions of Africans increasingly depend on for internet access.",
+      "severity": "high",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676"
+    },
+    {
+      "headline": "Complements 2Africa to Create Redundant Africa-Europe Connectivity",
+      "detail": "Equiano operates alongside Meta's 2Africa cable (the world's longest open-access subsea cable reaching 33 countries) to provide redundant Europe-Africa connectivity. Together, these cables dramatically improve the resilience of African internet access, reducing the risk of continent-wide outages from a single cable cut. However, both cables are owned by US hyperscalers, meaning redundancy exists at the physical layer but not at the ownership/control layer.",
+      "severity": "moderate",
+      "source_url": "https://carnegieendowment.org/research/2025/03/beneath-the-waves-addressing-vulnerabilities-in-africas-undersea-digital-infrastructure?lang=en"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-03",
+      "headline": "Carnegie Analysis Highlights Vulnerabilities in Africa's Undersea Digital Infrastructure",
+      "summary": "The Carnegie Endowment published a comprehensive analysis of vulnerabilities in Africa's undersea digital infrastructure, highlighting the concentration of cable ownership among US hyperscalers (Google's Equiano, Meta's 2Africa) and the continent's exposure to cable disruptions. The report noted that submarine cables carry over 99% of Africa's international data traffic, and disruptions to West African cables force traffic to route around the Cape of Good Hope with significant latency increases.",
+      "source_url": "https://carnegieendowment.org/research/2025/03/beneath-the-waves-addressing-vulnerabilities-in-africas-undersea-digital-infrastructure?lang=en",
+      "impact": "Raises awareness of African digital infrastructure dependency on US-owned submarine cables and may drive policy responses including investment in African-owned cable systems."
+    },
+    {
+      "date": "2025-03",
+      "headline": "Academic Study Examines Equiano's Impact on African Cable Market Competition",
+      "summary": "An academic paper published in the Information Society journal examined how Equiano and MainOne (now part of Equinix) are reshaping competition in the African submarine cable market. The study analyzed how Google's private cable ownership model disrupts the traditional consortium approach and creates new 'middlemen' dynamics in African telecommunications, with implications for market competition and pricing.",
+      "source_url": "https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676",
+      "impact": "Provides academic evidence for the market transformation driven by hyperscaler-owned cables in Africa, informing regulatory and policy debates about infrastructure competition."
+    },
+    {
+      "date": "2023-03",
+      "headline": "SEACOM Goes Live on Equiano Cable",
+      "summary": "SEACOM, a major African telecommunications provider, commenced commercial services on Google's Equiano subsea cable in March 2023. SEACOM's access to Equiano's 144 Tbps capacity significantly expanded its service portfolio, enabling lower-latency and higher-capacity connectivity between Africa and Europe. Liquid Intelligent Technologies also landed capacity in Nigeria and South Africa.",
+      "source_url": "https://www.connectingafrica.com/connectivity/seacom-now-live-on-google-s-equiano-subsea-cable",
+      "impact": "Marked the beginning of commercial utilization of Equiano's capacity by African carriers, translating the cable's massive bandwidth into tangible connectivity improvements for end users."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Moderate. Equiano is fully operational and providing critical bandwidth to West African markets. The cable faces standard submarine cable risks including fishing activity, anchoring damage, and seismic events along the West African coast. The concentration of Africa's high-capacity connectivity under US hyperscaler ownership (Google's Equiano, Meta's 2Africa) creates sovereignty and single-point-of-control risks. The Gulf of Guinea piracy corridor poses a unique regional risk to cable maintenance and repair operations.",
+    "trend": "stable",
+    "key_drivers": [
+      "Growing African dependency on hyperscaler-owned cables for international connectivity",
+      "Gulf of Guinea maritime security challenges affecting cable maintenance accessibility",
+      "Increasing strategic importance as African digital economies expand rapidly",
+      "Limited cable landing point diversity creating chokepoint vulnerabilities at key coastal cities",
+      "West African cable route exposed to tropical weather and seismic activity"
+    ],
+    "mitigation_actions": [
+      "Diversify African international connectivity across multiple cable systems and ownership structures",
+      "Invest in African-owned submarine cable infrastructure to reduce hyperscaler dependency",
+      "Enhance maritime security cooperation in the Gulf of Guinea for cable protection",
+      "Deploy cable monitoring systems along the West African route for early anomaly detection",
+      "Develop terrestrial backup connectivity across the Sahel to provide cable-independent resilience"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Introducing Equiano - Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/infrastructure/introducing-equiano-a-subsea-cable-from-portugal-to-south-africa",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Equiano - Submarine Networks",
+      "url": "https://www.submarinenetworks.com/en/systems/euro-africa/equiano",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Equiano (submarine communications cable) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Equiano_(submarine_communications_cable)",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Beneath the Waves: Addressing Vulnerabilities in Africa's Undersea Digital Infrastructure - Carnegie Endowment",
+      "url": "https://carnegieendowment.org/research/2025/03/beneath-the-waves-addressing-vulnerabilities-in-africas-undersea-digital-infrastructure?lang=en",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Redefining Competition and Submarine Cable Ownership: Equiano, MainOne, and the Making of Middlemen",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "SEACOM Now Live on Google's Equiano Subsea Cable - Connecting Africa",
+      "url": "https://www.connectingafrica.com/connectivity/seacom-now-live-on-google-s-equiano-subsea-cable",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Equiano Subsea Cable Lands in Togo - Submarine Networks",
+      "url": "https://www.submarinenetworks.com/en/systems/euro-africa/equiano/equiano-subsea-cable-lands-in-togo-first-stop-in-africa",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

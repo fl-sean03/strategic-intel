@@ -1,0 +1,58 @@
+{
+  "metals_mining": {
+    "total_minerals": 60,
+    "high_risk_count": 9,
+    "single_source_count": 35,
+    "adversary_dependent_count": 28,
+    "avg_overall_risk": 47.6
+  },
+  "manufacturing": {
+    "total_employment": 12268927,
+    "capacity_utilization": 75.5279,
+    "defense_contract_total": 437181757771.78
+  },
+  "facilities": {
+    "total_facilities": 0,
+    "total_employees": 0,
+    "minerals_represented": 0,
+    "states_represented": 0
+  },
+  "defense_programs": {
+    "total_programs": 10,
+    "unique_materials": 16,
+    "unique_contractors": 9
+  },
+  "headline_stats": [
+    {
+      "label": "Critical Minerals Tracked",
+      "value": "60",
+      "subtext": "35 dominated by single country"
+    },
+    {
+      "label": "Active U.S. Mines",
+      "value": "0",
+      "subtext": "Across 0 states, 0 minerals"
+    },
+    {
+      "label": "Federal Capital Being Deployed",
+      "value": "$200B",
+      "subtext": "Across 6 sector teams"
+    },
+    {
+      "label": "U.S. Shipbuilding vs. China",
+      "value": "1/300th",
+      "subtext": "8 yards vs. 400+"
+    },
+    {
+      "label": "Manufacturing Capacity",
+      "value": "75.5279%",
+      "subtext": "Below 80% healthy threshold"
+    },
+    {
+      "label": "Defense Programs Mapped",
+      "value": "10",
+      "subtext": "16 critical materials"
+    }
+  ],
+  "generated_at": "2026-03-15T23:47:42.541306+00:00"
+}

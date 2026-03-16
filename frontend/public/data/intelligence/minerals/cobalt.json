@@ -1,0 +1,173 @@
+{
+  "id": "cobalt",
+  "category": "mineral",
+  "subject": "Cobalt",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Cobalt faces a uniquely complex supply chain risk profile defined by geographic concentration in the Democratic Republic of Congo (76% of global mine production), Chinese dominance in refining, and the DRC's unprecedented assertion of resource sovereignty through export controls. In February 2025, the DRC halted all cobalt exports for eight months, causing prices to double from approximately $24,343/mt to over $53,000/mt by year-end. When exports resumed in October 2025, they came under a rigid quota system limiting output to 87,000 tonnes annually for 2026-2027 — less than half of the DRC's 2024 production capacity.\n\nThe U.S. has zero active domestic cobalt mines and consumes approximately 8,000 metric tons annually, with over 50% used in superalloys for defense and aerospace applications. China owns stakes in 15 of the DRC's 19 operating cobalt mines and controls the majority of global refining capacity, creating a dual chokepoint. The Pentagon has moved to stockpile up to $500 million in cobalt over five years and invested $15 million in Jervois Global's Idaho Cobalt Operations — the only primary U.S. cobalt mine, which was shuttered in 2023 due to low prices and is targeting Q2 2026 restart.\n\nThe battery industry's shift toward lithium iron phosphate (LFP) chemistry, which contains no cobalt, is structurally reducing demand from the largest consumption sector. LFP's share of global battery capacity exceeded 60% in 2025. However, defense, aerospace, and high-performance battery applications remain cobalt-dependent with limited substitution options. Analysts project a structural cobalt shortfall of approximately 10,700 metric tons in 2026 as DRC export quotas constrain supply against demand near 292,300 metric tons.",
+  "key_findings": [
+    {
+      "headline": "DRC controls 76% of global cobalt production and imposed an 8-month export ban",
+      "detail": "The DRC accounts for 76% of world cobalt mine production and 71% of proven reserves. In February 2025, the government halted all cobalt exports, keeping them closed until mid-October when a quota system was introduced. The quotas limit exports to 87,000 tonnes annually for 2026-2027, roughly half of the DRC's production capacity, creating a structural supply constraint.",
+      "severity": "critical",
+      "source_url": "https://www.newamerica.org/planetary-politics/blog/the-dr-congos-cobalt-power-move/"
+    },
+    {
+      "headline": "China owns stakes in 15 of 19 DRC cobalt mines and dominates refining",
+      "detail": "Chinese companies control 15 of the DRC's 19 operating cobalt mines, with CMOC alone nearly doubling its annual output to record levels in 2024 and holding 48,600 metric tons of inventory in Q1 2025. China is the world's leading producer of refined cobalt, with the majority processed from partially refined cobalt imported from the DRC and Indonesia. This creates a dual China-DRC chokepoint.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security"
+    },
+    {
+      "headline": "U.S. has zero active cobalt mines and depends entirely on imports",
+      "detail": "The U.S. consumes approximately 8,000 metric tons of cobalt annually, representing 3.6% of global demand, with over 50% used in superalloys for defense and aerospace. Jervois Global's Idaho Cobalt Operations — the only primary U.S. cobalt mine — was shuttered in 2023 due to low market prices. The Pentagon invested $15 million in DPA Title III funds to study expansion at the Idaho site.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security"
+    },
+    {
+      "headline": "Cobalt prices doubled in 2025 to over $53,000/mt on DRC export ban",
+      "detail": "Cobalt metal prices surged from near nine-year lows of $24,343/mt in early 2025 to $53,005/mt by December, entering 2026 at $56,414/mt — the highest since July 2022. Analysts project the market will shift into a structural deficit of approximately 10,700 metric tons in 2026 against demand near 292,300 metric tons, supporting forecasts of average prices near $55,000/mt.",
+      "severity": "high",
+      "source_url": "https://www.fastmarkets.com/insights/dried-up-feedstock-pipeline-cobalt-prices-soaring-2025-deficit/"
+    },
+    {
+      "headline": "Pentagon seeks to stockpile $500 million in cobalt over five years",
+      "detail": "Federal solicitation documents issued August 2025 revealed the U.S. military is seeking to acquire up to $500 million worth of cobalt for the National Defense Stockpile over the next five years. This is part of a broader $7.5 billion Pentagon program to fortify domestic critical mineral production and stockpiling, with roughly $1 billion across multiple minerals.",
+      "severity": "high",
+      "source_url": "https://www.stripes.com/theaters/us/2025-08-25/pentagon-seeking-to-boost-supply-of-18873180.html"
+    },
+    {
+      "headline": "LFP battery chemistry capturing 60%+ market share reduces cobalt demand from EVs",
+      "detail": "Lithium iron phosphate (LFP) batteries, which contain zero cobalt, exceeded 60% of global battery cell capacity in 2025, driven by cost advantages and improving energy density. This structural shift reduces cobalt demand from the largest consumption sector (batteries) but does not address defense and aerospace needs where cobalt superalloys remain essential.",
+      "severity": "medium",
+      "source_url": "https://www.nasdaq.com/articles/cobalt-market-forecast-top-trends-cobalt-2026"
+    },
+    {
+      "headline": "CSIS recommends $24/lb cobalt price floor to enable Western production",
+      "detail": "A December 2025 CSIS analysis modeled three price floor scenarios for U.S. minerals security. At $24/lb (~$172 million annual cost), the recommended minimum threshold would enable viable production at Western mines like Jervois Idaho and Fortune Minerals' NICO Project in Canada, providing a stable price signal for investment in non-Chinese supply chains.",
+      "severity": "medium",
+      "source_url": "https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-02",
+      "headline": "DRC halts all cobalt exports in unprecedented resource sovereignty move",
+      "summary": "The Democratic Republic of Congo banned all cobalt exports beginning in February 2025, citing the need to stabilize prices and assert resource sovereignty over the mineral that dominates its economy. The ban disproportionately affected Chinese firms, particularly CMOC, which reported 48,600 metric tons of cobalt inventory trapped in the DRC during Q1 2025.",
+      "source_url": "https://www.newamerica.org/planetary-politics/blog/the-dr-congos-cobalt-power-move/",
+      "impact": "Triggered a 100% price surge from approximately $16.62/lb to $22.03/lb within months, disrupted global battery supply chains, and forced manufacturers to seek alternative sources. Demonstrated that the DRC is willing to use export controls as a tool of economic statecraft, permanently altering supply chain risk calculations."
+    },
+    {
+      "date": "2025-10",
+      "headline": "DRC replaces export ban with quota system limiting output to 87,000 tonnes annually",
+      "summary": "After eight months of total export suspension, the DRC resumed cobalt exports in mid-October 2025 under a rigid quota system. Quotas were set at 18,125 metric tons for the remainder of 2025, then 96,600 metric tons for 2026 and 87,000 tonnes for 2027 — less than half the DRC's estimated production capacity. The quota system is designed to maintain elevated prices and DRC leverage.",
+      "source_url": "https://www.fastmarkets.com/insights/cobalt-market-outlook-2025-drc-quota-system/",
+      "impact": "Creates a structural supply constraint for 2026-2027 with Fastmarkets projecting a 10,700 metric ton shortfall. Manufacturers are accelerating diversification efforts, seeking non-DRC feedstock from Indonesia, Australia, and recycled black mass sources."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Pentagon announces $500 million cobalt stockpiling initiative",
+      "summary": "The U.S. military issued solicitation documents seeking to acquire up to $500 million worth of cobalt for the National Defense Stockpile over five years, as part of a broader $7.5 billion critical minerals program. The Pentagon also deployed $15 million in DPA Title III funds to Jervois Global for feasibility studies on expanding Idaho Cobalt Operations.",
+      "source_url": "https://www.stripes.com/theaters/us/2025-08-25/pentagon-seeking-to-boost-supply-of-18873180.html",
+      "impact": "Signals the Pentagon's recognition that cobalt supply chain vulnerability is a national security risk. The stockpiling program provides a demand floor for potential domestic and allied producers, while the Jervois investment could reactivate the only primary U.S. cobalt mine."
+    },
+    {
+      "date": "2025-12",
+      "headline": "CSIS publishes price floor analysis recommending $24/lb minimum for U.S. cobalt security",
+      "summary": "The Center for Strategic and International Studies published a comprehensive analysis of cobalt market stabilization strategies, modeling three price floor scenarios. The recommended $24/lb floor (approximately $172 million annual cost) would make Western mines economically viable while maintaining incentives for recycling and chemistry substitution.",
+      "source_url": "https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security",
+      "impact": "Provides a policy framework for Congress and the administration to create stable market conditions for domestic cobalt investment. Without a price floor, the boom-bust cycle will continue to shutter Western mines during price troughs while Chinese state-backed producers maintain operations regardless of market conditions."
+    },
+    {
+      "date": "2025-11",
+      "headline": "U.S. pledges over $1 billion for DRC critical minerals and infrastructure",
+      "summary": "The U.S. International Development Finance Corporation committed to supporting a new copper and cobalt venture between the DRC's state mining company Gecamines and Mercuria Energy Trading, as part of a broader $1 billion+ package for critical minerals and railway projects in the DRC. The deal aims to build non-Chinese supply chains directly from the DRC.",
+      "source_url": "https://www.mining.com/web/us-vows-over-1-billion-for-congo-critical-minerals-supply-chain/",
+      "impact": "Represents a strategic pivot to compete directly with Chinese investment in the DRC rather than solely pursuing geographic diversification. Success depends on governance reforms and infrastructure development in a country with significant operational risks."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Cobalt supply chain risk is critical and structurally worsening in the near term. The DRC's export quota system creates a persistent supply constraint through 2027, while China's control of both DRC mining assets and global refining capacity means even non-DRC supply flows through Chinese-controlled channels. The U.S. has zero domestic production, with the only potential mine (Jervois Idaho) not expected to restart until Q2 2026 at a modest 1,500 tonnes/year. Defense applications consuming over 50% of U.S. cobalt cannot substitute away from cobalt superalloys. The $500 million Pentagon stockpiling initiative provides a buffer but does not solve the structural dependency.",
+    "trend": "worsening",
+    "key_drivers": [
+      "DRC export quota system constraining supply to roughly half of production capacity through 2027",
+      "Chinese ownership of 15 of 19 DRC cobalt mines plus dominance in refining",
+      "Zero active U.S. domestic cobalt production",
+      "Projected 10,700 metric ton structural deficit in 2026",
+      "Cobalt prices at multi-year highs increasing procurement costs for defense programs",
+      "DRC governance and infrastructure risks affecting long-term supply reliability"
+    ],
+    "mitigation_actions": [
+      "Execute Pentagon $500 million cobalt stockpiling program to build strategic reserves",
+      "Support Jervois Idaho Cobalt Operations restart targeting Q2 2026 (1,500 t/yr)",
+      "Advance Fortune Minerals NICO Project in Canada (1,728 t/yr cobalt capacity)",
+      "Implement CSIS-recommended $24/lb price floor to enable Western mine economics",
+      "Invest in cobalt recycling from spent batteries and black mass processing",
+      "Expand DFC-backed supply agreements directly with DRC producers outside Chinese control",
+      "Support accelerated adoption of reduced-cobalt battery chemistries (NMC 9:0.5:0.5) for non-defense applications",
+      "Develop Indonesia as alternative cobalt source through HPAL nickel-cobalt projects with allied partners"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - Stabilizing Cobalt Markets: A Price Floor for U.S. Minerals Security",
+      "url": "https://www.csis.org/analysis/stabilizing-cobalt-markets-price-floor-us-minerals-security",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Cobalt",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-cobalt.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "New America - The DR Congo's Cobalt Power Move",
+      "url": "https://www.newamerica.org/planetary-politics/blog/the-dr-congos-cobalt-power-move/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Fastmarkets - Cobalt Prices Soaring 2025, Deficit Seen Next Year",
+      "url": "https://www.fastmarkets.com/insights/dried-up-feedstock-pipeline-cobalt-prices-soaring-2025-deficit/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Fastmarkets - DRC Quota System Looks to Force Uncertainty for Cobalt",
+      "url": "https://www.fastmarkets.com/insights/cobalt-market-outlook-2025-drc-quota-system/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Stars and Stripes - Pentagon Seeking to Boost Supply of Cobalt",
+      "url": "https://www.stripes.com/theaters/us/2025-08-25/pentagon-seeking-to-boost-supply-of-18873180.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "MINING.COM - US Vows Over $1 Billion for Congo Critical Minerals Supply Chain",
+      "url": "https://www.mining.com/web/us-vows-over-1-billion-for-congo-critical-minerals-supply-chain/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Nasdaq - Cobalt Market Forecast: Top Trends for 2026",
+      "url": "https://www.nasdaq.com/articles/cobalt-market-forecast-top-trends-cobalt-2026",
+      "accessed": "2026-03-16",
+      "type": "financial"
+    },
+    {
+      "title": "CSIS - Building Critical Minerals Cooperation Between the US and the DRC",
+      "url": "https://www.csis.org/analysis/building-critical-minerals-cooperation-between-united-states-and-democratic-republic-congo",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Metal Tech News - Pentagon Launches Critical Minerals Mission",
+      "url": "https://www.metaltechnews.com/story/2025/10/15/tech-metals/pentagon-launches-critical-minerals-mission/2512.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

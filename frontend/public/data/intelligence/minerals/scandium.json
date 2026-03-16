@@ -1,0 +1,139 @@
+{
+  "id": "scandium",
+  "category": "mineral",
+  "subject": "Scandium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Scandium is a rare earth element for which the United States has been 100% import-dependent since domestic production ceased in 1969. China controls approximately 65% of global scandium oxide output, and China's April 2025 export controls on scandium and yttrium have directly tightened supply to U.S. aerospace and defense industries. Global annual supply of approximately 25 tonnes falls far short of forecast 2026 demand of 117 tonnes, creating a structural deficit that threatens emerging applications.\n\nScandium's primary strategic value lies in aluminum-scandium alloys, where small additions of scandium (0.1-0.5%) dramatically enhance the strength, weldability, and corrosion resistance of aluminum while reducing weight — properties critical for military aircraft, spacecraft, and missile components. The Pentagon has invested $10 million in NioCorp's Elk Creek project in Nebraska to develop the first vertically integrated U.S. scandium supply chain, from mining to alloy production. NioCorp has partnered with Lockheed Martin on defense-funded scandium alloy work and targets 100 tonnes per year of scandium production — roughly triple current global supply outside China.\n\nHowever, the Elk Creek project remains subject to final financing, with construction not yet commenced. The U.S. Export-Import Bank designated NioCorp as a 'very top priority project' in December 2025, but production is still years away. In the interim, the U.S. has no domestic buffer against Chinese export controls and faces a growing window of vulnerability as defense demand for scandium-aluminum alloys accelerates.",
+  "key_findings": [
+    {
+      "headline": "China controls 65% of global scandium oxide output and implemented export controls in April 2025",
+      "detail": "China implemented export controls on scandium, yttrium, and other medium and heavy rare earth elements in April 2025, requiring special licenses for export covering 33 HS codes. These controls remain in force even after China's broader suspension of some mineral restrictions in November 2025. With China producing approximately 65% of global scandium oxide, U.S. defense contractors face immediate supply uncertainty.",
+      "severity": "critical",
+      "source_url": "https://rareearthexchanges.com/news/chinas-yttrium-and-scandium-export-controls-tighten-u-s-aerospace-and-chip-supply-chains/"
+    },
+    {
+      "headline": "U.S. has been 100% import-dependent on scandium since 1969",
+      "detail": "The United States has not mined scandium since 1969, making it entirely reliant on imports from Japan, China, Germany, and the Philippines. No scandium was mined or recovered from process streams or mine tailings domestically in 2023 or 2024. This decades-long absence of domestic production leaves zero buffer against foreign supply disruptions.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-scandium.pdf"
+    },
+    {
+      "headline": "Global scandium supply of 25 tonnes/year is far below projected 2026 demand of 117 tonnes",
+      "detail": "Current annual global scandium supply of approximately 25 tonnes is projected to fall far short of forecast 2026 demand of 117 tonnes per year. This structural deficit means demand is being constrained by supply limitations rather than market conditions, suppressing the development of scandium-aluminum alloys that could transform aerospace manufacturing.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/scandium-enhanced-aluminum-value-proposition-2025/"
+    },
+    {
+      "headline": "Pentagon invests $10 million in NioCorp for domestic scandium supply chain",
+      "detail": "In August 2025, the U.S. Department of Defense awarded up to $10 million to Elk Creek Resources (NioCorp) to develop domestic scandium supply as part of reducing China dependence. NioCorp has partnered with Lockheed Martin on Pentagon-funded scandium alloy work and targets 100 tonnes/year of scandium production from its Nebraska project, roughly triple current global supply outside China.",
+      "severity": "high",
+      "source_url": "https://defensemirror.com/news/39994/U_S__Invests__10M_to_Restart_Domestic_Scandium_Production"
+    },
+    {
+      "headline": "Scandium-aluminum alloys offer transformative properties for defense aerospace",
+      "detail": "Adding just 0.1-0.5% scandium to aluminum produces alloys with dramatically enhanced mechanical and thermal properties: higher strength-to-weight ratio, improved weldability without loss of strength, superior corrosion resistance, and better thermal stability. These properties are critical for next-generation military aircraft, spacecraft, and missile components where weight reduction directly enhances performance.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/scandium-enhanced-aluminum-value-proposition-2025/"
+    },
+    {
+      "headline": "U.S. Export-Import Bank designates NioCorp as 'very top priority' project",
+      "detail": "During a December 2025 meeting after two and a half years of extensive due diligence, the U.S. Export-Import Bank designated NioCorp's Elk Creek project as a 'very top priority.' NioCorp raised over $370 million during 2025 including the DOD grant. The project would produce niobium, scandium, titanium, and magnetic rare earths from a single Nebraska deposit.",
+      "severity": "moderate",
+      "source_url": "https://minersdigest.com/regions/usa/niocorp-developments-advancing-niobium-scandium-project-toward-2026-financing-construction/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-08-01",
+      "headline": "U.S. Department of Defense awards $10 million to NioCorp for domestic scandium production",
+      "summary": "The DOD awarded up to $10 million to Elk Creek Resources, a unit of NioCorp Developments, to increase domestic scandium supply as part of a broader effort to reduce reliance on Chinese critical minerals. The grant funded critical geological work to upgrade mineral reserves from probable to proven status, a prerequisite for project financing.",
+      "source_url": "https://defensemirror.com/news/39994/U_S__Invests__10M_to_Restart_Domestic_Scandium_Production",
+      "impact": "First significant federal investment in domestic scandium production since 1969. Advances the Elk Creek project toward financing but production remains years away."
+    },
+    {
+      "date": "2025-04-04",
+      "headline": "China implements export controls on scandium and yttrium",
+      "summary": "China's Ministry of Commerce implemented export controls covering scandium, yttrium, and other medium and heavy rare earth elements effective April 4, 2025. Exporters must obtain special licenses for items covered under 33 HS codes. Unlike other mineral restrictions, these controls were not included in the November 2025 suspension.",
+      "source_url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "impact": "Directly restricts 65% of global scandium supply. U.S. defense contractors and aerospace manufacturers face immediate supply chain disruption with no domestic alternative."
+    },
+    {
+      "date": "2025-12-01",
+      "headline": "NioCorp partners with Lockheed Martin on Pentagon-funded scandium alloy development",
+      "summary": "NioCorp announced a partnership with Lockheed Martin on Department of Defense-funded research and development for scandium-enhanced aluminum alloys for defense applications. The partnership positions NioCorp to establish America's first vertically integrated scandium mine-to-alloy supply chain, from mining through scandium oxide production to Al-Sc master alloy production.",
+      "source_url": "https://www.investing.com/news/stock-market-news/niocorp-lockheed-partner-on-pentagonfunded-scandium-alloy-work-4305713",
+      "impact": "Establishes defense-industrial demand signal for domestic scandium. Lockheed's involvement increases project credibility and may accelerate financing."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Scandium presents a high supply chain risk characterized by complete U.S. import dependence, Chinese production dominance with active export controls, and a massive structural supply deficit. The April 2025 Chinese export controls directly threaten the 65% of global supply that originates in China, and these controls were notably excluded from the November 2025 suspension. While NioCorp's Elk Creek project offers long-term domestic supply potential with strong government backing, production is still years away, creating a multi-year window of acute vulnerability during which U.S. defense demand for scandium-aluminum alloys is accelerating.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's April 2025 export controls on scandium remain in force (not suspended)",
+      "100% U.S. import dependence with no domestic production since 1969",
+      "Global supply (25 t/yr) far below projected demand (117 t/yr by 2026)",
+      "NioCorp's Elk Creek project still requires final financing; production years away",
+      "Growing defense demand for scandium-aluminum alloys in next-gen aerospace programs",
+      "No strategic stockpile reserves to buffer against supply disruptions"
+    ],
+    "mitigation_actions": [
+      "Accelerate NioCorp Elk Creek project financing and construction timeline",
+      "Establish emergency scandium oxide strategic stockpile for defense applications",
+      "Diversify import sources to Australia, Philippines, and allied-nation producers",
+      "Fund ScaVanger-type coproduction projects extracting scandium from titanium processing",
+      "Invest in scandium recovery from coal ash, red mud, and other industrial waste streams",
+      "Develop bilateral supply agreements with Australia and Canada for scandium feedstock"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2024 - Scandium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-scandium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Defense Mirror - U.S. Invests $10M to Restart Domestic Scandium Production",
+      "url": "https://defensemirror.com/news/39994/U_S__Invests__10M_to_Restart_Domestic_Scandium_Production",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Rare Earth Exchanges - China's Yttrium and Scandium Export Controls",
+      "url": "https://rareearthexchanges.com/news/chinas-yttrium-and-scandium-export-controls-tighten-u-s-aerospace-and-chip-supply-chains/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Discovery Alert - Scandium-Enhanced Aluminum Value Proposition 2025",
+      "url": "https://discoveryalert.com.au/scandium-enhanced-aluminum-value-proposition-2025/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "NioCorp Developments - Scandium Supply Chain",
+      "url": "https://www.niocorp.com/scandium/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Investing.com - NioCorp, Lockheed Partner on Pentagon-Funded Scandium Alloy Work",
+      "url": "https://www.investing.com/news/stock-market-news/niocorp-lockheed-partner-on-pentagonfunded-scandium-alloy-work-4305713",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Miners Digest - NioCorp Advancing Toward 2026 Financing and Construction",
+      "url": "https://minersdigest.com/regions/usa/niocorp-developments-advancing-niobium-scandium-project-toward-2026-financing-construction/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

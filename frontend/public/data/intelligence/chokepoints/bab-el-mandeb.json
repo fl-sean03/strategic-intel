@@ -1,0 +1,160 @@
+{
+  "id": "bab-el-mandeb",
+  "category": "chokepoint",
+  "subject": "Bab el-Mandeb",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The Bab el-Mandeb strait, a 20-mile-wide waterway between Yemen on the Arabian Peninsula and Djibouti/Eritrea on the Horn of Africa, is the southern gateway to the Suez Canal and a critical chokepoint for global energy and trade flows. Pre-crisis, the strait handled 8-9 million barrels of oil per day (16-18% of global seaborne oil trade) and approximately 8% of worldwide LNG trade. The strait is functionally coupled with the Suez Canal — any disruption to Bab el-Mandeb renders the Suez Canal commercially irrelevant for north-south traffic.\n\nThe strait has been the epicenter of the Red Sea shipping crisis since November 2023, when Houthi forces in Yemen began attacking commercial vessels in solidarity with Gaza. Over the 22-month campaign (November 2023 to September 2025), the Houthis conducted 99 attacks, sinking multiple commercial vessels and killing seafarers. Oil flows through the strait collapsed from 8-9 million barrels/day to 3-4 million barrels/day, forcing 3.2 million b/d of incremental rerouting via the Cape of Good Hope at an additional cost of $1.2-1.5 million per VLCC voyage. Transit through the strait fell over 50% year-over-year.\n\nThe Houthis halted attacks after the Gaza peace plan took effect on October 10, 2025, and a U.S.-Houthi ceasefire was established in May 2025. However, on February 28, 2026, the Houthis threatened to resume Red Sea attacks in response to the U.S.-Israeli strikes on Iran. While they have so far avoided resuming hostilities, the threat has frozen the tentative recovery. Meanwhile, the U.S. launched Operation Rough Rider on March 15, 2026, with dozens of airstrikes against Houthi targets across seven Yemeni provinces. Combined Task Force 153 and Operation Prosperity Guardian maintain naval presence, but the strait remains a contested zone with high residual risk.",
+  "key_findings": [
+    {
+      "headline": "Oil flows collapsed from 8-9M to 3-4M barrels/day during Houthi crisis",
+      "detail": "Pre-crisis Bab el-Mandeb oil flows of 8-9 million barrels/day represented 16-18% of global seaborne oil trade. During the height of the Houthi attacks, flows collapsed to 3-4 million barrels/day, forcing 3.2 million b/d of incremental rerouting via the Cape of Good Hope. Each VLCC diversion costs an additional $1.2-1.5 million in fuel costs alone. The disruption contributed to Suez Canal revenue falling from $10.25 billion to ~$4 billion.",
+      "severity": "critical",
+      "source_url": "https://content.ballastmarkets.com/chokepoints/bab-el-mandeb/"
+    },
+    {
+      "headline": "Houthis threaten to resume attacks amid Iran war (Feb 2026)",
+      "detail": "On February 28, 2026, in response to U.S.-Israeli strikes on Iran, the Houthis threatened to escalate the conflict and resume Red Sea attacks. While they have so far avoided resuming hostilities — not wanting to open multiple fronts — the threat alone has frozen the tentative recovery of Red Sea shipping and kept insurance premiums elevated for Bab el-Mandeb transit.",
+      "severity": "critical",
+      "source_url": "https://www.businesstoday.in/world/story/hormuz-shut-bab-el-mandeb-next-houthi-warnings-put-another-chokepoint-at-risk-in-the-red-sea-520648-2026-03-15"
+    },
+    {
+      "headline": "99 Houthi attacks over 22 months created unprecedented maritime security crisis",
+      "detail": "Between November 2023 and September 2025, the Houthis attacked or hijacked ships 99 times in the Red Sea and Bab el-Mandeb approaches. On July 6-8, 2025, the Houthis attacked and sank two commercial vessels in the southern Red Sea, killing four seafarers. The U.S. Maritime Administration (MARAD) issued multiple advisories warning of the threat to commercial vessels in the Bab el-Mandeb Strait, Gulf of Aden, and Arabian Sea.",
+      "severity": "high",
+      "source_url": "https://www.maritime.dot.gov/msci/2025-012-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-persian-gulf-and-somali-basin"
+    },
+    {
+      "headline": "U.S. launches Operation Rough Rider against Houthi targets (March 2026)",
+      "detail": "On March 15, 2026, the U.S. launched a campaign of intense airstrikes against Houthi targets codenamed Operation Rough Rider, with dozens of airstrikes hitting targets across seven Yemeni provinces on the first day, killing 53 people. This represents a significant escalation beyond the previous Operation Prosperity Guardian maritime defense posture and the earlier U.S.-Houthi ceasefire of May 2025.",
+      "severity": "high",
+      "source_url": "https://en.wikipedia.org/wiki/Red_Sea_crisis"
+    },
+    {
+      "headline": "Transit through Bab el-Mandeb still down 50%+ year-over-year",
+      "detail": "Despite the October 2025 Houthi ceasefire, transit through the Bab el-Mandeb Strait remains down by over 50% year-over-year. Some major shipping corporations like Maersk have resumed Red Sea routes, while others continue to avoid the area. The persistent traffic deficit reflects deep industry skepticism about sustained security, compounded by the February 2026 Houthi threats.",
+      "severity": "high",
+      "source_url": "https://globalsecurityreview.com/red-sea-uncertainty-a-2026-forecast-for-the-houthis-actions/"
+    },
+    {
+      "headline": "Combined Task Force 153 maintains Red Sea maritime security operations",
+      "detail": "CTF 153, established April 2022 under Combined Maritime Forces, patrols the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden. Egypt assumed command of CTF 153, with CMF resuming full operations as of August 2025. CTF 153 led Operation Prosperity Guardian, an international presence operation ensuring freedom of navigation. Destroyer Squadron 50 assumed OPG leadership from CTF 153 on February 1, 2025.",
+      "severity": "moderate",
+      "source_url": "https://combinedmaritimeforces.com/ctf-153-red-sea-maritime-security/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-03-15",
+      "headline": "U.S. launches Operation Rough Rider with massive airstrikes on Yemen",
+      "summary": "The United States launched a campaign of intense airstrikes against Houthi targets codenamed Operation Rough Rider, with dozens of strikes hitting targets across seven Yemeni provinces on the first day, killing 53 people. This represents a major escalation from the maritime-focused Operation Prosperity Guardian to direct offensive action against Houthi military infrastructure.",
+      "source_url": "https://en.wikipedia.org/wiki/Red_Sea_crisis",
+      "impact": "Significant military escalation; risk of Houthi retaliation against commercial shipping; potential to either degrade or provoke Houthi maritime attack capability."
+    },
+    {
+      "date": "2026-02-28",
+      "headline": "Houthis threaten to resume Red Sea attacks in solidarity with Iran",
+      "summary": "Following U.S.-Israeli strikes on Iran under Operation Epic Fury, the Houthis threatened to escalate and resume attacks on shipping in the Red Sea. While they have so far avoided resuming hostilities — reportedly not wanting to open multiple fronts — the threat has halted the tentative recovery of Bab el-Mandeb shipping that began after the October 2025 ceasefire.",
+      "source_url": "https://www.businesstoday.in/world/story/hormuz-shut-bab-el-mandeb-next-houthi-warnings-put-another-chokepoint-at-risk-in-the-red-sea-520648-2026-03-15",
+      "impact": "Freezes Suez/Red Sea commercial traffic recovery; compounds Hormuz crisis with dual-chokepoint disruption risk; sustains elevated insurance premiums."
+    },
+    {
+      "date": "2025-10-10",
+      "headline": "Houthis halt Red Sea attacks following Gaza peace plan",
+      "summary": "The Houthis halted attacks on international shipping after the Gaza peace plan went into effect, ending a 22-month campaign. This followed a U.S.-Houthi bilateral ceasefire announced by President Trump on May 6, 2025. The cessation created conditions for tentative commercial recovery, with some major carriers like Maersk resuming Red Sea routes.",
+      "source_url": "https://en.wikipedia.org/wiki/Red_Sea_crisis",
+      "impact": "Ended active attack phase; began slow recovery of Bab el-Mandeb transit; however 50%+ traffic deficit persisted months later."
+    },
+    {
+      "date": "2025-07-06",
+      "headline": "Houthis sink two commercial vessels, killing four seafarers",
+      "summary": "On July 6-8, 2025, during the final months of the attack campaign, the Houthis attacked and sank two commercial vessels in the southern Red Sea, killing four seafarers. These attacks demonstrated continued Houthi capability and willingness to cause casualties even as diplomatic efforts toward a ceasefire were underway.",
+      "source_url": "https://en.wikipedia.org/wiki/Red_Sea_crisis",
+      "impact": "Demonstrated lethal Houthi capability; reinforced carrier reluctance to return to Red Sea routing; underscored human cost of the crisis."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The Bab el-Mandeb faces a volatile security environment with converging threats. While the October 2025 Houthi ceasefire ended the active attack phase, transit remains 50%+ below normal and the February 2026 Houthi threats to resume attacks have frozen recovery. The U.S. has escalated from maritime defense (Operation Prosperity Guardian) to direct offensive action (Operation Rough Rider, March 15), which could either degrade Houthi capability or provoke retaliation. The concurrent Hormuz crisis creates the risk of simultaneous disruption to both major energy chokepoints — a scenario that would affect approximately 30-35% of global seaborne oil trade.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Houthi threats to resume Red Sea attacks in solidarity with Iran (Feb 28, 2026)",
+      "U.S. escalation from maritime defense to offensive strikes (Operation Rough Rider, March 15)",
+      "Concurrent Hormuz crisis creating dual-chokepoint disruption risk",
+      "Proven Houthi capability: 99 attacks, multiple sinkings, crew casualties over 22 months",
+      "Transit still 50%+ below pre-crisis levels despite ceasefire",
+      "Insurance industry maintaining elevated premiums for Red Sea transit",
+      "Regional power struggles (Iran-Houthi alliance, Saudi-Houthi conflict, Somalia instability)"
+    ],
+    "mitigation_actions": [
+      "Combined Task Force 153 maintaining Red Sea maritime security patrols",
+      "Operation Prosperity Guardian naval escort operations (led by DESRON 50 since Feb 2025)",
+      "Operation Rough Rider targeting Houthi military infrastructure (March 2026)",
+      "Egypt commanding CTF 153 with regional maritime security focus",
+      "Carrier-led convoy procedures for commercial vessel protection",
+      "Alternative routing via Cape of Good Hope (adds 10-14 days, $1.2-1.5M per VLCC)",
+      "Enhanced vessel self-protection measures and routing intelligence"
+    ]
+  },
+  "sources": [
+    {
+      "title": "The Bab el-Mandeb Strait is a strategic route for oil and natural gas - U.S. EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=41073",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Red Sea chokepoints are critical for international oil and natural gas flows - U.S. EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=61025",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "MARAD Advisory 2025-012: Red Sea, Bab el Mandeb Strait",
+      "url": "https://www.maritime.dot.gov/msci/2025-012-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-persian-gulf-and-somali-basin",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Red Sea Uncertainty: A 2026 Forecast for the Houthis Actions - Global Security Review",
+      "url": "https://globalsecurityreview.com/red-sea-uncertainty-a-2026-forecast-for-the-houthis-actions/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Hormuz shut, Bab el Mandeb next? - BusinessToday",
+      "url": "https://www.businesstoday.in/world/story/hormuz-shut-bab-el-mandeb-next-houthi-warnings-put-another-chokepoint-at-risk-in-the-red-sea-520648-2026-03-15",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Red Sea crisis - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Red_Sea_crisis",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Bab el-Mandeb Strait: Complete 2024 Houthi Crisis Trading Guide - Ballast Markets",
+      "url": "https://content.ballastmarkets.com/chokepoints/bab-el-mandeb/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CTF 153: Red Sea Maritime Security - Combined Maritime Forces",
+      "url": "https://combinedmaritimeforces.com/ctf-153-red-sea-maritime-security/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "The Red Sea Shipping Crisis (2024-2025) - Atlas Institute",
+      "url": "https://atlasinstitute.org/the-red-sea-shipping-crisis-2024-2025-houthi-attacks-and-global-trade-disruption/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Chokepoints under pressure: The fragile lifelines of global energy - Rystad Energy",
+      "url": "https://www.rystadenergy.com/news/chokepoints-under-pressure-fragile-lifelines-global-energy",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

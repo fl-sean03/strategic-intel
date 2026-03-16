@@ -1,0 +1,1099 @@
+{
+  "generated_at": "2026-03-16T00:00:00Z",
+  "minerals": {
+    "aluminum": {
+      "us_producers": [
+        {
+          "company": "Century Aluminum",
+          "location": "Mt. Holly, SC; Sebree, KY",
+          "notes": "Two smelters. $50M investment to restart Mt. Holly to full capacity by June 2026. Hawesville, KY smelter idle since 2022."
+        },
+        {
+          "company": "Alcoa",
+          "location": "Massena East, NY; Ferndale, WA",
+          "notes": "Two operational smelters. Part of 4 remaining U.S. primary aluminum smelters."
+        },
+        {
+          "company": "Noranda Alumina (Gramercy)",
+          "location": "Gramercy, LA",
+          "notes": "Only domestic alumina refinery. 1.2M ton/year capacity. Processes imported bauxite."
+        }
+      ],
+      "processing_status": "4 operational smelters producing ~680,000 tonnes/yr at ~50% capacity utilization. Single alumina refinery in Louisiana. Down from 23 smelters at peak.",
+      "recent_changes": "Century Aluminum investing $50M to restart idled capacity at Mt. Holly, SC (50,000+ tonnes). Section 232 tariffs doubled to 50% in June 2025. New Madrid, MO smelter shut down Jan 2024.",
+      "government_support": "25-50% Section 232 tariffs on imports. DPA Title III funding eligibility. Added to all 4 federal critical minerals lists (USGS, DOE, DOD, DOC).",
+      "key_vulnerability": "Electricity costs nearly double competitors ($550/t vs $290/t in Canada). No greenfield smelters in pipeline despite tariff protection.",
+      "source_report": "intelligence/minerals/aluminum.json"
+    },
+    "antimony": {
+      "us_producers": [
+        {
+          "company": "Perpetua Resources",
+          "location": "Stibnite, ID",
+          "notes": "Only prospective U.S. antimony mine. In permitting for 8+ years. Could supply 35% of U.S. demand in first 6 years."
+        },
+        {
+          "company": "Military Metals Corp",
+          "location": "Last Chance property",
+          "notes": "Acquired Last Chance antimony property Feb 2025. Early-stage exploration."
+        }
+      ],
+      "processing_status": "Zero domestic mine production since 2001. Recycling meets only 18% of demand. China produces ~48% of global supply.",
+      "recent_changes": "China imposed export controls Sept 2024, military end-use ban Dec 2024. Prices surged 5x from $12K to $60K+/tonne. Civilian suspension through Nov 2026 but military ban remains.",
+      "government_support": "DOD invested $60M in Perpetua Resources permitting. $15.5M DPA exploration grant. $1.8B Ex-Im Bank letter of interest for Stibnite.",
+      "key_vulnerability": "Zero domestic production, 100% import reliance, China's military end-use ban directly threatens DOD ammunition (200+ types) and defense systems.",
+      "source_report": "intelligence/minerals/antimony.json"
+    },
+    "arsenic": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic production since 1985. 100% import-dependent."
+        }
+      ],
+      "processing_status": "100% import-dependent. China supplies 57% of arsenic trioxide and 96% of arsenic metal imports. No domestic refining.",
+      "recent_changes": "Department of War overrode USGS recommendation to remove arsenic from Critical Minerals List due to GaAs semiconductor importance. China export controls on GaAs compounds since Aug 2023.",
+      "government_support": "Retained on 2025 Critical Minerals List via DOD intervention. No direct mining/refining investment.",
+      "key_vulnerability": "Irreplaceable in GaAs semiconductors for military radar (AEGIS, Patriot, AN/FPS-117). China controls both arsenic feedstock and GaAs compound exports.",
+      "source_report": "intelligence/minerals/arsenic.json"
+    },
+    "barite": {
+      "us_producers": [
+        {
+          "company": "Three companies (names withheld by USGS)",
+          "location": "Nevada (4 mines)",
+          "notes": "All domestic production in Nevada. Production data withheld to protect proprietary information."
+        },
+        {
+          "company": "American Pacific Mining",
+          "location": "Palmer VMS Project, AK",
+          "notes": "Under development. Highlighted for strategic barite exposure."
+        }
+      ],
+      "processing_status": "75%+ import reliance. India (40%), China (25%), Morocco (17%), Mexico (14%) supply imports. 2.3M tons sold domestically in 2024.",
+      "recent_changes": "Nevada mine production increased in 2024. American Pacific Mining advancing Palmer VMS project in Alaska. Domestic output still covers <25% of consumption.",
+      "government_support": "Critical mineral designation enables DPA funding and expedited permitting. No major direct investment announced.",
+      "key_vulnerability": "Over 90% consumed by oil/gas drilling with no viable substitutes. Gulf of Mexico offshore drilling almost entirely dependent on imported barite.",
+      "source_report": "intelligence/minerals/barite.json"
+    },
+    "beryllium": {
+      "us_producers": [
+        {
+          "company": "Materion Corporation",
+          "location": "Spor Mountain, UT (mine); Elmore, OH (processing)",
+          "notes": "Only significant beryllium mine globally. Controls 60%+ of world production. $65M defense prime investment for capacity expansion."
+        }
+      ],
+      "processing_status": "U.S. IS the dominant global producer via Materion. Over 60% of global production. Full mine-to-product domestic supply chain. Expanded AlBeCast capacity in Ohio.",
+      "recent_changes": "$65M customer investment from major defense prime for capacity expansion. New beryllium oxide facility commissioned. Defense bookings surged to $75M, backlog doubled YoY.",
+      "government_support": "DPA Title III eligible. Defense prime contractors directly investing in capacity expansion. Strategic stockpile maintained by DLA.",
+      "key_vulnerability": "Single-company dependency \u2014 any disruption to Materion operations eliminates Western beryllium supply. China acquiring deposits in Africa (Rwanda, Madagascar).",
+      "source_report": "intelligence/minerals/beryllium.json"
+    },
+    "bismuth": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic production of primary refined bismuth since 1997. 89% import-reliant."
+        }
+      ],
+      "processing_status": "Zero domestic production. China controls ~80% of global supply. 60% of U.S. imports historically from China.",
+      "recent_changes": "China export controls Feb 2025 caused 700% price surge ($3.58/lb to $55/lb). Prices settled ~$17.50/lb after 90-day trade truce. DLA issuing RFPs for stockpiling.",
+      "government_support": "DLA issued RFPs for bismuth strategic stockpiling. Critical mineral designation maintained.",
+      "key_vulnerability": "Leading impacted material in weapons systems by part count. Bismuth solder essential for defense electronics and AI data center construction.",
+      "source_report": "intelligence/minerals/bismuth.json"
+    },
+    "boron": {
+      "us_producers": [
+        {
+          "company": "Rio Tinto (U.S. Borax)",
+          "location": "Boron, CA (Mojave Desert)",
+          "notes": "Nearly all U.S. supply and ~30% of world refined boron. Single point of failure."
+        },
+        {
+          "company": "5E Advanced Materials",
+          "location": "Fort Cady, Mojave Desert, CA",
+          "notes": "Under development. Initial boric acid production (2,000 t/yr). FID targeted 2026. Ferroboron trials underway."
+        }
+      ],
+      "processing_status": "U.S. IS a major producer via Rio Tinto Boron, CA. Single-source domestic dependency. China controls 80% of boron carbide processing for defense.",
+      "recent_changes": "Newly added to 2025 Critical Minerals List. 5E Advanced Materials targeting FID 2026, launched ferroboron trials for NdFeB magnet supply chain.",
+      "government_support": "New critical mineral designation unlocks DPA funding, DOE loan guarantees, IRA/IIJA tax credits. 5E pursuing non-dilutive federal capital.",
+      "key_vulnerability": "Single Rio Tinto operation supplies nearly all U.S. boron. China's 80% monopoly on boron carbide threatens defense armor and neutron shielding.",
+      "source_report": "intelligence/minerals/boron.json"
+    },
+    "cerium": {
+      "us_producers": [
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Produces rare earth concentrate containing cerium. Record 45,000 MT REO concentrate in 2024. No separated cerium oxide at commercial scale yet."
+        }
+      ],
+      "processing_status": "Limited domestic separation. China controls 80%+ of production and 85%+ of rare earth polishing powder supply. MP Materials produces concentrate but not separated cerium.",
+      "recent_changes": "China April 2025 export controls disrupted rare earth processing ecosystem. Section 232 proclamation Jan 2026. $8.5B U.S.-Australia framework agreement Oct 2025.",
+      "government_support": "DOD $400M investment in MP Materials. Section 232 proclamation on processed critical minerals. U.S.-Australia $8.5B framework agreement.",
+      "key_vulnerability": "Co-production dynamics mean cerium supply disrupted by export controls on other rare earths. No commercial-scale U.S. cerium separation.",
+      "source_report": "intelligence/minerals/cerium.json"
+    },
+    "cesium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "100% import-dependent. No cesium has ever been commercially mined in the U.S."
+        }
+      ],
+      "processing_status": "100% import-dependent. Chinese company Sinomine controls both active global cesium production facilities (Tanco mine, Canada; Bikita, Zimbabwe).",
+      "recent_changes": "Power Metals targeting 2026 cesium production from Case Lake, Ontario with Albemarle offtake agreement (C$5M prepayment). Would break Sinomine monopoly.",
+      "government_support": "Retained on 2025 Critical Minerals List via qualitative assessment (insufficient data for quantitative). No direct federal investment.",
+      "key_vulnerability": "Single Chinese company (Sinomine) controls global cesium supply. Irreplaceable in atomic clocks underpinning GPS, missile guidance, and telecoms.",
+      "source_report": "intelligence/minerals/cesium.json"
+    },
+    "chromium": {
+      "us_producers": [
+        {
+          "company": "None (primary)",
+          "location": "",
+          "notes": "Zero domestic chromite mining, ferrochromium, or chromium metal production. Only source is recycling from stainless steel/superalloy scrap."
+        }
+      ],
+      "processing_status": "Zero primary production. 77% net import reliance after recycling. Imports from South Africa (32%), Kazakhstan (11%), Canada (6%), Finland (6%).",
+      "recent_changes": "South African infrastructure constraints (electricity, rail) limiting ferrochrome output to 60-70% capacity. Chromium consumption reached $900M in 2024 (+6% YoY).",
+      "government_support": "Critical mineral designation. National Defense Stockpile holdings. No domestic production investment (zero domestic deposits being developed).",
+      "key_vulnerability": "No substitute in stainless steel or superalloys. South Africa (45% of global ferrochrome) faces chronic electricity/rail crises.",
+      "source_report": "intelligence/minerals/chromium.json"
+    },
+    "cobalt": {
+      "us_producers": [
+        {
+          "company": "Jervois Global",
+          "location": "Idaho Cobalt Operations, Salmon, ID",
+          "notes": "Only primary U.S. cobalt mine. Shuttered 2023 due to low prices. $15M DPA Title III investment. Targeting Q2 2026 restart at ~1,500 t/yr."
+        }
+      ],
+      "processing_status": "Zero active domestic production. ~8,000 MT annual consumption with 50%+ in defense superalloys. DRC produces 76% of global supply; China owns 15 of 19 DRC mines.",
+      "recent_changes": "DRC imposed 8-month export ban (Feb-Oct 2025), then quota system (87,000 t/yr for 2026-27). Prices doubled to $53K+/mt. Pentagon seeking $500M cobalt stockpile.",
+      "government_support": "$500M Pentagon cobalt stockpiling initiative over 5 years. $15M DPA Title III for Jervois Idaho. $1B+ DFC commitment for DRC supply chains.",
+      "key_vulnerability": "DRC export quotas at half capacity through 2027. China controls DRC mining + global refining. Projected 10,700 MT structural deficit in 2026.",
+      "source_report": "intelligence/minerals/cobalt.json"
+    },
+    "copper": {
+      "us_producers": [
+        {
+          "company": "Freeport-McMoRan",
+          "location": "Morenci, AZ; Bagdad, AZ; Safford/Lone Star, AZ; Chino, NM",
+          "notes": "Largest U.S. copper producer. Arizona accounts for ~70% of domestic output."
+        },
+        {
+          "company": "Rio Tinto (Kennecott)",
+          "location": "Bingham Canyon, UT",
+          "notes": "Major copper mine and smelter-refinery complex."
+        },
+        {
+          "company": "Trilogy Metals (w/ govt stake)",
+          "location": "Upper Kobuk, AK",
+          "notes": "Under development. $35M U.S. govt investment for 10% stake."
+        }
+      ],
+      "processing_status": "U.S. IS a significant producer (~1.1M tonnes mine production, 5th globally) but imports 45% of refined copper consumption. 65% of imports from Chile.",
+      "recent_changes": "50% Section 232 tariff on semi-finished copper Aug 2025. Phased universal tariffs on refined copper planned (15% in 2027, 30% in 2028). Newly added to Critical Minerals List.",
+      "government_support": "50% Section 232 tariffs. $35M govt investment in Alaska copper project. DPA Title III eligible. Critical mineral designation unlocks federal support.",
+      "key_vulnerability": "24-year average mine development timeline (slowest globally). 45% import reliance with 65% from Chile. China controls 40-90% of global processing.",
+      "source_report": "intelligence/minerals/copper.json"
+    },
+    "dysprosium": {
+      "us_producers": [
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "First U.S. dysprosium oxide production (99.9% purity). ~29 kg pilot scale. Targeting 48 t/yr by Q4 2026."
+        },
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Heavy rare earth separation facility commissioning mid-2026. 200 t/yr dysprosium + terbium capacity planned."
+        }
+      ],
+      "processing_status": "Emerging domestic production at pilot/early commercial scale. China controls 98% of global processing. Energy Fuels and MP Materials targeting 2026 scale-up.",
+      "recent_changes": "Energy Fuels produced first kg of 99.9% purity dysprosium oxide Aug 2025. Pentagon invested $400M in MP Materials. Prices surged 121% in 2025.",
+      "government_support": "DOD $400M equity investment in MP Materials (became largest shareholder). $150M loan for Mountain Pass expansion. $8.5B U.S.-Australia framework agreement.",
+      "key_vulnerability": "China controls 98% of processing. Dec 2025 military end-user ban creates de facto defense embargo. Irreplaceable in heat-resistant magnets for F-35, guided munitions.",
+      "source_report": "intelligence/minerals/dysprosium.json"
+    },
+    "erbium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic commercial-scale erbium separation capacity. Not among near-term priorities for MP Materials or Energy Fuels."
+        }
+      ],
+      "processing_status": "Zero domestic separation capacity. China controls 85-90% of processing. Added to Chinese export controls Oct 2025 (suspended through Nov 2026).",
+      "recent_changes": "China expanded export controls to include erbium Oct 2025. Suspended through Nov 2026 but military end-user ban remains. EDFA market growing at 7.16% CAGR.",
+      "government_support": "Section 232 proclamation covers processed rare earths. $8.5B U.S.-Australia framework may benefit erbium indirectly.",
+      "key_vulnerability": "Irreplaceable in fiber optic amplifiers (EDFAs) that underpin ALL military and civilian long-distance communications. Single point of failure for telecom backbone.",
+      "source_report": "intelligence/minerals/erbium.json"
+    },
+    "europium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic europium separation capacity. Small volumes potentially extractable from MP Materials Mountain Pass bastnaesite (~0.1% Eu content)."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85% of processing. Explicitly added to export controls Oct 2025 (suspended through Nov 2026).",
+      "recent_changes": "China explicitly targeted europium in Oct 2025 export controls, including sputtering targets for displays. Prices $900-$1,200/kg with 10-15% annual growth projected.",
+      "government_support": "DOD $400M in MP Materials indirectly supports europium infrastructure. Critical mineral designation maintained.",
+      "key_vulnerability": "Irreplaceable for anti-counterfeiting features in U.S. currency and secure documents. Small market size ($258-270M) discourages dedicated investment.",
+      "source_report": "intelligence/minerals/europium.json"
+    },
+    "fluorspar": {
+      "us_producers": [
+        {
+          "company": "Ares Strategic Mining",
+          "location": "Lost Sheep Project, UT",
+          "notes": "Only permitted U.S. fluorspar mine. $169M DLA contract (ceiling $250M over 5 years). Expected 50,000 t/yr capacity."
+        }
+      ],
+      "processing_status": "Historically 100% import-dependent. Ares Strategic Mining establishing first domestic production. Imports from Mexico and China.",
+      "recent_changes": "DLA awarded $169M contract to Ares Strategic Mining Jan 2026 \u2014 first domestic fluorspar supply. Prices up 50% over 5 years. Demand projected to surge 40-70% by 2035.",
+      "government_support": "$169M DLA contract with $250M IDIQ ceiling over 5 years. Critical mineral designation enables DPA funding.",
+      "key_vulnerability": "Essential precursor for hydrofluoric acid used in semiconductor etching, battery electrolytes, uranium enrichment, and refrigerants. China (62%) shifting from exporter to consumer.",
+      "source_report": "intelligence/minerals/fluorspar.json"
+    },
+    "gadolinium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic gadolinium separation capacity. No near-term plans for dedicated separation circuits."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 80%+ of refined output. First-tranche Chinese export controls April 2025 (suspended through Nov 2026).",
+      "recent_changes": "Targeted in China's first tranche of April 2025 rare earth export controls. European buyers facing 20-25% price premiums. Section 232 proclamation Jan 2026.",
+      "government_support": "National Defense Stockpile FY2024 plan includes potential gadolinium acquisitions. Section 232 proclamation covers processed rare earths.",
+      "key_vulnerability": "Highest neutron absorption of any element \u2014 irreplaceable for submarine reactor shielding (Virginia, Columbia class). Dual-use demand from $1.6B MRI contrast market.",
+      "source_report": "intelligence/minerals/gadolinium.json"
+    },
+    "gallium": {
+      "us_producers": [
+        {
+          "company": "MTM Critical Metals",
+          "location": "Texas",
+          "notes": "Targeting 2026 production from industrial scrap gallium recovery."
+        },
+        {
+          "company": "US Critical Materials",
+          "location": "Sheep Creek, MT",
+          "notes": "Richest gallium deposit in North America. Targeting 2026 production."
+        },
+        {
+          "company": "GlobalFoundries",
+          "location": "Essex Junction, VT",
+          "notes": "GaN foundry. $9.5M DOD funding + TSMC license. Volume GaN chip production targeted late 2026."
+        }
+      ],
+      "processing_status": "Zero domestic primary production. China controls 98% of global primary gallium. 100% import-dependent in 2024. Multiple 2026 production targets.",
+      "recent_changes": "China banned gallium exports Dec 2024, suspended Nov 2025 through Nov 2026 (military ban remains). Prices surged 123%. DOE $6M for production R&D.",
+      "government_support": "DOE $6M for gallium production R&D. DOD $9.5M for GlobalFoundries GaN. $80M+ total govt GaN investment. DPA Title III eligible.",
+      "key_vulnerability": "98% Chinese production monopoly. 85% of defense supply chains include Chinese supplier. 11,000+ defense parts require gallium. $8B GDP impact from full embargo.",
+      "source_report": "intelligence/minerals/gallium.json"
+    },
+    "germanium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "Zero domestic primary production. Germanium is a zinc refining byproduct and U.S. lacks zinc smelting capacity."
+        }
+      ],
+      "processing_status": "Zero domestic production. China produces 60% globally. Ranked highest supply disruption risk on 2025 Critical Minerals List. Belgium processes some Chinese-sourced material.",
+      "recent_changes": "China imposed total export ban Dec 2024, suspended Nov 2025 (military end-use excluded). Prices surged 300%+ ($1,550 to $2,950/kg). $3.4B GDP loss estimated from ban.",
+      "government_support": "Critical mineral designation. DPA Title III eligible. No direct production investment announced.",
+      "key_vulnerability": "Highest supply disruption risk of any critical mineral per USGS. 78% of military systems contain germanium components. Irreplaceable in infrared optics for night vision.",
+      "source_report": "intelligence/minerals/germanium.json"
+    },
+    "graphite": {
+      "us_producers": [
+        {
+          "company": "Syrah Resources",
+          "location": "Vidalia, LA",
+          "notes": "Active anode material facility. $320M+ DOE support. Tesla offtake for ~70% of Phase 1. Expansion to 45,000 MT pending."
+        },
+        {
+          "company": "Titan Mining",
+          "location": "U.S. (location TBD)",
+          "notes": "Targeting first integrated U.S. natural graphite producer. Q4 2025 operations target."
+        },
+        {
+          "company": "Graphite mining projects",
+          "location": "AL (2), AK (1), MT (1), NY (1)",
+          "notes": "Five companies in exploration/development. None at commercial production yet."
+        }
+      ],
+      "processing_status": "100% import-reliant for natural graphite (52,000 tons consumed by ~100 companies in 2024). China controls 75% of mining and 85-95% of anode processing.",
+      "recent_changes": "China widened controls to synthetic graphite Nov 2025, then suspended for U.S. through Nov 2026. Prices at all-time lows threatening Western project viability.",
+      "government_support": "DOE $320M+ for Syrah Resources Vidalia plant. DOE multi-billion dollar battery mineral processing programs. $500M for battery mineral processing.",
+      "key_vulnerability": "100% import reliance. Largest component by weight in Li-ion battery anodes. China controls entire supply chain. All-time low prices undermining Western alternatives.",
+      "source_report": "intelligence/minerals/graphite.json"
+    },
+    "hafnium": {
+      "us_producers": [
+        {
+          "company": "ATI (Allegheny Technologies)",
+          "location": "Albany, OR",
+          "notes": "Produces nuclear-grade hafnium as byproduct of zirconium processing."
+        }
+      ],
+      "processing_status": "Limited domestic production as zirconium byproduct. France is the other major Western producer. China expanding hafnium capacity.",
+      "recent_changes": "Growing demand from next-gen nuclear reactors and jet engine superalloys. Supply constrained by zirconium processing volumes.",
+      "government_support": "Critical mineral designation. Strategic importance for naval nuclear reactors.",
+      "key_vulnerability": "Production entirely dependent on zirconium processing rate \u2014 cannot be independently scaled. Essential for nuclear reactor control rods and superalloys.",
+      "source_report": "intelligence/minerals/hafnium.json"
+    },
+    "holmium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic holmium separation capacity. Rare earth element produced as byproduct of broader REE processing."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85-90% of processing. Added to Chinese export controls Oct 2025 (suspended through Nov 2026).",
+      "recent_changes": "China expanded export controls to include holmium Oct 2025. Used in strongest permanent magnets and medical lasers.",
+      "government_support": "Critical mineral designation. Indirectly supported by MP Materials/Energy Fuels rare earth processing investments.",
+      "key_vulnerability": "China controls processing. Essential for highest-strength permanent magnets and precision medical/military lasers.",
+      "source_report": "intelligence/minerals/holmium.json"
+    },
+    "indium": {
+      "us_producers": [
+        {
+          "company": "None (primary)",
+          "location": "",
+          "notes": "No primary indium mine production. Some secondary recovery from zinc refining and recycling."
+        }
+      ],
+      "processing_status": "Net importer. China dominates global indium production (~60%). Indium is a byproduct of zinc smelting, which the U.S. largely lacks.",
+      "recent_changes": "China imposed export controls on indium Feb 2025. DLA issued RFPs for indium strategic stockpiling. Essential for ITO touchscreens and displays.",
+      "government_support": "DLA issuing RFPs for indium stockpiling. Critical mineral designation.",
+      "key_vulnerability": "Byproduct of zinc smelting which the U.S. lacks. Essential for indium tin oxide (ITO) in virtually all touchscreens and flat-panel displays.",
+      "source_report": "intelligence/minerals/indium.json"
+    },
+    "iridium": {
+      "us_producers": [
+        {
+          "company": "Minor byproduct production",
+          "location": "Montana",
+          "notes": "Small iridium quantities from PGM mining. South Africa produces ~80% of global supply."
+        }
+      ],
+      "processing_status": "Minimal domestic production as PGM byproduct. South Africa dominates global supply (~80%). Extremely rare metal.",
+      "recent_changes": "Growing demand from hydrogen electrolysis (PEM electrolyzers) and semiconductor applications. Supply constraints persistent.",
+      "government_support": "Critical mineral designation. No direct production investment.",
+      "key_vulnerability": "Extreme rarity and concentration in South Africa. Essential for spark plugs, crucibles for single-crystal growth, and hydrogen electrolysis.",
+      "source_report": "intelligence/minerals/iridium.json"
+    },
+    "lanthanum": {
+      "us_producers": [
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Produces rare earth concentrate containing lanthanum. Separation into individual oxides expanding."
+        }
+      ],
+      "processing_status": "Limited domestic separation. China controls 80%+ of processing. MP Materials produces lanthanum-containing concentrate. Used in petroleum refining catalysts.",
+      "recent_changes": "China export controls on rare earths April 2025 (suspended through Nov 2026). Lanthanum not individually targeted but affected by processing disruptions.",
+      "government_support": "DOD $400M investment in MP Materials. U.S.-Australia framework agreement.",
+      "key_vulnerability": "Co-produced with other rare earths from same ores. China dominates processing. Essential for petroleum refining catalysts and hybrid vehicle batteries.",
+      "source_report": "intelligence/minerals/lanthanum.json"
+    },
+    "lead": {
+      "us_producers": [
+        {
+          "company": "Doe Run Company",
+          "location": "Herculaneum, MO (closed); Boss, MO",
+          "notes": "Major U.S. lead producer. Last primary lead smelter (Herculaneum) closed 2013. Secondary smelting continues."
+        },
+        {
+          "company": "Multiple secondary smelters",
+          "location": "Various U.S. locations",
+          "notes": "Lead recycling from batteries provides majority of domestic supply. U.S. is world's third-largest lead producer."
+        }
+      ],
+      "processing_status": "U.S. IS a significant lead producer, primarily from secondary (recycled) sources. Third-largest global producer. Over 70% from battery recycling. Last primary smelter closed 2013.",
+      "recent_changes": "Growing lead demand from data center backup batteries and 5G infrastructure. Domestic mine production declining but recycling strong.",
+      "government_support": "Newly added to 2025 Critical Minerals List. Recognition of defense applications in ammunition and radiation shielding.",
+      "key_vulnerability": "No primary smelter since 2013. Depends on recycled lead. Essential for military ammunition and radiation shielding. Growing demand from data centers.",
+      "source_report": "intelligence/minerals/lead.json"
+    },
+    "lithium": {
+      "us_producers": [
+        {
+          "company": "Albemarle",
+          "location": "Silver Peak, NV",
+          "notes": "Only active U.S. lithium operation (~5,000 tonnes LCE). Brine extraction. DPA Title III grants received."
+        },
+        {
+          "company": "ioneer",
+          "location": "Rhyolite Ridge, NV",
+          "notes": "Under development. $700M DOE Loan Programs Office loan."
+        },
+        {
+          "company": "Lithium Americas",
+          "location": "Thacker Pass, NV",
+          "notes": "Under construction. $2.26B DOE LPO loan. Largest known lithium deposit in the U.S."
+        },
+        {
+          "company": "Piedmont Lithium",
+          "location": "Kings Mountain, NC",
+          "notes": "Under development. Historic lithium belt. Targeting spodumene production."
+        }
+      ],
+      "processing_status": "Minimal domestic production and refining. China refines 65%+ of global lithium. Silver Peak is only active mine. Multiple projects in development.",
+      "recent_changes": "Multiple new projects in Nevada and North Carolina advancing. Lithium prices crashed ~80% from 2022 peaks, threatening project economics. First new U.S. mines in decades.",
+      "government_support": "$3B+ in DOE LPO loans (Thacker Pass $2.26B, Rhyolite Ridge $700M). DPA Title III grants to Albemarle. IRA tax credits for domestic production.",
+      "key_vulnerability": "Refining bottleneck \u2014 even with domestic mining, processing capacity goes to China (65%+). Price crash threatening project viability.",
+      "source_report": "intelligence/minerals/lithium.json"
+    },
+    "lutetium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic lutetium separation. Rarest naturally occurring rare earth element."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85-90% of processing. Targeted in China's first-tranche April 2025 export controls (suspended through Nov 2026).",
+      "recent_changes": "China imposed export licensing April 2025. Growing demand from PET scan detectors (lutetium oxyorthosilicate crystals) and emerging quantum computing applications.",
+      "government_support": "Critical mineral designation. Indirectly supported by broader rare earth processing investments.",
+      "key_vulnerability": "Extreme scarcity. China's export controls directly target lutetium. Essential for PET scan medical imaging and emerging quantum technologies.",
+      "source_report": "intelligence/minerals/lutetium.json"
+    },
+    "magnesium": {
+      "us_producers": [
+        {
+          "company": "US Magnesium",
+          "location": "Rowley, UT (Great Salt Lake)",
+          "notes": "Only remaining primary magnesium producer in the U.S. Extracts from Great Salt Lake brine."
+        },
+        {
+          "company": "Dead Sea Magnesium (potential)",
+          "location": "",
+          "notes": "Israel-based. Some U.S. imports from allied sources."
+        }
+      ],
+      "processing_status": "Single domestic producer (US Magnesium, Utah). China produces ~85% of global magnesium. U.S. import reliance approximately 50%.",
+      "recent_changes": "China's magnesium production disruptions in 2021 caused global crisis. U.S. Magnesium capacity constrained. Growing demand from lightweight automotive and aerospace alloys.",
+      "government_support": "Critical mineral designation. No major new federal investment announced for expansion.",
+      "key_vulnerability": "Single domestic producer. China controls 85% of global supply. Essential for aluminum alloys, steel desulfurization, and lightweight defense applications.",
+      "source_report": "intelligence/minerals/magnesium.json"
+    },
+    "manganese": {
+      "us_producers": [
+        {
+          "company": "None (mining)",
+          "location": "",
+          "notes": "No domestic manganese ore mining. 100% import-dependent for manganese ore. Some electrolytic manganese production from imported ore."
+        }
+      ],
+      "processing_status": "100% import-dependent for manganese ore. South Africa (29%), Gabon (23%), Australia supply imports. Zero domestic mining. Some processing of imported ore.",
+      "recent_changes": "South Africa dominates global supply but faces infrastructure constraints. Growing battery demand (high-manganese cathodes). Added to 2025 Critical Minerals List.",
+      "government_support": "Critical mineral designation. National Defense Stockpile holds some manganese. No domestic mining investment.",
+      "key_vulnerability": "100% import dependence for ore. Essential for all steel production (no substitute). Growing battery demand adding pressure. South African logistics constraints.",
+      "source_report": "intelligence/minerals/manganese.json"
+    },
+    "metallurgical-coal": {
+      "us_producers": [
+        {
+          "company": "Arch Resources",
+          "location": "Central Appalachia (WV, VA)",
+          "notes": "Major met coal producer. Leer South mine is flagship operation."
+        },
+        {
+          "company": "Alpha Metallurgical Resources",
+          "location": "Appalachia (WV, VA)",
+          "notes": "Leading U.S. met coal producer. Multiple mines in Central Appalachia."
+        },
+        {
+          "company": "Warrior Met Coal",
+          "location": "Brookwood, AL",
+          "notes": "Major met coal producer. Blue Creek mine expansion underway."
+        },
+        {
+          "company": "CONSOL Energy",
+          "location": "Pennsylvania",
+          "notes": "Significant met coal production from Pennsylvania operations."
+        }
+      ],
+      "processing_status": "U.S. IS a major global producer and net exporter of metallurgical coal. Among top 5 global exporters. Strong domestic supply chain.",
+      "recent_changes": "Newly added to 2025 Critical Minerals List. U.S. is net exporter but faces declining domestic production amid mine closures. Essential for steelmaking.",
+      "government_support": "New critical mineral designation. No specific subsidies \u2014 industry is commercially viable.",
+      "key_vulnerability": "Declining domestic production as mines age. Long-term demand uncertain with electric arc furnace steelmaking growth. But no substitute for blast furnace steelmaking.",
+      "source_report": "intelligence/minerals/metallurgical-coal.json"
+    },
+    "neodymium": {
+      "us_producers": [
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Record 45,000 MT REO concentrate in 2024. NdPr separation and magnet facility in Fort Worth, TX expanding."
+        },
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "Producing separated NdPr oxide. Developing full rare earth separation circuit."
+        },
+        {
+          "company": "USA Rare Earth",
+          "location": "Stillwater, OK",
+          "notes": "NdFeB magnet facility targeting H1 2026 production."
+        }
+      ],
+      "processing_status": "Emerging domestic capacity. MP Materials produces NdPr oxide at Mountain Pass. Magnet manufacturing in Fort Worth, TX. China still controls 85-90% of global processing.",
+      "recent_changes": "Pentagon $400M investment in MP Materials. NdPr price floor of $110/kg guaranteed for 10 years. Energy Fuels producing separated NdPr. USA Rare Earth magnet facility.",
+      "government_support": "DOD $400M equity + $150M loan to MP Materials. $110/kg NdPr price floor for 10 years. $8.5B U.S.-Australia framework.",
+      "key_vulnerability": "China controls 85-90% of NdPr processing. Dec 2025 rules ban exports to military end-users. F-35 contains 920+ lbs of rare earth materials.",
+      "source_report": "intelligence/minerals/neodymium.json"
+    },
+    "nickel": {
+      "us_producers": [
+        {
+          "company": "Eagle Mine (Lundin Mining)",
+          "location": "Marquette County, MI",
+          "notes": "Underground nickel-copper mine. One of few active U.S. nickel mines."
+        },
+        {
+          "company": "Talon Metals (w/ Rio Tinto)",
+          "location": "Tamarack, MN",
+          "notes": "Under development. DOE $115M conditional commitment for battery-grade nickel processing."
+        }
+      ],
+      "processing_status": "Minimal domestic mine production. U.S. imports ~40-50% of nickel consumption. Indonesia and Philippines dominate global supply. China controls significant refining.",
+      "recent_changes": "Indonesian nickel oversupply crashed prices. Nickel added to 2025 Critical Minerals List. DOE investing in domestic nickel processing for EV batteries.",
+      "government_support": "DOE $115M conditional commitment for Talon Metals processing. Critical mineral designation. DPA Title III eligible.",
+      "key_vulnerability": "Indonesia's nickel boom controlled by Chinese investment. Battery-grade nickel processing dominated by China. Essential for EV batteries and stainless steel.",
+      "source_report": "intelligence/minerals/nickel.json"
+    },
+    "niobium": {
+      "us_producers": [
+        {
+          "company": "None (mining)",
+          "location": "",
+          "notes": "No domestic niobium mine production. 100% import-dependent. Brazil produces ~85% of global supply."
+        }
+      ],
+      "processing_status": "100% import-dependent. Brazil (CBMM) controls ~85% of global production. Canada supplies most U.S. imports. No domestic mining or processing.",
+      "recent_changes": "Stable supply from Brazil but extreme concentration risk. Growing demand from HSLA steel and superconductors. NioCorp Elk Creek project in Nebraska under development.",
+      "government_support": "Critical mineral designation. NioCorp received DOD $15M+ for Elk Creek niobium project in Nebraska.",
+      "key_vulnerability": "Extreme single-source dependency on Brazil/CBMM. Essential for high-strength low-alloy steel in pipelines, bridges, jet engines, and superconductors.",
+      "source_report": "intelligence/minerals/niobium.json"
+    },
+    "palladium": {
+      "us_producers": [
+        {
+          "company": "Sibanye-Stillwater",
+          "location": "Stillwater & East Boulder mines, MT",
+          "notes": "Only primary PGM producer in the U.S. Produces palladium, platinum, and other PGMs from Montana operations."
+        }
+      ],
+      "processing_status": "U.S. IS a producer via Sibanye-Stillwater in Montana, but imports majority of consumption. Russia (40%) and South Africa (35%) dominate global supply.",
+      "recent_changes": "Russia sanctions disrupted global palladium supply chains. Sibanye-Stillwater facing financial pressures from low PGM prices. Autocatalyst demand shifting.",
+      "government_support": "Critical mineral designation. Strategic importance for catalytic converters and defense electronics.",
+      "key_vulnerability": "Russia produces ~40% of global palladium. U.S. domestic production covers small fraction of consumption. Essential for automotive catalytic converters.",
+      "source_report": "intelligence/minerals/palladium.json"
+    },
+    "phosphate": {
+      "us_producers": [
+        {
+          "company": "Mosaic Company",
+          "location": "Central Florida (Bone Valley); Faustina, LA",
+          "notes": "Largest U.S. phosphate producer. Major mining and processing operations."
+        },
+        {
+          "company": "Nutrien",
+          "location": "Aurora, NC",
+          "notes": "Phosphate mining and processing. Significant U.S. operations."
+        },
+        {
+          "company": "J.R. Simplot",
+          "location": "Southeast Idaho",
+          "notes": "Major phosphate mining in Idaho. Integrated fertilizer production."
+        }
+      ],
+      "processing_status": "U.S. IS a major global producer of phosphate rock. Second-largest producer after China. Significant mining in Florida, Idaho, and North Carolina.",
+      "recent_changes": "Florida phosphate reserves declining. Growing demand for phosphate in LFP batteries creating new demand driver. Newly added to 2025 Critical Minerals List.",
+      "government_support": "New critical mineral designation recognizing food security and battery applications. Industry commercially viable without subsidies.",
+      "key_vulnerability": "Florida reserves declining. Growing LFP battery demand competing with agricultural use. China and Morocco control majority of global reserves.",
+      "source_report": "intelligence/minerals/phosphate.json"
+    },
+    "platinum": {
+      "us_producers": [
+        {
+          "company": "Sibanye-Stillwater",
+          "location": "Stillwater & East Boulder mines, MT",
+          "notes": "Only primary PGM producer in the U.S. Produces platinum, palladium, and other PGMs."
+        }
+      ],
+      "processing_status": "U.S. IS a producer via Montana mines but imports majority of consumption. South Africa produces ~70% of global platinum. Limited domestic refining.",
+      "recent_changes": "Growing demand from hydrogen fuel cells (PEM electrolyzers). Sibanye-Stillwater facing financial challenges from low PGM prices.",
+      "government_support": "Critical mineral designation. Strategic importance for hydrogen economy and defense catalytic applications.",
+      "key_vulnerability": "South Africa produces 70% of global supply with persistent infrastructure challenges (electricity, labor). Essential for hydrogen fuel cells and catalytic converters.",
+      "source_report": "intelligence/minerals/platinum.json"
+    },
+    "potash": {
+      "us_producers": [
+        {
+          "company": "Intrepid Potash",
+          "location": "Carlsbad, NM; Moab, UT",
+          "notes": "Only dedicated potash producer in the U.S. Multiple evaporation operations."
+        },
+        {
+          "company": "Mosaic Company",
+          "location": "Carlsbad, NM",
+          "notes": "Produces potash from New Mexico operations."
+        }
+      ],
+      "processing_status": "U.S. IS a producer but imports ~90% of potash consumption. Canada (Saskatchewan) is primary import source (~80%). Russia and Belarus are major global producers.",
+      "recent_changes": "Russia/Belarus sanctions disrupted global potash supply. Newly added to 2025 Critical Minerals List recognizing food security importance.",
+      "government_support": "New critical mineral designation. Food security driver. No major new production investment.",
+      "key_vulnerability": "~90% import reliance. Essential for food production (fertilizer). Russia/Belarus sanctions showed supply fragility. Canada dependency is friendly but concentrated.",
+      "source_report": "intelligence/minerals/potash.json"
+    },
+    "praseodymium": {
+      "us_producers": [
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Produces NdPr oxide (neodymium-praseodymium). Expanding separation and magnet manufacturing."
+        },
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "Developing rare earth separation including NdPr."
+        }
+      ],
+      "processing_status": "Emerging domestic capacity via MP Materials NdPr production. China controls 85-90% of global processing. Always co-produced with neodymium.",
+      "recent_changes": "MP Materials producing separated NdPr oxide. Pentagon $400M investment. DOD $110/kg price floor for NdPr. Magnet facility in Fort Worth, TX.",
+      "government_support": "DOD $400M equity in MP Materials. $110/kg NdPr price floor guaranteed 10 years. DPA Title III funding.",
+      "key_vulnerability": "Co-produced with neodymium; same China dependency. Essential for NdFeB permanent magnets in defense, EVs, and wind turbines.",
+      "source_report": "intelligence/minerals/praseodymium.json"
+    },
+    "rare-earths": {
+      "us_producers": [
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Largest rare earth mine outside China. Record 45,000 MT REO concentrate in 2024. Expanding to full separation and magnet manufacturing."
+        },
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "Producing separated rare earth oxides including heavy REEs (dysprosium, terbium). Monazite sand processing."
+        },
+        {
+          "company": "USA Rare Earth",
+          "location": "Stillwater, OK",
+          "notes": "NdFeB permanent magnet manufacturing facility targeting H1 2026 production."
+        },
+        {
+          "company": "Ucore Rare Metals",
+          "location": "Alexandria, LA",
+          "notes": "RapidSX rare earth separation technology demonstration plant."
+        }
+      ],
+      "processing_status": "U.S. IS a significant rare earth miner (MP Materials) but lacks full processing chain. China controls 60% of mining, 85-90% of processing, 92% of magnet manufacturing.",
+      "recent_changes": "China imposed export controls on 12 of 17 rare earths in 2025 (suspended through Nov 2026). DOD $400M in MP Materials. $8.5B U.S.-Australia framework. Section 232 proclamation.",
+      "government_support": "DOD $400M equity in MP Materials. $8.5B U.S.-Australia framework. Section 232 proclamation on processed critical minerals. DPA Title III funding across multiple projects.",
+      "key_vulnerability": "China controls 85-90% of processing and 92% of magnet manufacturing. Military end-user export ban. F-35 contains 920+ lbs of rare earth materials.",
+      "source_report": "intelligence/minerals/rare-earths.json"
+    },
+    "rhenium": {
+      "us_producers": [
+        {
+          "company": "Freeport-McMoRan (Sierrita mine)",
+          "location": "Green Valley, AZ",
+          "notes": "Rhenium recovered as byproduct of copper-molybdenum mining. U.S. is a significant global producer."
+        },
+        {
+          "company": "Kennecott (Rio Tinto)",
+          "location": "Bingham Canyon, UT",
+          "notes": "Rhenium byproduct from copper-molybdenum operations."
+        }
+      ],
+      "processing_status": "U.S. IS a significant rhenium producer as byproduct of copper/molybdenum mining. One of top global producers alongside Chile.",
+      "recent_changes": "Growing demand from single-crystal superalloy turbine blades for military jet engines. Supply constrained by molybdenum production rates.",
+      "government_support": "Critical mineral designation. Defense strategic importance for jet engine superalloys.",
+      "key_vulnerability": "Production entirely dependent on copper/molybdenum mining rates. Essential for single-crystal turbine blades in military and commercial jet engines. No substitute.",
+      "source_report": "intelligence/minerals/rhenium.json"
+    },
+    "rhodium": {
+      "us_producers": [
+        {
+          "company": "Sibanye-Stillwater",
+          "location": "Stillwater & East Boulder mines, MT",
+          "notes": "Only U.S. PGM producer. Rhodium produced as byproduct of platinum/palladium mining."
+        }
+      ],
+      "processing_status": "Minimal domestic production as PGM byproduct. South Africa produces ~80% of global rhodium. Extremely rare and expensive.",
+      "recent_changes": "Rhodium prices volatile. South African supply constraints persistent. Growing demand from stricter auto emissions standards.",
+      "government_support": "Critical mineral designation. No specific rhodium production investment.",
+      "key_vulnerability": "South Africa produces 80% of global supply. Extremely rare (rarest precious metal). Essential for catalytic converters meeting strictest emission standards.",
+      "source_report": "intelligence/minerals/rhodium.json"
+    },
+    "rubidium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic rubidium production. 100% import-dependent. Rubidium is typically extracted as byproduct of cesium mining."
+        }
+      ],
+      "processing_status": "100% import-dependent. Extremely small market. Sinomine (China) controls primary cesium-rubidium production. No domestic processing.",
+      "recent_changes": "Growing demand from atomic clocks and quantum computing research. Same supply concentration issues as cesium.",
+      "government_support": "Critical mineral designation. No direct production investment.",
+      "key_vulnerability": "Same Sinomine monopoly as cesium. Essential for atomic clocks, quantum magnetometers, and vapor cell sensors for military applications.",
+      "source_report": "intelligence/minerals/rubidium.json"
+    },
+    "ruthenium": {
+      "us_producers": [
+        {
+          "company": "Sibanye-Stillwater",
+          "location": "Stillwater, MT",
+          "notes": "Minor ruthenium byproduct from PGM mining. Very small quantities."
+        }
+      ],
+      "processing_status": "Minimal domestic production as PGM byproduct. South Africa produces ~90% of global ruthenium. Extremely rare.",
+      "recent_changes": "Growing demand from hard disk drives (data storage), semiconductor applications, and hydrogen electrolysis catalysts.",
+      "government_support": "Critical mineral designation. No specific ruthenium investment.",
+      "key_vulnerability": "South Africa dominates 90% of global supply. Essential for next-gen data storage (HAMR hard drives), fuel cells, and chemical catalysts.",
+      "source_report": "intelligence/minerals/ruthenium.json"
+    },
+    "samarium": {
+      "us_producers": [
+        {
+          "company": "MP Materials (potential)",
+          "location": "Mountain Pass, CA",
+          "notes": "Samarium present in Mountain Pass bastnaesite ore. Separation possible as processing expands."
+        }
+      ],
+      "processing_status": "No dedicated domestic samarium separation. China controls 80%+ of processing. Targeted in first-tranche April 2025 export controls (suspended through Nov 2026).",
+      "recent_changes": "China imposed export licensing April 2025. Used in samarium-cobalt magnets for high-temperature military applications. Suspension through Nov 2026.",
+      "government_support": "Indirectly supported by MP Materials investment. Critical mineral designation.",
+      "key_vulnerability": "Essential for SmCo permanent magnets used in military applications requiring extreme temperature stability (>300C). China controls processing with active export controls.",
+      "source_report": "intelligence/minerals/samarium.json"
+    },
+    "scandium": {
+      "us_producers": [
+        {
+          "company": "NioCorp Developments",
+          "location": "Elk Creek, NE",
+          "notes": "Under development. Planned scandium-niobium-titanium production. DOD investment received."
+        }
+      ],
+      "processing_status": "Zero domestic production. Extremely limited global supply. China and Russia are primary producers. Less than 20 tonnes produced globally per year.",
+      "recent_changes": "China imposed export controls on scandium April 2025. NioCorp advancing Elk Creek project. Growing demand for scandium-aluminum alloys in aerospace.",
+      "government_support": "DOD investment in NioCorp Elk Creek project. Critical mineral designation.",
+      "key_vulnerability": "Extreme scarcity (global production <20 t/yr). China/Russia control supply. Essential for high-strength aluminum alloys in aerospace and solid oxide fuel cells.",
+      "source_report": "intelligence/minerals/scandium.json"
+    },
+    "silicon": {
+      "us_producers": [
+        {
+          "company": "Globe Specialty Metals (Ferroglobe)",
+          "location": "Beverly, OH; Niagara Falls, NY; others",
+          "notes": "Major U.S. silicon metal and ferrosilicon producer. Multiple facilities."
+        },
+        {
+          "company": "Dow Corning/Hemlock Semiconductor",
+          "location": "Hemlock, MI",
+          "notes": "Polysilicon production for semiconductors and solar."
+        },
+        {
+          "company": "Mississippi Silicon",
+          "location": "Burnsville, MS",
+          "notes": "Silicon metal production facility."
+        }
+      ],
+      "processing_status": "U.S. IS a significant silicon producer for ferrosilicon and specialty grades. Import-dependent for polysilicon solar wafers. China dominates solar-grade silicon (80%+).",
+      "recent_changes": "Newly added to 2025 Critical Minerals List. China dominates solar-grade polysilicon. Semiconductor-grade silicon supply chain under focus.",
+      "government_support": "CHIPS Act funding for semiconductor manufacturing. Critical mineral designation. No specific silicon metal production subsidies.",
+      "key_vulnerability": "China controls 80%+ of solar-grade polysilicon. Essential for semiconductors and solar panels. Domestic producers face high electricity costs.",
+      "source_report": "intelligence/minerals/silicon.json"
+    },
+    "silver": {
+      "us_producers": [
+        {
+          "company": "Hecla Mining",
+          "location": "Greens Creek, AK; Lucky Friday, ID",
+          "notes": "Largest U.S. silver producer. Major operations in Alaska and Idaho."
+        },
+        {
+          "company": "Coeur Mining",
+          "location": "Rochester, NV; Wharf, SD",
+          "notes": "Significant U.S. silver and gold producer."
+        },
+        {
+          "company": "Various copper/gold/lead mines",
+          "location": "AZ, NV, MT, UT",
+          "notes": "Silver produced as byproduct of base metal mining across western states."
+        }
+      ],
+      "processing_status": "U.S. IS a significant silver producer. Among top 5-10 global producers. Production from dedicated silver mines and as byproduct of copper, gold, and lead mining.",
+      "recent_changes": "Newly added to 2025 Critical Minerals List. Silver demand surging for solar panels and electronics. China added silver to export control whitelist regime.",
+      "government_support": "New critical mineral designation. Silver market traditionally commercially driven. Growing strategic recognition.",
+      "key_vulnerability": "Growing demand from solar panels (largest industrial use) outpacing supply growth. China/Mexico/Peru dominate global production. Essential for electronics and solar.",
+      "source_report": "intelligence/minerals/silver.json"
+    },
+    "tantalum": {
+      "us_producers": [
+        {
+          "company": "None (mining)",
+          "location": "",
+          "notes": "No active U.S. tantalum mines. Some recycling and processing from imported ores."
+        },
+        {
+          "company": "AVX/KEMET (Yageo)",
+          "location": "Various",
+          "notes": "Tantalum capacitor manufacturing but from imported tantalum materials."
+        }
+      ],
+      "processing_status": "No domestic mining. 100% import-dependent for raw tantalum. DRC, Rwanda, and Australia are primary sources. Processing in China and Southeast Asia.",
+      "recent_changes": "Tantalum supply concentrated in Central Africa with conflict mineral concerns. Growing demand from electronics and aerospace superalloys.",
+      "government_support": "Critical mineral designation. Conflict mineral regulations (Dodd-Frank Section 1502). DPA Title III eligible.",
+      "key_vulnerability": "100% import-dependent. DRC/Rwanda supply with governance risks. Essential for capacitors in virtually all electronics and defense systems.",
+      "source_report": "intelligence/minerals/tantalum.json"
+    },
+    "tellurium": {
+      "us_producers": [
+        {
+          "company": "None (mining)",
+          "location": "",
+          "notes": "No primary tellurium mines. Some recovery as byproduct of copper refining."
+        },
+        {
+          "company": "First Solar (consumer)",
+          "location": "Perrysburg, OH",
+          "notes": "Largest global consumer of tellurium for CdTe solar panels. Vertically integrated recycling program."
+        }
+      ],
+      "processing_status": "Minimal domestic production as copper refining byproduct. China controls ~60% of global tellurium refining. China imposed export controls Feb 2025.",
+      "recent_changes": "China imposed export controls on tellurium Feb 2025. Critical for CdTe solar panels (First Solar). Prices volatile.",
+      "government_support": "Critical mineral designation. First Solar pursuing supply diversification and recycling.",
+      "key_vulnerability": "China controls 60% of refining and imposed export controls. Essential for CdTe thin-film solar (First Solar, major U.S. manufacturer). Byproduct of copper refining.",
+      "source_report": "intelligence/minerals/tellurium.json"
+    },
+    "terbium": {
+      "us_producers": [
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "Commenced terbium oxide production Q4 2025. Targeting 14 t/yr. First U.S. terbium production."
+        },
+        {
+          "company": "MP Materials",
+          "location": "Mountain Pass, CA",
+          "notes": "Heavy rare earth separation planned. 200 t/yr dysprosium + terbium capacity by mid-2026."
+        }
+      ],
+      "processing_status": "Emerging domestic production. Energy Fuels began terbium production Q4 2025. China controls 90%+ of processing. Prices surged with dysprosium.",
+      "recent_changes": "Energy Fuels producing terbium oxide at White Mesa Mill. MP Materials planning HREE separation. China export controls April 2025 (suspended through Nov 2026).",
+      "government_support": "DOD $400M in MP Materials supports terbium capacity. DPA Title III. U.S.-Australia framework agreement.",
+      "key_vulnerability": "China controls 90%+ of processing with active export controls. Essential for NdFeB magnet thermal performance alongside dysprosium. Military end-user ban in effect.",
+      "source_report": "intelligence/minerals/terbium.json"
+    },
+    "thulium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic thulium separation. Among the rarest rare earth elements."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85-90% of processing. Added to export controls Oct 2025 (suspended through Nov 2026).",
+      "recent_changes": "China expanded export controls to include thulium Oct 2025. Used in portable X-ray devices and laser applications.",
+      "government_support": "Critical mineral designation. No direct investment \u2014 market too small for dedicated capacity.",
+      "key_vulnerability": "Extreme scarcity. China monopoly on processing. Used in portable X-ray sources for military field medicine and industrial inspection.",
+      "source_report": "intelligence/minerals/thulium.json"
+    },
+    "tin": {
+      "us_producers": [
+        {
+          "company": "None (mining)",
+          "location": "",
+          "notes": "No active U.S. tin mines. Last significant tin mine closed decades ago."
+        },
+        {
+          "company": "Secondary smelters",
+          "location": "Various",
+          "notes": "Some tin recycling from electronic waste and solder scrap."
+        }
+      ],
+      "processing_status": "Zero domestic mine production. 75%+ import-dependent. China, Indonesia, and Myanmar dominate global supply. Some recycling.",
+      "recent_changes": "Myanmar military junta disrupted tin production. Indonesia restricting raw ore exports. Growing demand from electronics solder and tinplate.",
+      "government_support": "Critical mineral designation. No direct production investment.",
+      "key_vulnerability": "100% import-dependent for mined tin. Indonesia and Myanmar (unstable) are major suppliers. Essential for solder in all electronics manufacturing.",
+      "source_report": "intelligence/minerals/tin.json"
+    },
+    "titanium": {
+      "us_producers": [
+        {
+          "company": "Chemours (formerly DuPont)",
+          "location": "Starke, FL; Jesup, GA",
+          "notes": "Major titanium mineral sands producer. Trail Ridge operation in Florida."
+        },
+        {
+          "company": "Tronox",
+          "location": "Various",
+          "notes": "Titanium dioxide pigment producer with some mineral sands operations."
+        },
+        {
+          "company": "TIMET (PCC Airfoils)",
+          "location": "Henderson, NV; Toronto, OH",
+          "notes": "Major titanium sponge/metal producer for aerospace. Key defense supplier."
+        },
+        {
+          "company": "Arconic/ATI",
+          "location": "Various",
+          "notes": "Titanium forging and mill products for aerospace and defense."
+        }
+      ],
+      "processing_status": "U.S. IS a producer of titanium mineral concentrates and titanium sponge/metal. Significant domestic aerospace titanium supply chain. Import-dependent for some feedstock.",
+      "recent_changes": "Russia (VSMPO-AVISMA) sanctions disrupted global titanium supply. Aerospace industry diversifying away from Russian titanium. Domestic capacity expanding.",
+      "government_support": "DPA Title III. Critical mineral designation. Defense industrial base investments in titanium sponge production.",
+      "key_vulnerability": "Aerospace titanium market was heavily dependent on Russia (VSMPO-AVISMA). Sponge production capacity constrained globally. Essential for military aircraft and engines.",
+      "source_report": "intelligence/minerals/titanium.json"
+    },
+    "tungsten": {
+      "us_producers": [
+        {
+          "company": "None (mining since 2015)",
+          "location": "",
+          "notes": "No active U.S. tungsten mines since 2015. Some tungsten recycling from spent cutting tools and armor-piercing ammunition."
+        }
+      ],
+      "processing_status": "Zero domestic mine production. 50%+ import-dependent. China produces ~80% of global tungsten. Some recycling reduces import reliance.",
+      "recent_changes": "China imposed export controls on tungsten Feb 2025. Prices rising. Growing demand from armor-piercing munitions, cutting tools, and electronics.",
+      "government_support": "Critical mineral designation. National Defense Stockpile holds tungsten. DPA Title III eligible.",
+      "key_vulnerability": "China controls 80% of production and imposed export controls Feb 2025. Essential for armor-piercing ammunition, cutting tools, and defense munitions.",
+      "source_report": "intelligence/minerals/tungsten.json"
+    },
+    "uranium": {
+      "us_producers": [
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT; various mines in UT/AZ/CO",
+          "notes": "Largest U.S. uranium producer. Only operating conventional uranium mill. Restarting mines."
+        },
+        {
+          "company": "Ur-Energy",
+          "location": "Lost Creek, WY",
+          "notes": "In-situ recovery uranium production in Wyoming."
+        },
+        {
+          "company": "Peninsula Energy",
+          "location": "Lance Project, WY",
+          "notes": "In-situ recovery uranium production."
+        }
+      ],
+      "processing_status": "U.S. IS a producer but supplies only ~5-10% of reactor fuel needs. 40%+ of enriched uranium from Russia historically. Domestic mining restarting. DOE supporting enrichment.",
+      "recent_changes": "HALEU (high-assay LEU) program for advanced reactors. Russia uranium import ban enacted 2024. Uranium prices surged from $30 to $100+/lb. Domestic mines restarting.",
+      "government_support": "Russian uranium import ban. DOE $3.4B for domestic uranium enrichment. DPA Title III for HALEU. Critical mineral designation.",
+      "key_vulnerability": "Russia controlled 40%+ of U.S. enriched uranium supply. No domestic HALEU enrichment capacity yet. Essential for nuclear power and naval reactors.",
+      "source_report": "intelligence/minerals/uranium.json"
+    },
+    "vanadium": {
+      "us_producers": [
+        {
+          "company": "Energy Fuels",
+          "location": "White Mesa Mill, UT",
+          "notes": "Produces vanadium as byproduct of uranium processing. Primary U.S. vanadium source."
+        },
+        {
+          "company": "Bushveld Minerals (potential)",
+          "location": "",
+          "notes": "South Africa-based. U.S. imports vanadium from multiple sources."
+        }
+      ],
+      "processing_status": "Minimal domestic production. Energy Fuels produces some vanadium as uranium byproduct. China, Russia, and South Africa dominate global supply.",
+      "recent_changes": "DLA issued RFPs for vanadium strategic stockpiling. Growing demand from vanadium redox flow batteries for grid storage.",
+      "government_support": "DLA vanadium stockpiling RFPs. Critical mineral designation. DPA Title III eligible.",
+      "key_vulnerability": "China and Russia dominate production. Essential for high-strength steel and emerging vanadium redox flow batteries for grid-scale energy storage.",
+      "source_report": "intelligence/minerals/vanadium.json"
+    },
+    "ytterbium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic ytterbium separation. Heavy rare earth with limited global production."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85-90% of processing. Added to export controls Oct 2025 (suspended through Nov 2026).",
+      "recent_changes": "China expanded export controls to include ytterbium Oct 2025. Used in fiber lasers and quantum computing research.",
+      "government_support": "Critical mineral designation. Indirectly supported by broader rare earth processing investments.",
+      "key_vulnerability": "China controls processing with active export controls. Essential for high-power fiber lasers used in defense directed energy weapons and industrial cutting.",
+      "source_report": "intelligence/minerals/ytterbium.json"
+    },
+    "yttrium": {
+      "us_producers": [
+        {
+          "company": "None",
+          "location": "",
+          "notes": "No domestic yttrium separation capacity at commercial scale."
+        }
+      ],
+      "processing_status": "Zero domestic separation. China controls 85-90% of processing. Targeted in first-tranche April 2025 export controls (suspended through Nov 2026).",
+      "recent_changes": "China imposed export licensing April 2025. Used in YIG filters for radar/sonar and yttria-stabilized zirconia for thermal barrier coatings.",
+      "government_support": "Critical mineral designation. Section 232 proclamation covers processed rare earths.",
+      "key_vulnerability": "China controls processing with April 2025 export controls. Essential for radar/sonar YIG filters and jet engine thermal barrier coatings.",
+      "source_report": "intelligence/minerals/yttrium.json"
+    },
+    "zinc": {
+      "us_producers": [
+        {
+          "company": "Teck Resources",
+          "location": "Red Dog Mine, AK",
+          "notes": "One of world's largest zinc mines. Major U.S. zinc producer."
+        },
+        {
+          "company": "Various mines",
+          "location": "TN, MO, ID, others",
+          "notes": "U.S. has multiple zinc mines across several states."
+        }
+      ],
+      "processing_status": "U.S. IS a significant zinc miner but has limited domestic smelting capacity. Most concentrate exported for processing. Zinc is essential feedstock for germanium recovery.",
+      "recent_changes": "Newly added to 2025 Critical Minerals List. Lack of domestic smelting prevents germanium and indium byproduct recovery. Growing galvanizing demand.",
+      "government_support": "New critical mineral designation. Recognition of role in germanium/indium recovery and galvanized steel for infrastructure.",
+      "key_vulnerability": "Limited domestic smelting \u2014 concentrates exported for processing. This gap prevents recovery of critical byproducts (germanium, indium). Essential for galvanizing steel.",
+      "source_report": "intelligence/minerals/zinc.json"
+    },
+    "zirconium": {
+      "us_producers": [
+        {
+          "company": "Chemours",
+          "location": "Starke, FL",
+          "notes": "Produces zircon mineral sands from Florida deposits."
+        },
+        {
+          "company": "Westinghouse Electric",
+          "location": "Columbia, SC",
+          "notes": "Zirconium alloy fuel cladding for nuclear reactors. Key defense/nuclear supplier."
+        },
+        {
+          "company": "ATI (Allegheny Technologies)",
+          "location": "Albany, OR",
+          "notes": "Nuclear-grade zirconium processing. Hafnium byproduct recovery."
+        }
+      ],
+      "processing_status": "U.S. IS a producer of zircon mineral sands and zirconium alloy products. Domestic nuclear fuel cladding supply chain. Import-dependent for some feedstock.",
+      "recent_changes": "Growing demand from nuclear energy revival (SMRs) and advanced ceramics. Zirconium essential for nuclear fuel cladding with no substitute.",
+      "government_support": "Critical mineral designation. Nuclear energy investments benefit zirconium demand. DPA Title III eligible.",
+      "key_vulnerability": "South Africa and Australia dominate zircon mineral sands. Essential for nuclear fuel cladding with no substitute. Hafnium co-production creates linked supply chains.",
+      "source_report": "intelligence/minerals/zirconium.json"
+    }
+  }
+}

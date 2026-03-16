@@ -1,0 +1,139 @@
+{
+  "id": "tin",
+  "category": "mineral",
+  "subject": "Tin",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Tin is an indispensable critical mineral for the electronics and defense industries, with over 50% of global consumption used as solder in circuit boards for semiconductors, data centers, mobile devices, electric vehicles, and defense hardware. The United States imports more than 75% of its tin, primarily from Indonesia, Peru, Myanmar, and China, with 90% of global tin reserves located in regions classified as high geopolitical risk. The U.S. has not operated a tin smelter since the closure of the Longhorn plant in Texas in 1991, and the National Defense Stockpile is nearly depleted.\n\nSupply chain fragility is acute: China and Indonesia collectively account for over 50% of global production, Indonesia's output has been disrupted by delays in annual work permit approvals, and Myanmar's production faces earthquake damage and political instability. The International Tin Association projects a supply deficit of 13,000 tonnes by 2030, with the market already experiencing tightening that pushed Fitch Solutions' 2026 price forecast to $35,000/tonne.\n\nThe Pentagon has responded with targeted investments, including a $19 million award to Nathan Trotter & Co. to expand domestic tin recycling and a new $65 million tin processing facility in Virginia targeting operation by late 2026. Recycled tin now meets approximately 30% of U.S. demand, up from 22% in 2020. The Korea Zinc Tennessee smelter project, a $7.4 billion investment backed by the Department of War, will include tin processing capability when operational in 2029. However, the multi-year timeline for these projects leaves a significant gap during which U.S. electronics and defense manufacturing remain exposed to foreign supply disruptions.",
+  "key_findings": [
+    {
+      "headline": "U.S. has no tin smelter and National Defense Stockpile is nearly depleted",
+      "detail": "The United States has not had a tin smelter since the closure of the Longhorn plant in Texas in 1991, which was built with federal funds in 1942 during World War II. Remaining tin in the National Defense Stockpile is nearly exhausted, leaving the U.S. without either domestic processing capacity or strategic reserves for the metal that enables all modern electronics manufacturing.",
+      "severity": "critical",
+      "source_url": "https://farmonaut.com/usa/tin-usa-2026-trends-in-tin-no-tin-us-supply-security"
+    },
+    {
+      "headline": "Over 75% of U.S. tin is imported from high geopolitical-risk regions",
+      "detail": "The U.S. imports more than 75% of its tin consumption, primarily from Indonesia, Peru, Myanmar, and China. Critically, 90% of global tin reserves are located in regions where geopolitical risk is rated as high. China is the world's largest producer at 45% of global output, followed by Indonesia, creating a concentrated supply structure vulnerable to export restrictions, political instability, and natural disasters.",
+      "severity": "critical",
+      "source_url": "https://farmonaut.com/usa/tin-usa-2026-trends-in-tin-no-tin-us-supply-security"
+    },
+    {
+      "headline": "Over 50% of global tin consumption is in electronic solder with no viable substitute",
+      "detail": "More than half of global tin production is consumed as solder in electronic circuit boards, essential for semiconductors, data centers, mobile phones, electric vehicles, batteries, and solar panels. Tin solder is also critical in defense hardware including guidance systems, communications equipment, and radar. No substitute material provides tin's combination of low melting point, wettability, and electrical conductivity in solder applications.",
+      "severity": "critical",
+      "source_url": "https://theoregongroup.com/investment-insights/is-there-enough-tin-supply-to-hold-the-tech-revolution-together/"
+    },
+    {
+      "headline": "Pentagon invests $19 million in Nathan Trotter to expand domestic tin recycling",
+      "detail": "The Department of Defense awarded $19 million to Nathan Trotter & Co., a U.S. secondary tin producer, to expand domestic recycling capacity. The company is developing the Tin Ridge processing facility in Virginia, expected to be operational by late 2026, which will process the 38,000 metric tons of tin scrap currently exported annually. Recycled tin already meets 30% of U.S. demand, up from 22% in 2020.",
+      "severity": "high",
+      "source_url": "https://virginiabusiness.com/nathan-trotter-tin-facility-henry-county/"
+    },
+    {
+      "headline": "Indonesia production disruptions and Myanmar instability threaten near-term supply",
+      "detail": "Indonesia's tin production has been affected by delays in approving annual work permits, disrupting output from the world's second-largest producer. Myanmar's Wa State production resumption faces challenges from earthquake damage and rising policy costs. President Prabowo announced Indonesia's tin output should normalize in 2026 after sector reforms, but actual increases may fall short of expectations.",
+      "severity": "high",
+      "source_url": "https://news.metal.com/newscontent/103373153/Key-Takeaways-from-ASEAN-Tin-Industry-Conference-2025"
+    },
+    {
+      "headline": "Tin market projected to face 13,000-tonne supply deficit by 2030",
+      "detail": "The International Tin Association projects the tin market will face a supply deficit of 13,000 tonnes by 2030, driven by growing demand from electronics, EVs, renewable energy, and AI data centers against constrained mine supply. Fitch Solutions raised its 2026 tin price forecast to $35,000/tonne from $32,000, reflecting tightening market fundamentals.",
+      "severity": "high",
+      "source_url": "https://www.mining.com/tin-market-deficit-to-tighten-report/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-10-30",
+      "headline": "Nathan Trotter plans $65 million tin processing facility in Virginia",
+      "summary": "Nathan Trotter & Co. announced plans for a $65 million tin processing facility at Patriot Centre Industrial Park in Henry County, Virginia. The facility, backed by a $19 million DOD award, will process tin scrap that is currently exported, with operations expected by late 2026. This represents the first new U.S. tin processing capability in over 30 years.",
+      "source_url": "https://virginiabusiness.com/nathan-trotter-tin-facility-henry-county/",
+      "impact": "Will capture a significant portion of the 38,000 metric tons of tin scrap currently exported, potentially increasing domestic secondary supply by 15-20%."
+    },
+    {
+      "date": "2025-12-15",
+      "headline": "Korea Zinc's $7.4 billion Tennessee smelter to include tin processing",
+      "summary": "Korea Zinc's planned $7.4 billion smelting complex in Tennessee, backed by $1.4 billion from the Department of War, will produce 13 nonferrous metals including tin. The joint venture Crucible Metals will begin phased operations in 2029, eventually processing 540,000 tonnes per year of major nonferrous metals.",
+      "source_url": "https://www.koreazinc.co.kr/en/korea-zinc-partners-with-the-u-s-department-of-war-and-u-s-department-of-commerce-to-build-a-state-of-the-art-critical-minerals-smelter-in-the-united-states-with-6-6-billion-of-capital-expenditures/",
+      "impact": "When operational in 2029, will provide the first primary tin smelting capability in the U.S. since 1991. However, the 4-year timeline leaves significant near-term vulnerability."
+    },
+    {
+      "date": "2025-10-01",
+      "headline": "Indonesia's President Prabowo announces tin sector reform completion for 2026",
+      "summary": "Indonesian President Prabowo Subianto announced that tin production should return to normal levels in 2026 following the completion of sector reforms and facility upgrades. Indonesia's production had been disrupted by delays in approving annual work permits, affecting global supply availability and prices.",
+      "source_url": "https://discoveryalert.com.au/indonesia-tin-market-2025-geographic-advantages/",
+      "impact": "If reforms succeed, Indonesian production recovery could ease tight global supply. However, regulatory uncertainty remains, and actual production increases may lag announcements."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Tin presents a high supply chain risk due to the combination of no domestic smelting capacity, near-depleted National Defense Stockpile, 75%+ import dependence on high-risk regions, and tin's irreplaceable role in electronic solder used across all modern electronics and defense systems. The projected 13,000-tonne supply deficit by 2030 indicates structural tightening. While Pentagon investments in Nathan Trotter and the Korea Zinc Tennessee project will eventually rebuild domestic capacity, the 2026-2029 period represents a window of maximum vulnerability where U.S. semiconductor and defense manufacturing depends entirely on foreign tin supply.",
+    "trend": "worsening",
+    "key_drivers": [
+      "No domestic tin smelter since 1991 and National Defense Stockpile nearly depleted",
+      "75%+ import dependence on Indonesia, China, Peru, and Myanmar (all high geopolitical risk)",
+      "Over 50% of tin used in electronic solder with no viable substitute",
+      "Indonesia production disruptions and Myanmar instability constraining supply",
+      "Projected 13,000-tonne global supply deficit by 2030",
+      "New domestic processing capacity (Nathan Trotter, Korea Zinc) not operational until 2026-2029"
+    ],
+    "mitigation_actions": [
+      "Fast-track Nathan Trotter Virginia facility to capture exported tin scrap domestically",
+      "Rebuild National Defense Stockpile tin reserves through strategic purchasing",
+      "Expand domestic tin recycling from electronic waste and manufacturing scrap",
+      "Diversify import sources toward Bolivia, Brazil, and other allied producers",
+      "Support Korea Zinc Tennessee smelter timeline to achieve 2029 operational target",
+      "Invest in tin thrifting R&D to reduce solder content requirements in electronics"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Farmonaut - Tin USA: 2026 Trends in Tin Supply and Security",
+      "url": "https://farmonaut.com/usa/tin-usa-2026-trends-in-tin-no-tin-us-supply-security",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MINING.COM - Tin Market Deficit to Tighten",
+      "url": "https://www.mining.com/tin-market-deficit-to-tighten-report/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "The Oregon Group - Is There Enough Tin Supply to Hold the Tech Revolution Together?",
+      "url": "https://theoregongroup.com/investment-insights/is-there-enough-tin-supply-to-hold-the-tech-revolution-together/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Virginia Business - Nathan Trotter Plans $65M Tin Processing Plant",
+      "url": "https://virginiabusiness.com/nathan-trotter-tin-facility-henry-county/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Korea Zinc - Tennessee Critical Minerals Smelter Partnership",
+      "url": "https://www.koreazinc.co.kr/en/korea-zinc-partners-with-the-u-s-department-of-war-and-u-s-department-of-commerce-to-build-a-state-of-the-art-critical-minerals-smelter-in-the-united-states-with-6-6-billion-of-capital-expenditures/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Shanghai Metal Market - Key Takeaways from ASEAN Tin Industry Conference 2025",
+      "url": "https://news.metal.com/newscontent/103373153/Key-Takeaways-from-ASEAN-Tin-Industry-Conference-2025",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Discovery Alert - Indonesia Tin Output 2026 Recovery Prospects",
+      "url": "https://discoveryalert.com.au/indonesia-tin-market-2025-geographic-advantages/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

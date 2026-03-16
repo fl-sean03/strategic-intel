@@ -1,0 +1,164 @@
+{
+  "id": "aluminum",
+  "category": "mineral",
+  "subject": "Aluminum",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Aluminum occupies a paradoxical position among U.S. critical minerals: the country possesses significant bauxite reserves and refining know-how, yet its primary smelting capacity has collapsed to just four operational smelters producing roughly 680,000 metric tons annually — down from 23 smelters and 4.3 million tons at peak capacity. The U.S. now imports approximately 47-60% of its aluminum consumption, with Canada supplying over 56% of imports. Net import reliance has steadily increased as domestic smelters have shuttered due to electricity costs that run nearly double those in competing nations like Canada ($550/tonne vs. $290/tonne). Aluminum was added to the 2025 USGS Critical Minerals List, appearing on all four federal critical mineral designations (USGS, DOE, DOD, DOC).\n\nThe Trump administration has responded aggressively with trade policy, imposing 25% Section 232 tariffs on aluminum imports in March 2025, then doubling them to 50% in June 2025 — supplemented by targeted 50% tariffs on Chinese aluminum products and 10% duties on Mexican aluminum. These measures catalyzed Century Aluminum's $50 million investment to restart idled capacity at its Mt. Holly smelter in South Carolina, targeting full capacity by June 2026. However, structural barriers persist: U.S. electricity prices remain fundamentally uncompetitive for energy-intensive smelting, and no new greenfield smelter projects are under development. The Aluminum Association's May 2025 white paper identified electricity access as the single binding constraint on domestic production growth.\n\nDemand for aluminum is accelerating due to electrification, AI data center expansion, grid modernization, and defense applications including aircraft structures, armored vehicles, and naval vessels. The widening gap between surging demand and constrained domestic supply represents an enduring strategic vulnerability, particularly given aluminum's designation as essential to the defense industrial base.",
+  "key_findings": [
+    {
+      "headline": "U.S. primary aluminum production collapsed to 4 smelters producing ~680,000 tonnes annually",
+      "detail": "The U.S. operates just four primary aluminum smelters across four states — two owned by Century Aluminum and two by Alcoa — down from 23 smelters at historical peak capacity. Domestic smelter nameplate capacity stands at 1.36 million tons/year, but actual production in 2024 was estimated at approximately 680,000 tonnes (50% utilization). The New Madrid, Missouri smelter shut down completely in January 2024 and the Hawesville, Kentucky smelter has been idle since 2022.",
+      "severity": "critical",
+      "source_url": "https://www.aluminum.org/sites/default/files/2025-05/PoweringUpAluminum_WhitePaper_2025.pdf"
+    },
+    {
+      "headline": "U.S. net import reliance has risen to 47-60% of apparent consumption",
+      "detail": "The United States imported roughly 47% of its aluminum consumption in 2024 according to USGS data, with some estimates for 2025 reaching 60%. Canada supplies over 56% of all U.S. aluminum imports (approximately 2.7 million metric tons in 2024), followed by the United Arab Emirates (8%), Bahrain (4%), and China (3%). The single-source dependency on Canada poses strategic risk given ongoing trade tensions.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-aluminum.pdf"
+    },
+    {
+      "headline": "Electricity costs are the binding constraint preventing domestic smelter expansion",
+      "detail": "U.S. aluminum smelters face electricity costs of approximately $550 per tonne of production versus $290 per tonne for Canadian smelters — nearly double. Aluminum smelting is the most electricity-intensive industrial process, consuming roughly 15 MWh per tonne. Rising U.S. electricity prices driven by data center demand, grid constraints, and renewable integration costs make new smelter construction economically unviable without dedicated power arrangements. The Aluminum Association identified this as the single most important factor limiting domestic production.",
+      "severity": "critical",
+      "source_url": "https://www.cnbc.com/2025/05/09/the-aluminum-sector-isnt-moving-to-the-us-despite-tariffs.html"
+    },
+    {
+      "headline": "Section 232 tariffs doubled to 50% on aluminum imports in June 2025",
+      "detail": "The Trump administration imposed 25% Section 232 tariffs on all aluminum imports in March 2025, then doubled them to 50% in June 2025. Additional targeted measures included 50% tariffs on Chinese aluminum products and 10% duties on Mexican aluminum. The tariff escalation catalyzed Century Aluminum's $50 million investment to restart the Mt. Holly smelter in South Carolina, though broader reshoring remains constrained by electricity costs.",
+      "severity": "high",
+      "source_url": "https://www.cnn.com/2025/06/04/business/steel-aluminum-tariffs-doubled-trump"
+    },
+    {
+      "headline": "Aluminum appears on all four U.S. government critical minerals designations",
+      "detail": "Aluminum is one of only 11 elements appearing on every federal critical minerals list — USGS, DOE, DOD, and DOC. Its November 2025 inclusion on the final USGS 2025 List of Critical Minerals reflects its intersection of high import dependency, defense essentiality, and supply chain concentration risk. The designation unlocks access to Defense Production Act Title III funding and other federal support mechanisms.",
+      "severity": "high",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals"
+    },
+    {
+      "headline": "Surging demand from electrification, AI data centers, and grid expansion",
+      "detail": "Electrification rollouts, AI data center construction, and grid modernization are creating unprecedented demand for aluminum in conductors, heat exchangers, structural components, and enclosures. The U.S. electricity grid alone requires massive aluminum conductor expansion to support renewable energy integration and load growth. Defense demand for aluminum in aircraft structures, armored vehicles, and naval vessel construction compounds the supply-demand imbalance.",
+      "severity": "high",
+      "source_url": "https://carnegieendowment.org/research/2025/10/securing-americas-critical-minerals-supply"
+    },
+    {
+      "headline": "Only one domestic alumina refinery remains operational",
+      "detail": "A single alumina refinery in Gramercy, Louisiana (1.2 million ton/year capacity) produces alumina from imported bauxite for domestic smelting and specialty applications. This represents a critical single point of failure in the upstream supply chain. The U.S. imports the vast majority of its bauxite from Jamaica (67%), Turkey (9%), Guyana (8%), and Australia (6%).",
+      "severity": "moderate",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-aluminum.pdf"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-06",
+      "headline": "Section 232 aluminum tariffs doubled from 25% to 50%",
+      "summary": "President Trump doubled Section 232 tariffs on aluminum imports from 25% to 50%, affecting all global suppliers including ally nations. The move aims to incentivize domestic production but raises costs for downstream manufacturers in aerospace, automotive, construction, and defense sectors. The Midwest Premium surged by $0.0965/lb following the announcement.",
+      "source_url": "https://www.cnn.com/2025/06/04/business/steel-aluminum-tariffs-doubled-trump",
+      "impact": "Increases domestic aluminum prices significantly, providing a potential margin for domestic smelter restarts but raising input costs for all U.S. manufacturers consuming aluminum. The tariff wall creates a short-term incentive structure but does not address the fundamental electricity cost disadvantage that constrains primary production."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Century Aluminum announces $50M Mt. Holly smelter restart investment",
+      "summary": "Century Aluminum committed $50 million to restart more than 50,000 tonnes of idled production capacity at its Mt. Holly smelter in South Carolina, targeting full capacity by June 30, 2026. Century cited the Section 232 tariff increases as the enabling factor, marking the first U.S. primary aluminum capacity addition in over a decade.",
+      "source_url": "https://www.fastmarkets.com/insights/us-aluminium-smelting-and-energy-costs-3-key-growth-factors/",
+      "impact": "Represents the first meaningful domestic smelter capacity addition in years, adding approximately 50,000 tonnes to the U.S. production base. However, this remains a fraction of the estimated 3+ million tonne gap between domestic production and consumption, and the investment is contingent on tariff protection remaining in place."
+    },
+    {
+      "date": "2025-05",
+      "headline": "Aluminum Association publishes roadmap identifying electricity as key barrier",
+      "summary": "The Aluminum Association released 'Powering Up American Aluminum: A Roadmap for Next Generation Supply,' a comprehensive white paper documenting that the U.S. operates only four primary smelters at roughly 50% of nameplate capacity, producing 683,500 tonnes annually. The report identified dedicated clean energy access at competitive rates as the single most important policy lever for domestic production growth.",
+      "source_url": "https://www.aluminum.org/sites/default/files/2025-05/PoweringUpAluminum_WhitePaper_2025.pdf",
+      "impact": "Establishes industry consensus on the structural barriers to domestic aluminum production growth and provides a policy framework for potential government action, including dedicated hydroelectric or nuclear power allocations for smelters, modeled on programs in Canada and Iceland."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Aluminum included on final 2025 USGS Critical Minerals List",
+      "summary": "The Department of the Interior released the final 2025 List of Critical Minerals, which includes aluminum among 60 minerals designated as critical to U.S. economic and national security. Aluminum is one of only 11 elements appearing on all four federal critical mineral designations (USGS, DOE, DOD, DOC), reflecting its high import dependency and defense essentiality.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Unlocks eligibility for Defense Production Act Title III funding, accelerated permitting under NEPA reform provisions, and inclusion in critical minerals stockpiling programs. Provides a legal and policy framework for sustained government investment in domestic aluminum production capacity."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The U.S. faces a structural aluminum supply deficit with only 4 operating smelters at ~50% capacity utilization, producing roughly 680,000 tonnes against consumption exceeding 5 million tonnes annually. Import reliance of 47-60% is concentrated in Canada (56% of imports), creating single-source vulnerability. Electricity costs nearly double those of competitors represent a fundamental barrier to reshoring that tariffs alone cannot overcome. Demand growth from electrification, AI, and defense applications is accelerating while domestic production capacity remains stagnant or declining.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Electricity costs in the U.S. nearly double those in competing nations ($550/t vs $290/t in Canada)",
+      "Only 4 of 6 remaining smelters operational; no greenfield smelter projects in pipeline",
+      "Surging demand from grid modernization, AI data centers, EV manufacturing, and defense",
+      "56% import concentration from Canada creates single-supplier vulnerability amid trade tensions",
+      "50% Section 232 tariffs raise downstream costs without addressing structural production barriers",
+      "Single domestic alumina refinery represents critical upstream supply chain bottleneck"
+    ],
+    "mitigation_actions": [
+      "Provide dedicated clean energy allocations at competitive industrial rates for smelter operations",
+      "Expand Defense Production Act Title III investment in domestic smelter modernization and restarts",
+      "Diversify import sources beyond Canada through bilateral mineral security agreements",
+      "Invest in secondary (recycled) aluminum production capacity to reduce primary aluminum dependency",
+      "Accelerate permitting for domestic bauxite mining and alumina refining expansion",
+      "Establish strategic aluminum stockpile for defense industrial base requirements"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Aluminum",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-aluminum.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Final 2025 List of Critical Minerals - Federal Register",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Powering Up American Aluminum: A Roadmap for Next Generation Supply - Aluminum Association",
+      "url": "https://www.aluminum.org/sites/default/files/2025-05/PoweringUpAluminum_WhitePaper_2025.pdf",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "The aluminum sector isn't moving to the U.S. despite tariffs - CNBC",
+      "url": "https://www.cnbc.com/2025/05/09/the-aluminum-sector-isnt-moving-to-the-us-despite-tariffs.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Trump administration doubled tariffs on steel and aluminum imports - CNN",
+      "url": "https://www.cnn.com/2025/06/04/business/steel-aluminum-tariffs-doubled-trump",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Securing America's Critical Minerals Supply - Carnegie Endowment for International Peace",
+      "url": "https://carnegieendowment.org/research/2025/10/securing-americas-critical-minerals-supply",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "US primary aluminum growth a function of energy - Fastmarkets",
+      "url": "https://www.fastmarkets.com/insights/us-aluminium-smelting-and-energy-costs-3-key-growth-factors/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Aluminum Imports: Canada's Vital Role in U.S. Supply - Visual Capitalist",
+      "url": "https://www.visualcapitalist.com/sp/aac01-us-aluminum-imports/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "US Steel and Aluminum Tariffs 2025 Statistics - The Global Statistics",
+      "url": "https://www.theglobalstatistics.com/united-states-steel-and-aluminum-tariffs/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Electricity Scarcity Meets Aluminum Tariffs - CleanTechnica",
+      "url": "https://cleantechnica.com/2025/12/13/electricity-scarcity-meets-aluminum-tariffs-and-american-citizens-pick-up-the-bill/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "terbium",
+  "category": "mineral",
+  "subject": "Terbium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Terbium is among the most defense-critical rare earth elements, essential for NdFeB permanent magnets used in fighter aircraft, missiles, submarines, and radar systems. The USGS determined that terbium has among the largest probability-weighted net decreases in U.S. GDP from supply disruption, placing it alongside dysprosium, lutetium, samarium, rhodium, and gallium as minerals with economic impact exceeding $1 billion. The United States currently holds approximately 30 days of terbium supply for defense applications, while experts estimate maintaining military continuity would require stockpiling 150 metric tonnes — a target far beyond current reserves.\n\nTerbium prices stand at approximately $804/kg in March 2026, down from a peak of $3,485/kg during the most acute phase of China's export controls, but remain elevated and volatile. China subjected terbium to export licensing in April 2025, and while the October 2025 expansion was suspended until November 2026, the April controls remain fully in effect with military end-use applications automatically denied. Terbium is sourced almost exclusively from ion-adsorption clay deposits in southern China, which produce inherently limited volumes. The most significant Western supply development is MP Materials' planned production of dysprosium and terbium by mid-2026 at its Texas facility, expected to yield over 200 metric tonnes annually. A DOD-funded $120 million facility in Texas will also produce terbium, supported by a $400 million partnership with MP Materials.",
+  "key_findings": [
+    {
+      "headline": "U.S. has only 30 days of terbium supply for defense under disruption scenarios",
+      "detail": "Analysis indicates the United States' effective strategic coverage of heavy rare earths — especially terbium and dysprosium — may amount to roughly 30 days of defense-related supply under disruption scenarios. Maintaining military continuity would require stockpiling approximately 150 metric tonnes of terbium and 500 metric tonnes of dysprosium. Current reserves fall far short of these requirements, leaving defense production of fighter aircraft, missiles, and radar systems critically vulnerable to supply interruption.",
+      "severity": "critical",
+      "source_url": "https://rareearthexchanges.com/news/when-30-days-of-terbium-meets-a-real-war/"
+    },
+    {
+      "headline": "Terbium is irreplaceable in NdFeB magnets for fighter aircraft, missiles, and submarines",
+      "detail": "Terbium and dysprosium are essential additives in neodymium-iron-boron magnets where they provide high-temperature stability for motors and guidance systems. Without terbium, NdFeB magnets lose performance at the operating temperatures found in fighter aircraft (F-35), cruise missiles (Tomahawk), submarines, and radar systems. The real bottleneck is not rare earth mining alone but heavy rare earth separation, metallization, and magnet production, all of which China dominates.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "China imposed export licensing on terbium in April 2025 with military end-use denial",
+      "detail": "China's Ministry of Commerce mandated national-security-based export licenses for terbium and six other elements in April 2025. Starting December 1, 2025, companies with any affiliation to foreign militaries — including those of the United States — will be largely denied export licenses, and any requests to use rare earths for military purposes will be automatically rejected. The April controls remain in force despite the October 2025 expansion being suspended.",
+      "severity": "critical",
+      "source_url": "https://www.china-briefing.com/news/chinas-rare-earth-export-controls-impacts-on-businesses/"
+    },
+    {
+      "headline": "Terbium prices volatile between $804-$3,485/kg amid China export control uncertainty",
+      "detail": "Terbium prices surged from $1,396/kg in January to internal resale levels of $3,485/kg driven by China's stop-start rare earth export policy, culminating in the October 9 tightening, October 30 suspension, and continuing uncertainty. As of March 2026, terbium oxide stands at approximately $804/kg. Analysts expect prices to remain in the $750-$950/kg range, subject to Chinese quota policy and global EV production rates.",
+      "severity": "high",
+      "source_url": "https://rare-earth-mining.com/terbium-price/"
+    },
+    {
+      "headline": "MP Materials to begin terbium and dysprosium production by mid-2026",
+      "detail": "U.S. integrated rare earth producer MP Materials is expected to begin production of heavy rare earth elements including dysprosium and terbium by mid-2026 at a new production line processing approximately 3,000 metric tonnes of raw material annually, yielding over 200 metric tonnes of dysprosium and terbium combined. This capacity would support MP's plan to produce 10,000 metric tonnes of high-performance NdFeB magnets per year. The Pentagon finalized a $400 million partnership with MP Materials including a price floor for neodymium and praseodymium.",
+      "severity": "high",
+      "source_url": "https://news.metal.com/newscontent/103613408/US-MP-to-Launch-Dysprosium-Terbium-Output-by-Mid-2026"
+    },
+    {
+      "headline": "DOD-funded $120 million Texas facility to produce terbium for defense magnets",
+      "detail": "A facility in Texas supported by a $120 million contract from the U.S. Department of Defense will produce dysprosium and terbium, the two heavy rare earth elements crucial for high-performance magnets used in defense systems. The facility is expected to be operational in 2026 and represents one of the first domestic sources of separated heavy rare earth elements for the defense supply chain.",
+      "severity": "high",
+      "source_url": "https://www.mining.com/us-china-deal-and-more-dod-money-will-not-loosen-chinas-grip-on-military-grade-rare-earths-magnets/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "Analysis reveals U.S. terbium stockpile covers only 30 days of defense demand",
+      "summary": "Rare Earth Exchanges published an in-depth analysis estimating that the U.S. holds approximately 30 days of terbium supply for defense applications under a disruption scenario. The analysis determined that maintaining military continuity would require stockpiling 150 metric tonnes of terbium, far exceeding current reserves. The 30-day figure accounts for NdFeB magnet production needs across fighter aircraft, missile, submarine, and radar programs.",
+      "source_url": "https://rareearthexchanges.com/news/when-30-days-of-terbium-meets-a-real-war/",
+      "impact": "The analysis quantifies a critical defense vulnerability, strengthening the case for emergency stockpiling and accelerated domestic terbium production through DOD-funded facilities."
+    },
+    {
+      "date": "2025-04",
+      "headline": "China imposes export licensing on terbium and six other heavy rare earth elements",
+      "summary": "China's MOFCOM mandated national-security-based export licenses for terbium, samarium, gadolinium, dysprosium, lutetium, scandium, and yttrium. The licensing requires end-use declaration and effectively halted unrestricted exports. Military end-use applications face automatic denial starting December 1, 2025, directly targeting Western defense procurement.",
+      "source_url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "impact": "The controls represent China's most aggressive use of rare earth supply dominance as a geopolitical tool, directly threatening the defense industrial base's ability to produce NdFeB magnets for military systems."
+    },
+    {
+      "date": "2025-12",
+      "headline": "eVAC Magnetics completes rare earth magnet plant in South Carolina producing NdFeB and SmCo magnets",
+      "summary": "Construction was completed on eVAC Magnetics' facility in Sumter County, South Carolina, designed to produce both NdFeB and SmCo permanent magnets for defense and industrial applications. The facility received $94.1 million from the DOD plus a $111.9 million Qualified Advanced Energy Project Tax Credit, and will employ approximately 300 workers. It is one of the first fully operational rare earth magnet manufacturing sites in the U.S. in decades.",
+      "source_url": "https://constructionreviewonline.com/new-rare-earth-magnet-plant-completed-in-south-carolina-strengthening-u-s-supply-chain/",
+      "impact": "The plant provides domestic NdFeB magnet manufacturing capacity but remains dependent on feedstock supply — terbium and dysprosium must still be sourced, making upstream separation capacity the binding constraint."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Terbium faces a critical supply chain emergency. With 30 days of defense stockpile, China's export licensing automatically denying military end-use, and terbium sourced almost exclusively from Chinese ion-adsorption clays, the U.S. defense industrial base is acutely vulnerable. Every NdFeB magnet in fighter aircraft, missiles, and submarines requires terbium for thermal stability, and there is no substitute. DOD-funded domestic production is underway but will not reach meaningful scale until mid-2026 at earliest.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Only 30 days of defense terbium supply under disruption scenario",
+      "China export licensing since April 2025 with automatic military end-use denial",
+      "Terbium sourced almost exclusively from Chinese ion-adsorption clay deposits",
+      "Irreplaceable in NdFeB magnets for thermal stability in defense systems",
+      "China dominates not just mining but separation, metallization, and magnet production",
+      "DOE projects chronic structural shortages through the early 2030s"
+    ],
+    "mitigation_actions": [
+      "Emergency stockpiling toward 150 metric tonne target for defense continuity",
+      "Accelerate MP Materials Texas heavy rare earth separation facility to mid-2026 target",
+      "Complete DOD-funded $120 million Texas terbium production facility",
+      "Scale eVAC Magnetics South Carolina magnet production with secured feedstock",
+      "Develop Lynas Malaysia as allied separation source for terbium extraction",
+      "Invest in NdFeB magnet recycling to recover terbium from end-of-life defense systems",
+      "Fund research into grain boundary diffusion technology to reduce terbium loading per magnet"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rare Earth Exchanges - When 30 Days of Terbium Meets a Real War",
+      "url": "https://rareearthexchanges.com/news/when-30-days-of-terbium-meets-a-real-war/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "China Briefing - China's Rare Earth Export Controls: Impact on Businesses",
+      "url": "https://www.china-briefing.com/news/chinas-rare-earth-export-controls-impacts-on-businesses/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Rare Earth Mining - Terbium Price Surges in 2026: Spot Rate, Drivers and Outlook",
+      "url": "https://rare-earth-mining.com/terbium-price/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "SMM News - US MP to Commence Dysprosium and Terbium Production in Mid-2026",
+      "url": "https://news.metal.com/newscontent/103613408/US-MP-to-Launch-Dysprosium-Terbium-Output-by-Mid-2026",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Mining.com - US-China Deal and More DOD Money Will Not Loosen China's Grip on Military-Grade Rare Earth Magnets",
+      "url": "https://www.mining.com/us-china-deal-and-more-dod-money-will-not-loosen-chinas-grip-on-military-grade-rare-earths-magnets/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Construction Review Online - New Rare-Earth Magnet Plant Completed in South Carolina",
+      "url": "https://constructionreviewonline.com/new-rare-earth-magnet-plant-completed-in-south-carolina-strengthening-u-s-supply-chain/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China MOFCOM - Announcement No.18 of 2025 on Export Control of Rare Earth Items",
+      "url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

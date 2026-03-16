@@ -1,0 +1,173 @@
+{
+  "id": "tungsten",
+  "category": "mineral",
+  "subject": "Tungsten",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Tungsten has emerged as one of the most acutely vulnerable critical minerals in the U.S. supply chain, with prices surging approximately 500% in a single year amid tightening Chinese export controls and surging defense demand. China controls over 80% of global tungsten production and more than half of known reserves, while the United States has not mined tungsten domestically since 2015 and imported over 10,000 metric tons in 2023 alone, with 27% sourced directly from China.\n\nThe strategic urgency is intensifying: by January 1, 2027, NDAA restrictions will prohibit Pentagon procurement of tungsten from China, Russia, Iran, and North Korea, creating a hard deadline for supply chain diversification. Ammonium paratungstate (APT) prices broke out of their long-term average of approximately $300/mtu to trade around $1,775/mtu, while Chinese export restrictions caused APT exports to plummet from 500 tonnes in H2 2024 to near-zero levels in March-May 2025. The Pentagon is deploying up to $1 billion for critical minerals including tungsten, and the Defense Logistics Agency issued requests for approximately 1,700 tonnes of tungsten ores and concentrates.\n\nThe most significant non-Chinese supply development is Almonty Industries' Sangdong mine in South Korea, which began commercial mining in December 2025 and targets commercial production in H1 2026. At full capacity, Sangdong could supply over 80% of global non-Chinese tungsten production. Domestic U.S. projects include Guardian Metal Resources' Pilot Mountain (largest undeveloped U.S. tungsten deposit, $6.2M DOD award) and American Tungsten's IMA mine in Idaho, but these are years from meaningful production.",
+  "key_findings": [
+    {
+      "headline": "Tungsten prices surged 500% in one year amid supply crisis",
+      "detail": "APT prices broke from a long-term average of approximately $300/mtu to around $1,775/mtu, with tungsten bar prices reaching $95-97/kg FOB. Chinese export restrictions caused APT exports to collapse from 500 tonnes in H2 2024 to near-zero in March-May 2025. Global inventories are critically low with another supply deficit forecast for 2026, and analysts expect market tightness to persist.",
+      "severity": "critical",
+      "source_url": "https://www.fastmarkets.com/insights/us-tungsten-supply-chain-defense-growth/"
+    },
+    {
+      "headline": "China controls 80%+ of global tungsten supply with active export restrictions",
+      "detail": "China accounted for 81.48% of global tungsten production of approximately 81,000 tons in 2024. China's MOFCOM has explicitly identified tungsten as restricted or banned from export to the United States, and from January to September 2025, Chinese tungsten exports dropped 13.75% year-over-year. U.S. external dependence on Chinese high-end tungsten products for aerospace and military applications is nearly 100%.",
+      "severity": "critical",
+      "source_url": "https://www.ctia.com.cn/en/news/39695.html"
+    },
+    {
+      "headline": "NDAA mandates non-China tungsten sourcing for Pentagon by January 2027",
+      "detail": "National Defense Authorization Act restrictions on covered materials including tungsten take effect January 1, 2027, prohibiting Pentagon procurement from China, Russia, Iran, and North Korea. This creates a hard deadline for establishing alternative supply chains. The Defense Logistics Agency has already issued RFIs for approximately 1,700 tonnes of tungsten ores and concentrates.",
+      "severity": "critical",
+      "source_url": "https://www.fastmarkets.com/insights/us-tungsten-supply-chain-defense-growth/"
+    },
+    {
+      "headline": "U.S. has not mined tungsten domestically since 2015",
+      "detail": "The United States has zero active tungsten mining operations and imported over 10,000 metric tons in 2023, with 27% sourced from China. Several early-stage projects are under development including Guardian Metal Resources' Pilot Mountain in Nevada (received $6.2M DOD award, largest undeveloped U.S. deposit), Patriot Critical Minerals' MEGA deposit, and American Tungsten's IMA mine in Idaho, but none will produce at scale before the late 2020s.",
+      "severity": "high",
+      "source_url": "https://carboncredits.com/u-s-tungsten-revival-rising-demand-tight-supply-and-top-stocks-to-watch-in-2025/"
+    },
+    {
+      "headline": "Sangdong mine in South Korea begins operations as key non-Chinese source",
+      "detail": "Almonty Industries commenced commercial mining at the Sangdong mine in December 2025, with commercial production targeted for H1 2026. Sangdong hosts one of the largest and highest-grade tungsten deposits globally (0.45% WO3, three times typical grades) with reserves of 7.9 million tonnes. At full capacity of approximately 640,000 tonnes of ore per year, it could supply over 80% of global non-Chinese tungsten production.",
+      "severity": "high",
+      "source_url": "https://www.metaltechnews.com/story/2025/12/17/tech-metals/sangdong-tungsten-mine-begins-operations/2586.html"
+    },
+    {
+      "headline": "Pentagon deploying up to $1 billion for critical minerals including tungsten",
+      "detail": "The Pentagon is spending up to $1 billion on critical mineral procurement and stockpiling, with tungsten among the priority materials. The DOD awarded $6.2 million in July 2025 to Golden Metal Resources for the Pilot Mountain project and is pursuing supply agreements with allied producers. Tungsten is essential for armor-piercing ammunition, missile systems, tank armor, and hypersonic weapons.",
+      "severity": "high",
+      "source_url": "https://www.fastmarkets.com/insights/us-tungsten-supply-chain-defense-growth/"
+    },
+    {
+      "headline": "Substitution options are limited and inferior for defense applications",
+      "detail": "Depleted uranium provides an alternative for armor-piercing penetrators but introduces toxic contamination and is politically controversial. Steel alloys are cheaper but significantly less effective. No material matches tungsten's combination of extreme density (19.3 g/cm3), hardness, and heat resistance needed for munitions, jet turbine components, and cutting tools. China's dominance is expected to persist until the early 2030s.",
+      "severity": "medium",
+      "source_url": "https://carboncredits.com/u-s-tungsten-revival-rising-demand-tight-supply-and-top-stocks-to-watch-in-2025/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12",
+      "headline": "Almonty Industries begins commercial mining at Sangdong tungsten mine in South Korea",
+      "summary": "The first truckload of ore was delivered to the ROM pad at the Sangdong Mine in Yeongwol, Gangwon Province, South Korea, marking the transition from mine development to active mining operations. Concentrator plant commissioning is scheduled for 2026, with commercial production targeted for H1 2026. Initial processing capacity is 640,000 tonnes of ore per year with planned expansion to nearly double throughput.",
+      "source_url": "https://im-mining.com/2025/12/18/almonty-begins-commercial-mining-at-sangdong-tungsten-mine/",
+      "impact": "Sangdong represents the single most important non-Chinese tungsten supply development globally. At full capacity, it will support U.S. and allied defense procurement requirements mandating non-China sourcing after 2027. The mine's high grade (0.45% WO3) provides cost advantages over competitors."
+    },
+    {
+      "date": "2025-02",
+      "headline": "China tightens tungsten export controls, exports plummet to near-zero",
+      "summary": "China's MOFCOM explicitly restricted or banned tungsten exports to the United States as part of broader critical mineral export controls. Chinese APT exports collapsed from approximately 500 tonnes in H2 2024 to near-zero levels in March-May 2025. From January to September 2025, China's total tungsten exports dropped 13.75% compared to the same period in 2024.",
+      "source_url": "https://www.questmetals.com/blog/china-tightens-grip-on-strategic-metals-despite-rare-earth-truce-with-u-s",
+      "impact": "Triggered the 500% price surge in tungsten, created acute supply shortages for U.S. defense manufacturers, and accelerated Pentagon efforts to secure alternative sources. The restrictions demonstrated China's willingness to weaponize tungsten supply as a geopolitical tool."
+    },
+    {
+      "date": "2025-07",
+      "headline": "DOD awards $6.2 million to Pilot Mountain tungsten project in Nevada",
+      "summary": "The Department of Defense awarded $6.2 million to Golden Metal Resources for development of the Pilot Mountain tungsten project in Nevada, described as the largest undeveloped tungsten deposit in the United States. The funding supports exploration and feasibility studies as part of the Pentagon's broader critical minerals strategy.",
+      "source_url": "https://carboncredits.com/u-s-tungsten-revival-rising-demand-tight-supply-and-top-stocks-to-watch-in-2025/",
+      "impact": "Represents the first significant DOD investment in domestic tungsten production, though Pilot Mountain and other U.S. projects remain years from commercial production due to permitting, infrastructure, and processing challenges."
+    },
+    {
+      "date": "2025-10",
+      "headline": "Pentagon launches $1 billion critical minerals mission including tungsten",
+      "summary": "The Pentagon announced a comprehensive critical minerals procurement and stockpiling program of up to $7.5 billion, with approximately $1 billion specifically targeting minerals including tungsten, antimony, cobalt, and others. The Defense Logistics Agency issued RFIs for approximately 1,700 tonnes of tungsten ores and concentrates.",
+      "source_url": "https://www.metaltechnews.com/story/2025/10/15/tech-metals/pentagon-launches-critical-minerals-mission/2512.html",
+      "impact": "Provides a significant demand signal for Western tungsten producers and may incentivize accelerated development of projects like Sangdong, Pilot Mountain, and IMA mine. Stockpiling provides a short-term buffer while supply chains are rebuilt."
+    },
+    {
+      "date": "2026-02",
+      "headline": "Tungsten breaks into CMI Top 5 critical minerals watchlist",
+      "summary": "The Critical Minerals Institute elevated tungsten to its Top 5 watchlist for 2026, citing the 500% price surge, Chinese export restrictions, collapsing global inventories, and the approaching January 2027 NDAA deadline. Analysts project continued market tightness with no supply relief expected until Sangdong reaches full capacity.",
+      "source_url": "https://investornews.com/critical-minerals-rare-earths/tungsten-breaks-into-cmi-top-5-consideration-as-supply-risks-reshape-the-critical-minerals-watchlist/",
+      "impact": "Increased investor and policymaker attention on tungsten supply chain vulnerabilities, potentially catalyzing additional government investment and private sector development of non-Chinese sources."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Tungsten supply chain risk is at a critical level and rapidly escalating. The 500% price surge reflects a genuine supply crisis, not speculation. China's 80%+ production monopoly, active export restrictions to the U.S., and the January 2027 NDAA deadline create converging pressures with no near-term relief. U.S. domestic production is zero, and even the most advanced alternative source (Sangdong in South Korea) will not reach full capacity until 2027-2028. Defense manufacturers face an acute compliance challenge — they must identify non-Chinese tungsten sources before the NDAA deadline or risk program delays. Global inventories are critically depleted with ongoing supply deficits forecast.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's 80%+ production monopoly with active export restrictions to the United States",
+      "500% price surge reflecting genuine supply crisis and depleted global inventories",
+      "January 2027 NDAA deadline prohibiting Pentagon procurement from China/Russia/Iran/DPRK",
+      "Zero U.S. domestic tungsten production since 2015",
+      "Surging defense demand from ongoing conflicts and munitions restocking",
+      "Limited substitution options — no material matches tungsten for armor-piercing and high-temperature applications"
+    ],
+    "mitigation_actions": [
+      "Fast-track Sangdong mine to full commercial production in H1 2026 as primary allied source",
+      "Execute DLA procurement of 1,700 tonnes of tungsten ores and concentrates for strategic stockpile",
+      "Accelerate Pilot Mountain (NV), MEGA (NV), and IMA (ID) domestic projects through permitting",
+      "Negotiate long-term supply agreements with South Korea, Portugal, Austria, and other allied producers",
+      "Invest in tungsten recycling from spent cutting tools, munitions manufacturing waste, and industrial scrap",
+      "Develop U.S. domestic APT processing capacity to avoid dependency on Chinese refining",
+      "Explore U.S.-Kazakhstan tungsten supply agreement as additional non-Chinese source",
+      "Maintain depleted uranium as interim substitute for specific armor-piercing applications where appropriate"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Fastmarkets - US Tungsten Supply Chain Shifts Amid $1B Defense Push",
+      "url": "https://www.fastmarkets.com/insights/us-tungsten-supply-chain-defense-growth/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Tungsten",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-tungsten.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Carbon Credits - U.S. Tungsten Revival: Rising Demand, Tight Supply",
+      "url": "https://carboncredits.com/u-s-tungsten-revival-rising-demand-tight-supply-and-top-stocks-to-watch-in-2025/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Almonty Industries - Sangdong Mine Begins Commercial Mining",
+      "url": "https://im-mining.com/2025/12/18/almonty-begins-commercial-mining-at-sangdong-tungsten-mine/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CBS News - South Korea Mine Could Supply US With Critical Mineral Tungsten",
+      "url": "https://www.cbsnews.com/news/south-korea-mine-could-soon-supply-us-with-critical-mineral-tungsten/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "InvestorNews - Tungsten Breaks Into CMI Top 5 Watchlist",
+      "url": "https://investornews.com/critical-minerals-rare-earths/tungsten-breaks-into-cmi-top-5-consideration-as-supply-risks-reshape-the-critical-minerals-watchlist/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Metal Tech News - Pentagon Launches Critical Minerals Mission",
+      "url": "https://www.metaltechnews.com/story/2025/10/15/tech-metals/pentagon-launches-critical-minerals-mission/2512.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CTIA - U.S. Critical Minerals Review: The Strategic Role of Tungsten",
+      "url": "https://www.ctia.com.cn/en/news/39695.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Morningstar - Pure Tungsten Highlights 500% Surge in War Metal Price",
+      "url": "https://www.morningstar.com/news/accesswire/1145451msn/pure-tungsten-highlights-500-surge-in-war-metal-tungsten-price-amid-rising-global-conflict",
+      "accessed": "2026-03-16",
+      "type": "financial"
+    },
+    {
+      "title": "Quest Metals - China Tightens Grip on Strategic Metals",
+      "url": "https://www.questmetals.com/blog/china-tightens-grip-on-strategic-metals-despite-rare-earth-truce-with-u-s",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

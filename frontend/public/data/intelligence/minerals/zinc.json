@@ -1,0 +1,139 @@
+{
+  "id": "zinc",
+  "category": "mineral",
+  "subject": "Zinc",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Zinc is a newly designated critical mineral on the 2025 U.S. list, reflecting growing concern over America's 73% import reliance for refined zinc and the impending closure of the Red Dog mine in Alaska — the world's largest zinc mine — projected for 2031. The United States produces approximately 6% of global zinc compared to China's 33%, and possesses less than 2% of global refining capacity. In 2024, the U.S. exported 580,000 tonnes of domestically mined zinc concentrate while importing 600,000 tonnes of refined zinc, a structural imbalance that highlights the critical gap in domestic smelting and refining.\n\nZinc's primary application is galvanizing steel, protecting infrastructure from corrosion — making it essential to construction, transportation, energy, and defense. The mineral is also critical for brass ammunition, vehicle armor, and military infrastructure. The U.S. imports 59% of its refined zinc from Canada and 16% from Mexico, creating tariff complications: 25% tariffs on Canadian imports have led Teck CEO Jonathan Price to indicate the company may redirect zinc exports to Asian markets, potentially reducing U.S. supply.\n\nThe most significant development is Korea Zinc's $7.4 billion smelter complex in Tennessee, backed by a $1.4 billion Department of War investment and a 40% DOD equity stake through the Crucible Metals joint venture. This project, the first new U.S. zinc smelter since the 1970s, will produce 300,000 tonnes of zinc annually when operational in 2029, dramatically reshaping the domestic supply landscape. However, Red Dog's declining output (forecast 7% production drop in 2025 and closure by 2031) creates a race against time for the U.S. to build processing capacity before losing its largest mine.",
+  "key_findings": [
+    {
+      "headline": "U.S. imports 73% of refined zinc while exporting most of its mined concentrate",
+      "detail": "In 2024, the United States imported 73% of the refined zinc it consumed. Paradoxically, the country produced nearly 750,000 tonnes of zinc concentrate but exported 580,000 tonnes of ore, importing 600,000 tonnes of refined zinc to satisfy demand. This structural imbalance — mining ore domestically only to export it for foreign refining — represents a critical industrial capacity gap that the U.S. has less than 2% of global refining capacity to address.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/rebuilding-us-zinc-capacity-era-global-competition"
+    },
+    {
+      "headline": "Red Dog mine (world's largest zinc mine) projected to close by 2031",
+      "detail": "Teck Resources' Red Dog mine in northwest Alaska provides nearly 70% of U.S. zinc mine production at approximately 500,000 metric tons per year. However, ore depletion and grade decline are forcing production reductions — a 7% drop was forecast for 2025 — with mine closure projected for 2031. Losing Red Dog without replacement capacity would devastate U.S. domestic zinc production.",
+      "severity": "critical",
+      "source_url": "https://www.miningnewsnorth.com/story/2025/05/02/news/teck-tariffs-and-the-red-dog-zinc-mine/9052.html"
+    },
+    {
+      "headline": "$7.4 billion Korea Zinc Tennessee smelter backed by $1.4 billion DOD investment",
+      "detail": "Korea Zinc will build a state-of-the-art critical minerals smelter in Tennessee, producing 300,000 tonnes of zinc plus 12 other nonferrous metals including copper, lead, and rare earth elements annually. The Department of War is investing $1.4 billion for a 40% stake through the Crucible Metals joint venture. This is the first new U.S. zinc smelter since the 1970s, with construction starting 2027 and phased operations beginning 2029.",
+      "severity": "high",
+      "source_url": "https://www.cnbc.com/2025/12/15/pentagon-korea-zinc-refinery-tennessee.html"
+    },
+    {
+      "headline": "Tariffs on Canadian zinc threaten supply from U.S.'s largest import source",
+      "detail": "Canada supplies 59% of U.S. refined zinc imports and 16% comes from Mexico. The 25% tariffs on Canadian imports have created a dual problem: Teck's CEO indicated the company may redirect zinc exports to Asian markets, while Red Dog's Alaskan zinc concentrate shipped to Canada for refining faces tariffs both entering and leaving Canada. Two Tennessee zinc mines were already taken offline in 2023 due to weak prices and high costs.",
+      "severity": "high",
+      "source_url": "https://alaskabeacon.com/2025/01/31/a-major-alaska-mine-could-end-up-in-the-crossfire-of-trumps-trade-war-with-canada/"
+    },
+    {
+      "headline": "China controls 33% of global zinc production and 37.5% of refining capacity",
+      "detail": "China produces approximately one-third of the world's zinc and operates 37.5% of global refining capacity, creating dominant market influence. While China is not a primary direct supplier to the U.S., its production and pricing decisions affect global zinc markets and availability. China's growing domestic infrastructure investment continues to absorb increasing shares of its own zinc output.",
+      "severity": "high",
+      "source_url": "https://www.csis.org/analysis/rebuilding-us-zinc-capacity-era-global-competition"
+    },
+    {
+      "headline": "Red Dog mine is critical source of germanium, compounding loss impact",
+      "detail": "Beyond zinc, Red Dog mine is one of only two U.S. sources of germanium, a critical mineral used in infrared optics, fiber optics, and defense electronics. China banned germanium exports to the U.S. in December 2024. Losing Red Dog would simultaneously eliminate a major zinc and germanium supply source, compounding the strategic impact across multiple critical mineral supply chains.",
+      "severity": "moderate",
+      "source_url": "https://www.miningnewsnorth.com/story/2025/05/02/news/teck-tariffs-and-the-red-dog-zinc-mine/9052.html"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12-15",
+      "headline": "Korea Zinc announces $7.4 billion Tennessee smelter with Pentagon backing",
+      "summary": "Korea Zinc selected Tennessee for its first U.S. operations, a $7.4 billion smelting and refining complex that will produce 540,000 tonnes per year of nonferrous metals including 300,000 tonnes of zinc. The Department of War is investing $1.4 billion for a 40% stake through the Crucible Metals joint venture, while the CHIPS and Science Act provides a $210 million award. Full construction starts 2027 with phased operations from 2029.",
+      "source_url": "https://www.tn.gov/ecd/news/2025/12/15/korea-zinc-selects-tennessee-for-first-u-s--operations--announces--6-6-billion-investment-.html",
+      "impact": "Transformative for U.S. zinc refining capacity. When operational, will produce more refined zinc than the entire current U.S. refining sector and reverse 50 years of industrial decline in domestic nonferrous metals processing."
+    },
+    {
+      "date": "2025-05-02",
+      "headline": "Teck CEO warns tariffs may redirect Red Dog zinc to Asian markets",
+      "summary": "Teck Resources CEO Jonathan Price indicated the company may redirect zinc exports from the Red Dog mine to Asian markets to avoid U.S. tariffs on Canadian-refined zinc. Red Dog's concentrate is shipped to Trail, British Columbia for smelting, then re-imported to the U.S. — facing potential double tariffs (entering and leaving Canada). This could redirect America's largest zinc mine's output away from U.S. supply chains.",
+      "source_url": "https://www.miningnewsnorth.com/story/2025/05/02/news/teck-tariffs-and-the-red-dog-zinc-mine/9052.html",
+      "impact": "If Teck redirects Red Dog output to Asia, the U.S. would lose access to nearly 70% of its domestic zinc mine production despite the mine being located on American soil."
+    },
+    {
+      "date": "2025-11-07",
+      "headline": "Zinc added to 2025 U.S. Critical Minerals List",
+      "summary": "The Department of the Interior included zinc on the final 2025 Critical Minerals List, recognizing the metal's essential role in infrastructure (galvanizing steel), defense (ammunition, armor), and the severe domestic refining capacity gap. Zinc was not on previous critical minerals lists, making this a first-time designation reflecting deteriorating supply chain conditions.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Unlocks Defense Production Act authorities, strategic stockpiling, and permitting support. Provides policy framework for the Korea Zinc Tennessee investment and other domestic capacity projects."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Zinc presents a high and escalating supply chain risk driven by the structural paradox of mining zinc domestically only to export it for foreign refining. The impending closure of Red Dog mine (2031) threatens to eliminate 70% of U.S. zinc mine production. Tariffs on Canadian imports are actively counterproductive, potentially redirecting the largest U.S. mine's output to Asia. While the Korea Zinc Tennessee smelter represents a transformative investment, its 2029 operational timeline creates a 4+ year gap during which Red Dog's declining production, tariff complications, and minimal domestic refining capacity leave the U.S. increasingly exposed.",
+    "trend": "worsening",
+    "key_drivers": [
+      "73% refined zinc import dependence with less than 2% of global refining capacity",
+      "Red Dog mine (70% of U.S. production) declining and closing by 2031",
+      "Tariffs on Canadian zinc creating perverse incentive to redirect U.S.-mined zinc to Asia",
+      "Two Tennessee zinc mines already offline since 2023 due to weak economics",
+      "China controls 33% of production and 37.5% of refining capacity",
+      "Korea Zinc Tennessee smelter not operational until 2029, leaving a multi-year gap"
+    ],
+    "mitigation_actions": [
+      "Exempt Red Dog zinc concentrate processed in Canada from tariffs to retain domestic supply",
+      "Accelerate Korea Zinc Tennessee smelter construction timeline where possible",
+      "Reopen shuttered Tennessee zinc mines with appropriate economic support",
+      "Expand zinc recycling from galvanized steel scrap and brass",
+      "Identify and develop replacement zinc deposits before Red Dog closure in 2031",
+      "Establish strategic zinc reserves to bridge the gap until domestic refining capacity comes online"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - Rebuilding U.S. Zinc Capacity in an Era of Global Competition",
+      "url": "https://www.csis.org/analysis/rebuilding-us-zinc-capacity-era-global-competition",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Tennessee ECD - Korea Zinc Selects Tennessee for First U.S. Operations",
+      "url": "https://www.tn.gov/ecd/news/2025/12/15/korea-zinc-selects-tennessee-for-first-u-s--operations--announces--6-6-billion-investment-.html",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "CNBC - Pentagon Takes Big Stake in New Korea Zinc Smelter in Tennessee",
+      "url": "https://www.cnbc.com/2025/12/15/pentagon-korea-zinc-refinery-tennessee.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Mining News North - Teck, Tariffs, and the Red Dog Zinc Mine",
+      "url": "https://www.miningnewsnorth.com/story/2025/05/02/news/teck-tariffs-and-the-red-dog-zinc-mine/9052.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Alaska Beacon - Major Alaska Mine in Crossfire of Trump Trade War with Canada",
+      "url": "https://alaskabeacon.com/2025/01/31/a-major-alaska-mine-could-end-up-in-the-crossfire-of-trumps-trade-war-with-canada/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Al Jazeera - Korea Zinc Plans $7.4B US Minerals Refinery with Washington's Backing",
+      "url": "https://www.aljazeera.com/economy/2025/12/15/korea-zinc-plans-7-4bn-us-minerals-refinery-with-washingtons-backing",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USGS - Zinc Statistics and Information",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/zinc-statistics-and-information",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

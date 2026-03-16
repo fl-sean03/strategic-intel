@@ -1,0 +1,249 @@
+{
+  "id": "metals-mining",
+  "category": "sector",
+  "subject": "U.S. Critical Mineral Supply Chains",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The United States faces a structural crisis in critical mineral supply chains that threatens national security, defense readiness, and the energy transition. The country is fully import-dependent for 12 critical minerals and more than 50% reliant on imports for an additional 29 of the 54 minerals on the 2025 Critical Minerals List. China's dominance is not merely in mining but overwhelmingly in the processing and refining midstream -- controlling nearly 90% of global rare earth refining, 99% of refined spheroid graphite, 98% of primary gallium, and approximately 60% of germanium production. For 19 out of 20 strategically important minerals, China is the leading refiner with an average market share of 70%. This processing monopoly represents a chokepoint that cannot be bypassed simply by opening new mines.\n\nBeijing has demonstrated its willingness to weaponize this dominance. Beginning in August 2023 with licensing requirements on gallium and germanium, China escalated through 2024-2025 to outright export bans on gallium, germanium, antimony, and graphite to the United States, plus export controls on seven heavy rare earth elements critical for permanent magnets in defense systems and electric vehicles. While some restrictions were temporarily suspended in late 2025 as part of trade negotiations, the military end-user ban remains active, and no long-term guarantees extend beyond November 2026. China slashed antimony shipments by 97%, gallium exports to the U.S. fell virtually to zero, and germanium exports declined 97-100% to both the U.S. and Taiwan.\n\nThe U.S. policy response has been substantial but faces a fundamental timeline problem. The DOE Loan Programs Office has committed over $2.26 billion to Thacker Pass lithium alone, the Pentagon deployed $1 billion for antimony stockpiling, Congress appropriated $2 billion to the National Defense Stockpile via the One Big Beautiful Act, and the Trump Administration launched a $12 billion critical minerals stockpile accessible to private industry. The IRA's 48C tax credits disbursed all $10 billion across 240+ projects in critical minerals processing and clean energy manufacturing. MP Materials began commercial rare earth magnet production at its Fort Worth facility in 2025 and announced a $1.25 billion expansion campus in Northlake, Texas targeting 10,000 metric tons of magnets annually by 2028. Yet even with every planned domestic project online, Carnegie Endowment analysis shows the U.S. will still face massive import gaps for graphite, lithium, nickel, silver, and copper through 2035. Only molybdenum and zinc could achieve supply self-sufficiency.\n\nThe global competition for mineral resources is intensifying. In Africa, Chinese companies control 15 of the DRC's 19 cobalt operations and issued $24.9 billion in mining-linked loans in the first half of 2025 alone. The U.S. is countering with the Minerals Security Partnership, a $9 billion DFC-backed consortium bid for Congolese cobalt and copper assets, and bilateral deals across the continent. In South America's Lithium Triangle, Chinese firms including CATL and Ganfeng Lithium collectively control access to nearly 40% of global lithium production through strategic partnerships, while Argentina forecasts a 340% production increase by 2035. Recycling offers long-term promise -- battery metal recycling market value grew 11-fold from 2015-2023 -- but recycled lithium will contribute only slightly over 6% of total production by 2030. Substitution research in rare-earth-free permanent magnets (iron-nitride, tetrataenite, ferrite alternatives) is advancing but remains years from commercial scale. The fundamental reality is that building alternative mineral supply chains independent of China will take a decade or more.",
+  "key_findings": [
+    {
+      "headline": "China controls 90% of global rare earth refining and dominates processing across 19 of 20 strategic minerals",
+      "detail": "China's processing monopoly extends far beyond mining. The country refines 90% of rare earths, produces 99% of refined spheroid graphite and 79% of graphite anode material, controls 98% of primary gallium production, 60% of germanium, and manufactures 92% of the world's neodymium-iron-boron permanent magnets used in everything from F-35 fighter jets to electric vehicles. State-led consolidation through China Rare Earth Group and China Northern Rare Earth has intensified this control. Breaking this stranglehold is estimated to require at least a decade of sustained investment.",
+      "severity": "critical",
+      "source_url": "https://fortune.com/2026/03/11/china-us-rare-earth-processing-critical-minerals/"
+    },
+    {
+      "headline": "China has weaponized mineral exports with escalating bans targeting the United States",
+      "detail": "Beginning with gallium and germanium licensing in August 2023, China escalated to outright export bans on gallium, germanium, antimony, and graphite to the U.S. in December 2024, followed by controls on seven heavy rare earth elements and five additional elements in 2025. Gallium exports to the U.S. fell virtually to zero, germanium declined 97-100%, and antimony shipments were slashed 97%. While some restrictions were temporarily suspended in November 2025, the military end-user ban remains active and no guarantees extend beyond November 2026. The USGS projects losses of $3.4 billion to U.S. GDP if gallium and germanium were banned simultaneously.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/china-imposes-its-most-stringent-critical-minerals-export-restrictions-yet-amidst"
+    },
+    {
+      "headline": "U.S. is 100% import-dependent for 12 critical minerals with no domestic production",
+      "detail": "The United States has zero domestic primary production of arsenic, fluorspar, gallium, germanium, indium, manganese, natural graphite, niobium, rubidium, scandium, tantalum, and yttrium. The top 10 minerals with the highest probability-weighted impact of supply disruption on the U.S. economy are samarium, rhodium, lutetium, terbium, dysprosium, gallium, germanium, gadolinium, tungsten, and niobium. The 2025 Critical Minerals List expanded to 54 minerals, adding copper, silver, potash, silicon, rhenium, and lead.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/publication/mcs2025"
+    },
+    {
+      "headline": "Even with all planned domestic projects, massive import gaps persist through 2035",
+      "detail": "Carnegie Endowment analysis reveals that even under optimistic scenarios with every planned U.S. mining project operational, the country will remain severely import-dependent: 62% for copper (1.1 million metric ton shortfall), 193% for graphite, 282% for lithium, 9,275% for nickel, and 1,085% for silver relative to projected clean energy manufacturing demand. Only molybdenum and zinc could achieve supply self-sufficiency by 2035. Domestic production cannot close the gap alone -- strategic friendshoring with allied producers is essential.",
+      "severity": "critical",
+      "source_url": "https://carnegieendowment.org/research/2025/10/securing-americas-critical-minerals-supply"
+    },
+    {
+      "headline": "Pentagon and Congress mobilize billions for stockpiling and domestic production",
+      "detail": "The federal response has been unprecedented in scale: the DoD announced $1 billion for stockpile material procurement in 2025 including nearly $1 billion specifically for antimony; Congress appropriated $2 billion to the National Defense Stockpile Transaction Fund via the One Big Beautiful Act; the Trump Administration launched a $12 billion minerals stockpile backed by private investors and the Export-Import Bank; DOE LPO committed $2.26 billion for Thacker Pass lithium; and the 48C tax credit program allocated its full $10 billion across 240+ projects. Executive Order 14241 invoked DPA Titles III and VII to expand mineral production authority.",
+      "severity": "high",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/"
+    },
+    {
+      "headline": "MP Materials achieves first U.S. rare earth magnet production in decades, plans $1.25B expansion",
+      "detail": "MP Materials commenced commercial production of NdPr metal and trial production of automotive-grade NdFeB magnets at its Independence facility in Fort Worth, Texas, with an initial capacity of 1,000 metric tons per year starting late 2025. In February 2026, the company announced a $1.25 billion '10X' campus in Northlake, Texas on 120 acres, targeting 7,000 additional metric tons of magnet production annually by 2028. This would bring total U.S. capacity to 10,000 metric tons per year and create 1,500+ jobs, establishing the first significant non-Chinese rare earth magnet supply chain.",
+      "severity": "high",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx"
+    },
+    {
+      "headline": "Chinese companies control 50% of African cobalt and are outspending the U.S. in mineral investment globally",
+      "detail": "Chinese firms control roughly 41-50% of African cobalt production, including 15 of the DRC's 19 cobalt operations, and approximately 30% of copper production on the continent. Chinese policy banks issued $24.9 billion in BRI-linked mining loans in just the first half of 2025, a record pace. In South America, CATL signed a $1.4 billion deal with Argentina's YPF, while Tianqi Lithium and Ganfeng Lithium collectively control access to nearly 40% of global lithium production through their South American operations. Africa captures only 10% of the value from its mineral exports.",
+      "severity": "high",
+      "source_url": "https://www.stimson.org/2025/competing-for-africas-resources-how-the-us-and-china-invest-in-critical-minerals/"
+    },
+    {
+      "headline": "Antimony supply crisis threatens ammunition and defense electronics production",
+      "detail": "Antimony is indispensable for armor-piercing ammunition, night vision goggles, infrared sensors, and military vehicle batteries. China controls nearly half of global supply and slashed exports by 97% after its December 2024 ban. The U.S. imports 85% of its antimony needs with no active domestic mine (the only U.S. mine in Idaho was closed decades ago). Prices surged to $51,500 per tonne in 2025, a 54% increase over 2024. Global demand of 120,000 tonnes annually exceeds production of roughly 80,000 tonnes. The Pentagon deployed $1 billion in October 2025 to rebuild antimony stockpiles.",
+      "severity": "high",
+      "source_url": "https://www.csis.org/analysis/chinas-antimony-export-restrictions-impact-us-national-security"
+    },
+    {
+      "headline": "Lithium Triangle competition intensifies as Argentina targets 340% production growth by 2035",
+      "detail": "The Lithium Triangle of Argentina, Bolivia, and Chile holds 49.6% of global lithium resources, dwarfing U.S. reserves. Argentina forecasts production increasing 340% between 2024 and 2035, rising from 20% to 38% of South American output. China's CATL has invested $1.4 billion in Argentine lithium development. The U.S. Thacker Pass project in Nevada -- the country's flagship domestic lithium project backed by a $2.26 billion DOE loan -- won't reach full production until 2028, targeting 40,000 tonnes/year of lithium carbonate. The U.S. currently accounts for less than 1% of global lithium output.",
+      "severity": "high",
+      "source_url": "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Provides-a-Project-Update-and-2026-Capex-Guidance-for-Thacker-Pass/default.aspx"
+    },
+    {
+      "headline": "Battery recycling growing rapidly but cannot close supply gaps before 2030",
+      "detail": "The battery metal recycling market value grew nearly 11-fold between 2015 and 2023, and established recycling capacity reached 1.6 million tonnes per year with plans to exceed 3 million tonnes. Redwood Materials controls 90% of North American lithium-ion battery recycling capacity. However, recovery rates remain limited -- 40% for nickel and cobalt, 20% for lithium -- and recycled lithium will contribute only slightly over 6% of total production by 2030. Recycling could reduce the need for new mining by 25-40% by 2050, but in the critical 2025-2035 window, it cannot substitute for primary supply chain diversification.",
+      "severity": "moderate",
+      "source_url": "https://www.iea.org/reports/recycling-of-critical-minerals/executive-summary"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "MP Materials announces $1.25 billion rare earth magnet campus in Texas",
+      "summary": "MP Materials selected Northlake, Texas for its '10X' rare earth magnet manufacturing campus, a $1.25 billion investment on 120 acres. Located near its existing Independence facility in Fort Worth, the campus will produce 7,000 metric tons of NdFeB magnets annually when operational in 2028, bringing total U.S. capacity to 10,000 metric tons per year and creating 1,500+ manufacturing and engineering jobs.",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx",
+      "impact": "Establishes North Texas as the center of gravity for U.S. rare earth magnet production, creating the first significant Western alternative to China's 92% monopoly on NdFeB magnet manufacturing."
+    },
+    {
+      "date": "2026-02",
+      "headline": "2026 Critical Minerals Ministerial convened by State Department",
+      "summary": "The U.S. State Department convened the 2026 Critical Minerals Ministerial, building on the Minerals Security Partnership framework to strengthen diversified, resilient, and secure critical mineral supply chains among allied nations. The event focused on advancing collaborative projects and policy coordination to counter Chinese dominance across mineral value chains.",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial",
+      "impact": "Signals continued U.S. commitment to multilateral mineral security partnerships as a complement to domestic production, critical given that domestic supply alone cannot meet projected demand."
+    },
+    {
+      "date": "2025-11",
+      "headline": "China temporarily suspends critical mineral export bans as part of trade deal",
+      "summary": "Following the Xi-Trump meeting, China suspended export restrictions on gallium, germanium, antimony, and superhard materials to the United States until November 27, 2026. However, the military end-user ban clause remains in effect, and the December 2024 restrictions on rare earth elements were not part of the suspension, maintaining pressure on defense supply chains.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Provides temporary commercial relief but no structural resolution. Defense sector remains constrained by military end-user ban. Supply chain planners face a November 2026 cliff with no certainty of renewal."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Final 2025 List of Critical Minerals expands to 54 mineral commodities",
+      "summary": "The U.S. Department of the Interior published the final 2025 List of Critical Minerals, expanding from 50 to 54 mineral commodities. Six minerals were added -- copper, silver, potash, silicon, rhenium, and lead -- reflecting broadened recognition of supply chain vulnerabilities. The inclusion of copper was particularly significant given the metal's central role in electrification and defense applications.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Expands the scope of federal support programs, DPA authorities, and tax incentives to cover newly listed minerals, potentially unlocking billions in additional investment in copper, silver, and silicon supply chains."
+    },
+    {
+      "date": "2025-10",
+      "headline": "DOE takes 5% equity stake in Lithium Americas' Thacker Pass project",
+      "summary": "The DOE Loan Programs Office renegotiated its $2.26 billion loan to Lithium Americas, taking a 5% warrant-based equity stake in the Thacker Pass joint venture with General Motors. The project in Humboldt County, Nevada is the largest planned lithium mine in North America, with Phase 1 construction well underway and approximately 950 personnel on site by end of 2025, targeting mechanical completion in late 2027.",
+      "source_url": "https://resource-recycling.com/e-scrap/2025/10/08/analysis-doe-takes-equity-stake-in-lithium-americas-deal/",
+      "impact": "Represents an innovative financing structure where the federal government shares both risk and upside of critical minerals development, potentially serving as a model for future DOE investments in domestic supply chains."
+    },
+    {
+      "date": "2025-10",
+      "headline": "Pentagon deploys $1 billion for antimony stockpiling after 97% Chinese supply cut",
+      "summary": "The Department of Defense committed nearly $1 billion to rebuild domestic antimony stockpiles for defense applications including ammunition, night vision systems, and nuclear weapons. The action followed China's December 2024 export ban that slashed antimony shipments to the U.S. by 97%, triggering a price surge to $51,500 per tonne and exposing the vulnerability of an ammunition supply chain dependent on a hostile-nation supplier.",
+      "source_url": "https://www.prnewswire.com/news-releases/pentagon-deploys-1-billion-to-secure-antimony-as-china-cuts-supply-by-97-302598506.html",
+      "impact": "Largest single stockpiling action for a critical mineral, directly addressing the risk that ammunition production could be constrained by Chinese supply weaponization."
+    },
+    {
+      "date": "2025-09",
+      "headline": "Energy Fuels achieves first U.S. mine-to-magnet rare earth supply chain",
+      "summary": "Energy Fuels confirmed that its high-purity NdPr oxide, mined from monazite sands in Florida and Georgia and processed at its White Mesa Mill in Utah, was successfully qualified for use in rare earth permanent magnets for EV drive motors by a South Korean manufacturer. This marked the first complete U.S.-based mine-to-magnet supply chain independent of Chinese processing.",
+      "source_url": "https://investors.energyfuels.com/2025-09-09-U-S-Mined-and-Processed-Rare-Earths-Successfully-Manufactured-into-Permanent-Magnets-for-Use-in-EVs-and-Hybrids",
+      "impact": "Proves the technical viability of a fully non-Chinese rare earth magnet supply chain, though commercial scaling to meaningful volumes remains a multi-year effort."
+    },
+    {
+      "date": "2025-03",
+      "headline": "Executive Order 14241 invokes Defense Production Act for mineral production",
+      "summary": "The Trump Administration issued Executive Order 14241 invoking DPA Titles III and VII to 'facilitate domestic mineral production to the maximum extent possible.' The order expanded the definition of 'minerals' beyond the Interior Department's critical minerals list to include copper, uranium, gold, and potash, and delegated financing authority to the DFC CEO for loans and loan guarantees to expand productive capacity.",
+      "source_url": "https://www.csis.org/analysis/unpacking-trumps-new-critical-minerals-executive-order",
+      "impact": "Provided the broadest executive authority for mineral production since the Cold War, unlocking DFC financing tools and streamlined permitting for an expanded set of strategic minerals."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The U.S. critical mineral supply chain faces extreme and compounding risk across multiple dimensions. China's processing monopoly -- 90% of rare earth refining, 98% of gallium, 99% of graphite processing -- has been actively weaponized through escalating export controls since 2023. The temporary suspension of some restrictions in November 2025 expires in November 2026 with no structural resolution, and the military end-user ban remains in force. The antimony crisis (97% supply cut, $51,500/tonne prices) directly threatens ammunition production. Even with unprecedented federal investment -- over $15 billion committed across stockpiling, DOE loans, and 48C tax credits -- no new domestic mine or processing facility can reach commercial production before 2027-2028 at the earliest. The Carnegie Endowment projects persistent import dependence for copper (62%), graphite (193%), lithium (282%), nickel (9,275%), and silver (1,085%) through 2035. China's aggressive mineral financing in Africa ($24.9 billion in H1 2025 alone) and South America continues to consolidate its upstream control. The U.S. faces a critical 3-5 year window of maximum vulnerability before domestic and allied production can meaningfully diversify supply.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's demonstrated willingness to weaponize mineral exports with escalating controls (gallium, germanium, antimony, rare earths, graphite)",
+      "Temporary export ban suspension expires November 2026 with military end-user ban still active and no long-term guarantees",
+      "Processing midstream monopoly cannot be bypassed by new mining alone -- refining capacity takes 5-10 years to build",
+      "Surging demand from energy transition (EVs, batteries, wind turbines) and defense modernization competing for limited supply",
+      "3-5 year minimum timeline for new domestic production projects to reach commercial operation",
+      "Chinese outspending U.S. in global mineral acquisition by orders of magnitude, particularly in Africa and South America",
+      "Antimony, gallium, and germanium supply crises directly threatening defense production and semiconductor manufacturing"
+    ],
+    "mitigation_actions": [
+      "Accelerate Thacker Pass (lithium, 2027), MP Materials 10X (magnets, 2028), and Idaho antimony mine reopening",
+      "Expand National Defense Stockpile acquisitions beyond the $2 billion appropriation to cover 2+ years of critical mineral consumption",
+      "Negotiate binding long-term supply agreements with allied producers (Australia, Canada, Brazil, Chile) ahead of November 2026 suspension expiry",
+      "Fund domestic mineral processing capacity -- the critical chokepoint -- not just mining through DPA Title III and DOE LPO",
+      "Sustain and expand 48C tax credits for critical mineral processing beyond the OBBBA phaseout beginning 2031",
+      "Invest in battery recycling scale-up (Redwood Materials, Li-Cycle) to capture the growing end-of-life EV battery stream",
+      "Accelerate research in rare-earth-free permanent magnets (iron-nitride, tetrataenite) as structural hedges against Chinese magnet monopoly",
+      "Counter Chinese mineral investments in Africa through the DFC, Minerals Security Partnership, and EXIM Bank financing at competitive terms"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Carnegie Endowment - Securing America's Critical Minerals Supply",
+      "url": "https://carnegieendowment.org/research/2025/10/securing-americas-critical-minerals-supply",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "USGS - Mineral Commodity Summaries 2025",
+      "url": "https://pubs.usgs.gov/publication/mcs2025",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "USGS - Final 2025 List of Critical Minerals",
+      "url": "https://www.usgs.gov/news/science-snippet/interior-department-releases-final-2025-list-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "CSIS - China Imposes Most Stringent Critical Minerals Export Restrictions",
+      "url": "https://www.csis.org/analysis/china-imposes-its-most-stringent-critical-minerals-export-restrictions-yet-amidst",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "CSIS - China's Antimony Export Restrictions: The Impact on U.S. National Security",
+      "url": "https://www.csis.org/analysis/chinas-antimony-export-restrictions-impact-us-national-security",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Fortune - Beijing's dominance in rare earth processing leaves others scrambling",
+      "url": "https://fortune.com/2026/03/11/china-us-rare-earth-processing-critical-minerals/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "DOE - Critical Materials Projects (Loan Programs Office)",
+      "url": "https://www.energy.gov/lpo/critical-materials-projects",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Inside Government Contracts - Federal Push for Critical Minerals Stockpiling: 2025 in Review",
+      "url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Stimson Center - Competing for Africa's Resources: How the US and China Invest in Critical Minerals",
+      "url": "https://www.stimson.org/2025/competing-for-africas-resources-how-the-us-and-china-invest-in-critical-minerals/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "IEA - Recycling of Critical Minerals",
+      "url": "https://www.iea.org/reports/recycling-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "IEA - Global Critical Minerals Outlook 2025",
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MP Materials - Selects Northlake, Texas for 10X Rare Earth Magnet Campus",
+      "url": "https://investors.mpmaterials.com/investor-news/news-details/2026/MP-Materials-Selects-Northlake-Texas-as-the-Site-of-10X-a-New-U-S--Rare-Earth-Magnet-Manufacturing-Campus/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Lithium Americas - Thacker Pass Project Update and 2026 Capex Guidance",
+      "url": "https://lithiumamericas.com/news/news-details/2026/Lithium-Americas-Provides-a-Project-Update-and-2026-Capex-Guidance-for-Thacker-Pass/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "CSIS - Unpacking Trump's New Critical Minerals Executive Order",
+      "url": "https://www.csis.org/analysis/unpacking-trumps-new-critical-minerals-executive-order",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "ODI - Critical minerals geopolitics in 2026: risks, supply chains and global power shifts",
+      "url": "https://odi.org/en/insights/critical-minerals-geopolitics-in-2026-risks-supply-chains-and-global-power-shifts/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    }
+  ]
+}

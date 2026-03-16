@@ -1,0 +1,54 @@
+{
+  "sector": "energy",
+  "summary": {
+    "total_capacity_gw": 1310,
+    "renewable_share_pct": 28.7,
+    "nuclear_share_pct": 8.9,
+    "natural_gas_share_pct": 43.1,
+    "coal_share_pct": 16.2,
+    "headline": "U.S. grid increasingly dependent on natural gas; renewable growth accelerating"
+  },
+  "generation_by_fuel": [
+    {"fuel": "Natural Gas", "capacity_gw": 565, "generation_twh": 1689, "share_pct": 43.1, "trend": "growing", "color": "#6366f1"},
+    {"fuel": "Coal", "capacity_gw": 189, "generation_twh": 636, "share_pct": 16.2, "trend": "declining", "color": "#78716c"},
+    {"fuel": "Nuclear", "capacity_gw": 95, "generation_twh": 775, "share_pct": 19.7, "trend": "stable", "color": "#22c55e"},
+    {"fuel": "Wind", "capacity_gw": 147, "generation_twh": 425, "share_pct": 10.8, "trend": "growing", "color": "#0ea5e9"},
+    {"fuel": "Solar", "capacity_gw": 113, "generation_twh": 238, "share_pct": 6.1, "trend": "rapidly growing", "color": "#f59e0b"},
+    {"fuel": "Hydroelectric", "capacity_gw": 80, "generation_twh": 256, "share_pct": 6.5, "trend": "stable", "color": "#3b82f6"},
+    {"fuel": "Other", "capacity_gw": 31, "generation_twh": 58, "share_pct": 1.5, "trend": "stable", "color": "#94a3b8"}
+  ],
+  "key_facilities": [
+    {"name": "Palo Verde Nuclear Generating Station", "state": "AZ", "lat": 33.39, "lon": -112.86, "type": "Nuclear", "capacity_mw": 3937, "operator": "Arizona Public Service", "notes": "Largest nuclear plant in U.S."},
+    {"name": "Grand Coulee Dam", "state": "WA", "lat": 47.95, "lon": -118.98, "type": "Hydroelectric", "capacity_mw": 6809, "operator": "Bureau of Reclamation", "notes": "Largest hydroelectric facility in U.S."},
+    {"name": "West County Energy Center", "state": "FL", "lat": 26.79, "lon": -80.37, "type": "Natural Gas", "capacity_mw": 3751, "operator": "Florida Power & Light", "notes": "One of largest gas plants in U.S."},
+    {"name": "Alta Wind Energy Center", "state": "CA", "lat": 35.07, "lon": -118.36, "type": "Wind", "capacity_mw": 1548, "operator": "Terra-Gen", "notes": "Largest wind farm in U.S."},
+    {"name": "Solar Star", "state": "CA", "lat": 34.83, "lon": -118.39, "type": "Solar", "capacity_mw": 579, "operator": "BHE Renewables", "notes": "One of largest solar farms in world"},
+    {"name": "Watts Bar Nuclear Plant", "state": "TN", "lat": 35.60, "lon": -84.79, "type": "Nuclear", "capacity_mw": 2330, "operator": "Tennessee Valley Authority", "notes": "Last new U.S. nuclear reactor (Unit 2, 2016)"},
+    {"name": "Vogtle Electric Generating Plant", "state": "GA", "lat": 33.14, "lon": -81.76, "type": "Nuclear", "capacity_mw": 4540, "operator": "Georgia Power", "notes": "Units 3-4 are first new U.S. reactors in 30+ years (2023-24)"},
+    {"name": "Robert Moses Niagara", "state": "NY", "lat": 43.13, "lon": -79.04, "type": "Hydroelectric", "capacity_mw": 2675, "operator": "New York Power Authority", "notes": "Major baseload hydro facility"},
+    {"name": "STP Nuclear Operating Company", "state": "TX", "lat": 28.80, "lon": -96.05, "type": "Nuclear", "capacity_mw": 2708, "operator": "STP Nuclear", "notes": "Two-unit nuclear station"},
+    {"name": "Ivanpah Solar Electric", "state": "CA", "lat": 35.56, "lon": -115.47, "type": "Solar", "capacity_mw": 392, "operator": "NRG Energy/BrightSource", "notes": "Concentrated solar thermal, 3 towers"}
+  ],
+  "battery_minerals": {
+    "note": "U.S. battery supply chain depends heavily on imported critical minerals",
+    "dependencies": [
+      {"mineral": "Lithium", "use": "Cathode and electrolyte", "us_import_reliance_pct": 100, "top_source": "Chile/Australia"},
+      {"mineral": "Cobalt", "use": "Cathode stabilizer", "us_import_reliance_pct": 76, "top_source": "DRC (mining), China (refining)"},
+      {"mineral": "Nickel", "use": "Cathode energy density", "us_import_reliance_pct": 48, "top_source": "Canada/Indonesia"},
+      {"mineral": "Graphite", "use": "Anode material", "us_import_reliance_pct": 100, "top_source": "China (77% of production)"},
+      {"mineral": "Manganese", "use": "Cathode component", "us_import_reliance_pct": 100, "top_source": "South Africa/Gabon"}
+    ]
+  },
+  "grid_challenges": [
+    {"issue": "Natural gas dependency", "severity": "high", "description": "43% of generation from single fuel source creates concentration risk"},
+    {"issue": "Nuclear fleet aging", "severity": "high", "description": "Average reactor age 42 years. Only 2 new reactors in 30 years (Vogtle 3&4)."},
+    {"issue": "Transmission bottlenecks", "severity": "moderate", "description": "Grid interconnection queue has 2,600+ GW waiting, avg 5-year delay"},
+    {"issue": "Battery mineral imports", "severity": "high", "description": "100% import reliance for lithium, graphite, manganese used in grid storage"},
+    {"issue": "Coal plant retirements", "severity": "moderate", "description": "189 GW remaining, declining ~5-10 GW/year. Reliability concerns in some regions."}
+  ],
+  "source_urls": [
+    {"label": "EIA Electric Power Monthly", "url": "https://www.eia.gov/electricity/monthly/"},
+    {"label": "EIA-860 Plant Data", "url": "https://www.eia.gov/electricity/data/eia860/"},
+    {"label": "DOE Grid Deployment Office", "url": "https://www.energy.gov/gdo/grid-deployment-office"}
+  ]
+}

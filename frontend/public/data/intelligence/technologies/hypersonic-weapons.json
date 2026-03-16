@@ -1,0 +1,185 @@
+{
+  "id": "hypersonic-weapons",
+  "category": "technology",
+  "subject": "Hypersonic Weapons",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Hypersonic weapons — systems traveling above Mach 5 with the ability to maneuver during flight — have emerged as a defining asymmetry in great-power military competition. Russia and China have fielded operational hypersonic systems while the United States remains in the development and early production phase, creating what analysts describe as a 'battlefield asymmetry' that threatens Western military potency. Russia has deployed the Avangard glide vehicle, Kinzhal air-launched ballistic missile, and Tsirkon cruise missile, and announced serial production of the Oreshnik ballistic missile in August 2025 with planned deployment to Belarus. China has unveiled the YJ-17, YJ-19, and CJ-1000 systems and conducted an ICBM test in September 2025 featuring boost-glide technology with a depressed trajectory designed to reduce detection windows.\n\nThe U.S. Department of Defense requested over $3.9 billion for hypersonic programs in FY2026, with the Long-Range Hypersonic Weapon (LRHW/Dark Eagle) receiving $513 million for RDT&E, the Hypersonic Attack Cruise Missile (HACM) receiving $803 million, and the Air-Launched Rapid Response Weapon (ARRW) receiving $387 million after being revived from zero funding in FY2025. Key prime contractors include Lockheed Martin (ARRW, LRHW missile segment), Raytheon/RTX (HACM), Northrop Grumman (LRHW missile segment), and Dynetics/Leidos (common hypersonic glide body). However, HACM flight tests have been delayed by approximately one year, and the Navy's Conventional Prompt Strike program received no procurement funding in FY2025 or FY2026.\n\nThe hypersonic defense challenge is equally acute. The Missile Defense Agency's Glide Phase Interceptor (GPI), with Northrop Grumman as sole prime contractor, faces a roughly three-year delay that pushes full operational capability from 2032 to approximately 2035. Supply chain vulnerabilities in thermal protection materials, scramjet propulsion components, and 2025 tariff impacts exceeding $1.3 billion on major aerospace firms compound the challenge of achieving rapid production scale.",
+  "key_findings": [
+    {
+      "headline": "Russia Enters Serial Production of Oreshnik Hypersonic Ballistic Missile",
+      "detail": "President Putin announced in August 2025 that the Oreshnik hypersonic ballistic missile had entered serial production, with planned deployment to Belarus to position Russian hypersonic strike capability closer to NATO borders and reduce flight times to European targets. Combined with the already-deployed Avangard, Kinzhal, and Tsirkon systems, Russia now has the broadest operational hypersonic arsenal of any nation.",
+      "severity": "critical",
+      "source_url": "https://thedefensewatch.com/military-ordnance/hypersonic-weapons-race-u-s-russia-china/"
+    },
+    {
+      "headline": "China Tests Hypersonic ICBM with Boost-Glide and Depressed Trajectory",
+      "detail": "In September 2025, China conducted an ICBM test featuring boost-glide technology and a depressed trajectory — a lower, flatter flight path that significantly reduces radar detection windows and complicates interception. China has also unveiled three new hypersonic systems: the YJ-17 anti-ship aerobalistic missile with glide vehicle warhead, the YJ-19 scramjet-powered cruise missile, and the CJ-1000 targeting system nodes across land, sea, and air domains.",
+      "severity": "critical",
+      "source_url": "https://www.axios.com/2025/10/09/hypersonic-missiles-china-russia-atlantic-council"
+    },
+    {
+      "headline": "U.S. Glide Phase Interceptor Delayed Three Years to 2035",
+      "detail": "The Missile Defense Agency's Glide Phase Interceptor program, the cornerstone of U.S. hypersonic defense, faces a roughly three-year delay that pushes full operational capability from the congressionally mandated 2032 target to approximately 2035. Reduced funding has slowed development despite Northrop Grumman's selection as sole prime contractor in September 2024 and a U.S.-Japan cooperative development agreement signed in May 2024.",
+      "severity": "critical",
+      "source_url": "https://www.defensenews.com/pentagon/2025/05/06/reduced-funding-slows-mdas-hypersonic-interceptor-development/"
+    },
+    {
+      "headline": "HACM Flight Tests Delayed One Year; ARRW Revived with $387M",
+      "detail": "The Hypersonic Attack Cruise Missile (HACM), the most expensive single hypersonic prototyping effort at $803 million in FY2026, has experienced approximately one-year flight test delays. Meanwhile, the Air Force revived the ARRW program with $387 million in FY2026 after requesting zero funding in FY2025, seeking to begin procurement in 2026. Total development cost for HACM is estimated at close to $2 billion.",
+      "severity": "high",
+      "source_url": "https://www.airandspaceforces.com/hacm-flight-tests-fy26-yearlong-delay/"
+    },
+    {
+      "headline": "HAVOC Multi-Platform Hypersonic Missile Announced",
+      "detail": "The U.S. announced the Hypersonic Air-launched Versatile Offensive Capability (HAVOC), a new liquid-rocket-powered hypersonic missile designed for launch from fighter planes, bombers, ground-based systems, and potentially from space. This represents a shift toward multi-domain hypersonic strike capability and platform-agnostic weapon design.",
+      "severity": "high",
+      "source_url": "https://www.defensenews.com/air-warfare/2026/02/25/new-hypersonic-missiles-unveiled-for-fighter-planes-ground-systems/"
+    },
+    {
+      "headline": "Dark Eagle Range Confirmed at 3,500 km Covering China, Russia, and Iran",
+      "detail": "The Army's LRHW/Dark Eagle system has an estimated range of approximately 3,500 kilometers, enabling strikes on mainland China from Guam, Moscow from the United Kingdom, and Tehran from Qatar. However, FY2026 procurement is limited to only 3 all-up rounds, highlighting the gap between capability development and production scale.",
+      "severity": "high",
+      "source_url": "https://www.thedefensenews.com/news-details/US-Reveals-Dark-Eagle-Hypersonic-Weapon-Can-Reach-China-Russia-and-Iran/"
+    },
+    {
+      "headline": "Supply Chain Vulnerabilities and Tariff Impacts Threaten Production Timelines",
+      "detail": "Thermal protection systems using ultra-high-temperature ceramics and carbon-carbon composites face limited supplier bases. The 2025 imposition of 25% tariffs on aircraft parts from China is forcing defense manufacturers to reassess procurement strategies, with RTX and GE Aerospace projecting combined impacts exceeding $1.3 billion. Scramjet reliability below threshold remains a critical technical challenge for hypersonic cruise missiles.",
+      "severity": "high",
+      "source_url": "https://www.hermes-kalamos.eu/hypersonic-weapons-technology-critical-chains-doctrines-and-governance-2010-2035-a-six-chapter-technical-strategic-assessment-of-capability-defence-and-implications-for-international-st/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "New Hypersonic Missiles Unveiled for Multi-Platform Launch",
+      "summary": "The U.S. revealed HAVOC (Hypersonic Air-launched Versatile Offensive Capability), a new liquid-rocket-engine-powered hypersonic missile designed for launch from fighter planes, bombers, ground-based launchers, and potentially from space. This system represents a departure from single-platform hypersonic designs and aims to provide flexible hypersonic strike across all domains.",
+      "source_url": "https://www.defensenews.com/air-warfare/2026/02/25/new-hypersonic-missiles-unveiled-for-fighter-planes-ground-systems/",
+      "impact": "Introduces platform-agnostic hypersonic strike capability, potentially accelerating deployment timelines by leveraging existing launch platforms."
+    },
+    {
+      "date": "2025-09",
+      "headline": "China Conducts Hypersonic ICBM Test with Depressed Trajectory",
+      "summary": "China tested a hypersonic ICBM featuring boost-glide technology and a depressed (low, flat) trajectory designed to reduce detection windows and complicate interception by existing missile defense systems. The test demonstrated advancing Chinese capability to defeat U.S. and allied missile defense architectures.",
+      "source_url": "https://www.axios.com/2025/10/09/hypersonic-missiles-china-russia-atlantic-council",
+      "impact": "Demonstrates China's ability to combine hypersonic glide with trajectory shaping to evade next-generation missile defenses, increasing the urgency of GPI development."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Russia Announces Oreshnik Serial Production and Belarus Deployment",
+      "summary": "President Putin announced that the Oreshnik hypersonic ballistic missile had entered serial production and would be deployed to Belarus, positioning Russian hypersonic strike capability significantly closer to NATO territory and reducing flight times to potential European targets.",
+      "source_url": "https://thedefensewatch.com/military-ordnance/hypersonic-weapons-race-u-s-russia-china/",
+      "impact": "Forward-deploys operational hypersonic capability to NATO's eastern border, creating new deterrence challenges for European allies."
+    },
+    {
+      "date": "2025-06",
+      "headline": "Air Force Revives ARRW Program with FY2026 Procurement Funding",
+      "summary": "After requesting zero funding for ARRW in FY2025, the Air Force included $387.1 million in its FY2026 request to revive the Lockheed Martin-built air-launched hypersonic weapon. The Air Force is seeking to start ARRW procurement in 2026, with HACM procurement targeted for 2027.",
+      "source_url": "https://defensescoop.com/2025/06/26/air-force-arrw-procurement-funding-fy26-budget-request/",
+      "impact": "Signals renewed commitment to air-launched hypersonic capability after near-cancellation, though late start means fielding lags Russian and Chinese deployments by years."
+    },
+    {
+      "date": "2025-05",
+      "headline": "MDA Hypersonic Interceptor Development Slowed by Funding Shortfall",
+      "summary": "The Missile Defense Agency acknowledged that reduced congressional funding has pushed the Glide Phase Interceptor's full operational capability from 2032 to approximately 2035, a three-year delay. Congress mandated delivery of at least 12 GPIs for testing by end of 2029, but current funding trajectory makes this timeline unlikely.",
+      "source_url": "https://www.defensenews.com/pentagon/2025/05/06/reduced-funding-slows-mdas-hypersonic-interceptor-development/",
+      "impact": "Creates a multi-year defensive gap against hypersonic threats, leaving the U.S. and allies reliant on sensor-based detection and pre-launch interdiction rather than active intercept."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The United States faces a significant and growing asymmetry in hypersonic weapons capability. Russia and China have fielded multiple operational hypersonic systems while the U.S. remains in development and early production, with key programs experiencing delays and limited procurement quantities. The defensive gap is equally concerning: the GPI delay to 2035 means the U.S. will lack a dedicated hypersonic interceptor for nearly a decade. The Pentagon's $3.9 billion FY2026 investment signals urgency, but supply chain vulnerabilities, tariff impacts, and technical challenges in scramjet reliability and thermal protection may prevent rapid catch-up.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Russia's Oreshnik serial production and forward deployment to Belarus",
+      "China's advancing ICBM boost-glide technology with trajectory shaping",
+      "Three-year delay in U.S. Glide Phase Interceptor creating a defensive gap",
+      "HACM flight test delays and Navy CPS receiving zero procurement funding",
+      "Limited procurement quantities (only 3 Dark Eagle rounds in FY2026)",
+      "Supply chain vulnerabilities in thermal protection materials and scramjet components",
+      "2025 tariffs imposing $1.3B+ impact on major aerospace defense contractors"
+    ],
+    "mitigation_actions": [
+      "Accelerate GPI funding to close the three-year schedule gap and meet 2032 mandate",
+      "Expand 'Golden Dome' multi-tiered intercept architecture to address hypersonic threats",
+      "Invest in domestic production of ultra-high-temperature ceramics and carbon-carbon composites",
+      "Leverage U.S.-Japan cooperative GPI development to share costs and accelerate timelines",
+      "Scale LRHW/Dark Eagle procurement beyond 3 rounds to establish credible operational capability",
+      "Develop interim hypersonic detection capabilities through upgraded AN/TPY-2 radars and satellite sensors",
+      "Pursue additive manufacturing for scramjet components to reduce cost and production time by up to 70%"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hypersonic Weapons Race 2026: U.S., Russia, China Vie for Supremacy",
+      "url": "https://thedefensewatch.com/military-ordnance/hypersonic-weapons-race-u-s-russia-china/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Hypersonic Weapons Are Lethal Advantage for China, Russia: Report",
+      "url": "https://www.axios.com/2025/10/09/hypersonic-missiles-china-russia-atlantic-council",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Hypersonic Weapons: Background and Issues for Congress (CRS)",
+      "url": "https://www.congress.gov/crs-product/R45811",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Air Force Revives ARRW Hypersonic Missile with FY26 Procurement Funding",
+      "url": "https://defensescoop.com/2025/06/26/air-force-arrw-procurement-funding-fy26-budget-request/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "HACM Flight Tests Expected in Fiscal '26 After Yearlong Delay",
+      "url": "https://www.airandspaceforces.com/hacm-flight-tests-fy26-yearlong-delay/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Reduced Funding Slows MDA's Hypersonic Interceptor Development",
+      "url": "https://www.defensenews.com/pentagon/2025/05/06/reduced-funding-slows-mdas-hypersonic-interceptor-development/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "The U.S. Army's Long-Range Hypersonic Weapon: Dark Eagle (CRS)",
+      "url": "https://www.congress.gov/crs-product/IF11991",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "New Hypersonic Missiles Unveiled for Fighter Planes, Ground Systems",
+      "url": "https://www.defensenews.com/air-warfare/2026/02/25/new-hypersonic-missiles-unveiled-for-fighter-planes-ground-systems/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "An Overview of Current U.S. Hypersonic Missile Developments",
+      "url": "https://dsm.forecastinternational.com/2025/12/22/an-overview-of-current-u-s-hypersonic-missile-developments/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Glide Phase Interceptor - Northrop Grumman",
+      "url": "https://www.northropgrumman.com/what-we-do/missile-defense/glide-phase-interceptor",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Hypersonic Weapons: Technology, Critical Chains, Doctrines and Governance",
+      "url": "https://www.hermes-kalamos.eu/hypersonic-weapons-technology-critical-chains-doctrines-and-governance-2010-2035-a-six-chapter-technical-strategic-assessment-of-capability-defence-and-implications-for-international-st/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "China and Russia Are Winning the Hypersonic Missile Race",
+      "url": "https://foreignpolicy.com/2025/09/11/hypersonic-missiles-china-russia-us-military-weapons/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

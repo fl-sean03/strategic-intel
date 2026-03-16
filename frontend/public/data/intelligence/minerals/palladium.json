@@ -1,0 +1,148 @@
+{
+  "id": "palladium",
+  "category": "mineral",
+  "subject": "Palladium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Palladium faces converging supply chain pressures from Russian production dependency, collapsing U.S. domestic output, and aggressive new trade policy. Russia's Norilsk Nickel accounts for approximately 40% of global palladium mine supply from Siberian Arctic deposits, while Russia and South Africa each supplied 32% of U.S. palladium imports during 2020-2023. The palladium value chain is among the most geographically concentrated of any strategic commodity.\n\nA major escalation occurred on February 19, 2026, when the U.S. Department of Commerce issued a preliminary 132% antidumping duty on unwrought palladium imports from Russia, effectively closing the U.S. market to the world's largest producer. The final Commerce Department determination is expected by April 2026 and the International Trade Commission injury assessment by June 2026. USGS modeling indicates a complete one-year Russian supply cutoff would increase palladium prices by 24% and reduce available quantity by approximately 5%.\n\nDomestically, the situation is equally alarming. Sibanye-Stillwater — which operates the only primary palladium mine in the United States at Stillwater, Montana — announced production cuts of approximately 40%, suspended the Stillwater West project, curtailed East Boulder mine output, and laid off approximately 800 workers. This reduces U.S. domestic palladium production to roughly 60% of previous capacity. The global palladium market has operated in continuous deficit since 2012, with cumulative shortfalls of roughly 1.4 million ounces across 2023-2024, and the projected return to surplus has been pushed from 2025 to 2028.\n\nPalladium is essential for automotive catalytic converters, semiconductor manufacturing, hydrogen fuel cells, and electronics — making supply security a priority for both economic and national security.",
+  "key_findings": [
+    {
+      "headline": "U.S. imposes 132% antidumping duty on Russian palladium, closing market to top producer",
+      "detail": "On February 19, 2026, the U.S. Department of Commerce issued a preliminary antidumping duty of 132% on unwrought palladium imports from Russia, effectively shutting out the world's largest producer (40% of global supply) from the U.S. market. The investigation timeline extends through April 2026 for Commerce Department final determination and June 2026 for ITC injury assessment. This is the most significant trade action against Russian mineral exports since the Ukraine conflict began.",
+      "severity": "critical",
+      "source_url": "https://discoveryalert.com.au/trade-remedies-strategic-impact-critical-metals-markets-2026/"
+    },
+    {
+      "headline": "Sole U.S. palladium mine cuts production 40% and lays off 800 workers",
+      "detail": "Sibanye-Stillwater, which operates the only primary palladium mine in the United States at Stillwater, Montana, reduced production by approximately 40% and laid off about 800 workers. The company suspended operations at Stillwater West, curtailed production at East Boulder mine, and is focusing on higher-grade material from Stillwater East. The company warned it may have to permanently shutter the mine unless palladium prices recover substantially.",
+      "severity": "critical",
+      "source_url": "https://www.mining.com/web/sibanye-stillwater-posts-394-million-loss-on-weak-prices-us-impairment/"
+    },
+    {
+      "headline": "Global palladium market in continuous deficit since 2012",
+      "detail": "The global palladium market has operated in continuous supply deficit since 2012, with cumulative shortfalls of roughly 1.4 million ounces across 2023 and 2024. The projected return to surplus has been pushed from 2025 to 2028. This persistent deficit has been masked by drawdowns of above-ground stocks, which are approaching exhaustion, meaning future deficits will translate directly into price spikes and physical shortages.",
+      "severity": "critical",
+      "source_url": "https://theoregongroup.com/commodities/platinum/palladium-market-confronts-deficits-amid-north-americas-push-for-supply-security/"
+    },
+    {
+      "headline": "Russia and South Africa each supply 32% of U.S. palladium imports",
+      "detail": "Between 2020 and 2023, Russia and South Africa each accounted for 32% of U.S. palladium imports. With the 132% antidumping duty effectively eliminating Russian supply, the U.S. becomes overwhelmingly dependent on South Africa (Bushveld Complex) and limited domestic production from Montana. This concentration in two sources creates a fragile supply chain for a mineral essential to automotive, semiconductor, and energy applications.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-platinum-group.pdf"
+    },
+    {
+      "headline": "Montana congressional delegation calls for tariffs to protect domestic palladium",
+      "detail": "Montana's congressional delegation actively pushed for tariffs on Russian palladium imports, arguing that below-cost Russian dumping was destroying the domestic palladium mining industry and threatening national security. The successful push for the 132% antidumping duty reflects bipartisan support for protecting U.S. palladium production capacity, but the duty alone cannot solve the supply deficit without price recovery sufficient to sustain Stillwater operations.",
+      "severity": "high",
+      "source_url": "https://dailymontanan.com/2025/08/26/montana-congressional-delegation-calls-for-tariffs-on-russian-palladium/"
+    },
+    {
+      "headline": "USGS models 24% price spike from complete Russian palladium supply cutoff",
+      "detail": "In a USGS scenario modeling the complete restriction of U.S. net palladium imports from Russia for one year, the analysis projected a 24% price increase and approximately 5% reduction in available quantity. The moderate impact estimate reflects the availability of alternative sources, but assumes global markets can redirect supply flows — an assumption that may not hold if Russia retaliates with broader export restrictions.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/publication/ofr20251047/full"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "Commerce Department issues 132% preliminary antidumping duty on Russian palladium",
+      "summary": "On February 19, 2026, the U.S. Department of Commerce issued a preliminary antidumping duty of 132.83% on unwrought palladium imports from the Russian Federation. The duty effectively closes the U.S. market to Russian palladium, which previously supplied 32% of U.S. imports. Final Commerce determination expected April 2026; ITC injury assessment expected June 2026.",
+      "source_url": "https://discoveryalert.com.au/trade-remedies-strategic-impact-critical-metals-markets-2026/",
+      "impact": "Removes the largest single source of U.S. palladium imports and forces rapid supply chain restructuring. May support higher palladium prices that could help sustain Stillwater operations, but also increases costs for automotive and industrial consumers."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Montana delegation pushes for tariffs on Russian palladium to save domestic mining",
+      "summary": "Montana's bipartisan congressional delegation formally called for tariffs on Russian palladium imports, citing below-cost dumping that was undermining the domestic palladium mining industry at Stillwater. The delegation argued that Russia's Norilsk Nickel was selling palladium below production cost to maintain market share and destroy Western competitors, threatening the only U.S. primary PGM mining operations.",
+      "source_url": "https://dailymontanan.com/2025/08/26/montana-congressional-delegation-calls-for-tariffs-on-russian-palladium/",
+      "impact": "Set the political foundation for the February 2026 antidumping duty. Demonstrated bipartisan congressional support for protecting domestic critical mineral production against adversary-nation dumping strategies."
+    },
+    {
+      "date": "2025-06",
+      "headline": "Sibanye-Stillwater announces 40% production cut and 800 layoffs at Montana mines",
+      "summary": "Sibanye-Stillwater announced major restructuring of its U.S. PGM operations, cutting production by approximately 40%, suspending Stillwater West, curtailing East Boulder, and laying off about 800 workers. The company reported a $394 million loss driven by weak palladium prices and U.S. asset impairments. Management warned of potential permanent mine closure unless market conditions improve.",
+      "source_url": "https://www.mining.com/web/sibanye-stillwater-posts-394-million-loss-on-weak-prices-us-impairment/",
+      "impact": "Severely reduced the only domestic U.S. palladium production capability, increasing import dependency at a time of rising geopolitical risk with Russia. The 800 job losses also have significant regional economic impact in Montana."
+    },
+    {
+      "date": "2026-03",
+      "headline": "Palladium prices surge past rehiring threshold but Sibanye remains cautious",
+      "summary": "Palladium prices rose above the level that Sibanye-Stillwater had previously identified as the threshold for rehiring workers and expanding production at Stillwater. However, company officials indicated they are taking a cautious approach to potential expansion, expecting 2026 operations to remain at the reduced capacity level until price recovery proves sustained.",
+      "source_url": "https://www.livingstonenterprise.com/beartooth_mining/palladium-soars-past-rehiring-threshold-but-sibanye-stillwater-remains-cautious/article_da83261d-0c23-477e-ba96-a53d62f903bc.html",
+      "impact": "Signals that even with the antidumping duty supporting higher prices, restoring U.S. domestic production capacity will take time. The cautious approach reflects uncertainty about long-term market conditions and the high cost of restarting suspended operations."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Palladium supply chain risk is critical and rapidly evolving. The 132% antidumping duty on Russian palladium, combined with 40% domestic production cuts at the only U.S. primary mine, creates a dual supply squeeze. The global market has been in continuous deficit since 2012 with above-ground stocks depleting. The U.S. is now overwhelmingly dependent on South African supply for imports, concentrating risk in a single alternative source. Automotive catalytic converter demand remains strong, semiconductor applications are growing, and hydrogen fuel cell adoption adds new demand. Supply relief is not projected until 2028 at the earliest.",
+    "trend": "worsening",
+    "key_drivers": [
+      "132% antidumping duty effectively eliminates Russian palladium from U.S. market (previously 32% of imports)",
+      "40% production cut at Stillwater, Montana — the only U.S. primary palladium mine",
+      "Continuous global supply deficit since 2012 with above-ground stocks depleting",
+      "South Africa becomes overwhelmingly dominant remaining import source (concentration risk)",
+      "Persistent low prices undermining Western production economics despite strategic need",
+      "Growing demand from automotive catalytic converters, semiconductors, and hydrogen fuel cells"
+    ],
+    "mitigation_actions": [
+      "Provide Defense Production Act funding to sustain Stillwater mine operations during price recovery",
+      "Build strategic palladium stockpile through DLA to buffer against supply disruptions",
+      "Negotiate long-term supply agreements with South African producers for supply security",
+      "Invest in PGM recycling from spent automotive catalytic converters to supplement primary supply",
+      "Explore palladium recovery from secondary and unconventional U.S. sources",
+      "Fund R&D into palladium substitution in catalytic converters (platinum-based alternatives)",
+      "Support exploration for new domestic PGM deposits beyond the Stillwater Complex",
+      "Monitor Russian counter-responses to antidumping duty for potential global supply disruption"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Discovery Alert - US Duties on Russian Palladium: 132.83% Rate Set",
+      "url": "https://discoveryalert.com.au/trade-remedies-strategic-impact-critical-metals-markets-2026/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Platinum-Group Metals",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-platinum-group.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "MINING.COM - Sibanye Stillwater Posts $394 Million Loss",
+      "url": "https://www.mining.com/web/sibanye-stillwater-posts-394-million-loss-on-weak-prices-us-impairment/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Daily Montanan - Montana Delegation Calls for Tariffs on Russian Palladium",
+      "url": "https://dailymontanan.com/2025/08/26/montana-congressional-delegation-calls-for-tariffs-on-russian-palladium/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Oregon Group - Palladium Market Confronts Deficits",
+      "url": "https://theoregongroup.com/commodities/platinum/palladium-market-confronts-deficits-amid-north-americas-push-for-supply-security/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS - Methodology for 2025 Critical Minerals Assessment",
+      "url": "https://pubs.usgs.gov/publication/ofr20251047/full",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Geopolitical Monitor - Dumping Duties and the US Palladium Market",
+      "url": "https://www.geopoliticalmonitor.com/precarity-by-design-dumping-duties-and-the-us-palladium-market/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Livingston Enterprise - Palladium Soars Past Rehiring Threshold",
+      "url": "https://www.livingstonenterprise.com/beartooth_mining/palladium-soars-past-rehiring-threshold-but-sibanye-stillwater-remains-cautious/article_da83261d-0c23-477e-ba96-a53d62f903bc.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

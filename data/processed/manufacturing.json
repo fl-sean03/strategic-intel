@@ -1,0 +1,1131 @@
+{
+  "sector": "manufacturing",
+  "data_freshness": {
+    "fred": "2025 (live)",
+    "bls": "2025",
+    "census_cbp": "2022",
+    "usaspending": "2024",
+    "worldbank": "2022"
+  },
+  "summary": {
+    "total_employment": 12268927,
+    "capacity_utilization": 75.5279,
+    "headline_stat": "U.S. shipbuilding output is 1/300th of China's"
+  },
+  "sectors": [
+    {
+      "naics_code": "331",
+      "name": "Primary Metals",
+      "defense_relevance": "Steel, aluminum, titanium, specialty alloys",
+      "capacity_utilization": 67.5479,
+      "employment": 363300,
+      "employment_trend": -0.75,
+      "value_of_shipments": null,
+      "health_score": 49.6,
+      "geographic_distribution": [
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 38358,
+          "share": 0.109
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 34372,
+          "share": 0.0976
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 32511,
+          "share": 0.0924
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 21013,
+          "share": 0.0597
+        },
+        {
+          "state_fips": "01",
+          "state_name": "Alabama",
+          "state_abbrev": "AL",
+          "employment": 18258,
+          "share": 0.0519
+        },
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 17914,
+          "share": 0.0509
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 17723,
+          "share": 0.0503
+        },
+        {
+          "state_fips": "55",
+          "state_name": "Wisconsin",
+          "state_abbrev": "WI",
+          "employment": 15488,
+          "share": 0.044
+        },
+        {
+          "state_fips": "21",
+          "state_name": "Kentucky",
+          "state_abbrev": "KY",
+          "employment": 13572,
+          "share": 0.0386
+        },
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 12571,
+          "share": 0.0357
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "336",
+      "name": "Transportation Equipment",
+      "defense_relevance": "Aircraft, ships, vehicles, missiles",
+      "capacity_utilization": 68.0404,
+      "employment": 1733000,
+      "employment_trend": -0.53,
+      "value_of_shipments": null,
+      "health_score": 50.8,
+      "geographic_distribution": [
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 176599,
+          "share": 0.1067
+        },
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 150600,
+          "share": 0.091
+        },
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 125281,
+          "share": 0.0757
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 111608,
+          "share": 0.0674
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 92912,
+          "share": 0.0561
+        },
+        {
+          "state_fips": "53",
+          "state_name": "Washington",
+          "state_abbrev": "WA",
+          "employment": 75209,
+          "share": 0.0454
+        },
+        {
+          "state_fips": "01",
+          "state_name": "Alabama",
+          "state_abbrev": "AL",
+          "employment": 70005,
+          "share": 0.0423
+        },
+        {
+          "state_fips": "21",
+          "state_name": "Kentucky",
+          "state_abbrev": "KY",
+          "employment": 67276,
+          "share": 0.0406
+        },
+        {
+          "state_fips": "47",
+          "state_name": "Tennessee",
+          "state_abbrev": "TN",
+          "employment": 62764,
+          "share": 0.0379
+        },
+        {
+          "state_fips": "45",
+          "state_name": "South Carolina",
+          "state_abbrev": "SC",
+          "employment": 53219,
+          "share": 0.0322
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "334",
+      "name": "Computer & Electronic Products",
+      "defense_relevance": "Semiconductors, radar, guidance systems",
+      "capacity_utilization": 74.9406,
+      "employment": 989500,
+      "employment_trend": -2.22,
+      "value_of_shipments": null,
+      "health_score": 54.3,
+      "geographic_distribution": [
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 160683,
+          "share": 0.2009
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 64813,
+          "share": 0.081
+        },
+        {
+          "state_fips": "25",
+          "state_name": "Massachusetts",
+          "state_abbrev": "MA",
+          "employment": 49705,
+          "share": 0.0621
+        },
+        {
+          "state_fips": "36",
+          "state_name": "New York",
+          "state_abbrev": "NY",
+          "employment": 41829,
+          "share": 0.0523
+        },
+        {
+          "state_fips": "27",
+          "state_name": "Minnesota",
+          "state_abbrev": "MN",
+          "employment": 38394,
+          "share": 0.048
+        },
+        {
+          "state_fips": "12",
+          "state_name": "Florida",
+          "state_abbrev": "FL",
+          "employment": 30394,
+          "share": 0.038
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 28823,
+          "share": 0.036
+        },
+        {
+          "state_fips": "41",
+          "state_name": "Oregon",
+          "state_abbrev": "OR",
+          "employment": 27431,
+          "share": 0.0343
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 23979,
+          "share": 0.03
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 23026,
+          "share": 0.0288
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "325",
+      "name": "Chemicals",
+      "defense_relevance": "Propellants, explosives, materials",
+      "capacity_utilization": 73.9777,
+      "employment": null,
+      "employment_trend": null,
+      "value_of_shipments": null,
+      "health_score": 59.3,
+      "geographic_distribution": [
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 94707,
+          "share": 0.1037
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 78210,
+          "share": 0.0856
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 49870,
+          "share": 0.0546
+        },
+        {
+          "state_fips": "37",
+          "state_name": "North Carolina",
+          "state_abbrev": "NC",
+          "employment": 48004,
+          "share": 0.0525
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 43765,
+          "share": 0.0479
+        },
+        {
+          "state_fips": "36",
+          "state_name": "New York",
+          "state_abbrev": "NY",
+          "employment": 41618,
+          "share": 0.0456
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 39923,
+          "share": 0.0437
+        },
+        {
+          "state_fips": "34",
+          "state_name": "New Jersey",
+          "state_abbrev": "NJ",
+          "employment": 35520,
+          "share": 0.0389
+        },
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 33171,
+          "share": 0.0363
+        },
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 27898,
+          "share": 0.0305
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "332",
+      "name": "Fabricated Metal Products",
+      "defense_relevance": "Ammunition, armor, structural components",
+      "capacity_utilization": 76.4377,
+      "employment": 1439700,
+      "employment_trend": -0.2,
+      "value_of_shipments": null,
+      "health_score": 61.7,
+      "geographic_distribution": [
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 121976,
+          "share": 0.0861
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 115115,
+          "share": 0.0812
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 97209,
+          "share": 0.0686
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 80055,
+          "share": 0.0565
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 79726,
+          "share": 0.0563
+        },
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 76835,
+          "share": 0.0542
+        },
+        {
+          "state_fips": "55",
+          "state_name": "Wisconsin",
+          "state_abbrev": "WI",
+          "employment": 71907,
+          "share": 0.0508
+        },
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 55952,
+          "share": 0.0395
+        },
+        {
+          "state_fips": "36",
+          "state_name": "New York",
+          "state_abbrev": "NY",
+          "employment": 47778,
+          "share": 0.0337
+        },
+        {
+          "state_fips": "27",
+          "state_name": "Minnesota",
+          "state_abbrev": "MN",
+          "employment": 43413,
+          "share": 0.0306
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "333",
+      "name": "Machinery",
+      "defense_relevance": "Industrial machinery, engines, turbines",
+      "capacity_utilization": 81.0308,
+      "employment": 1084400,
+      "employment_trend": -1.26,
+      "value_of_shipments": null,
+      "health_score": 64.6,
+      "geographic_distribution": [
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 77926,
+          "share": 0.0729
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 77323,
+          "share": 0.0723
+        },
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 71247,
+          "share": 0.0666
+        },
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 65956,
+          "share": 0.0617
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 61929,
+          "share": 0.0579
+        },
+        {
+          "state_fips": "55",
+          "state_name": "Wisconsin",
+          "state_abbrev": "WI",
+          "employment": 60352,
+          "share": 0.0565
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 46462,
+          "share": 0.0435
+        },
+        {
+          "state_fips": "19",
+          "state_name": "Iowa",
+          "state_abbrev": "IA",
+          "employment": 39579,
+          "share": 0.037
+        },
+        {
+          "state_fips": "36",
+          "state_name": "New York",
+          "state_abbrev": "NY",
+          "employment": 38845,
+          "share": 0.0363
+        },
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 36637,
+          "share": 0.0343
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "327",
+      "name": "Nonmetallic Mineral Products",
+      "defense_relevance": "Ceramics, glass, advanced materials",
+      "capacity_utilization": 80.0549,
+      "employment": 414900,
+      "employment_trend": -0.68,
+      "value_of_shipments": null,
+      "health_score": 64.9,
+      "geographic_distribution": [
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 37432,
+          "share": 0.0913
+        },
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 31226,
+          "share": 0.0762
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 24927,
+          "share": 0.0608
+        },
+        {
+          "state_fips": "12",
+          "state_name": "Florida",
+          "state_abbrev": "FL",
+          "employment": 19983,
+          "share": 0.0488
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 19019,
+          "share": 0.0464
+        },
+        {
+          "state_fips": "26",
+          "state_name": "Michigan",
+          "state_abbrev": "MI",
+          "employment": 18248,
+          "share": 0.0445
+        },
+        {
+          "state_fips": "13",
+          "state_name": "Georgia",
+          "state_abbrev": "GA",
+          "employment": 16628,
+          "share": 0.0406
+        },
+        {
+          "state_fips": "37",
+          "state_name": "North Carolina",
+          "state_abbrev": "NC",
+          "employment": 15212,
+          "share": 0.0371
+        },
+        {
+          "state_fips": "18",
+          "state_name": "Indiana",
+          "state_abbrev": "IN",
+          "employment": 15030,
+          "share": 0.0367
+        },
+        {
+          "state_fips": "36",
+          "state_name": "New York",
+          "state_abbrev": "NY",
+          "employment": 14354,
+          "share": 0.035
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    },
+    {
+      "naics_code": "335",
+      "name": "Electrical Equipment",
+      "defense_relevance": "Batteries, power systems, motors",
+      "capacity_utilization": 86.403,
+      "employment": 432000,
+      "employment_trend": 1.61,
+      "value_of_shipments": null,
+      "health_score": 76.5,
+      "geographic_distribution": [
+        {
+          "state_fips": "06",
+          "state_name": "California",
+          "state_abbrev": "CA",
+          "employment": 32568,
+          "share": 0.0913
+        },
+        {
+          "state_fips": "55",
+          "state_name": "Wisconsin",
+          "state_abbrev": "WI",
+          "employment": 24385,
+          "share": 0.0684
+        },
+        {
+          "state_fips": "39",
+          "state_name": "Ohio",
+          "state_abbrev": "OH",
+          "employment": 23953,
+          "share": 0.0672
+        },
+        {
+          "state_fips": "42",
+          "state_name": "Pennsylvania",
+          "state_abbrev": "PA",
+          "employment": 21401,
+          "share": 0.06
+        },
+        {
+          "state_fips": "17",
+          "state_name": "Illinois",
+          "state_abbrev": "IL",
+          "employment": 19211,
+          "share": 0.0539
+        },
+        {
+          "state_fips": "48",
+          "state_name": "Texas",
+          "state_abbrev": "TX",
+          "employment": 17301,
+          "share": 0.0485
+        },
+        {
+          "state_fips": "37",
+          "state_name": "North Carolina",
+          "state_abbrev": "NC",
+          "employment": 16063,
+          "share": 0.045
+        },
+        {
+          "state_fips": "13",
+          "state_name": "Georgia",
+          "state_abbrev": "GA",
+          "employment": 14583,
+          "share": 0.0409
+        },
+        {
+          "state_fips": "47",
+          "state_name": "Tennessee",
+          "state_abbrev": "TN",
+          "employment": 14534,
+          "share": 0.0408
+        },
+        {
+          "state_fips": "45",
+          "state_name": "South Carolina",
+          "state_abbrev": "SC",
+          "employment": 13357,
+          "share": 0.0375
+        }
+      ],
+      "defense_contracts_total": 437181757771.78
+    }
+  ],
+  "defense_contracts": [
+    {
+      "state_abbrev": "VA",
+      "state_name": "Virginia",
+      "total_amount": 52304261309.9,
+      "per_capita": 6059.77
+    },
+    {
+      "state_abbrev": "TX",
+      "state_name": "Texas",
+      "total_amount": 45298842917.02,
+      "per_capita": 1554.23
+    },
+    {
+      "state_abbrev": "CA",
+      "state_name": "California",
+      "total_amount": 38336026565.7,
+      "per_capita": 969.59
+    },
+    {
+      "state_abbrev": "FL",
+      "state_name": "Florida",
+      "total_amount": 23796597745.41,
+      "per_capita": 1104.86
+    },
+    {
+      "state_abbrev": "PA",
+      "state_name": "Pennsylvania",
+      "total_amount": 22691700585.11,
+      "per_capita": 1745.15
+    },
+    {
+      "state_abbrev": "CT",
+      "state_name": "Connecticut",
+      "total_amount": 22247243388.72,
+      "per_capita": 6169.6
+    },
+    {
+      "state_abbrev": "MD",
+      "state_name": "Maryland",
+      "total_amount": 19405154321.5,
+      "per_capita": 3141.4
+    },
+    {
+      "state_abbrev": "AZ",
+      "state_name": "Arizona",
+      "total_amount": 16640709289.95,
+      "per_capita": 2326.88
+    },
+    {
+      "state_abbrev": "MA",
+      "state_name": "Massachusetts",
+      "total_amount": 15709878312.6,
+      "per_capita": 2234.72
+    },
+    {
+      "state_abbrev": "AL",
+      "state_name": "Alabama",
+      "total_amount": 13829518420.26,
+      "per_capita": 2752.54
+    },
+    {
+      "state_abbrev": "MO",
+      "state_name": "Missouri",
+      "total_amount": 12923492992.13,
+      "per_capita": 2099.7
+    },
+    {
+      "state_abbrev": "KY",
+      "state_name": "Kentucky",
+      "total_amount": 11098714041.67,
+      "per_capita": 2463.19
+    },
+    {
+      "state_abbrev": "NY",
+      "state_name": "New York",
+      "total_amount": 9825177152.19,
+      "per_capita": 486.36
+    },
+    {
+      "state_abbrev": "WA",
+      "state_name": "Washington",
+      "total_amount": 9634890777.5,
+      "per_capita": 1250.43
+    },
+    {
+      "state_abbrev": "CO",
+      "state_name": "Colorado",
+      "total_amount": 9212106213.11,
+      "per_capita": 1595.53
+    },
+    {
+      "state_abbrev": "IL",
+      "state_name": "Illinois",
+      "total_amount": 8363864837.46,
+      "per_capita": 652.79
+    },
+    {
+      "state_abbrev": "DC",
+      "state_name": "District Of Columbia",
+      "total_amount": 7879596517.74,
+      "per_capita": 11427.24
+    },
+    {
+      "state_abbrev": "NJ",
+      "state_name": "New Jersey",
+      "total_amount": 7226503152.59,
+      "per_capita": 777.96
+    },
+    {
+      "state_abbrev": "GA",
+      "state_name": "Georgia",
+      "total_amount": 6935658988.45,
+      "per_capita": 647.47
+    },
+    {
+      "state_abbrev": "OH",
+      "state_name": "Ohio",
+      "total_amount": 6247390362.43,
+      "per_capita": 529.46
+    },
+    {
+      "state_abbrev": "MS",
+      "state_name": "Mississippi",
+      "total_amount": 5691748423.77,
+      "per_capita": 1922.06
+    },
+    {
+      "state_abbrev": "UT",
+      "state_name": "Utah",
+      "total_amount": 5514151390.55,
+      "per_capita": 1685.45
+    },
+    {
+      "state_abbrev": "MI",
+      "state_name": "Michigan",
+      "total_amount": 5272940828.74,
+      "per_capita": 523.25
+    },
+    {
+      "state_abbrev": "HI",
+      "state_name": "Hawaii",
+      "total_amount": 5033848880.81,
+      "per_capita": 3459.05
+    },
+    {
+      "state_abbrev": "IN",
+      "state_name": "Indiana",
+      "total_amount": 4532184353.92,
+      "per_capita": 667.92
+    },
+    {
+      "state_abbrev": "OK",
+      "state_name": "Oklahoma",
+      "total_amount": 4335620853.04,
+      "per_capita": 1095.03
+    },
+    {
+      "state_abbrev": "WI",
+      "state_name": "Wisconsin",
+      "total_amount": 4010674252.12,
+      "per_capita": 680.5
+    },
+    {
+      "state_abbrev": "NC",
+      "state_name": "North Carolina",
+      "total_amount": 3901186407.71,
+      "per_capita": 373.7
+    },
+    {
+      "state_abbrev": "SC",
+      "state_name": "South Carolina",
+      "total_amount": 3878443045.16,
+      "per_capita": 757.74
+    },
+    {
+      "state_abbrev": "ME",
+      "state_name": "Maine",
+      "total_amount": 3638300566.97,
+      "per_capita": 2670.59
+    },
+    {
+      "state_abbrev": "LA",
+      "state_name": "Louisiana",
+      "total_amount": 3341913277.96,
+      "per_capita": 717.49
+    },
+    {
+      "state_abbrev": "GU",
+      "state_name": "Guam",
+      "total_amount": 2798972572.52,
+      "per_capita": 18194.52
+    },
+    {
+      "state_abbrev": "IA",
+      "state_name": "Iowa",
+      "total_amount": 2386646356.28,
+      "per_capita": 748.08
+    },
+    {
+      "state_abbrev": "TN",
+      "state_name": "Tennessee",
+      "total_amount": 2358422011.38,
+      "per_capita": 341.26
+    },
+    {
+      "state_abbrev": "AK",
+      "state_name": "Alaska",
+      "total_amount": 2278068956.83,
+      "per_capita": 3106.21
+    },
+    {
+      "state_abbrev": "NH",
+      "state_name": "New Hampshire",
+      "total_amount": 2138079376.34,
+      "per_capita": 1552.11
+    },
+    {
+      "state_abbrev": "NV",
+      "state_name": "Nevada",
+      "total_amount": 2093006368.42,
+      "per_capita": 674.16
+    },
+    {
+      "state_abbrev": "KS",
+      "state_name": "Kansas",
+      "total_amount": 1907233108.43,
+      "per_capita": 649.19
+    },
+    {
+      "state_abbrev": "MN",
+      "state_name": "Minnesota",
+      "total_amount": 1656237716.97,
+      "per_capita": 290.24
+    },
+    {
+      "state_abbrev": "AR",
+      "state_name": "Arkansas",
+      "total_amount": 1626597180.17,
+      "per_capita": 540.12
+    },
+    {
+      "state_abbrev": "NM",
+      "state_name": "New Mexico",
+      "total_amount": 1456328473.36,
+      "per_capita": 687.75
+    },
+    {
+      "state_abbrev": "OR",
+      "state_name": "Oregon",
+      "total_amount": 1063379539.06,
+      "per_capita": 250.96
+    },
+    {
+      "state_abbrev": "RI",
+      "state_name": "Rhode Island",
+      "total_amount": 920923646.52,
+      "per_capita": 839.2
+    },
+    {
+      "state_abbrev": "SD",
+      "state_name": "South Dakota",
+      "total_amount": 840283023.07,
+      "per_capita": 947.69
+    },
+    {
+      "state_abbrev": "PR",
+      "state_name": "Puerto Rico",
+      "total_amount": 756978486.23,
+      "per_capita": 230.37
+    },
+    {
+      "state_abbrev": "NE",
+      "state_name": "Nebraska",
+      "total_amount": 684456427.79,
+      "per_capita": 348.94
+    },
+    {
+      "state_abbrev": "VT",
+      "state_name": "Vermont",
+      "total_amount": 678501193.23,
+      "per_capita": 1055.09
+    },
+    {
+      "state_abbrev": "WV",
+      "state_name": "West Virginia",
+      "total_amount": 658300780.68,
+      "per_capita": 367.0
+    },
+    {
+      "state_abbrev": "MT",
+      "state_name": "Montana",
+      "total_amount": 583275758.55,
+      "per_capita": 537.97
+    },
+    {
+      "state_abbrev": "ND",
+      "state_name": "North Dakota",
+      "total_amount": 497839726.55,
+      "per_capita": 639.0
+    },
+    {
+      "state_abbrev": "ID",
+      "state_name": "Idaho",
+      "total_amount": 359518442.01,
+      "per_capita": 195.49
+    },
+    {
+      "state_abbrev": "WY",
+      "state_name": "Wyoming",
+      "total_amount": 323936828.0,
+      "per_capita": 561.56
+    },
+    {
+      "state_abbrev": "DE",
+      "state_name": "Delaware",
+      "total_amount": 222638929.16,
+      "per_capita": 224.9
+    },
+    {
+      "state_abbrev": "MP",
+      "state_name": "Northern Mariana Islands",
+      "total_amount": 102901448.55,
+      "per_capita": 2174.17
+    },
+    {
+      "state_abbrev": "AS",
+      "state_name": "American Samoa",
+      "total_amount": 16276978.29,
+      "per_capita": 327.44
+    },
+    {
+      "state_abbrev": "VI",
+      "state_name": "U.S. Virgin Islands",
+      "total_amount": 14614271.2,
+      "per_capita": 167.7
+    }
+  ],
+  "defense_concentration_score": 17.5,
+  "shipbuilding": [
+    {
+      "country": "United States",
+      "country_iso": "US",
+      "active_shipyards": 8,
+      "vessels_on_order": 3,
+      "global_share_pct": 0.06
+    },
+    {
+      "country": "China",
+      "country_iso": "CN",
+      "active_shipyards": 400,
+      "vessels_on_order": 3800,
+      "global_share_pct": 70.0
+    },
+    {
+      "country": "South Korea",
+      "country_iso": "KR",
+      "active_shipyards": 7,
+      "vessels_on_order": 850,
+      "global_share_pct": 15.6
+    },
+    {
+      "country": "Japan",
+      "country_iso": "JP",
+      "active_shipyards": 15,
+      "vessels_on_order": 500,
+      "global_share_pct": 9.2
+    }
+  ],
+  "munitions": [
+    {
+      "name": "155mm Artillery Shells",
+      "current_rate": "~40,000/month",
+      "target_rate": "100,000/month",
+      "gap_severity": "severe",
+      "notes": "Army goal by end of FY2025. New lines at multiple facilities.",
+      "confidence": "medium"
+    },
+    {
+      "name": "Javelin Missiles",
+      "current_rate": "~400/month (est.)",
+      "target_rate": "800/month",
+      "gap_severity": "severe",
+      "notes": "~7,000 sent to Ukraine in Year 1. Multi-year replacement cycle.",
+      "confidence": "low"
+    },
+    {
+      "name": "Stinger Missiles",
+      "current_rate": "Production restarted 2023",
+      "target_rate": "~720/year",
+      "gap_severity": "critical",
+      "notes": "Production line had been cold for 20 years. Stockpile depleted.",
+      "confidence": "low"
+    },
+    {
+      "name": "GMLRS Rockets",
+      "current_rate": "~14,000/year",
+      "target_rate": "Increasing",
+      "gap_severity": "moderate",
+      "notes": "High demand signal from Ukraine. Lockheed expanding capacity.",
+      "confidence": "medium"
+    },
+    {
+      "name": "PAC-3 Interceptors",
+      "current_rate": "~500/year (est.)",
+      "target_rate": "Increasing",
+      "gap_severity": "moderate",
+      "notes": "Key for air/missile defense. Long lead times for components.",
+      "confidence": "low"
+    }
+  ],
+  "international": [
+    {
+      "country": "China",
+      "country_iso": "CN",
+      "manufacturing_value_added": 4839979053378.29,
+      "manufacturing_pct_gdp": 26.4237655920515
+    },
+    {
+      "country": "Japan",
+      "country_iso": "JP",
+      "manufacturing_value_added": 844945788777.267,
+      "manufacturing_pct_gdp": 19.8229456954966
+    },
+    {
+      "country": "Germany",
+      "country_iso": "DE",
+      "manufacturing_value_added": 769701681924.128,
+      "manufacturing_pct_gdp": 18.3217735042199
+    },
+    {
+      "country": "Korea, Rep.",
+      "country_iso": "KR",
+      "manufacturing_value_added": 476790575820.194,
+      "manufacturing_pct_gdp": 26.4977408590265
+    },
+    {
+      "country": "India",
+      "country_iso": "IN",
+      "manufacturing_value_added": 439859975451.527,
+      "manufacturing_pct_gdp": 13.1454235512516
+    },
+    {
+      "country": "United States",
+      "country_iso": "US",
+      "manufacturing_value_added": null,
+      "manufacturing_pct_gdp": null
+    }
+  ],
+  "generated_at": "2026-03-15T23:47:42.474917+00:00"
+}

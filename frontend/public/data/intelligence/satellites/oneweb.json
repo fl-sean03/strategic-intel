@@ -1,0 +1,125 @@
+{
+  "id": "oneweb",
+  "category": "satellite",
+  "subject": "OneWeb (Eutelsat OneWeb) Constellation",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "OneWeb, now operating as Eutelsat OneWeb following the September 2023 merger with Eutelsat, is a LEO broadband constellation of approximately 650 operational satellites orbiting at 1,200 km altitude, providing global pole-to-pole internet coverage. The merger created the world's first multi-orbit satellite operator, combining OneWeb's LEO fleet with Eutelsat's 34 geostationary orbital positions. The combined entity is headquartered in Paris with OneWeb operations centered in London.\n\nThe constellation is undergoing significant expansion. In December 2024, Airbus Defence and Space was awarded a contract to build 100 additional LEO satellites, with first deliveries from late 2026. By August 2025, Eutelsat outlined plans to deploy up to 340 additional satellites by 2029 under the EU's IRIS2 framework, with the French government backing a EUR 975 million financing agreement in February 2026 to support the satellite orders. The new satellites incorporate 5G on-ground integration and architectural compatibility with the EU's IRIS2 secure connectivity constellation.\n\nEutelsat OneWeb has become a focal point for European satellite sovereignty ambitions. The French government invested over EUR 700 million in June 2025, raising its stake to nearly 30%, while the UK government contributed EUR 163 million. France also signed a 10-year military connectivity contract with Eutelsat. The LEO segment has been the company's growth engine, with revenue increasing nearly 60% year-on-year and representing roughly one-fifth of total group revenue. However, the company required a EUR 1.5 billion recapitalization in 2025 to strengthen its balance sheet amid declining broadcast revenues, highlighting the financial challenges of transitioning from GEO broadcast to LEO broadband.",
+  "key_findings": [
+    {
+      "headline": "650+ Operational Satellites Providing Global Pole-to-Pole Coverage",
+      "detail": "OneWeb currently operates more than 650 satellites in low Earth orbit at approximately 1,200 km altitude, providing global coverage including polar regions — a capability that Starlink's orbital inclination does not fully match. The first-generation constellation of 656 launched satellites with 654 operational was completed in 2023. The constellation's polar coverage makes it particularly valuable for Arctic and Antarctic operations, including military and scientific applications.",
+      "severity": "moderate",
+      "source_url": "https://en.wikipedia.org/wiki/Eutelsat_OneWeb"
+    },
+    {
+      "headline": "440 Additional Satellites Ordered — 340 Under IRIS2 Framework",
+      "detail": "Eutelsat has ordered 440 additional Airbus-built LEO satellites: 100 ordered in December 2024 for constellation life extension, plus 340 under the EU IRIS2 framework by August 2025. The new satellites will enable 5G on-ground integration and ensure technology architecture compatibility with IRIS2. The French Export Credit Agency is backing a EUR 975 million financing agreement signed in February 2026 to support the orders.",
+      "severity": "high",
+      "source_url": "https://capacityglobal.com/news/eutelsat-orders-340-new-oneweb-satellites/"
+    },
+    {
+      "headline": "European Sovereignty Vehicle — French and UK Government Investments",
+      "detail": "The French government invested over EUR 700 million in Eutelsat in June 2025, raising its stake to nearly 30%, and signed a 10-year military connectivity contract. The UK government contributed EUR 163 million in July 2025. These investments position Eutelsat OneWeb as Europe's sovereign alternative to Starlink, with government backing ensuring that critical LEO broadband infrastructure remains under European control and available for defense and security applications.",
+      "severity": "high",
+      "source_url": "https://www.ccsinsight.com/blog/european-governments-back-eutelsat-oneweb-in-push-for-satellite-sovereignty/"
+    },
+    {
+      "headline": "LEO Revenue Growing 60% Year-on-Year but Company Required EUR 1.5B Recapitalization",
+      "detail": "The LEO segment powered by OneWeb has been Eutelsat's growth engine, with revenue increasing nearly 60% year-on-year and representing roughly one-fifth of total group revenue. However, the company required a EUR 1.5 billion capital injection in 2025 to address balance sheet weakness caused by declining GEO broadcast revenues. This highlights the financial risks of the multi-orbit transition and the capital intensity of maintaining and expanding a LEO constellation.",
+      "severity": "high",
+      "source_url": "https://www.domain-b.com/technology/technology-general/eutelsat-oneweb-leo-broadband-2026"
+    },
+    {
+      "headline": "IRIS2 Integration Positions OneWeb as EU Secure Connectivity Backbone",
+      "detail": "The EU's IRIS2 secure connectivity constellation (264 LEO + 18 MEO satellites, EUR 10.5 billion program) will interoperate with OneWeb's infrastructure. The 100 new Airbus-built satellites specifically emphasize technology architecture compatibility with IRIS2. At contract signing in December 2024, the estimated IRIS2 cost was EUR 10.5 billion, of which EUR 6.5 billion is public funds. Initial government services are expected by 2030, with OneWeb providing the LEO broadband layer.",
+      "severity": "high",
+      "source_url": "https://spacenews.com/europe-signs-contracts-for-iris%C2%B2-constellation/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02",
+      "headline": "EUR 975 Million French Export Credit Financing for LEO Satellite Orders",
+      "summary": "Eutelsat signed a EUR 975 million financing agreement with the French Export Credit Agency to back the contract with Airbus Defence and Space for 340 LEO satellites, on top of the 100 already ordered. This state-backed financing demonstrates the French government's strategic commitment to European satellite sovereignty and provides critical capital for the constellation expansion.",
+      "source_url": "https://telecominfra.wordpress.com/2026/02/14/eutelsat-boosts-revenue-amid-starlink-rivalry-push-a-deep-dive-into-europes-satellite-ambitions/",
+      "impact": "Secures financing for the most significant expansion of European LEO broadband infrastructure, directly supporting EU strategic autonomy goals."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Eutelsat Plans 340 Additional OneWeb Satellites Under IRIS2 Framework",
+      "summary": "Eutelsat outlined plans to deploy up to 340 additional satellites by 2029 as a second-generation iteration under the EUR 2 billion IRIS2 framework. The satellites will incorporate 5G integration and IRIS2-compatible architecture, positioning OneWeb as the primary LEO broadband provider for EU government secure connectivity needs.",
+      "source_url": "https://capacityglobal.com/news/eutelsat-orders-340-new-oneweb-satellites/",
+      "impact": "Deepens integration between OneWeb and EU sovereign space programs, ensuring long-term constellation viability and government customer base."
+    },
+    {
+      "date": "2025-06",
+      "headline": "French Government Invests EUR 700 Million, Signs 10-Year Military Contract",
+      "summary": "The French government invested over EUR 700 million in Eutelsat OneWeb in June 2025, raising its stake to nearly 30%. Simultaneously, France signed a 10-year contract for military connectivity services using Eutelsat's multi-orbit constellation. The UK government followed in July with a EUR 163 million investment, reflecting bipartisan European commitment to satellite sovereignty.",
+      "source_url": "https://www.ccsinsight.com/blog/european-governments-back-eutelsat-oneweb-in-push-for-satellite-sovereignty/",
+      "impact": "Transforms Eutelsat OneWeb from a commercial venture into a strategically backed European sovereign asset, with guaranteed military revenue providing financial stability."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Moderate. OneWeb has achieved global coverage with 650+ satellites and secured significant government backing from France and the UK. However, the company faces intense competition from Starlink's rapidly growing constellation, financial challenges from declining GEO broadcast revenues, and execution risk on the 440-satellite expansion program. The EUR 1.5 billion recapitalization indicates ongoing financial fragility.",
+    "trend": "improving",
+    "key_drivers": [
+      "Strong government backing from France (30% stake, 10-year military contract) and UK provides strategic stability",
+      "IRIS2 integration creates a guaranteed EU government customer base and long-term revenue stream",
+      "440 additional satellites ordered with state-backed financing secured",
+      "Intense competition from Starlink (9,400+ satellites, 10M subscribers) in commercial broadband",
+      "Financial transition from declining GEO broadcast to growing but capital-intensive LEO broadband"
+    ],
+    "mitigation_actions": [
+      "Execute satellite delivery schedule with Airbus to maintain expansion timeline through 2029",
+      "Deepen IRIS2 integration to secure EU government contract revenues",
+      "Leverage multi-orbit architecture (GEO+LEO) to differentiate from LEO-only competitors",
+      "Expand Arctic and polar coverage services where OneWeb has geographic advantage over Starlink",
+      "Accelerate 5G integration and enterprise service development to diversify revenue beyond consumer broadband"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Eutelsat OneWeb - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eutelsat_OneWeb",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Eutelsat Orders 340 New OneWeb Satellites in Major Airbus Deal - Capacity",
+      "url": "https://capacityglobal.com/news/eutelsat-orders-340-new-oneweb-satellites/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "European Governments Back Eutelsat OneWeb in Push for Satellite Sovereignty - CCS Insight",
+      "url": "https://www.ccsinsight.com/blog/european-governments-back-eutelsat-oneweb-in-push-for-satellite-sovereignty/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Europe Signs Contracts for IRIS2 Constellation - SpaceNews",
+      "url": "https://spacenews.com/europe-signs-contracts-for-iris%C2%B2-constellation/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Eutelsat Boosts Revenue Amid Starlink Rivalry Push - Telecom Infrastructure",
+      "url": "https://telecominfra.wordpress.com/2026/02/14/eutelsat-boosts-revenue-amid-starlink-rivalry-push-a-deep-dive-into-europes-satellite-ambitions/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "France-Backed Eutelsat Beats Revenue Estimates as Starlink Rivalry Intensifies - Domain-b",
+      "url": "https://www.domain-b.com/technology/technology-general/eutelsat-oneweb-leo-broadband-2026",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Eutelsat to Take Out Almost EUR 1B in State-Backed Debt for New Satellites - European Spaceflight",
+      "url": "https://europeanspaceflight.com/eutelsat-to-take-out-almost-e1b-in-state-backed-debt-for-new-satellites",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

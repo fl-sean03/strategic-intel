@@ -1,0 +1,140 @@
+{
+  "id": "samarium",
+  "category": "mineral",
+  "subject": "Samarium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Samarium is a defense-critical rare earth element whose primary strategic importance derives from samarium-cobalt (SmCo) permanent magnets — the magnet of choice for extreme-temperature military applications including jet engines, missile systems, and avionics where NdFeB magnets would demagnetize. Lockheed Martin, the largest U.S. consumer of samarium, uses approximately 50 pounds of SmCo magnets in each F-35 Lightning II fighter aircraft. China controls over 90% of the global SmCo magnet market and subjected samarium to export licensing in April 2025, with military-adjacent and aerospace applications almost never receiving approval.\n\nThe USGS 2025 methodology placed samarium among just six minerals with supply disruption economic impact exceeding $1 billion in U.S. GDP. China's export licensing system has caused controlled rare earth exports to come to a virtual standstill since April 2025, with applications routinely facing 60-120 day or longer review periods. Arnold Magnetic Technologies has secured non-Chinese samarium and cobalt supply chains with manufacturing in Switzerland and Thailand, while the newly completed eVAC Magnetics plant in South Carolina — backed by $94.1 million from the DOD — provides the first domestic SmCo magnet manufacturing in decades. However, analysts estimate it will take at least five years for the United States to meaningfully reduce dependence on Chinese rare earths for defense magnet production.",
+  "key_findings": [
+    {
+      "headline": "Each F-35 fighter contains 50 pounds of samarium-cobalt magnets from Chinese-dominated supply",
+      "detail": "Lockheed Martin is the largest U.S. consumer of samarium, with each F-35 Lightning II containing approximately 50 pounds of SmCo magnets to handle extreme heat in engines and power systems. SmCo magnets are also used in Tomahawk cruise missiles, precision-guided munitions, and various other weapons systems. China accounts for more than 90% of the global SmCo magnet market, creating direct dependency of the F-35 program and other weapons platforms on Chinese supply.",
+      "severity": "critical",
+      "source_url": "https://rareearthexchanges.com/rare-earth-elements-in-defense-technology/"
+    },
+    {
+      "headline": "China's export licensing has halted samarium exports with 60-120 day review delays",
+      "detail": "China's April 2025 export licensing system brought SmCo magnets, Dy/Tb-containing NdFeB magnets, and related alloys under strict controls. Applications routinely face 60-120 day or longer review periods without clear decisions, with 'no rejection' often meaning indefinite hold. Military-adjacent, aerospace, and sophisticated sensor programs almost never receive approvals. Controlled rare earth exports came to a virtual standstill since April 4, 2025.",
+      "severity": "critical",
+      "source_url": "https://www.arnoldmagnetics.com/blog/chinas-rare-earth-export-delays-2025-2026-magnet-supply-chain-outlook/"
+    },
+    {
+      "headline": "Samarium among six minerals with >$1 billion GDP impact from supply disruption",
+      "detail": "The USGS 2025 Critical Minerals methodology placed samarium alongside rhodium, lutetium, terbium, dysprosium, and gallium as minerals whose supply disruption would cause economic impact exceeding $1 billion in U.S. GDP. This reflects samarium's irreplaceable role in defense magnet applications and the extreme concentration of supply and processing in China.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/publication/ofr20251047/full"
+    },
+    {
+      "headline": "Arnold Magnetics has secured non-Chinese samarium supply for magnet production",
+      "detail": "Arnold Magnetic Technologies has secured non-Chinese samarium and cobalt supply chains, with manufacturing operations in Switzerland and Thailand to reduce dependence on Chinese exports. The company also produces Alnico magnets domestically with zero China dependence for applications that don't require SmCo extreme heat tolerance. However, Arnold represents a single company's solution, not a systemic fix for the defense supply chain.",
+      "severity": "high",
+      "source_url": "https://www.arnoldmagnetics.com/blog/chinas-rare-earth-export-delays-2025-2026-magnet-supply-chain-outlook/"
+    },
+    {
+      "headline": "eVAC Magnetics completes DOD-funded SmCo magnet plant in South Carolina",
+      "detail": "The eVAC Magnetics facility in Sumter County, South Carolina was completed in late 2025, designed to produce both NdFeB and SmCo permanent magnets. The DOD provided $94.1 million to acquire and install manufacturing equipment, plus a $111.9 million Qualified Advanced Energy Project Tax Credit. The plant will employ approximately 300 workers and serve industrial and defense markets in North America, producing magnets essential for radar, sonar, and guidance systems.",
+      "severity": "high",
+      "source_url": "https://constructionreviewonline.com/new-rare-earth-magnet-plant-completed-in-south-carolina-strengthening-u-s-supply-chain/"
+    },
+    {
+      "headline": "Five-year timeline estimated to meaningfully reduce Chinese rare earth dependence",
+      "detail": "A defense industry executive noted that newly secured alternative samarium material would sustain production for only about a year, and studies suggest it will take at least five years for the United States to meaningfully reduce dependence on Chinese rare earths for defense magnet production. This timeline extends well beyond near-term defense production needs, leaving the F-35, missile, and radar programs vulnerable to supply interruption throughout the transition.",
+      "severity": "high",
+      "source_url": "https://economy.ac/news/2025/12/202512286033"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12",
+      "headline": "eVAC Magnetics completes SmCo and NdFeB magnet manufacturing facility in South Carolina",
+      "summary": "Construction was completed on the eVAC Magnetics plant in Sumter County, South Carolina, the first U.S. rare earth permanent magnet manufacturing facility to become operational in decades. Backed by $94.1 million from the DOD and a $111.9 million tax credit, the facility will produce both samarium-cobalt and NdFeB magnets for defense and industrial applications, employing 300 workers.",
+      "source_url": "https://constructionreviewonline.com/new-rare-earth-magnet-plant-completed-in-south-carolina-strengthening-u-s-supply-chain/",
+      "impact": "The facility provides critical domestic magnet manufacturing capability, but its effectiveness depends on securing reliable samarium feedstock from non-Chinese sources. The plant addresses the manufacturing gap but not the upstream material supply constraint."
+    },
+    {
+      "date": "2025-04",
+      "headline": "China imposes export licensing on samarium and six other medium and heavy rare earths",
+      "summary": "MOFCOM Announcement No. 18 brought samarium, gadolinium, terbium, dysprosium, lutetium, scandium, and yttrium under mandatory export licensing with end-use declaration requirements. The controls effectively halted unrestricted samarium exports, with controlled shipments coming to a virtual standstill. SmCo magnets and related alloys were explicitly included in the restricted items list.",
+      "source_url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "impact": "The export controls directly threaten F-35 production, Tomahawk missile manufacturing, and other weapons programs that depend on SmCo magnets. Defense contractors face 60-120+ day procurement delays with uncertain outcomes."
+    },
+    {
+      "date": "2025-10",
+      "headline": "Pentagon waiver allows F-35 deliveries to continue despite Chinese magnet content",
+      "summary": "The Pentagon issued waivers allowing continued delivery of F-35 fighters containing Chinese-sourced rare earth magnets, acknowledging that no immediate alternative supply exists. This followed earlier revelations that all F-35 variants contain banned Chinese alloys in their magnet systems. The waiver highlights the gap between policy intent (de-sinicizing defense supply chains) and industrial reality.",
+      "source_url": "https://www.airandspaceforces.com/deliveries-of-new-f-35s-with-chinese-magnets-resume-with-pentagon-waiver/",
+      "impact": "The waiver demonstrates that even with significant DOD investment in domestic magnet production, Chinese samarium dependence will persist for years. The F-35 program's 50 pounds of SmCo magnets per aircraft represents a continuing strategic vulnerability."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Samarium faces an acute defense supply chain crisis. China controls 90%+ of SmCo magnet production and has imposed export licensing with military end-use denial since April 2025. Each F-35 requires 50 pounds of SmCo magnets, and Pentagon waivers for Chinese-sourced magnets demonstrate that no alternative currently exists at scale. The new South Carolina facility provides manufacturing capability but remains dependent on upstream samarium supply. A five-year timeline to meaningfully reduce Chinese dependence leaves defense programs critically exposed.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 90%+ of global SmCo magnet production",
+      "April 2025 export licensing with automatic military end-use denial",
+      "Each F-35 requires 50 pounds of SmCo magnets",
+      "60-120+ day export license review periods with uncertain outcomes",
+      "Pentagon forced to issue waivers for Chinese magnets in F-35s",
+      "Five-year minimum timeline to meaningfully reduce Chinese dependence"
+    ],
+    "mitigation_actions": [
+      "Rapidly secure non-Chinese samarium feedstock for eVAC Magnetics South Carolina plant",
+      "Expand Arnold Magnetics' non-Chinese SmCo supply chain model to other producers",
+      "Emergency stockpiling of samarium metal and SmCo magnet alloys for defense programs",
+      "Accelerate domestic rare earth separation to produce samarium from U.S. and allied ores",
+      "Fund research into reduced-SmCo magnet designs for defense applications where possible",
+      "Develop Alnico magnet alternatives for applications where SmCo heat tolerance is not critical",
+      "Negotiate bilateral supply agreements with potential samarium producers (Brazil, India, Australia)"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rare Earth Exchanges - 6 Military Uses of Rare Earth Elements in Defense Technology",
+      "url": "https://rareearthexchanges.com/rare-earth-elements-in-defense-technology/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Arnold Magnetic Technologies - China's Rare Earth Export Delays 2025-2026 Magnet Supply Chain Outlook",
+      "url": "https://www.arnoldmagnetics.com/blog/chinas-rare-earth-export-delays-2025-2026-magnet-supply-chain-outlook/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS - Methodology for 2025 U.S. List of Critical Minerals",
+      "url": "https://pubs.usgs.gov/publication/ofr20251047/full",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Construction Review Online - New Rare-Earth Magnet Plant Completed in South Carolina",
+      "url": "https://constructionreviewonline.com/new-rare-earth-magnet-plant-completed-in-south-carolina-strengthening-u-s-supply-chain/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Air and Space Forces Magazine - Pentagon Waiver for F-35s With Chinese Magnets",
+      "url": "https://www.airandspaceforces.com/deliveries-of-new-f-35s-with-chinese-magnets-resume-with-pentagon-waiver/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China MOFCOM - Announcement No.18 of 2025 on Export Control of Rare Earth Items",
+      "url": "https://english.mofcom.gov.cn/Policies/AnnouncementsOrders/art/2025/art_0dd87cbee7b045bf93fabe6ab2faceee.html/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "The Economy - Rare Earths Expose a Weak Link in U.S. Defense Industry",
+      "url": "https://economy.ac/news/2025/12/202512286033",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "West Point Modern War Institute - China's Rare Earth Weaponization Should Be a Wake-Up Call",
+      "url": "https://mwi.westpoint.edu/minerals-magnets-and-military-capability-chinas-rare-earth-weaponization-should-be-a-wake-up-call/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    }
+  ]
+}

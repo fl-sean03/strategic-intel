@@ -1,0 +1,141 @@
+{
+  "id": "fluorspar",
+  "category": "mineral",
+  "subject": "Fluorspar",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Fluorspar (calcium fluoride) is one of the most strategically vulnerable non-metallic critical minerals in the U.S. supply chain, with the nation maintaining 100% import dependency for decades. The United States imports all of its fluorspar, primarily from Mexico and China, while having no active domestic mines. Fluorspar is the essential precursor to hydrofluoric acid, which underpins production of lithium-ion batteries, semiconductors, aluminum, refrigerants, and uranium enrichment — making it a keystone material for both the defense industrial base and the clean energy transition.\n\nChina dominates global fluorspar supply at approximately 62% of output (5.8 million tons in 2024), though its role is shifting from major exporter to net consumer as domestic demand for EV batteries and semiconductors surges. Fluorspar prices have risen 50% over five years, and demand is projected to surge 40-70% by 2035 driven by electric vehicles and semiconductor manufacturing.\n\nA significant strategic development occurred in January 2026 when the Defense Logistics Agency awarded Ares Strategic Mining a $169 million contract (with task order ceiling of $250 million over five years) to supply fluorspar from its Lost Sheep Project in Utah — the only permitted fluorspar mine in the United States. This represents the first meaningful step toward establishing domestic supply, though the project's initial 50,000 tonnes/year capacity would cover less than 20% of U.S. annual requirements. The Pentagon's investment signals recognition that 100% import dependency for a mineral essential to semiconductor and battery production is an unacceptable national security risk.",
+  "key_findings": [
+    {
+      "headline": "U.S. is 100% import-dependent for fluorspar with no active domestic mines",
+      "detail": "The United States has maintained 100% import dependency for fluorspar for decades, importing approximately 290,000 metric tons annually primarily from Mexico and China. Until the Ares Strategic Mining contract, there was no active domestic fluorspar mine. This complete foreign dependency for a mineral essential to semiconductor fabrication, battery production, and uranium enrichment represents one of the most severe single-mineral supply chain vulnerabilities in the U.S. critical minerals portfolio.",
+      "severity": "critical",
+      "source_url": "https://www.aresmining.com/fluorspar-industry-overview"
+    },
+    {
+      "headline": "Pentagon awards $169M contract to establish first domestic fluorspar supply",
+      "detail": "In January 2026, the Defense Logistics Agency awarded Ares Strategic Mining a $168.9 million contract under a five-year IDIQ agreement with a total ceiling of $250 million. Ares operates the Lost Sheep Project in Utah, the only permitted fluorspar mine in the United States, with expected production capacity of 50,000 tonnes per year of acid-grade fluorspar. This represents the first significant federal investment in domestic fluorspar production.",
+      "severity": "critical",
+      "source_url": "https://www.aresmining.com/post/ares-strategic-mining-awarded-multi-year-pentagon-contract-with-estimated-initial-award-value-of-16"
+    },
+    {
+      "headline": "Fluorspar demand projected to surge 40-70% by 2035 from EVs and semiconductors",
+      "detail": "Global fluorspar demand is projected to increase 40-70% by 2035, driven primarily by electric vehicle battery manufacturing and semiconductor fabrication. The fluorspar market's battery segment is expected to grow at a CAGR of 21.4% from 2025 to 2032, with global EV sales projected to reach 31.1 million units annually by 2030. This demand surge will further strain already tight global supplies and intensify competition for limited non-Chinese sources.",
+      "severity": "high",
+      "source_url": "https://carboncredits.com/ares-strategic-mining-is-securing-americas-fluorspar-the-secret-critical-mineral-fueling-clean-tech/"
+    },
+    {
+      "headline": "China controls 62% of global fluorspar but shifting from exporter to consumer",
+      "detail": "China accounts for approximately 62% of global fluorspar production at roughly 5.8 million tons in 2024. However, China's role is transitioning from major exporter to net consumer as its domestic demand for EV batteries, semiconductors, and refrigerants surges. This structural shift will reduce the availability of Chinese fluorspar on global markets, tightening supply for import-dependent countries like the United States.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/fluorspar-critical-us-industry-2025/"
+    },
+    {
+      "headline": "Fluorspar prices have risen 50% in five years with further increases expected",
+      "detail": "Fluorspar prices have increased approximately 50% over five years, reflecting tightening global supply-demand fundamentals. The price trend is expected to continue as demand from EV batteries and semiconductors grows faster than new supply can be brought online. For the U.S., rising prices compound the vulnerability of 100% import dependency, increasing both cost exposure and the incentive for supply disruption as a geopolitical tool.",
+      "severity": "high",
+      "source_url": "https://discoveryalert.com.au/fluorspar-critical-us-industry-2025/"
+    },
+    {
+      "headline": "Fluorspar is the essential precursor for hydrofluoric acid across multiple critical sectors",
+      "detail": "Hydrofluoric acid derived from fluorspar is a key input for lithium-ion battery electrolyte production, semiconductor etching, aluminum smelting, uranium enrichment (UF6 conversion), and refrigerant manufacturing. This broad downstream dependency means fluorspar supply disruptions would cascade across the defense industrial base, technology sector, energy infrastructure, and clean energy transition simultaneously.",
+      "severity": "moderate",
+      "source_url": "https://cleantechctv.com/fluorspar-a-critical-mineral-with-strategic-importance/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-01",
+      "headline": "DLA awards Ares Strategic Mining $169M fluorspar supply contract",
+      "summary": "The Defense Logistics Agency awarded Ares Strategic Mining a $168.9 million contract to supply fluorspar to the U.S. government, with a five-year IDIQ agreement ceiling of $250 million in potential task orders. Ares operates the Lost Sheep Project in Utah with expected production capacity of 50,000 tonnes per year of acid-grade fluorspar. This represents the first Pentagon contract for domestic fluorspar supply and the most significant step toward reducing 100% import dependency.",
+      "source_url": "https://www.aresmining.com/post/ares-strategic-mining-awarded-multi-year-pentagon-contract-with-estimated-initial-award-value-of-16",
+      "impact": "Could reduce U.S. fluorspar import reliance by up to 20% over five years. Provides a demand anchor for the only permitted domestic fluorspar mine and may catalyze additional private investment in U.S. fluorspar exploration."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Fluorspar retained on final 2025 List of Critical Minerals",
+      "summary": "The U.S. Department of the Interior retained fluorspar on the final 2025 List of Critical Minerals, citing its 100% import dependency and essential role in semiconductor, battery, and aluminum production. The designation maintains fluorspar's eligibility for Defense Production Act funding, federal financing programs, and expedited permitting.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Continued critical mineral status supports the policy framework for domestic fluorspar development and justifies the DLA's investment in supply agreements with Ares Strategic Mining."
+    },
+    {
+      "date": "2025-08",
+      "headline": "CleanTech acquires strategic fluorspar assets in a supply-critical market",
+      "summary": "CleanTech announced a strategic fluorspar acquisition as part of growing private sector interest in the mineral's supply chain. The acquisition reflects recognition that tightening global fluorspar supply, driven by surging EV and semiconductor demand, creates both strategic necessity and commercial opportunity for non-Chinese fluorspar production.",
+      "source_url": "https://www.ainvest.com/news/cleantech-strategic-fluorspar-acquisition-critical-mineral-play-supply-critical-market-2508/",
+      "impact": "Signals growing private sector investment in fluorspar supply chains, supplementing government efforts and potentially accelerating the development of new production capacity outside China."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Fluorspar supply chain risk remains critical due to 100% U.S. import dependency, though the DLA-Ares contract marks the first meaningful step toward mitigation. China's 62% production dominance and transition from exporter to consumer will tighten global supply, while surging demand from EVs and semiconductors (40-70% growth by 2035) will intensify competition. Mexico remains the primary U.S. import source but faces its own infrastructure and investment constraints. The Lost Sheep Project's 50,000 tonnes/year capacity is meaningful but covers less than 20% of annual U.S. requirements.",
+    "trend": "stable",
+    "key_drivers": [
+      "100% U.S. import dependency with no domestic production history in decades",
+      "China's 62% production share and structural shift from exporter to consumer",
+      "Surging demand from EV batteries and semiconductors projected to grow 40-70% by 2035",
+      "Fluorspar is essential precursor for hydrofluoric acid across defense and technology sectors",
+      "50% price increase over five years reflecting tightening supply-demand fundamentals",
+      "Mexico supply concentration risk as primary U.S. import source"
+    ],
+    "mitigation_actions": [
+      "Execute the $250M DLA-Ares IDIQ contract to establish domestic production baseline",
+      "Expand exploration and permitting for additional domestic fluorspar deposits beyond Lost Sheep",
+      "Negotiate diversified supply agreements with Mexico, South Africa, and Mongolia",
+      "Invest in fluorspar recycling from aluminum smelting and refrigerant recovery",
+      "Fund R&D into alternative processes that reduce hydrofluoric acid consumption in semiconductor fab",
+      "Build strategic fluorspar stockpile through DLA to buffer against import disruptions",
+      "Support Mexican fluorspar industry investment to secure primary import source",
+      "Conduct stress tests on semiconductor and battery supply chains under fluorspar disruption scenarios"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ares Strategic Mining - Pentagon Contract Award",
+      "url": "https://www.aresmining.com/post/ares-strategic-mining-awarded-multi-year-pentagon-contract-with-estimated-initial-award-value-of-16",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Ares Strategic Mining - Fluorspar Industry Overview",
+      "url": "https://www.aresmining.com/fluorspar-industry-overview",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Discovery Alert - Fluorspar: Critical US Mining Mineral Facing Supply Gap",
+      "url": "https://discoveryalert.com.au/fluorspar-critical-us-industry-2025/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Carbon Credits - Ares Strategic Mining Securing America's Fluorspar",
+      "url": "https://carboncredits.com/ares-strategic-mining-is-securing-americas-fluorspar-the-secret-critical-mineral-fueling-clean-tech/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CleanTech - Fluorspar: A Critical Mineral with Strategic Importance",
+      "url": "https://cleantechctv.com/fluorspar-a-critical-mineral-with-strategic-importance/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Inside Government Contracts - Federal Push for Critical Minerals Stockpiling",
+      "url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Fluorspar Price - Ares Strategic Mining Government Supply Contract",
+      "url": "https://fluorspar.com/2026/02/09/ares-strategic-mining-to-supply-fluorspar-to-us-government-2026-01-20-investing-news/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

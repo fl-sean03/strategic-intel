@@ -1,0 +1,171 @@
+{
+  "id": "gallium",
+  "category": "mineral",
+  "subject": "Gallium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Gallium is among the most critically vulnerable minerals in the U.S. supply chain, with China controlling approximately 98% of global primary production. The metal is indispensable for gallium arsenide (GaAs) and gallium nitride (GaN) semiconductors used in 5G infrastructure, electric vehicle power electronics, and over 11,000 individual defense parts including the F-35's AESA radar, the Navy's AN/SPY-6 radar, and Army LTAMDS air defense systems. Nearly 85% of defense supply chains containing gallium include at least one Chinese supplier.\n\nIn December 2024, China imposed a direct export ban on gallium to the United States in retaliation for U.S. semiconductor export controls, causing prices to surge over 123% from $940/kg to over $2,100/kg by early 2026. While China temporarily suspended the ban in November 2025 as part of a broader trade agreement, the suspension expires in November 2026 with no long-term guarantees, leaving the supply chain in persistent uncertainty.\n\nThe U.S. is racing to establish domestic production capacity. The DOE has invested $6 million in gallium production R&D, GlobalFoundries received $9.5 million from the Pentagon to develop GaN-on-silicon manufacturing in Vermont with volume production targeted for late 2026, and several private ventures including MTM Critical Metals (Texas) and US Critical Materials (Montana) are targeting 2026 production starts. However, total global demand is below 700 metric tons annually, and building alternative supply chains at scale remains a multi-year effort.",
+  "key_findings": [
+    {
+      "headline": "China controls 98% of global primary gallium production",
+      "detail": "China's dominance stems from its massive aluminum and zinc refining capacity, from which gallium is extracted as a byproduct. No other country has comparable refining infrastructure, making gallium one of the most concentrated supply chains of any critical mineral. The U.S. met 100% of its gallium demand through imports in 2024.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/beyond-rare-earths-chinas-growing-threat-gallium-supply-chains"
+    },
+    {
+      "headline": "85% of U.S. defense supply chains with gallium include a Chinese supplier",
+      "detail": "Over 11,000 individual defense parts require gallium, with applications spanning advanced radar systems (AN/SPY-6, F-35 AESA, LTAMDS), electronic warfare, and missile defense. A full Chinese embargo could cause an estimated $8 billion hit to U.S. GDP. No effective substitutes exist for GaAs and GaN in these critical defense applications.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/beyond-rare-earths-chinas-growing-threat-gallium-supply-chains"
+    },
+    {
+      "headline": "Gallium prices surged 123% since January 2025",
+      "detail": "Retail gallium prices rose from $940.50/kg at the start of 2025 to $2,101.60/kg by early March 2026, driven by China's December 2024 export ban, tightened licensing enforcement, and soaring semiconductor and defense demand. Rotterdam gallium prices reached $687/kg wholesale by May 2025, representing over 150% increase over pre-control prices.",
+      "severity": "high",
+      "source_url": "https://strategicmetalsinvest.com/gallium-prices/"
+    },
+    {
+      "headline": "Pentagon targets 2026 domestic gallium production independence",
+      "detail": "Multiple U.S. projects target 2026 production: MTM Critical Metals in Texas (gallium from industrial scrap), US Critical Materials' Sheep Creek deposit in Montana (richest gallium deposit in North America), and GlobalFoundries' Vermont GaN facility (licensed TSMC technology, $80M+ in government support since 2020). Kazakhstan also plans 15 tonnes/year from H2 2026.",
+      "severity": "high",
+      "source_url": "https://uscriticalmaterials.com/pentagons-us-gallium-strategy-targets-2026-production-independence/"
+    },
+    {
+      "headline": "China's export ban suspension expires November 2026 with no long-term guarantees",
+      "detail": "China suspended its gallium export ban on November 7, 2025 as part of the Xi-Trump trade agreement, with the suspension lasting until November 27, 2026. However, the clause banning exports to military end-users remains in force, and no commitments extend beyond the expiration date, maintaining persistent uncertainty for defense and commercial supply chain planning.",
+      "severity": "high",
+      "source_url": "https://www.fastmarkets.com/insights/china-suspends-export-prohibition-on-superhard-materials-us/"
+    },
+    {
+      "headline": "EU Critical Raw Materials Act creates additional demand pressure",
+      "detail": "The EU CRMA, in force since 2024, designates gallium as a strategic raw material and mandates reducing import dependency on single third-country sources. Compliance deadlines in 2025-2027 are creating institutional demand from European manufacturers seeking verified non-Chinese inventory, intensifying global competition for limited non-Chinese supply.",
+      "severity": "medium",
+      "source_url": "https://strategicmetalsinvest.com/gallium-update-2025/"
+    },
+    {
+      "headline": "GlobalFoundries receives $9.5M DOD funding for GaN chip manufacturing in Vermont",
+      "detail": "GlobalFoundries has received over $80 million since 2020 from the U.S. government for GaN development. In December 2024, a $9.5 million award from DOD's Trusted Access Program Office will advance GaN-on-silicon manufacturing at its Essex Junction, Vermont facility. A November 2025 licensing deal with TSMC enables volume GaN production targeted for late 2026.",
+      "severity": "medium",
+      "source_url": "https://gf.com/gf-press-release/globalfoundries-gan-chip-manufacturing-advances-with-9-5-million-u-s-federal-funding/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2024-12-03",
+      "headline": "China bans gallium exports to the United States",
+      "summary": "In direct retaliation for U.S. Commerce Department export controls targeting 24 types of semiconductor manufacturing equipment and 140 Chinese companies, China's Ministry of Commerce banned exports of gallium, germanium, antimony, and superhard materials to the United States. The ban was the most stringent critical minerals export restriction China had imposed to date.",
+      "source_url": "https://www.csis.org/analysis/china-imposes-its-most-stringent-critical-minerals-export-restrictions-yet-amidst",
+      "impact": "Immediately disrupted U.S. gallium supply chains, triggering a price surge and forcing buyers to seek alternative sources in Europe, Japan, and South Korea. Defense contractors faced acute supply uncertainty for radar and electronic warfare programs."
+    },
+    {
+      "date": "2025-07-17",
+      "headline": "CSIS analysis reveals 85% of defense gallium supply chains include Chinese suppliers",
+      "summary": "A comprehensive Center for Strategic and International Studies report found that nearly 85% of U.S. defense supply chains containing gallium include at least one Chinese supplier, with over 11,000 defense parts requiring gallium. The report estimated a full embargo could cause an $8 billion GDP hit and called for urgent diversification.",
+      "source_url": "https://www.csis.org/analysis/beyond-rare-earths-chinas-growing-threat-gallium-supply-chains",
+      "impact": "Elevated gallium to top-tier national security concern, accelerating Pentagon investment in domestic production capabilities and allied-nation supply agreements."
+    },
+    {
+      "date": "2025-11-07",
+      "headline": "China temporarily suspends gallium export ban as part of trade deal",
+      "summary": "Following the Xi-Trump meeting, China suspended export restrictions on gallium, germanium, antimony, and related products until November 27, 2026. The suspension allows managed exports under licensing, but the clause banning exports to military end-users remains in effect and no long-term guarantees extend beyond the expiration date.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Provided temporary relief to commercial supply chains but did not address defense sector needs due to continuing military end-user ban. Supply chain planners face a November 2026 cliff with no certainty of renewal."
+    },
+    {
+      "date": "2025-11",
+      "headline": "GlobalFoundries licenses TSMC GaN technology for Vermont production",
+      "summary": "GlobalFoundries announced a technology licensing agreement with TSMC to produce gallium nitride on silicon chips at its Essex Junction, Vermont facility. Development and qualification will begin in early 2026 with volume production targeted for late 2026, creating the first domestic GaN foundry capacity.",
+      "source_url": "https://techovedas.com/globalfoundries-tsmc-turn-vermont-into-u-s-gan-chip-powerhouse-by-2026/",
+      "impact": "Establishes critical domestic semiconductor manufacturing capability for GaN chips used in defense radar, EV fast chargers, and 5G base stations, reducing dependence on Asian foundries."
+    },
+    {
+      "date": "2024-07",
+      "headline": "DOE announces $6 million for domestic gallium production research",
+      "summary": "The U.S. Department of Energy's Office of Fossil Energy and Carbon Management announced $6 million in funding to enhance U.S. supply chain security through domestic gallium production, supporting research into extraction from aluminum processing byproducts and other domestic sources.",
+      "source_url": "https://www.energy.gov/fecm/articles/us-department-energy-announces-6-million-enhance-us-supply-chain-security-through",
+      "impact": "Represents early-stage federal investment in building domestic gallium extraction capability, though the funding level is modest relative to the scale of the supply chain challenge."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Gallium presents an extreme supply chain risk. China's 98% production monopoly, combined with demonstrated willingness to weaponize exports, creates a single point of failure for U.S. defense and semiconductor industries. The temporary suspension of export restrictions provides only short-term relief through November 2026, while the military end-user ban remains active. U.S. annual consumption of approximately 200 metric tons (including embedded gallium in wafers and devices) has zero domestic primary production to backstop it. The $8 billion GDP impact estimate from a full embargo underscores the severity.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's 98% production monopoly with no near-term alternatives at scale",
+      "Temporary export ban suspension expires November 2026 with military end-user clause still active",
+      "Surging demand from 5G, EV power electronics, and defense modernization programs",
+      "No effective substitutes for GaAs/GaN in defense radar and electronic warfare applications",
+      "Gallium price increase of 123% straining procurement budgets",
+      "EU CRMA compliance deadlines creating additional competition for non-Chinese supply"
+    ],
+    "mitigation_actions": [
+      "Accelerate domestic production from MTM Critical Metals (TX), US Critical Materials (MT), and other ventures targeting 2026",
+      "Complete GlobalFoundries Vermont GaN foundry qualification and volume production by late 2026",
+      "Expand allied-nation production in Kazakhstan (15 t/yr target), Germany, South Korea, and Australia (Alcoa Wagerup 100 t/yr)",
+      "Increase strategic stockpile reserves of gallium metal and GaAs/GaN wafers",
+      "Fund gallium recycling and recovery from electronic waste streams",
+      "Negotiate long-term supply agreements with non-Chinese producers ahead of November 2026 deadline"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - Beyond Rare Earths: China's Growing Threat to Gallium Supply Chains",
+      "url": "https://www.csis.org/analysis/beyond-rare-earths-chinas-growing-threat-gallium-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Gallium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-gallium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "DOE - $6 Million for Domestic Gallium Production",
+      "url": "https://www.energy.gov/fecm/articles/us-department-energy-announces-6-million-enhance-us-supply-chain-security-through",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Fastmarkets - China Suspends Export Prohibition on Superhard Materials to US",
+      "url": "https://www.fastmarkets.com/insights/china-suspends-export-prohibition-on-superhard-materials-us/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Strategic Metals Invest - Gallium Prices and 2026 Outlook",
+      "url": "https://strategicmetalsinvest.com/gallium-prices/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "US Critical Materials - Pentagon's US Gallium Strategy Targets 2026 Production Independence",
+      "url": "https://uscriticalmaterials.com/pentagons-us-gallium-strategy-targets-2026-production-independence/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "GlobalFoundries - GaN Chip Manufacturing Advances with $9.5M Federal Funding",
+      "url": "https://gf.com/gf-press-release/globalfoundries-gan-chip-manufacturing-advances-with-9-5-million-u-s-federal-funding/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CSIS - China Imposes Most Stringent Critical Minerals Export Restrictions",
+      "url": "https://www.csis.org/analysis/china-imposes-its-most-stringent-critical-minerals-export-restrictions-yet-amidst",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "legal"
+    },
+    {
+      "title": "Stimson Center - China's Germanium and Gallium Export Restrictions: Consequences for the United States",
+      "url": "https://www.stimson.org/2025/chinas-germanium-and-gallium-export-restrictions-consequences-for-the-united-states/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    }
+  ]
+}

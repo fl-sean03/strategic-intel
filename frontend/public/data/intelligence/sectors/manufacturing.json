@@ -1,0 +1,251 @@
+{
+  "id": "manufacturing",
+  "category": "sector",
+  "subject": "U.S. Defense Industrial Base & Manufacturing Capacity",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The U.S. defense industrial base confronts a convergence of structural crises -- in shipbuilding, munitions production, and workforce capacity -- that collectively represent the most severe erosion of American manufacturing power since the end of the Cold War. The disparity with China is staggering: Chinese shipyards possess roughly 232 times the shipbuilding capacity of the United States (23.25 million tons versus less than 100,000 tons). While the U.S. produced just 8 commercial vessels in 2024, China built over 1,000, and a single Chinese shipbuilder constructed more commercial tonnage in one year than the entire U.S. shipbuilding industry has produced since World War II. China's dual-use shipyard strategy -- building both civilian and military vessels in the same facilities -- enables it to maintain a fleet of 395+ warships while the U.S. Navy's 296 battle force ships are projected to shrink to 283 by 2027.\n\nThe shipbuilding crisis is symptomatic of deeper industrial decay. Eighty-two percent of U.S. Navy ships under construction are running behind schedule. The Constellation-class frigate program had four of six contracted vessels cancelled. The Zumwalt-class destroyer was cut from 32 ships to 3 at a cost of $7.5-8 billion each. The Littoral Combat Ship ballooned from $220 million to over $600 million per hull. The average age of naval shipyard facilities is 76 years, with dry docks averaging 107 years old. The Navy needs to recruit and train 140,000 new workers over the next decade for submarine production alone, plus 110,000 for surface vessel construction -- in an industry where starting wages are within 5-10% of logistics and retail sector pay.\n\nMunitions production faces an equally alarming gap. The U.S. Army's target of 100,000 rounds per month of 155mm artillery shells remains unmet, having climbed from 14,000 rounds/month in early 2022 to approximately 40,000 by late 2024 after $5.5 billion in investment. Most production facilities date to the World War II era. Critical inputs are imported -- high-grade nitrocellulose for propellant comes from France, Czech Republic, South Korea, and Canada, while antimony for ammunition has been cut off by China's 97% export reduction. CSIS has warned of potentially years-long replacement timelines for Stinger and Javelin missile stockpiles. The Pentagon is tripling 155mm shell production and doubling GMLRS missile rates, but existing facilities are just beginning to come online and face persistent supply chain bottlenecks.\n\nThere are countervailing positive signals. Manufacturing reshoring is accelerating -- 82% of manufacturers have moved or are moving factories back to the U.S., up 55% from January 2023, with 96% reporting satisfaction. The FY2026 NDAA ($901 billion) expands the Defense Industrial Base Fund to cover kinetic capabilities, critical minerals, and machine tools, and creates a Civil Reserve Manufacturing Network to qualify commercial facilities for defense production. NATO allies are stepping up -- EU defense spending reached $343 billion in 2024, a 19% increase, with NATO committing to a 5% of GDP defense investment pledge in June 2025. Rheinmetall's new German facility can produce 300,000+ artillery rounds per year. However, the fundamental problem remains a multi-decade erosion of industrial capacity that cannot be reversed in the 3-5 year window of maximum strategic risk. Nearly 500,000 manufacturing jobs remain unfilled, the defense workforce is losing up to $330 million annually to talent-gap inefficiencies, and 25% of the existing workforce is at or beyond retirement age with projected gaps of 3.5 million workers by 2026.",
+  "key_findings": [
+    {
+      "headline": "China's shipbuilding capacity is 232 times greater than the United States",
+      "detail": "Chinese shipyards have approximately 23.25 million tons of manufacturing capacity versus less than 100,000 tons for U.S. yards. The U.S. produced just 8 commercial vessels in 2024 compared to China's 1,000+. One Chinese shipbuilder alone constructed more commercial tonnage in 2024 than the entire U.S. industry has produced since World War II. China's Military-Civil Fusion strategy enables dual-use yards that produce half the world's commercial tonnage to simultaneously build massive warships, a capability the U.S. abandoned decades ago. China's fleet is projected to reach 435 ships by 2030 while the U.S. projects 294.",
+      "severity": "critical",
+      "source_url": "https://www.americanmanufacturing.org/blog/chinas-shipbuilding-capacity-is-232-times-greater-than-that-of-the-united-states/"
+    },
+    {
+      "headline": "82% of U.S. Navy warships under construction are behind schedule",
+      "detail": "The U.S. Navy's shipbuilding programs are in systemic crisis. Nearly every major program has experienced severe cost overruns and delays: the Constellation-class frigate had 4 of 6 ships cancelled ('80% of destroyer cost with 60% capability'), the Zumwalt-class was cut from 32 to 3 ships at $7.5-8 billion each, and the Littoral Combat Ship ballooned from $220 million to $600+ million per hull with mechanical failures. The GAO found the Navy 'wasted' $1.84 billion on Ticonderoga-class cruiser upgrades that were never completed. The fleet is projected to shrink to 283 vessels by 2027 even as the Navy targets 381 manned ships plus 134 unmanned.",
+      "severity": "critical",
+      "source_url": "https://nationalsecurityjournal.org/the-u-s-navy-cant-build-warships-anymore/"
+    },
+    {
+      "headline": "155mm ammunition production target of 100,000 rounds/month remains unmet despite $5.5 billion investment",
+      "detail": "The U.S. Army's 155mm artillery shell production has risen from 14,000 rounds/month in early 2022 to approximately 40,000 by late 2024, but the target of 100,000 rounds/month (1.2 million per year) remains elusive. Most production facilities date to World War II. New plants are just beginning first article tests. Critical supply chain bottlenecks include imported high-grade nitrocellulose for propellant (from France, Czech Republic, South Korea, Canada), Turkish free-flow forming equipment, and Chinese-controlled antimony for ammunition. General Dynamics' new Mesquite, Texas facility experienced operational difficulties requiring a show-cause notice from the Army.",
+      "severity": "critical",
+      "source_url": "https://breakingdefense.com/2025/10/army-hitting-stride-with-155mm-production-but-key-general-worries-over-whats-needed-next/"
+    },
+    {
+      "headline": "Defense manufacturing workforce faces 3.5 million worker shortfall with 25% at retirement age",
+      "detail": "The defense industrial base is hemorrhaging talent. Twenty-five percent of the workforce is at or beyond retirement age, creating a projected gap of 3.5 million workers by 2026. Seventy-five percent of defense companies struggle to find qualified talent while 40% of adults lack basic digital skills required for modern manufacturing. Security clearance requirements have increased 1,000% since 2014 while qualified candidates grew less than 10%. Aerospace and defense firms lose up to $330 million annually from talent-gap inefficiencies. The Navy alone needs 140,000 new workers for submarine production and 110,000 for surface vessels over the next decade.",
+      "severity": "critical",
+      "source_url": "https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-defense-workforce-challenges.html"
+    },
+    {
+      "headline": "Naval shipyard infrastructure averages 76 years old with 107-year-old dry docks",
+      "detail": "The four public naval shipyards responsible for maintaining the nuclear fleet have an average facility age of 76 years, with dry docks averaging over 107 years old. The Navy is '20 years behind schedule' in maintaining its existing fleet. Starting wages for trainee shipbuilders are within 5-10% of logistics and retail sector pay, making recruitment extremely difficult. The Shipyard Infrastructure Optimization Program was funded but progress has been slow against the scale of deterioration. Submarine yards strain to produce even the two Virginia-class submarines needed annually to maintain the subsurface fleet.",
+      "severity": "high",
+      "source_url": "https://federalnewsnetwork.com/defense-industry/2026/01/a-sweeping-vision-for-the-navy-is-colliding-with-harsh-shipbuilding-realities/"
+    },
+    {
+      "headline": "Stinger and Javelin missile replacements could take years under current production capacity",
+      "detail": "CSIS has warned of potentially critical shortages in Stinger anti-aircraft and Javelin anti-tank missiles that could take years to replace at current production rates. The Pentagon is working to at least double GMLRS missile and HIMARS launcher production rates, with $5.5 billion appropriated over three years since 2022. However, 95% of that funding was directed to 155mm production, leaving other munitions production expansion underfunded. The broader munitions industrial base was allowed to atrophy for two decades before the Ukraine conflict exposed its inadequacy for peer-level conflict consumption rates.",
+      "severity": "high",
+      "source_url": "https://www.ausa.org/news/csis-warns-ammunition-shortages"
+    },
+    {
+      "headline": "Manufacturing reshoring accelerating with 82% of firms moving or planning to move production back",
+      "detail": "Eighty-two percent of manufacturers have moved factories back to the U.S. or are in the process, up 55% from January 2023. An additional 34% are actively looking or planning to shift production domestically. Top drivers include proximity to engineering (45%), freight/duty cost reduction (45%), and geopolitical risk avoidance (38%). Ninety-six percent of companies that reshored report satisfaction. However, major barriers persist: U.S. labor at $25-30/hour versus $6-7 in China, 500,000 unfilled manufacturing jobs, and the multi-year timeline needed to rebuild deep domestic supplier networks.",
+      "severity": "high",
+      "source_url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html"
+    },
+    {
+      "headline": "FY2026 NDAA expands Defense Industrial Base Fund and creates Civil Reserve Manufacturing Network",
+      "detail": "The $901 billion FY2026 NDAA significantly strengthened defense manufacturing authorities. Section 867 expanded the Defense Industrial Base Fund to cover kinetic capabilities, microelectronics, machine tools, critical minerals, unmanned vehicles, and defense space systems, with new flexibility for facility construction, workforce investments, and advanced manufacturing. A new Civil Reserve Manufacturing Network was created to expedite qualification of commercial facilities for defense production. Congress authorized $615 million specifically for shipbuilding workforce stability initiatives.",
+      "severity": "high",
+      "source_url": "https://warontherocks.com/2025/12/an-industry-guide-to-the-fy2026-ndaa/"
+    },
+    {
+      "headline": "NATO allies increase defense spending to $343 billion with new 5% GDP pledge",
+      "detail": "EU member states spent $343 billion on defense in 2024, a 19% rise from 2023, projected to reach $381 billion in 2025. NATO adopted a new 5% of GDP defense investment pledge in June 2025, accompanied by an Updated Defence Production Action Plan to aggregate demand and expand industrial capacity. Rheinmetall's new facility in Unterluss, Germany -- built in just 15 months -- can produce over 300,000 artillery rounds per year, with additional facilities in Spain, Hungary, South Africa, Ukraine, and Bulgaria. MBDA Deutschland is expanding missile production capacity in a 6,000-square-meter facility operational by September 2026.",
+      "severity": "moderate",
+      "source_url": "https://www.nato.int/cps/en/natohq/official_texts_236518.htm"
+    },
+    {
+      "headline": "Ammunition supply chain dependent on hostile and vulnerable foreign sources",
+      "detail": "The U.S. munitions supply chain has critical dependencies on foreign and adversary-controlled inputs. High-grade nitrocellulose for propellant charges is imported from France, Czech Republic, South Korea, and Canada. Antimony essential for ammunition comes primarily from China, which cut exports by 97%. Specialized manufacturing equipment such as Turkish free-flow forming technology is sourced from sole foreign suppliers. This creates a situation where even with new domestic assembly capacity, the inputs to fill that capacity remain vulnerable to disruption -- a second-order supply chain risk that receives insufficient attention.",
+      "severity": "high",
+      "source_url": "https://ndupress.ndu.edu/Media/News/News-Article-View/Article/4366531/ukraine-the-us-defense-industrial-base-and-the-elusive-crisis-era-munitions-pro/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-03",
+      "headline": "82% of U.S. Navy ships under construction confirmed behind schedule in 'doom loop'",
+      "summary": "Updated analysis confirmed that 82% of new U.S. Navy warships are running behind schedule, with the situation described as a 'doom loop' where delays compound into further delays as resources are redirected to fix problems on existing hulls. The warship building budget has nearly doubled over the past two decades while the total number of ships has not grown, and the fleet faces a nadir of 283 vessels by 2027.",
+      "source_url": "https://www.19fortyfive.com/2026/03/doom-loop-82-percent-of-new-u-s-navy-warships-under-construction-are-behind-schedule/",
+      "impact": "Confirms systemic rather than episodic failure in naval shipbuilding, raising questions about whether the current industrial structure can deliver the 381-ship fleet target without fundamental restructuring."
+    },
+    {
+      "date": "2026-01",
+      "headline": "Navy's 2026 shipbuilding budget requests just 3 warships in base request",
+      "summary": "The Navy's fiscal year 2026 shipbuilding budget sought only 3 warships in its base request, with 16 additional vessels proposed through budget reconciliation. The gap between the base request and the ambitious fleet target of 381 manned ships plus 134 unmanned vessels highlighted the fundamental disconnect between naval ambitions and industrial capacity and funding reality.",
+      "source_url": "https://breakingdefense.com/2025/06/navys-2026-shipbuilding-budget-seeks-just-3-warships-in-base-request-16-in-reconciliation/",
+      "impact": "The minimal base request signals continued fleet contraction absent reconciliation funding, while the industrial base lacks capacity to execute even the expanded procurement plan."
+    },
+    {
+      "date": "2025-12",
+      "headline": "FY2026 NDAA signed into law with $901 billion for defense manufacturing and industrial base",
+      "summary": "The $901 billion FY2026 NDAA became law, expanding the Defense Industrial Base Fund, creating the Civil Reserve Manufacturing Network for rapid commercial-to-defense facility conversion, and authorizing $615 million for shipbuilding workforce stability. New domestic sourcing requirements were established for critical minerals, microelectronics, and machine tools. The Act also provided standalone defense-production powers for the Pentagon beyond the existing DPA framework.",
+      "source_url": "https://www.morganlewis.com/pubs/2025/12/defense-funding-and-policies-set-for-next-year-as-fy2026-ndaa-becomes-law",
+      "impact": "Provides the legislative foundation for defense industrial base expansion, but execution depends on workforce availability, supply chain readiness, and sustained multi-year funding at these levels."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Constellation-class frigate program cancelled for 4 of 6 contracted ships",
+      "summary": "The Navy cancelled four of six contracted Constellation-class frigates (FFG-62) in November 2025, acknowledging the program delivered '80 percent of the cost of a destroyer with only 60 percent of the capability.' The cancellation followed persistent design changes, schedule delays, and cost overruns, adding to a pattern of failed shipbuilding programs including the Zumwalt and LCS classes.",
+      "source_url": "https://nationalsecurityjournal.org/the-u-s-navy-cant-build-warships-anymore/",
+      "impact": "Further reduces the near-term pipeline of surface combatants while reinforcing a pattern of program instability that deters private investment in shipbuilding capacity and workforce."
+    },
+    {
+      "date": "2025-10",
+      "headline": "Army 155mm production 'hitting stride' but key general warns target still unmet",
+      "summary": "Major General John Reim announced that new 155mm production facilities were 'just now coming online' and 'hitting stride with first article tests,' but acknowledged the Army's 1.2 million rounds/year target remains unmet. Production had tripled from 14,000 to 40,000 rounds/month since 2022, with 95% of the $5.5 billion investment directed to 155mm shells. The general warned that the Army has 'gotten it wrong 100 percent of the time' in predicting future conflict munition needs.",
+      "source_url": "https://breakingdefense.com/2025/10/army-hitting-stride-with-155mm-production-but-key-general-worries-over-whats-needed-next/",
+      "impact": "Production expansion is real but insufficient. The 40,000/month rate is less than half the target, and Ukraine-level consumption rates demonstrate that even 100,000/month may be inadequate for a peer conflict."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Rheinmetall opens Europe's largest ammunition plant in Germany",
+      "summary": "Rheinmetall unveiled its new artillery production facility in Unterluss, Germany, built in just 15 months. The facility can produce over 300,000 artillery rounds per year, making it Europe's largest ammunition plant. The company now operates facilities in five countries with a global network of 46+ munitions production facilities, highlighting the contrast with the U.S. approach of modernizing WWII-era plants.",
+      "source_url": "https://www.rheinmetall.com/en/media/stories/2025/rheinmetall-delivering-rapid-munitions-industrial-base-expansion-in-the-us",
+      "impact": "Demonstrates that modern ammunition facilities can be built rapidly (15 months) at scale, providing a potential model and partner for U.S. munitions capacity expansion."
+    },
+    {
+      "date": "2025-06",
+      "headline": "NATO agrees to 5% GDP defense investment pledge at The Hague Summit",
+      "summary": "NATO Heads of State and Government adopted a new defense investment pledge of 5% of GDP and agreed new Capability Targets creating long-term demand increases for defense industrial production. The Updated Defence Production Action Plan addresses demand aggregation, industrial challenges, and interoperability. EU member states had already increased defense spending 19% to $343 billion in 2024.",
+      "source_url": "https://www.nato.int/docu/review/articles/2025/06/26/future-proofing-natos-industrial-capacity-how-decisions-at-the-nato-summit-in-the-hague-will-strengthen-the-allied-defence-industry/index.html",
+      "impact": "Creates a structural demand signal for allied defense industry expansion, but achieving 5% across all members faces political and economic constraints, and European industrial capacity remains fragmented across 30 national defense industries."
+    },
+    {
+      "date": "2025-04",
+      "headline": "Trump executive order targets shipbuilding capacity expansion",
+      "summary": "The Trump Administration issued an executive order in April 2025 focusing on bolstering shipbuilding capacity broadly, encompassing both naval and commercial shipbuilding. The order aims to address the structural collapse of U.S. commercial shipbuilding -- from 77 ships annually in 1975 to just 8 in 2024 -- recognizing that a healthy commercial base is essential to sustain the naval industrial workforce and facility infrastructure.",
+      "source_url": "https://gssr.georgetown.edu/the-forum/topics/defense/u-s-naval-construction-is-adrift-its-time-to-course-correct/",
+      "impact": "Acknowledges the critical link between commercial and naval shipbuilding, but executive orders alone cannot rebuild an industrial base that has atrophied over four decades without sustained multi-billion-dollar investment."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The U.S. defense industrial base faces extreme risk from the compounding failures of shipbuilding programs, inadequate munitions production, aging infrastructure, and a catastrophic workforce gap. The 232:1 shipbuilding capacity disadvantage against China is the most severe industrial asymmetry between peer competitors in modern history. The Navy cannot build ships on time, on budget, or to specification -- 82% of hulls are behind schedule, and every major recent program (Constellation, Zumwalt, LCS) has experienced cancellations or dramatic cost overruns. Munitions production at 40,000 rounds/month is less than half the 100,000 target, and critical input supply chains (nitrocellulose, antimony, specialized equipment) remain dependent on foreign and adversary-controlled sources. The workforce crisis -- 3.5 million projected gap, 25% retirement-eligible, 500,000 unfilled positions -- is the binding constraint on every proposed expansion. The $901 billion NDAA and NATO's 5% pledge provide unprecedented funding signals, but money alone cannot build facilities, train workers, and establish supply chains within the 3-5 year window of maximum strategic risk.",
+    "trend": "worsening",
+    "key_drivers": [
+      "232:1 shipbuilding capacity gap with China widening as Chinese yards expand and U.S. capacity stagnates",
+      "82% of Navy ships under construction behind schedule with systemic program management failures",
+      "155mm ammunition production at 40% of target with WWII-era facilities and imported critical inputs",
+      "3.5 million worker projected shortfall with 25% of defense workforce at retirement age",
+      "Naval shipyard infrastructure averaging 76 years old with 107-year-old dry docks",
+      "Antimony supply cut 97% by China directly threatening ammunition production",
+      "Stinger and Javelin missile stockpile replacement timelines measured in years, not months",
+      "Starting shipbuilder wages within 5-10% of retail/logistics, making recruitment uncompetitive"
+    ],
+    "mitigation_actions": [
+      "Implement Civil Reserve Manufacturing Network from FY2026 NDAA to rapidly qualify commercial facilities for defense production",
+      "Increase shipbuilder compensation to be competitive with skilled trades in construction and energy sectors (currently 20-30% below)",
+      "Accelerate Shipyard Infrastructure Optimization Program to modernize the four public nuclear shipyards",
+      "Establish domestic nitrocellulose and antimony production capacity to de-risk ammunition supply chains",
+      "Partner with Rheinmetall and other allied manufacturers to build modern munitions facilities in the U.S. using proven 15-month construction timelines",
+      "Expand the Accelerated Training in Defense Manufacturing program (currently 777 graduates) to 10,000+ per year",
+      "Leverage NATO's 5% GDP pledge and Defence Production Action Plan for allied burden-sharing on munitions stockpiling",
+      "Adopt dual-use shipyard strategy modeled on China and South Korea to maintain commercial volume that sustains naval workforce and infrastructure",
+      "Fund long-term multi-year procurement contracts to provide industry with the demand certainty needed to justify private capital investment in capacity expansion"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Alliance for American Manufacturing - China's Shipbuilding Capacity 232 Times Greater Than U.S.",
+      "url": "https://www.americanmanufacturing.org/blog/chinas-shipbuilding-capacity-is-232-times-greater-than-that-of-the-united-states/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "National Security Journal - The U.S. Navy Can't Build Warships Anymore",
+      "url": "https://nationalsecurityjournal.org/the-u-s-navy-cant-build-warships-anymore/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "19FortyFive - 82 Percent of U.S. Navy Warships Under Construction Behind Schedule",
+      "url": "https://www.19fortyfive.com/2026/03/doom-loop-82-percent-of-new-u-s-navy-warships-under-construction-are-behind-schedule/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Breaking Defense - Army Hitting Stride with 155mm Production",
+      "url": "https://breakingdefense.com/2025/10/army-hitting-stride-with-155mm-production-but-key-general-worries-over-whats-needed-next/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "CSIS - Outlining the Challenges to U.S. Naval Shipbuilding",
+      "url": "https://www.csis.org/analysis/outlining-challenges-us-naval-shipbuilding",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "AUSA - CSIS Warns of Ammunition Shortages",
+      "url": "https://www.ausa.org/news/csis-warns-ammunition-shortages",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal News Network - Navy Vision Colliding with Shipbuilding Realities",
+      "url": "https://federalnewsnetwork.com/defense-industry/2026/01/a-sweeping-vision-for-the-navy-is-colliding-with-harsh-shipbuilding-realities/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "War on the Rocks - An Industry Guide to the FY2026 NDAA",
+      "url": "https://warontherocks.com/2025/12/an-industry-guide-to-the-fy2026-ndaa/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "NATO - Updated Defence Production Action Plan (February 2025)",
+      "url": "https://www.nato.int/cps/en/natohq/official_texts_236518.htm",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Deloitte - 2026 Manufacturing Industry Outlook",
+      "url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "PwC - Aerospace and Defense Workforce Challenges",
+      "url": "https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-defense-workforce-challenges.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "NDU Press - Ukraine, the U.S. Defense Industrial Base, and Munitions Production",
+      "url": "https://ndupress.ndu.edu/Media/News/News-Article-View/Article/4366531/ukraine-the-us-defense-industrial-base-and-the-elusive-crisis-era-munitions-pro/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Rheinmetall - Delivering Rapid Munitions Industrial Base Expansion in the U.S.",
+      "url": "https://www.rheinmetall.com/en/media/stories/2025/rheinmetall-delivering-rapid-munitions-industrial-base-expansion-in-the-us",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Breaking Defense - Navy's 2026 Shipbuilding Budget Seeks Just 3 Warships",
+      "url": "https://breakingdefense.com/2025/06/navys-2026-shipbuilding-budget-seeks-just-3-warships-in-base-request-16-in-reconciliation/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "CRS Report - Navy Force Structure and Shipbuilding Plans",
+      "url": "https://www.congress.gov/crs-product/RL32665",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Morgan Lewis - Defense Funding and Policies Set for FY2026 NDAA",
+      "url": "https://www.morganlewis.com/pubs/2025/12/defense-funding-and-policies-set-for-next-year-as-fy2026-ndaa-becomes-law",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

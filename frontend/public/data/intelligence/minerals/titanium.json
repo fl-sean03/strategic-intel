@@ -1,0 +1,171 @@
+{
+  "id": "titanium",
+  "category": "mineral",
+  "subject": "Titanium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Titanium is a strategically critical mineral facing an accelerating supply crisis driven by China and Russia's combined dominance over aerospace-grade sponge production. China's share of global titanium sponge output has surged from 37% in 2018 to approximately 67% by 2024, while Russia remains a major supplier of aerospace-certified material. The U.S. has effectively zero domestic sponge production capacity online, with two major facilities (Henderson, NV and Rowley, UT) idled since 2016 and 2020 respectively, and a single small Utah operation producing roughly 500 tons per year for electronics applications. U.S. import reliance for titanium sponge rose from 68% in 2020 to near 100% by 2023, with Japan (67%) and Saudi Arabia (23%) as the leading sources.\n\nThe geopolitical risk landscape is severe. The EU imposed anti-dumping tariffs of 14.4-39.7% on Chinese TiO2 imports in 2025. The Trump administration launched a Section 232 investigation into titanium imports, signaling potential tariff action. Russia has considered retaliatory export restrictions on titanium sponge. Lead times for aerospace-certified titanium materials are up to 5x longer than pre-2020 levels. Meanwhile, China's TiO2 production capacity reached 6.05 million tons by end of 2024 with an additional 1.3 million tons planned for 2025, representing over 55% of global capacity.\n\nThe Department of Defense has mobilized significant investment to rebuild domestic capacity, awarding IperionX over $47 million plus a $99 million SBIR Phase III contract ceiling, with production scale-up targets of 2,000 tons per year by end of 2026 and 10,000 tons per year by 2030. However, the qualification process for aerospace-grade titanium takes years, meaning supply chain vulnerability will persist through the remainder of the decade.",
+  "key_findings": [
+    {
+      "headline": "China controls 67% of global titanium sponge production",
+      "detail": "China's titanium sponge production tripled between 2018-2023, growing from 37% to approximately 67% of global output. Combined with Russia's aerospace-grade capacity, these two nations control the vast majority of the world's titanium metal supply, creating acute vulnerability for Western aerospace and defense sectors.",
+      "severity": "critical",
+      "source_url": "https://theoregongroup.com/commodities/titanium/chinas-titanium-dominance-vertical-supply-chain-cost-edge-and-global-ripple-effects/"
+    },
+    {
+      "headline": "U.S. titanium sponge import reliance reached near 100%",
+      "detail": "U.S. dependence on imported titanium sponge rose from 68% in 2020 to effectively 100% by 2023. Two major domestic facilities (Henderson, NV at 12,600 tpa capacity and Rowley, UT at 10,900 tpa) remain idled. The only operating facility in Salt Lake City, UT produces approximately 500 tpa for electronics, not aerospace applications. Japan (67%) and Saudi Arabia (23%) are the primary import sources.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-titanium.pdf"
+    },
+    {
+      "headline": "DOD invests heavily in IperionX for domestic titanium reshoring",
+      "detail": "The Department of Defense awarded IperionX $47.1 million through the Industrial Base Analysis and Sustainment program, plus an additional $25 million obligation for production scale-up. A separate SBIR Phase III indefinite-delivery contract was awarded with a $99 million ceiling. Production targets are 1,400 tpa near-term, 2,000 tpa by end of 2026, and 10,000 tpa by 2030.",
+      "severity": "high",
+      "source_url": "https://iperionx.com/2025/09/26/iperionx-receives-a-further-25m-in-u-s-government-funding-to-accelerate-titanium-production-scale-up/"
+    },
+    {
+      "headline": "Aerospace-grade titanium lead times up to 5x pre-2020 levels",
+      "detail": "The shift away from Russian titanium sources following the Ukraine invasion has created severe bottlenecks in aerospace-certified sponge and alloys. These materials require highly controlled refining and long-term qualification processes that only a handful of facilities outside China and Russia can currently meet, resulting in lead times up to five times longer than pre-2020 levels.",
+      "severity": "high",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/"
+    },
+    {
+      "headline": "Section 232 investigation launched into titanium imports",
+      "detail": "The Trump administration launched a Section 232 national security investigation into titanium imports in 2025, similar to previous investigations that led to steel and aluminum tariffs. This could result in broad tariffs on titanium imports, which would further disrupt supply chains given the near-total U.S. import dependence.",
+      "severity": "high",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/"
+    },
+    {
+      "headline": "EU imposes anti-dumping tariffs on Chinese TiO2",
+      "detail": "The European Union imposed anti-dumping tariffs of 14.4% to 39.7% on titanium dioxide imports from China in 2025. India has also imposed anti-dumping duties on Chinese TiO2. These trade actions reflect growing concern over China's dominance in the titanium value chain and its aggressive capacity expansion.",
+      "severity": "moderate",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/"
+    },
+    {
+      "headline": "Global defense spending hit $2.46 trillion in 2024, driving titanium demand",
+      "detail": "Rising global defense budgets and commercial aerospace recovery are creating sustained demand pressure for titanium. Approximately 75% of high-grade titanium sponge is consumed by the aerospace sector. Global passenger traffic is forecast to exceed 10 billion in 2025, driving new aircraft orders and downstream titanium demand.",
+      "severity": "moderate",
+      "source_url": "https://www.aerotime.aero/articles/global-titanium-market-at-risk-of-tightening-as-china-russia-grip-persists"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-09",
+      "headline": "IperionX receives additional $25M DOD funding for titanium scale-up",
+      "summary": "The U.S. Department of Defense obligated an additional $25 million under IperionX's existing $47.1 million award to accelerate titanium production at its Titanium Manufacturing Campus, enabling output of up to 1,400 metric tons per year with targets of 2,000 tpa by end of 2026.",
+      "source_url": "https://iperionx.com/2025/09/26/iperionx-receives-a-further-25m-in-u-s-government-funding-to-accelerate-titanium-production-scale-up/",
+      "impact": "Represents the largest U.S. government commitment to domestic titanium production in decades, though still far below the nation's estimated 40,000 tpa sponge import requirement."
+    },
+    {
+      "date": "2025-08",
+      "headline": "IperionX awarded $99M SBIR Phase III DOD contract",
+      "summary": "IperionX secured a SBIR Phase III indefinite-delivery, indefinite-quantity contract from the U.S. Department of Defense worth up to $99 million for 'Low-Cost Domestic Titanium for Defense Applications,' establishing a funding mechanism for qualifying government agencies to place task orders.",
+      "source_url": "https://www.stocktitan.net/news/IPX/iperion-x-awarded-u-s-department-of-defense-sbir-phase-iii-contract-vngxcxh5a2oi.html",
+      "impact": "Creates a long-term procurement vehicle for domestic defense-grade titanium, signaling sustained DOD commitment to supply chain reshoring."
+    },
+    {
+      "date": "2025-Q1",
+      "headline": "EU imposes anti-dumping tariffs on Chinese titanium dioxide",
+      "summary": "The European Union imposed anti-dumping tariffs ranging from 14.4% to 39.7% on TiO2 imports from China, following India's similar action. China's TiO2 capacity reached 6.05 million tons by end of 2024 with 1.3 million additional tons planned for 2025, representing over 55% of global capacity.",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/",
+      "impact": "Trade barriers are fragmenting the global titanium market, potentially increasing costs for Western manufacturers while China continues aggressive capacity expansion."
+    },
+    {
+      "date": "2025-Q1",
+      "headline": "Section 232 national security investigation launched into titanium",
+      "summary": "The Trump administration initiated a Section 232 investigation into titanium imports, examining whether the current import dependence constitutes a national security threat. This follows the pattern of prior Section 232 actions on steel and aluminum that resulted in significant tariffs.",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/",
+      "impact": "Could lead to broad tariffs on titanium imports, paradoxically increasing costs for defense and aerospace while domestic production capacity remains minimal."
+    },
+    {
+      "date": "2024",
+      "headline": "Russia reportedly considered titanium sponge export restrictions",
+      "summary": "Reports emerged in late 2024 that Russian President Putin considered restricting exports of titanium sponge as a retaliatory measure against Western sanctions. While not implemented, such a move would severely impact Western aerospace supply chains that still depend on Russian material.",
+      "source_url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/",
+      "impact": "Highlights the precariousness of Western aerospace supply chains that remain partially dependent on Russian titanium despite the ongoing conflict in Ukraine."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "The U.S. faces critical supply chain risk for titanium, with near-100% import dependence for sponge metal, two major domestic facilities idled, and the processing bottleneck concentrated in China (67% of sponge) and Russia. Aerospace-grade material lead times are 5x pre-2020 levels. A Chinese export restriction or Russian retaliatory ban could create an immediate crisis for defense and aerospace programs.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's titanium sponge market share grew from 37% to 67% in five years (2018-2023)",
+      "Two major U.S. sponge facilities remain idled with no restart timeline",
+      "Section 232 investigation could impose tariffs that increase costs without solving supply dependency",
+      "EU and India anti-dumping tariffs are fragmenting global titanium trade",
+      "Aerospace-grade qualification takes years, delaying new supplier entry",
+      "Global defense spending growth and commercial aviation recovery increasing demand pressure"
+    ],
+    "mitigation_actions": [
+      "DOD IperionX investment program targeting 2,000 tpa by end of 2026 and 10,000 tpa by 2030",
+      "Universal Achemetal Titanium received $11.3 million DOD award in 2024",
+      "Diversification of sponge imports toward Japan and Saudi Arabia (away from Russia)",
+      "Section 232 investigation could lead to strategic tariff structure incentivizing domestic production",
+      "Development of titanium recycling and scrap-based production pathways",
+      "Allied supply chain coordination through bilateral mineral agreements"
+    ]
+  },
+  "sources": [
+    {
+      "title": "China's Titanium Dominance: Vertical Supply Chain, Cost Edge, and Global Ripple Effects",
+      "url": "https://theoregongroup.com/commodities/titanium/chinas-titanium-dominance-vertical-supply-chain-cost-edge-and-global-ripple-effects/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Sanctions, Tariffs, and the Global Titanium Supply: Catalysts for Crisis",
+      "url": "https://theoregongroup.com/commodities/titanium/sanctions-tariffs-and-the-global-titanium-supply-catalysts-for-crisis/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Titanium",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-titanium.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "IperionX Receives $25M U.S. Government Funding for Titanium Scale-Up",
+      "url": "https://iperionx.com/2025/09/26/iperionx-receives-a-further-25m-in-u-s-government-funding-to-accelerate-titanium-production-scale-up/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "IperionX Awarded DOD SBIR Phase III Contract",
+      "url": "https://www.stocktitan.net/news/IPX/iperion-x-awarded-u-s-department-of-defense-sbir-phase-iii-contract-vngxcxh5a2oi.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Global Titanium Supply Squeeze: Who Controls the Market?",
+      "url": "https://www.aerotime.aero/articles/global-titanium-market-at-risk-of-tightening-as-china-russia-grip-persists",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Titanium Demand Strengthened by Geopolitics",
+      "url": "https://www.questmetals.com/blog/titanium-demand-strengthened-by-geopolitics",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Titanium Prices, Trend, Index, Chart & Forecast 2026",
+      "url": "https://www.imarcgroup.com/titanium-pricing-report",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Key Developments in Critical Minerals to Watch in 2026",
+      "url": "https://www.z2data.com/insights/key-developments-in-critical-minerals-to-watch-in-2026",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "IEA Global Critical Minerals Outlook 2025",
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

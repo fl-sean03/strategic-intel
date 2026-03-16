@@ -1,0 +1,139 @@
+{
+  "id": "thulium",
+  "category": "mineral",
+  "subject": "Thulium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Thulium is one of the rarest of the 17 rare earth elements, occurring at approximately 0.5 parts per million in Earth's crust, and is subject to severe supply concentration risk as China produces over 90% of global thulium oxide. In October 2025, China applied export licensing requirements to thulium along with holmium, erbium, ytterbium, and europium, bringing all heavy rare earth elements under export controls. Thulium oxide prices range between $1,737 and $5,000/kg depending on grade and market, reflecting extreme scarcity.\n\nThulium's defense applications, while niche, are strategically significant. When irradiated, thulium-170 emits X-rays, enabling portable X-ray machines that require no external power source — a capability specifically developed for military field radiography by Argonne National Laboratory. These portable units provide X-rays comparable to 100,000-volt conventional machines from a tiny thulium source, ideal for battlefield medical diagnostics and field inspection of equipment and munitions. Thulium lasers operating at 2-micrometer wavelength are used in medical and potentially defense applications due to their strong absorption by water and biological tissue. Thulium is also used in ceramic materials for microwave devices with direct defense radar applications. While thulium's commercial applications are more limited than other rare earths, China's export controls create supply bottlenecks that affect the broader heavy rare earth separation process, since thulium is co-extracted with other critical defense elements.",
+  "key_findings": [
+    {
+      "headline": "China produces 90%+ of global thulium and imposed export controls in October 2025",
+      "detail": "China produces over 90% of the world's thulium oxide and controls the processing infrastructure for separation. MOFCOM applied export licensing requirements to thulium in October 2025, along with holmium, erbium, ytterbium, and europium, and certain products and components containing these elements. Companies with any affiliation to foreign militaries will be largely denied export licenses starting December 1, 2025, and requests to use rare earths for military purposes are automatically rejected.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "Thulium enables portable X-ray machines for military field radiography without external power",
+      "detail": "When thulium-170 is irradiated in a nuclear reactor, it produces X-rays comparable to a 100,000-volt conventional X-ray machine. Argonne National Laboratory developed small, inexpensive, and portable X-ray units using tiny thulium particles that require no external power source. These devices are specifically designed for military field use where conventional radiographic equipment is impractical, enabling battlefield medical diagnostics and field inspection of munitions and equipment.",
+      "severity": "high",
+      "source_url": "https://rareearthexchanges.com/learn/rare-earths/thulium/"
+    },
+    {
+      "headline": "Thulium lasers provide precision medical and potential defense capabilities at 2-micrometer wavelength",
+      "detail": "Thulium laser radiation at 2-micrometer wavelength is strongly absorbed by water and biological tissue, with penetration of only a fraction of a millimeter. This provides extremely high precision cutting and vaporization, making thulium lasers ideal for minimally invasive surgery. The same wavelength properties have potential defense applications in directed energy systems and laser countermeasures where precise energy deposition is required.",
+      "severity": "moderate",
+      "source_url": "https://mineralseducationcoalition.org/elements/thulium/"
+    },
+    {
+      "headline": "Thulium is among the rarest and most expensive rare earth elements at $1,737-$5,000/kg",
+      "detail": "Thulium and lutetium are the least abundant rare earth elements at approximately 0.5 parts per million. Thulium oxide prices range from approximately $1,737 to $5,000 per kilogram depending on purity and market conditions, reflecting extreme scarcity. Limited global supply concentrated in a few Chinese mining sites keeps prices permanently elevated compared to lighter rare earths.",
+      "severity": "moderate",
+      "source_url": "https://farmonaut.com/mining/europium-thulium-lanthanum-oxide-price-trends-2026"
+    },
+    {
+      "headline": "October 2025 export controls suspended until November 2026 but framework remains",
+      "detail": "China suspended implementation of the October 9, 2025 export control expansion (which included thulium) for one year until November 10, 2026, as part of U.S.-China trade negotiations. However, the broader regulatory framework remains in place and can be reimposed at any time. The initial April 2025 controls on seven other rare earth elements remain fully in effect, demonstrating that suspensions are tactical pauses rather than permanent relief.",
+      "severity": "high",
+      "source_url": "https://rareearthexchanges.com/news/chinas-rare-earth-truce-tactical-pause-or-genuine-relief/"
+    },
+    {
+      "headline": "Thulium in ceramic materials for microwave devices supports radar applications",
+      "detail": "Thulium is applied in ceramic materials used for microwave devices, which have direct applications in defense radar systems. Microwave ceramics containing thulium compounds are used in radar transmitters, receivers, and signal processing components. Any disruption to thulium supply would affect not only portable radiography but also radar manufacturing capabilities.",
+      "severity": "moderate",
+      "source_url": "https://www.geopolitechs.org/p/chinas-new-restriction-on-rare-earths"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-10",
+      "headline": "China extends rare earth export controls to cover thulium and four additional elements",
+      "summary": "MOFCOM applied export licensing requirements to thulium, holmium, erbium, ytterbium, and europium in October 2025, bringing 12 of the 17 rare earth elements under export controls. The regulations include extra-territorial enforcement provisions and automatic denial for military end-use applications. This completed China's export control coverage of all heavy rare earth elements.",
+      "source_url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "impact": "The controls create immediate supply bottlenecks for thulium and related heavy rare earths, affecting defense electronics, portable radiography, and radar ceramic manufacturing."
+    },
+    {
+      "date": "2025-11",
+      "headline": "China suspends October 2025 export controls for one year as part of trade deal",
+      "summary": "China suspended enforcement of six October 9, 2025 export control announcements covering thulium and other heavy rare earths for one year until November 10, 2026. However, analysts characterize this as a tactical pause, noting that the suspension creates planning uncertainty while the April 2025 controls on seven rare earth elements remain fully in force.",
+      "source_url": "https://www.clarkhill.com/news-events/news/china-hits-pause-on-rare-earth-export-controls-and-what-it-means-for-supply-chains/",
+      "impact": "The suspension provides temporary relief but does not resolve the underlying supply chain vulnerability. Western manufacturers cannot rely on this temporary measure for long-term procurement planning."
+    },
+    {
+      "date": "2025-10",
+      "headline": "IEA analysis confirms supply concentration risks have become reality for rare earths",
+      "summary": "The International Energy Agency published analysis confirming that China's rare earth export controls have made theoretical supply concentration risks into operational reality. The analysis notes that immediate supply bottlenecks exist for thulium and other heavy rare earths critical for electric vehicles, defense electronics, and precision instrumentation.",
+      "source_url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "impact": "The IEA's confirmation adds institutional weight to calls for diversifying rare earth supply chains and investing in non-Chinese processing capacity."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Thulium faces extreme supply concentration risk with China controlling 90%+ of production and having imposed export controls. While thulium's direct defense applications (portable radiography, radar ceramics) are niche, its co-extraction with other critical rare earths means thulium supply disruptions cascade across the broader heavy rare earth supply chain. The October 2025 export control suspension is temporary and unreliable.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 90%+ of global thulium production and processing",
+      "Export controls imposed in October 2025 covering thulium and related products",
+      "Extreme natural scarcity at 0.5 ppm makes alternative sourcing difficult",
+      "Military end-use applications automatically denied under Chinese licensing",
+      "Co-extraction with other critical rare earths creates cascading supply chain effects",
+      "Suspension of controls is temporary (until November 2026) and unreliable for planning"
+    ],
+    "mitigation_actions": [
+      "Include thulium in heavy rare earth separation capacity investments alongside higher-demand elements",
+      "Stockpile irradiated thulium-170 sources for military portable radiography applications",
+      "Support development of non-Chinese heavy rare earth processing (Lynas, MP Materials)",
+      "Invest in alternative portable X-ray technologies that reduce thulium dependence",
+      "Negotiate bilateral supply agreements with potential producers (Australia, Brazil)",
+      "Fund research into thulium recycling from spent radiation sources and electronic components"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "IEA - Supply Concentration Risks Become Reality with New Export Controls",
+      "url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Rare Earth Exchanges - Thulium Element Profile",
+      "url": "https://rareearthexchanges.com/learn/rare-earths/thulium/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Minerals Education Coalition - Thulium",
+      "url": "https://mineralseducationcoalition.org/elements/thulium/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Geopolitechs - China's New Restriction on Rare Earths: What They Cover",
+      "url": "https://www.geopolitechs.org/p/chinas-new-restriction-on-rare-earths",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Clark Hill - China Hits Pause on Rare Earth Export Controls",
+      "url": "https://www.clarkhill.com/news-events/news/china-hits-pause-on-rare-earth-export-controls-and-what-it-means-for-supply-chains/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Rare Earth Exchanges - China's Rare Earth Truce: Tactical Pause or Genuine Relief?",
+      "url": "https://rareearthexchanges.com/news/chinas-rare-earth-truce-tactical-pause-or-genuine-relief/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Farmonaut - Europium, Thulium, Lanthanum Oxide Price Trends 2026",
+      "url": "https://farmonaut.com/mining/europium-thulium-lanthanum-oxide-price-trends-2026",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

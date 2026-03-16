@@ -1,0 +1,160 @@
+{
+  "id": "dysprosium",
+  "category": "mineral",
+  "subject": "Dysprosium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Dysprosium is among the most strategically critical rare earth elements for U.S. national defense, serving as the essential additive that enables neodymium-iron-boron (NdFeB) permanent magnets to maintain their magnetic properties at the extreme temperatures encountered in jet engines, missile guidance systems, and military vehicle motors. Without dysprosium, NdFeB magnets demagnetize above 150 degrees Celsius, rendering them useless in the high-temperature environments characteristic of defense applications. China controls approximately 98% of global dysprosium processing capacity, making it one of the most concentrated supply chains of any strategic material.\n\nDysprosium prices have experienced extraordinary volatility, surging from $353/kg in January 2025 to $780/kg by September 2025 -- a 121% gain driven primarily by China's April 2025 imposition of export licensing requirements that specifically targeted dysprosium among seven rare earth elements. The heavy rare earth was further subject to expanded controls in October 2025. While China suspended these controls in November 2025 through November 2026, the military end-user ban remains in force, and defense contractors face de facto embargo conditions.\n\nU.S. domestic production is emerging but remains years from scale. Energy Fuels produced its first kilogram of 99.9% purity dysprosium oxide at its White Mesa Mill in Utah in August 2025, with plans for 48 metric tons per year by Q4 2026. MP Materials is commissioning a heavy rare earth separation facility at Mountain Pass targeting mid-2026, with 200 metric tons per year of dysprosium and terbium capacity. The Department of Defense's $400 million equity investment in MP Materials and the $8.5 billion U.S.-Australia framework agreement represent the most significant policy responses to date.",
+  "key_findings": [
+    {
+      "headline": "China controls 98% of global dysprosium processing, the highest concentration of any defense-critical mineral",
+      "detail": "China's near-total monopoly on dysprosium processing exceeds even its dominance in other rare earths. Global Policy Watch reports China holds 98% of dysprosium processing capacity. The element is classified as a heavy rare earth, found primarily in ionic adsorption clays in southern China and Myanmar, with no comparable deposits currently in commercial production outside Chinese-controlled supply chains. This makes dysprosium the single most concentrated defense supply chain vulnerability.",
+      "severity": "critical",
+      "source_url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/"
+    },
+    {
+      "headline": "Dysprosium is irreplaceable for heat-resistant military magnets in guided munitions and jet engines",
+      "detail": "Dysprosium stabilizes NdFeB permanent magnets at temperatures exceeding 200 degrees Celsius, a capability essential for fin actuators in precision-guided munitions like JDAM and Tomahawk missiles, electric actuation systems in the F-35 (which contains over 900 pounds of rare earth materials), and motors in Virginia- and Columbia-class submarines. No known substitute provides equivalent thermal stability in permanent magnets, making dysprosium functionally irreplaceable for these defense applications.",
+      "severity": "critical",
+      "source_url": "https://rareearthexchanges.com/news/from-dysprosium-to-deterrence-rare-earth-element-supply-chains-vulnerability-in-great-powers-era-2-0/"
+    },
+    {
+      "headline": "Dysprosium prices surged 121% in 2025, with further gains of 105% in early 2026",
+      "detail": "Dysprosium oxide prices soared from $353/kg in January 2025 to $780/kg by September 2025, driven by China's April 2025 export licensing requirements. European spot prices nearly tripled within weeks of the controls being announced. By early 2026, prices gained an additional 105%. The industrial spot price stands at approximately $191/kg (SMM benchmark), while physical investment prices track around $930/kg, reflecting acute supply anxiety in non-Chinese markets.",
+      "severity": "critical",
+      "source_url": "https://strategicmetalsinvest.com/dysprosium-prices/"
+    },
+    {
+      "headline": "Energy Fuels achieves first U.S. production of 99.9% purity dysprosium oxide",
+      "detail": "In August 2025, Energy Fuels produced its first kilogram of dysprosium oxide at 99.9% purity at its White Mesa Mill in Utah, exceeding the 99.5% commercial specification. The company has produced approximately 29 kilograms at pilot scale, with the product qualifying for automotive permanent magnet production by a major South Korean manufacturer. Plans call for large-scale circuits capable of 48 metric tons of dysprosium oxide and 14 tonnes of terbium oxide per year by Q4 2026.",
+      "severity": "high",
+      "source_url": "https://investors.energyfuels.com/2025-08-21-Energy-Fuels-Successfully-Produces-First-Kilogram-of-99-9-Purity-Dysprosium-Oxide-at-its-White-Mesa-Mill-in-Utah-on-Track-to-Commence-Terbium-Production-in-Q4-2025"
+    },
+    {
+      "headline": "MP Materials targeting mid-2026 commissioning of heavy rare earth separation at Mountain Pass",
+      "detail": "MP Materials plans to commission a heavy rare earth separation facility at Mountain Pass, California, in mid-2026, designed to process 3,000 metric tons of feedstock per year with a nameplate capacity of 200 metric tons per year of dysprosium and terbium. The company has stockpiled over 200 metric tons of heavy rare earth concentrate containing 4% dysprosium and terbium. However, industry experts suggest 5-7 years may be needed to achieve full commercial reliability for HREE separation.",
+      "severity": "high",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Reports-Third-Quarter-2025-Results/default.aspx"
+    },
+    {
+      "headline": "China's December 2025 rules effectively embargo dysprosium exports for military end use",
+      "detail": "Starting December 1, 2025, China's Ministry of Commerce will automatically reject any export license applications for rare earth elements, including dysprosium, destined for military end-users or entities affiliated with foreign militaries. The controls extend to 'internationally made' products containing Chinese-sourced materials or manufactured using Chinese technologies, even if traded domestically. This effectively creates a de facto embargo on defense-grade dysprosium from Chinese sources.",
+      "severity": "critical",
+      "source_url": "https://www.china-briefing.com/news/chinas-rare-earth-export-controls-impacts-on-businesses/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-12-19",
+      "headline": "Energy Fuels' U.S.-produced heavy rare earth oxide qualified for permanent magnets",
+      "summary": "Energy Fuels announced that its high-purity dysprosium oxide produced at White Mesa Mill passed all initial quality assurance benchmarks of a major South Korean automotive manufacturer for downstream rare earth permanent magnet production. This represents the first commercially qualified U.S.-produced dysprosium oxide, a critical milestone for domestic supply chain independence.",
+      "source_url": "https://investors.energyfuels.com/2025-12-19-Energy-Fuels-US-Produced-Heavy-Rare-Earth-Oxide-Successfully-Qualified-for-Use-in-Permanent-Magnets",
+      "impact": "Validates that U.S.-produced dysprosium oxide can meet commercial purity specifications, de-risking the path to scaled domestic production. However, current output of 29 kg is far below the thousands of metric tons needed annually for defense and commercial applications."
+    },
+    {
+      "date": "2025-07-10",
+      "headline": "Pentagon invests $400 million in MP Materials, becoming largest shareholder",
+      "summary": "The Department of Defense purchased $400 million of MP Materials preferred stock, becoming the company's largest shareholder with 15% of outstanding shares. The deal includes a 10-year price floor of $110/kg for NdPr products and a $150 million loan to expand Mountain Pass operations including heavy rare earth separation capacity for dysprosium and terbium.",
+      "source_url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/",
+      "impact": "Represents the largest single U.S. government investment in rare earth supply chain security. The price floor commitment addresses the key barrier to private investment in rare earth processing -- the risk of Chinese price manipulation undercutting Western producers."
+    },
+    {
+      "date": "2025-04-04",
+      "headline": "China imposes export licensing on dysprosium among seven rare earth elements",
+      "summary": "China's Ministry of Commerce imposed export licensing requirements on dysprosium, samarium, gadolinium, terbium, lutetium, scandium, and yttrium, plus associated alloys, compounds, and permanent magnets. Exporters must obtain individual permits for each shipment with 45-day review periods. By May 2025, Chinese magnet exports dropped to approximately $60 million, the lowest monthly figure since 2015.",
+      "source_url": "https://cset.georgetown.edu/publication/mofcom-notice-2025-61/",
+      "impact": "Triggered an immediate price surge in dysprosium, with European spot prices nearly tripling within weeks. Defense contractors faced acute supply disruption for heat-resistant magnets used in guided munitions, jet engines, and submarine systems."
+    },
+    {
+      "date": "2025-10-20",
+      "headline": "U.S.-Australia $8.5 billion critical minerals framework signed",
+      "summary": "The U.S. and Australia signed a framework agreement committing $1 billion each in near-term investment for mining and processing projects, with the Export-Import Bank issuing over $2.2 billion in financing letters. Australia's Lynas Rare Earths became the first company outside China to produce commercial quantities of dysprosium oxide at its Malaysian facility in May 2025.",
+      "source_url": "https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/",
+      "impact": "Creates an allied-nation supply pathway for heavy rare earths including dysprosium, leveraging Australia's significant rare earth reserves and Lynas's processing expertise. However, combined non-Chinese capacity remains a fraction of global demand."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Dysprosium presents an extreme supply chain risk -- arguably the highest of any individual element in the U.S. defense supply chain. China's 98% processing monopoly, combined with the December 2025 military end-user export ban, creates a de facto embargo on defense-grade dysprosium from Chinese sources. Global demand for dysprosium in magnets is projected to exceed 2,000 tons by 2026, while combined non-Chinese production capacity (Energy Fuels at 48 tons/yr target, MP Materials at 200 tons/yr target, Lynas in Malaysia) remains a small fraction of requirements. The 121% price surge in 2025 and continued volatility in 2026 reflect genuine physical scarcity in non-Chinese markets. Every F-35, Virginia-class submarine, and precision-guided munition depends on dysprosium-enhanced magnets that the U.S. cannot currently produce domestically at scale.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 98% of dysprosium processing with no near-term alternative at equivalent scale",
+      "December 2025 military end-user export ban creates de facto defense embargo",
+      "121% price surge in 2025 with additional 105% gains in early 2026",
+      "No substitute exists for dysprosium's thermal stabilization of NdFeB magnets in defense applications",
+      "Rising demand from EVs, wind turbines, and defense modernization competing for limited supply",
+      "U.S. domestic production remains at pilot/early commercial scale (tens of kg vs. thousands of tons needed)",
+      "Temporary export control suspension expires November 2026 with no renewal guarantee"
+    ],
+    "mitigation_actions": [
+      "Accelerate Energy Fuels White Mesa Mill dysprosium circuit to 48 tons/yr by Q4 2026",
+      "Commission MP Materials heavy rare earth separation at Mountain Pass by mid-2026",
+      "Expand U.S.-Australia framework agreement to fast-track Lynas heavy rare earth processing",
+      "Build strategic stockpile of dysprosium oxide and dysprosium-enhanced NdFeB magnets",
+      "Fund research into grain boundary diffusion technology to reduce dysprosium content per magnet",
+      "Support USA Rare Earth's Stillwater Oklahoma NdFeB facility targeting H1 2026 production",
+      "Negotiate long-term offtake agreements with non-Chinese dysprosium producers before November 2026 cliff"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Global Policy Watch - Heavy Rare Earth Elements: Rising Supply Chain Risks and Emerging Policy Responses",
+      "url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Energy Fuels - First Kilogram of 99.9% Purity Dysprosium Oxide at White Mesa Mill",
+      "url": "https://investors.energyfuels.com/2025-08-21-Energy-Fuels-Successfully-Produces-First-Kilogram-of-99-9-Purity-Dysprosium-Oxide-at-its-White-Mesa-Mill-in-Utah-on-Track-to-Commence-Terbium-Production-in-Q4-2025",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MP Materials - DOD Public-Private Partnership Announcement",
+      "url": "https://mpmaterials.com/news/mp-materials-announces-transformational-public-private-partnership-with-the-department-of-defense-to-accelerate-u-s-rare-earth-magnet-independence/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Strategic Metals Invest - Dysprosium Prices and Forecast",
+      "url": "https://strategicmetalsinvest.com/dysprosium-prices/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Georgetown CSET - MOFCOM Notice 2025 No. 61 on Rare Earth Export Controls",
+      "url": "https://cset.georgetown.edu/publication/mofcom-notice-2025-61/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "White House - U.S.-Australia Critical Minerals Framework Agreement",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Rare Earth Exchanges - From Dysprosium to Deterrence: Supply Chain Vulnerability",
+      "url": "https://rareearthexchanges.com/news/from-dysprosium-to-deterrence-rare-earth-element-supply-chains-vulnerability-in-great-powers-era-2-0/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China Briefing - China's Rare Earth Export Controls: Impact on Businesses",
+      "url": "https://www.china-briefing.com/news/chinas-rare-earth-export-controls-impacts-on-businesses/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Rare Earths",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-rare-earths.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    }
+  ]
+}

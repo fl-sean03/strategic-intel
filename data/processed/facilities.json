@@ -1,0 +1,13 @@
+{
+  "sector": "facilities",
+  "summary": {
+    "total_facilities": 0,
+    "total_employees": 0,
+    "minerals_represented": 0,
+    "states_represented": 0
+  },
+  "top_minerals": [],
+  "top_states": [],
+  "facilities": [],
+  "generated_at": "2026-03-15T23:47:42.497301+00:00"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "tellurium",
+  "category": "mineral",
+  "subject": "Tellurium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Tellurium is a metalloid critical to the U.S. solar energy and defense industries, with approximately 60% of global consumption going to cadmium telluride (CdTe) thin-film solar cells and 20% to thermoelectric devices. The U.S. supply picture has improved dramatically in recent years: the installation of copper telluride recovery capability at Rio Tinto's Kennecott operation in Utah shifted the U.S. from over 95% net import reliance in 2021 to becoming a net exporter of tellurium by 2023. However, raw tellurium is not refined domestically — copper telluride is exported for processing.\n\nFirst Solar, the sole GW-scale CdTe manufacturer, accounts for 21% of the U.S. solar market and is expanding domestic manufacturing capacity to 14 GWdc by 2026 under Inflation Reduction Act incentives. This expansion will increase tellurium demand significantly. China dominates global refined tellurium production at 80% of estimated output and introduced export controls on tellurium products in early 2025, adding friction to international supply flows.\n\nTellurium's retention on the 2025 Critical Minerals List followed the same pattern as arsenic: the USGS methodology initially recommended removal, but the Department of War intervened to keep it listed due to defense applications in infrared detectors, thermoelectric cooling for military electronics, and phase-change memory. Global tellurium prices reached $116.59/kg in February 2026, up 11.7%, as structural supply constraints intensified. The tellurium market is projected to grow from $325 million in 2023 to $735 million by 2032, driven by CdTe solar, thermoelectrics, and high-purity compounds for electronics.",
+  "key_findings": [
+    {
+      "headline": "China produces 80% of global refined tellurium and imposed export controls in 2025",
+      "detail": "China was the leading producer of refined tellurium in 2025 at approximately 80% of global output. In early 2025, China introduced export controls on tellurium products that stopped short of a full ban but tightened oversight and added friction to international supply flows. As a byproduct of copper refining, tellurium supply is inherently constrained by copper production decisions made for other reasons.",
+      "severity": "critical",
+      "source_url": "https://strategicmetalsinvest.com/tellurium-prices/"
+    },
+    {
+      "headline": "U.S. shifted from 95% import reliance to net exporter due to Kennecott recovery installation",
+      "detail": "The installation of copper telluride recovery capability at Rio Tinto's Kennecott copper mine in Utah transformed the U.S. tellurium position from over 95% net import reliance in 2021 to net exporter by 2023. However, tellurium is not refined domestically — two U.S. facilities (Texas and Utah) produce copper telluride that is exported for further processing, maintaining a processing dependency.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/publication/ofr20251047/full"
+    },
+    {
+      "headline": "First Solar's CdTe expansion to 14 GWdc by 2026 will drive significant tellurium demand growth",
+      "detail": "First Solar is the only CdTe company manufacturing at gigawatt scale, with 9.4 GWdc domestic capacity as of September 2024 expanding to 14 GWdc by 2026 under IRA incentives. CdTe represents 21% of the U.S. solar market. Tellurium makes up 10-15% of the cost of a CdTe module, and constrained tellurium availability may place a practical limit on CdTe supply chain scale.",
+      "severity": "high",
+      "source_url": "https://www.energy.gov/eere/solar/cadmium-telluride-photovoltaics-perspective-paper"
+    },
+    {
+      "headline": "Department of War overrode USGS recommendation to remove tellurium from Critical Minerals List",
+      "detail": "The USGS 2025 methodology did not qualify tellurium for inclusion on the Critical Minerals List given improved domestic supply. However, the Department of War intervened during interagency review, noting tellurium's importance for national security applications including infrared detectors, thermoelectric cooling in military electronics, and phase-change memory devices.",
+      "severity": "high",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals"
+    },
+    {
+      "headline": "Tellurium prices reached $116.59/kg as supply constraints intensified",
+      "detail": "Global tellurium prices reached $116.59/kg in February 2026, with 11.7% growth, driven by structural supply constraints, copper smelter maintenance shutdowns, and growing demand from CdTe solar and thermoelectric applications. The market is projected to grow from $325 million in 2023 to $735 million by 2032 at approximately 10% compound annual growth.",
+      "severity": "moderate",
+      "source_url": "https://www.imarcgroup.com/tellurium-pricing-report"
+    },
+    {
+      "headline": "Defense applications in infrared detectors and thermoelectrics drive strategic importance",
+      "detail": "Tellurium's defense applications include infrared detectors for thermal imaging (growing at 5-7% annually for military, security, and automotive use), thermoelectric devices for cooling sensitive military electronics, and phase-change memory for defense computing. These applications, while smaller than solar, are the primary justification for tellurium's continued critical mineral designation.",
+      "severity": "moderate",
+      "source_url": "https://earthrarest.com/tellurium/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11-01",
+      "headline": "First Solar expands CdTe manufacturing footprint in the United States",
+      "summary": "First Solar announced further expansion of its CdTe thin-film solar cell manufacturing capacity in the U.S., building on IRA incentives for domestic solar production. The company's expansion trajectory toward 14 GWdc by 2026 positions it as the primary domestic consumer of tellurium, making its supply chain a bellwether for broader tellurium market conditions.",
+      "source_url": "https://cleantechnica.com/2025/11/01/first-solar-expands-cdte-solar-cell-manufacturing-footprint-in-us/",
+      "impact": "Increases domestic tellurium demand substantially, creating a growing link between tellurium supply security and U.S. solar manufacturing competitiveness."
+    },
+    {
+      "date": "2025-01-01",
+      "headline": "DOE releases Cadmium Telluride PV Perspective Paper outlining supply chain priorities",
+      "summary": "The Solar Energy Technologies Office published a comprehensive perspective paper on CdTe photovoltaics, identifying tellurium availability as a potential constraint on CdTe supply chain scaling. The paper outlined priorities to reduce costs, address materials availability, and support domestic CdTe manufacturing scale-up.",
+      "source_url": "https://www.energy.gov/sites/default/files/2025-01/DOE%20SETO%20CdTe%20Photovoltaics%20Perspective%20Paper.pdf",
+      "impact": "Signals federal recognition that tellurium supply may become a bottleneck for U.S. solar manufacturing goals. Establishes framework for targeted R&D investment."
+    },
+    {
+      "date": "2026-02-13",
+      "headline": "Canadian government and Microsoft investments accelerate tellurium thermoelectric technology",
+      "summary": "The Canadian government and Microsoft AI investments are accelerating First Tellurium's thermoelectric data center technology, creating new demand channels for tellurium beyond solar. The growing AI infrastructure buildout is driving interest in thermoelectric cooling solutions that convert waste heat to electricity.",
+      "source_url": "https://www.intelligentdatacentres.com/2026/02/13/canadian-government-and-microsoft-ai-investments-accelerate-first-telluriums-thermoelectric-data-center-technology/",
+      "impact": "Emerging AI data center demand could create a new major tellurium consumption sector, further tightening an already supply-constrained market."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Tellurium presents a moderate supply chain risk that has improved significantly from critical levels in 2021 due to domestic recovery capability at Kennecott. However, several risk factors persist: China's 80% share of refined tellurium production with new export controls, the absence of domestic refining capacity (U.S. exports copper telluride for processing), and growing demand from First Solar's CdTe expansion. The byproduct nature of tellurium (dependent on copper refining decisions) creates an inelastic supply structure. Defense applications in infrared and thermoelectric devices add strategic weight beyond the commercial solar market.",
+    "trend": "stable",
+    "key_drivers": [
+      "China controls 80% of refined tellurium production with 2025 export controls in place",
+      "U.S. produces copper telluride but does not refine tellurium domestically",
+      "First Solar's CdTe expansion to 14 GWdc driving substantial demand growth",
+      "Byproduct supply structure means tellurium production is tied to copper refining decisions",
+      "Emerging AI data center thermoelectric demand could create new consumption channel",
+      "Tellurium prices rising (11.7% growth to $116.59/kg) reflecting supply constraints"
+    ],
+    "mitigation_actions": [
+      "Develop domestic tellurium refining capacity to process copper telluride onshore",
+      "Expand tellurium recovery from additional copper smelters beyond Kennecott",
+      "Fund CdTe recycling technology for end-of-life solar panels to create secondary supply",
+      "Support R&D on reducing tellurium content per CdTe solar module",
+      "Diversify refined tellurium imports from Japan, Sweden, and other allied producers",
+      "Establish strategic tellurium reserves for defense infrared and thermoelectric applications"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS - Methodology and Technical Input for the 2025 U.S. List of Critical Minerals",
+      "url": "https://pubs.usgs.gov/publication/ofr20251047/full",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "DOE - Cadmium Telluride Photovoltaics Perspective Paper",
+      "url": "https://www.energy.gov/eere/solar/cadmium-telluride-photovoltaics-perspective-paper",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Strategic Metals Invest - Tellurium Prices 2026 Forecast",
+      "url": "https://strategicmetalsinvest.com/tellurium-prices/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CleanTechnica - First Solar Expands CdTe Manufacturing in US",
+      "url": "https://cleantechnica.com/2025/11/01/first-solar-expands-cdte-solar-cell-manufacturing-footprint-in-us/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "IMARC Group - Tellurium Prices Chart 2026",
+      "url": "https://www.imarcgroup.com/tellurium-pricing-report",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Earth Rarest - Invest in Tellurium: CdTe Solar and Thermoelectric Metal",
+      "url": "https://earthrarest.com/tellurium/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Intelligent Data Centres - Microsoft AI Investments Accelerate Tellurium Technology",
+      "url": "https://www.intelligentdatacentres.com/2026/02/13/canadian-government-and-microsoft-ai-investments-accelerate-first-telluriums-thermoelectric-data-center-technology/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "graphite",
+  "category": "mineral",
+  "subject": "Graphite",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Graphite represents one of the most acute critical mineral vulnerabilities for the United States, with 100% import reliance for natural graphite and China controlling approximately 75% of global natural graphite production and 85-95% of downstream processing for battery-grade spherical and synthetic graphite anode materials. No natural graphite was produced domestically in 2024, though approximately 100 companies consumed 52,000 tons. The mineral is the single largest component by weight in lithium-ion battery anodes, making it foundational to the electric vehicle transition and energy storage deployment.\n\nChina has employed graphite as a strategic leverage point in trade negotiations. Export controls were widened in November 2025 to include synthetic graphite anode materials, but were subsequently suspended for U.S. shipments from November 9, 2025 through November 27, 2026, as part of a broader trade truce. This tactical pause provides near-term relief but leaves structural dependency intact. The military end-use prohibition under China's December 2024 Announcement No. 46 remains in force, categorically banning dual-use graphite exports for U.S. military applications.\n\nMultiple domestic and allied-nation projects are in development but remain years from meaningful production. Syrah Resources' Vidalia, Louisiana active anode material facility has received over $320 million in DOE support. Titan Mining targets becoming the first integrated U.S. graphite producer. Nouveau Monde Graphite is advancing its Phase-2 North American production project. However, graphite prices have fallen to all-time lows due to oversupply, threatening the economic viability of these projects even as long-term demand fundamentals driven by EV battery adoption remain strong, with battery anodes projected to capture 62% of graphite market share by 2036.",
+  "key_findings": [
+    {
+      "headline": "U.S. is 100% import-reliant for natural graphite with zero domestic mine production",
+      "detail": "Natural graphite was not produced in the United States in 2024. Approximately 100 companies consumed 52,000 tons, all sourced from imports. Five companies were exploring or developing graphite mining projects in Alabama (2), Alaska (1), Montana (1), and New York (1), but none have reached commercial production.",
+      "severity": "critical",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-graphite.pdf"
+    },
+    {
+      "headline": "China controls 75% of natural graphite mining and 85-95% of anode processing",
+      "detail": "China produces approximately 1.2 million tonnes per annum of natural graphite and dominates the entire downstream value chain for battery-grade spherical graphite and synthetic graphite anode materials. This gives Beijing extraordinary leverage over the global EV and energy storage supply chain.",
+      "severity": "critical",
+      "source_url": "https://www.z2data.com/insights/5-critical-minerals-vulnerable-due-to-chinas-production-control"
+    },
+    {
+      "headline": "China's export control suspension expires November 2026, creating a planning cliff",
+      "detail": "China suspended stricter graphite export licensing requirements for U.S. shipments from November 9, 2025 through November 27, 2026. This tactical adjustment provides near-term operational relief but the defined expiration date creates urgent pressure for Western battery manufacturers to secure alternative supply or accept continued dependence. The military end-use prohibition remains in force.",
+      "severity": "critical",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html"
+    },
+    {
+      "headline": "Graphite prices at all-time lows threaten viability of Western supply projects",
+      "detail": "Flake graphite prices fell sharply through 2023-2025 as supply growth surpassed demand, reaching all-time lows by late 2025. A significant amount of Chinese capacity came offline due to economic constraints. This price environment threatens the economic viability of new Western mining and processing projects that require higher price levels to justify capital investment.",
+      "severity": "high",
+      "source_url": "https://investingnews.com/daily/resource-investing/battery-metals-investing/graphite-investing/graphite-forecast/"
+    },
+    {
+      "headline": "Syrah Resources Vidalia facility receives $320M+ in DOE support",
+      "detail": "Syrah Resources received over $320 million in DOE loan guarantees and grants for its Vidalia, Louisiana active anode material plant, with an additional $350 million application pending for capacity expansion to 45,000 metric tons. Tesla has committed to purchase approximately 70% of Phase 1 output. However, DOE loan debt service has been deferred to 2027 under a forbearance agreement.",
+      "severity": "high",
+      "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-syrah-resources-q4-2025-sees-graphite-sales-rise-93CH-4469053"
+    },
+    {
+      "headline": "Battery anode demand projected to grow from 28% to 62% of graphite consumption by 2036",
+      "detail": "Global graphite demand is projected to rise 310% by 2036, driven primarily by lithium-ion battery anodes which will grow from 28% of total consumption in 2024 to 62% by 2036. Natural flake graphite demand is forecast to rise from 1.2 million tonnes in 2025 to nearly 3 million tonnes by 2035, more than doubling within a decade.",
+      "severity": "moderate",
+      "source_url": "https://finance.yahoo.com/news/global-graphite-market-2026-2036-081200220.html"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "China widens graphite export controls to include synthetic graphite, then suspends for U.S.",
+      "summary": "China expanded export restrictions effective November 8, 2025 to cover synthetic graphite anode materials, mixtures with natural graphite, and related production equipment. One day later, on November 9, 2025, China's Ministry of Commerce suspended these and other export licensing requirements for U.S. shipments through November 27, 2026, as part of the U.S.-China trade truce negotiated in Kuala Lumpur.",
+      "source_url": "https://www.cruxinvestor.com/posts/chinas-temporary-easing-of-graphite-export-controls-the-shifting-global-supply-outlook-for-battery-materials",
+      "impact": "Near-term supply relief for U.S. battery manufacturers, but the November 2026 expiration and continued military end-use ban create a ticking clock for supply chain diversification."
+    },
+    {
+      "date": "2025-Q4",
+      "headline": "Titan Mining targets becoming first integrated U.S. graphite producer",
+      "summary": "Titan Mining announced targets to begin operations by Q4 2025, aiming to become the only integrated natural graphite producer in the United States, combining mining and processing in a single domestic supply chain.",
+      "source_url": "https://www.mining.com/titan-mining-targets-q4-2025-to-become-only-integrated-us-graphite-producer/",
+      "impact": "Would represent the first meaningful U.S. domestic graphite production, though output volumes will be small relative to the nation's consumption needs."
+    },
+    {
+      "date": "2025-Q4",
+      "headline": "Nouveau Monde Graphite advances Phase-2 North American production",
+      "summary": "Nouveau Monde Graphite provided a quarterly update on the advancement of its Phase-2 North American graphite production, moving toward a final investment decision for natural graphite production destined to North American, European, and G7-allied markets through its Matawinie Mine Project.",
+      "source_url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1280-tsx/nou/191269-nmg-provides-a-quarterly-update-on-the-advancement-of-its-phase-2-north-american-graphite-production.html",
+      "impact": "Represents a key North American allied-supply project, but final investment decision and commercial production remain years away."
+    },
+    {
+      "date": "2025",
+      "headline": "DOE investment programs deploy billions for domestic battery mineral processing",
+      "summary": "The U.S. Department of Energy deployed significant investment through multiple programs including $1 billion for mining, processing, and recycling technologies, $500 million for battery mineral processing, and $275 million for waste tailings extraction, with graphite anode materials as a key focus area.",
+      "source_url": "https://www.z2data.com/insights/key-developments-in-critical-minerals-to-watch-in-2026",
+      "impact": "Massive federal investment pipeline, but converting funding to operating production capacity takes 3-7 years, leaving near-term vulnerability intact."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Graphite presents a critical supply chain vulnerability with 100% import reliance for natural graphite and near-total dependence on Chinese processing for battery-grade anode materials. The November 2026 expiration of China's export control suspension creates a hard deadline for supply diversification. Current all-time-low prices threaten the viability of Western alternative projects. The military end-use prohibition remains in force regardless of the suspension.",
+    "trend": "worsening",
+    "key_drivers": [
+      "100% U.S. import reliance with zero domestic mine production",
+      "China controls 75% of mining and 85-95% of anode material processing",
+      "Export control suspension expires November 27, 2026 with uncertain renewal",
+      "Military end-use prohibition remains in force under China Announcement No. 46",
+      "All-time low graphite prices threaten economic viability of Western supply projects",
+      "Battery anode demand projected to grow 310% by 2036, deepening dependency if alternatives fail"
+    ],
+    "mitigation_actions": [
+      "DOE $320M+ investment in Syrah Resources Vidalia anode material facility",
+      "DOE multi-billion dollar battery mineral processing investment programs",
+      "Titan Mining development as first integrated U.S. graphite producer",
+      "Nouveau Monde Graphite Phase-2 North American production advancement",
+      "U.S.-Australia $1 billion joint minerals production framework",
+      "Anti-dumping investigation into Chinese anode material imports",
+      "Five U.S. graphite mining projects in exploration/development phase"
+    ]
+  },
+  "sources": [
+    {
+      "title": "USGS Mineral Commodity Summaries 2025 - Graphite (Natural)",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-graphite.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "China's Temporary Easing of Graphite Export Controls & the Shifting Global Supply Outlook",
+      "url": "https://www.cruxinvestor.com/posts/chinas-temporary-easing-of-graphite-export-controls-the-shifting-global-supply-outlook-for-battery-materials",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China Suspends Export Controls on Certain Critical Minerals and Related Items",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "5 Critical Minerals Vulnerable Due to China's Production Control",
+      "url": "https://www.z2data.com/insights/5-critical-minerals-vulnerable-due-to-chinas-production-control",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Global Graphite Market 2026-2036: Demand Projected to Rise 310%",
+      "url": "https://finance.yahoo.com/news/global-graphite-market-2026-2036-081200220.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Graphite Market Forecast: Top Trends for Graphite in 2026",
+      "url": "https://investingnews.com/daily/resource-investing/battery-metals-investing/graphite-investing/graphite-forecast/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Titan Mining Targets Q4 2025 to Become Only Integrated US Graphite Producer",
+      "url": "https://www.mining.com/titan-mining-targets-q4-2025-to-become-only-integrated-us-graphite-producer/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Syrah Resources Q4 2025 Earnings Call Transcript",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-syrah-resources-q4-2025-sees-graphite-sales-rise-93CH-4469053",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Nouveau Monde Graphite Quarterly Update on Phase-2 Production",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/1280-tsx/nou/191269-nmg-provides-a-quarterly-update-on-the-advancement-of-its-phase-2-north-american-graphite-production.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Key Developments in Critical Minerals to Watch in 2026",
+      "url": "https://www.z2data.com/insights/key-developments-in-critical-minerals-to-watch-in-2026",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

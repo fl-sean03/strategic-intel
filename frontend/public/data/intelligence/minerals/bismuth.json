@@ -1,0 +1,154 @@
+{
+  "id": "bismuth",
+  "category": "mineral",
+  "subject": "Bismuth",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Bismuth has become one of the most acutely disrupted critical minerals in the U.S. supply chain following China's February 2025 export controls, which triggered a price surge of nearly 700% — from $3.58/lb to as high as $55/lb for American buyers. China produces approximately 80% of global bismuth supply and has explicitly restricted or banned exports to the United States, creating an immediate crisis for defense electronics, AI data center construction, and pharmaceutical manufacturing.\n\nThe United States ceased domestic production of primary refined bismuth in 1997 and is approximately 89% import-reliant, with 60% historically sourced from China. Bismuth-based solder is essential for connecting temperature-sensitive electronics in everything from weapons systems to AI data centers, and bismuth was identified as the leading impacted material in weapons systems by part count. Major tech companies building AI infrastructure for the 'Magnificent Seven' warned in June 2025 that bismuth solder shortages could hamper their operations.\n\nPrices have partially stabilized around $17.50/lb following the 90-day U.S.-China trade truce in May 2025, but remain roughly five times pre-crisis levels. The Defense Logistics Agency has issued RFPs seeking bismuth for strategic stockpiling. The most significant alternative supply development is Fortune Minerals' NICO cobalt-gold-bismuth-copper deposit in Canada's Northwest Territories, which holds 12% of global bismuth reserves with a construction decision targeted for June 2026. Without new Western supply sources, U.S. defense and technology sectors face persistent vulnerability to Chinese supply weaponization.",
+  "key_findings": [
+    {
+      "headline": "China's export controls triggered 700% bismuth price surge for U.S. buyers",
+      "detail": "On February 4, 2025, China restricted exports of bismuth alongside tungsten, tellurium, indium, and molybdenum. Prices exploded from $3.58/lb at the start of 2025 to $38.50/lb globally and nearly $55/lb for American buyers, representing a roughly 700% increase. European markets saw a 567% jump from $6/lb to $40/lb in just two months. Prices have since settled around $17.50/lb after the 90-day trade truce but remain far above historical norms.",
+      "severity": "critical",
+      "source_url": "https://www.metaltechnews.com/story/2025/06/25/tech-metals/chinas-bismuth-controls-threaten-ai-boom/2338.html"
+    },
+    {
+      "headline": "U.S. is 89% import-reliant with zero domestic bismuth production",
+      "detail": "The United States ceased production of primary refined bismuth in 1997 and shows 89% import reliance, with approximately 60% historically sourced directly from China. There is no active domestic mining, refining, or processing of bismuth in the United States, leaving the country completely exposed to supply disruptions from its primary source.",
+      "severity": "critical",
+      "source_url": "https://www.usgs.gov/centers/national-minerals-information-center/bismuth-statistics-and-information"
+    },
+    {
+      "headline": "Bismuth is the leading impacted material in weapons systems by part count",
+      "detail": "Analysis of defense supply chain impacts identified bismuth as the leading impacted material in weapons systems by part count, followed by tungsten and tellurium. Bismuth-based solder (replacing lead solder under RoHS regulations) is used extensively in electronics assemblies across virtually all modern weapons platforms, making the supply disruption a direct threat to defense production timelines.",
+      "severity": "critical",
+      "source_url": "https://www.z2data.com/insights/supply-chain-risks-of-chinas-critical-minerals-crackdown-part-1"
+    },
+    {
+      "headline": "AI data center construction threatened by bismuth solder shortage",
+      "detail": "In June 2025, companies building AI data centers for major tech companies warned that their work could be hampered by a shortage of bismuth-based solder, which is essential for connecting temperature-sensitive electronics. Bismuth solder is the industry-standard lead-free alternative used in high-reliability electronics assemblies, and no drop-in substitute exists at scale.",
+      "severity": "high",
+      "source_url": "https://www.metaltechnews.com/story/2025/06/25/tech-metals/chinas-bismuth-controls-threaten-ai-boom/2338.html"
+    },
+    {
+      "headline": "Fortune Minerals' NICO project could provide 12% of global bismuth reserves",
+      "detail": "Fortune Minerals is developing the NICO cobalt-gold-bismuth-copper deposit in Canada's Northwest Territories, which contains approximately 12% of global bismuth reserves. A construction decision is targeted for June 2026. If developed, NICO would represent the most significant non-Chinese bismuth supply source globally and could substantially reduce Western dependency on Chinese exports.",
+      "severity": "high",
+      "source_url": "https://www.mining.com/nico-project-in-northwest-territories-could-establish-domestic-bismuth-supply/"
+    },
+    {
+      "headline": "DLA issues RFPs for bismuth strategic stockpiling",
+      "detail": "The Defense Logistics Agency has issued requests for proposals seeking offers for sale of bismuth, vanadium, and indium as part of a broader federal push for critical minerals stockpiling. This represents the first significant U.S. government procurement action to build a strategic bismuth reserve, signaling recognition of the supply vulnerability at the federal level.",
+      "severity": "high",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-05",
+      "headline": "U.S.-China 90-day trade truce partially stabilizes bismuth prices",
+      "summary": "Following the severe price spikes caused by China's February 2025 export restrictions, a 90-day trade truce between the U.S. and China in May 2025 helped stabilize bismuth prices into the $17.50/lb range, down from peaks of $38.50-55/lb. However, prices remain roughly five times pre-crisis levels, and the underlying export licensing regime remains in place with uncertain renewal prospects.",
+      "source_url": "https://www.metaltechnews.com/story/2025/08/07/critical-minerals-alliances-2025/relieving-bismuth-supply-chain-heartburn/2406.html",
+      "impact": "Provides temporary relief but does not resolve structural supply vulnerability. Prices remain elevated and could spike again if the truce expires without a permanent resolution."
+    },
+    {
+      "date": "2025-02",
+      "headline": "China imposes export controls on bismuth and four other critical minerals",
+      "summary": "China's Ministry of Commerce announced export restrictions on tungsten, tellurium, bismuth, indium, and molybdenum effective February 4, 2025. The controls require export licenses and explicitly target exports to the United States. China controls approximately 80% of global bismuth production, making the restrictions immediately impactful across defense, electronics, and pharmaceutical supply chains.",
+      "source_url": "https://www.exiger.com/perspectives/critical-minerals-export-controls/",
+      "impact": "Triggered the most severe price disruption in bismuth market history and exposed the fragility of U.S. supply chains that were almost entirely dependent on Chinese production. Forced emergency procurement actions by DLA and defense contractors."
+    },
+    {
+      "date": "2026-01",
+      "headline": "DLA issues RFPs for bismuth strategic stockpile procurement",
+      "summary": "The Defense Logistics Agency issued requests for proposals seeking offers for sale of bismuth as part of the federal push for critical minerals stockpiling. The procurement is part of a broader 2025-2026 effort that saw the Trump administration make domestic and partner-country mineral sourcing a top priority, with multiple DLA solicitations for strategic materials.",
+      "source_url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "impact": "Establishes a strategic buffer against future supply disruptions but does not address the fundamental lack of non-Chinese production capacity. Stockpile size and adequacy remain classified."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Bismuth included on final 2025 List of Critical Minerals",
+      "summary": "The U.S. Department of the Interior finalized the 2025 List of Critical Minerals, retaining bismuth among 60 minerals deemed vital to U.S. economic and national security. The designation reflects updated USGS methodology that accounts for the 2025 supply disruptions and China's export control actions.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Maintains bismuth's eligibility for federal funding, tax incentives, and expedited permitting programs designed to accelerate domestic and allied production."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Bismuth supply chain risk is at a critical level. The United States has zero domestic production, 89% import reliance, and its primary supplier (China, 80% of global output) has imposed explicit export restrictions. Prices have surged 5-7x from pre-crisis levels and remain volatile. Bismuth is the most impacted critical material in defense electronics by part count, and shortages directly threaten AI data center construction timelines. No significant non-Chinese supply source is operational, with the most advanced alternative (Fortune Minerals' NICO) still in pre-construction. The 90-day trade truce provides only temporary relief.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 80% of global bismuth production with active export restrictions targeting the U.S.",
+      "Zero U.S. domestic production since 1997 with 89% import reliance",
+      "Leading impacted material in defense weapons systems by part count",
+      "AI data center construction threatened by bismuth solder shortages",
+      "No significant non-Chinese supply source currently operational",
+      "Prices remain 5x above pre-crisis levels despite trade truce"
+    ],
+    "mitigation_actions": [
+      "Execute DLA bismuth stockpile procurement to build strategic reserve",
+      "Support Fortune Minerals' NICO project to construction decision by June 2026",
+      "Negotiate emergency bismuth supply agreements with allied producers in Mexico, Japan, and South Korea",
+      "Fund domestic bismuth refining feasibility studies as byproduct of lead-zinc mining",
+      "Accelerate R&D into alternative lead-free solder formulations that reduce bismuth dependency",
+      "Establish bismuth recycling programs for electronic waste and pharmaceutical byproducts",
+      "Diversify import sources through Minerals Security Partnership with Canada and Australia",
+      "Conduct vulnerability assessment of defense programs most exposed to bismuth supply disruption"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Metal Tech News - China's Bismuth Controls Threaten AI Boom",
+      "url": "https://www.metaltechnews.com/story/2025/06/25/tech-metals/chinas-bismuth-controls-threaten-ai-boom/2338.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "USGS - Bismuth Statistics and Information",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/bismuth-statistics-and-information",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Exiger - China Announces Export Controls on Five Critical Minerals",
+      "url": "https://www.exiger.com/perspectives/critical-minerals-export-controls/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Z2Data - Supply Chain Risks of China's Critical Minerals Crackdown",
+      "url": "https://www.z2data.com/insights/supply-chain-risks-of-chinas-critical-minerals-crackdown-part-1",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "MINING.COM - NICO Project Could Establish Domestic Bismuth Supply",
+      "url": "https://www.mining.com/nico-project-in-northwest-territories-could-establish-domestic-bismuth-supply/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Inside Government Contracts - Federal Push for Critical Minerals Stockpiling",
+      "url": "https://www.insidegovernmentcontracts.com/2026/02/federal-push-for-critical-minerals-stockpiling-2025-in-review-and-outlook-for-2026/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Metal Tech News - Relieving Bismuth Supply Chain Heartburn",
+      "url": "https://www.metaltechnews.com/story/2025/08/07/critical-minerals-alliances-2025/relieving-bismuth-supply-chain-heartburn/2406.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Yahoo Finance - Bismuth: The Next Critical Metal Supply Squeeze",
+      "url": "https://finance.yahoo.com/news/bismuth-next-critical-metal-supply-210000528.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

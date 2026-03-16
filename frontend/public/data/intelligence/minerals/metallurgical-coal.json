@@ -1,0 +1,139 @@
+{
+  "id": "metallurgical-coal",
+  "category": "mineral",
+  "subject": "Metallurgical Coal",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Metallurgical coal (met coal or coking coal) was designated as both a DOE Critical Material in May 2025 and a Critical Mineral in November 2025, reflecting its fundamental role in steelmaking for defense and infrastructure. The U.S. produced approximately 67 million short tons (MMst) of met coal in 2023 and is a net exporter, shipping roughly 51 MMst (over 75% of production) to markets including India, Brazil, China, and Japan. The U.S. is the world's second-largest met coal exporter at 14% of global trade, behind Australia at 43%.\n\nMet coal's strategic importance stems from its irreplaceable role in blast furnace steelmaking via basic oxygen furnace (BOF) processes, which produce the high-quality steel required for naval shipbuilding, armored vehicles, munitions, and critical infrastructure. West Virginia alone accounts for 46% of U.S. met coal production. While the U.S. is currently self-sufficient, domestic production has been declining and the DOE assessment warns the current trajectory puts the industry on track for significant import reliance. Global met coal trade is forecast to decline for a second consecutive year in 2026, while India's steel ambitions to double output to 300 million tons will sustain long-term demand for seaborne met coal.",
+  "key_findings": [
+    {
+      "headline": "Metallurgical coal designated as both DOE Critical Material and USGS Critical Mineral in 2025",
+      "detail": "On May 22, 2025, the DOE added metallurgical coal used for steelmaking to the Critical Materials List pursuant to Executive Order 14261, determining that achieving U.S. steel dominance requires dramatic increases in domestic met coal production. In November 2025, the Interior Department added met coal to the final 2025 List of Critical Minerals. This dual designation was controversial but reflects the administration's view that steel supply chain security begins with coal.",
+      "severity": "high",
+      "source_url": "https://www.federalregister.gov/documents/2025/05/29/2025-09607/critical-material-list-addition-of-metallurgical-coal-used-for-steelmaking"
+    },
+    {
+      "headline": "U.S. is second-largest global met coal exporter but domestic production is declining",
+      "detail": "The United States accounted for 14% of global met coal exports in 2024, second only to Australia at 43%. The U.S. produced 67 MMst in 2023 and exported 51 MMst, with seven states producing met coal: West Virginia (46%), Alabama (12%), Virginia (8%), Pennsylvania (8%), Kentucky (3%), Maryland (1%), and Colorado (<1%). However, U.S. coal production fell by more than 100 MMst in 2024, and the DOE warns that current trends risk future import dependence.",
+      "severity": "high",
+      "source_url": "https://www.congress.gov/crs-product/R48635"
+    },
+    {
+      "headline": "Steel for defense depends entirely on met coal via blast furnace process",
+      "detail": "Met coal is converted to coke in the absence of oxygen, which then serves as both the fuel and reducing agent in blast furnaces to produce pig iron for steelmaking. The basic oxygen furnace process using met coal produces the high-quality steel grades required for naval shipbuilding, armored vehicles, artillery, and munitions casings. The DOE determined that reestablishing security of steel supply requires increasing both steel capacity and met coal production.",
+      "severity": "critical",
+      "source_url": "https://www.energy.gov/sites/default/files/2025-05/doe-intrinsic-role-of-coal-in-achieving-steel-dominance.pdf"
+    },
+    {
+      "headline": "Global seaborne met coal trade declining but India provides structural demand growth",
+      "detail": "Global met coal exports are projected to decline 7% to 345 Mt in 2025 before stabilizing at 351 Mt in 2026, driven by reduced Chinese imports (falling an additional 14 Mt). However, India's plan to double steel output to over 300 million tons within the next decade, with expanding BOF capacity, provides structural long-term demand. India was the top U.S. met coal export destination in 2024, consuming 18% of U.S. exports.",
+      "severity": "moderate",
+      "source_url": "https://www.iea.org/reports/coal-mid-year-update-2025/overview"
+    },
+    {
+      "headline": "Supply concentration risk in seaborne market with few new mines planned",
+      "detail": "The seaborne met coal market is highly concentrated among a few key exporting nations, particularly Australia, the U.S., and Canada. Few new mines are planned globally, and Australian exports are declining due to mine accidents and low prices. Alabama, the second-largest U.S. producing state, exports 97% of its met coal, indicating that domestic supply security could be compromised if export demand draws away production.",
+      "severity": "moderate",
+      "source_url": "https://www.iea.org/reports/coal-mid-year-update-2025/trade"
+    },
+    {
+      "headline": "U.S. met coal exports increased 8.9% quarter-over-quarter in Q3 2025",
+      "detail": "Met coal exports totaled 12.6 MMst in Q3 2025, up 8.9% from Q2 2025, while U.S. coal imports in Q3 2025 totaled only 0.7 MMst, all from Canada. The U.S. remains firmly a net exporter with minimal import dependence, but the declining production base and aging mine infrastructure raise questions about long-term export sustainability.",
+      "severity": "low",
+      "source_url": "https://www.eia.gov/coal/production/quarterly/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "Interior Department adds metallurgical coal to final 2025 List of Critical Minerals",
+      "summary": "Following the DOE's May 2025 critical material designation, the Department of the Interior included metallurgical coal on the final 2025 Critical Minerals List published in the Federal Register. This was based on public and interagency input rather than the standard USGS quantitative methodology, and was controversial given coal's abundance relative to other critical minerals.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Critical mineral status enables met coal projects to access Defense Production Act funding, streamlined permitting under NEPA reforms, and inclusion in strategic stockpiling programs. However, environmental groups contest the designation."
+    },
+    {
+      "date": "2025-05",
+      "headline": "DOE designates metallurgical coal as a critical material for steelmaking dominance",
+      "summary": "The Department of Energy published a determination that metallurgical coal used for steelmaking is a DOE critical material, pursuant to Executive Order 14261 directing the Secretary of Energy to support U.S. steel dominance. The DOE assessment concluded that current U.S. steel market trends risk significant import reliance for both steel and its coal inputs.",
+      "source_url": "https://www.federalregister.gov/documents/2025/05/29/2025-09607/critical-material-list-addition-of-metallurgical-coal-used-for-steelmaking",
+      "impact": "The designation signals federal intent to support domestic met coal production through policy mechanisms, potentially reversing the long decline in U.S. coal mining investment and workforce."
+    },
+    {
+      "date": "2025-08",
+      "headline": "Congressional Research Service publishes comprehensive met coal FAQ for policymakers",
+      "summary": "CRS published report R48635, 'Metallurgical Coal: Frequently Asked Questions,' providing detailed analysis of U.S. met coal production, trade flows, defense relevance, and policy options. The report notes that seven U.S. states produced met coal in 2023 and the U.S. exported three-quarters of production.",
+      "source_url": "https://www.congress.gov/crs-product/R48635",
+      "impact": "The CRS report provides the analytical foundation for potential congressional action on met coal policy, including stockpiling, production incentives, and trade measures to ensure adequate domestic supply for defense steelmaking."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "While the U.S. is currently a net exporter and self-sufficient in metallurgical coal, the risk profile is worsening due to declining domestic production, aging mine infrastructure, and limited new mine development. The DOE has explicitly warned that current trends put the industry on track for future import reliance, which would compromise defense steelmaking security.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Declining U.S. coal production base with few new mines planned",
+      "Aging mine infrastructure and workforce challenges in Appalachian coal states",
+      "High export ratio (75%+) could conflict with domestic defense needs in a crisis",
+      "Global seaborne met coal trade declining with concentrated supplier base",
+      "Electric arc furnace steelmaking growth reducing domestic met coal demand, potentially undermining production economics",
+      "Environmental and regulatory pressure on coal mining operations"
+    ],
+    "mitigation_actions": [
+      "Develop strategic met coal reserves for defense steelmaking contingency",
+      "Incentivize new mine development and modernization of existing operations",
+      "Establish defense priority allocation mechanisms for domestic met coal in crisis",
+      "Support workforce development in coal-producing states",
+      "Invest in coal-to-hydrogen and alternative ironmaking technologies as hedges",
+      "Maintain export relationships that sustain production economics while ensuring domestic availability"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Federal Register - Critical Material List: Addition of Metallurgical Coal Used for Steelmaking",
+      "url": "https://www.federalregister.gov/documents/2025/05/29/2025-09607/critical-material-list-addition-of-metallurgical-coal-used-for-steelmaking",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Congressional Research Service - Metallurgical Coal: Frequently Asked Questions (R48635)",
+      "url": "https://www.congress.gov/crs-product/R48635",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "DOE - The Intrinsic Role of Coal in Achieving Steel Dominance",
+      "url": "https://www.energy.gov/sites/default/files/2025-05/doe-intrinsic-role-of-coal-in-achieving-steel-dominance.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "EIA - Quarterly Coal Report",
+      "url": "https://www.eia.gov/coal/production/quarterly/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "IEA - Coal Mid-Year Update 2025 Overview",
+      "url": "https://www.iea.org/reports/coal-mid-year-update-2025/overview",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "IEA - Coal Mid-Year Update 2025 Trade",
+      "url": "https://www.iea.org/reports/coal-mid-year-update-2025/trade",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Fortune Business Insights - Metallurgical Coal Market Size 2025-2032",
+      "url": "https://www.fortunebusinessinsights.com/industry-reports/metallurgical-coal-market-101490",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "APBI-ICMA - Global Metallurgical Coal Demand: Challenges and Future Trends in 2025",
+      "url": "https://apbi-icma.org/media-article/global-metallurgical-coal-demand-challenges-and-future-trends-in-2025",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

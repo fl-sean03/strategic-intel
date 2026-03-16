@@ -1,0 +1,148 @@
+{
+  "id": "magnesium",
+  "category": "mineral",
+  "subject": "Magnesium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "The United States faces an acute magnesium supply crisis following the September 2025 bankruptcy and shutdown of US Magnesium LLC — the sole domestic producer of primary magnesium metal — at its Rowley, Utah facility on the shores of the Great Salt Lake. The plant had been effectively offline since a September 2021 equipment breakdown, and the company filed for Chapter 11 protection in September 2025. In January 2026, Utah purchased US Magnesium's land, water rights, and mining agreements for $30 million, but resuming production would require an additional $40 million investment.\n\nWith no domestic primary magnesium production, the United States is now entirely dependent on imports from Israel (20%), Canada (15%), Turkey (11%), Czechia (9%), and other sources. China dominates global production with 1.8 million tonnes versus the U.S. capacity of 64,000 tonnes (now offline), and implemented export controls on magnesium in 2024. Magnesium is essential for lightweight aluminum alloys used in automotive (69% of primary consumption for castings), aerospace, and defense applications, as well as steel desulfurization (9%).\n\nThe loss of the sole U.S. primary magnesium producer creates a strategic vulnerability that the critical mineral designation and diversified import base only partially mitigate. Defense contractors rely on magnesium alloys for lightweight military vehicles, aircraft components, and missile systems. China's 85%+ share of global magnesium production and its willingness to use export controls as geopolitical leverage make the current situation a pressing national security concern.",
+  "key_findings": [
+    {
+      "headline": "Sole U.S. primary magnesium producer filed bankruptcy and shut down permanently",
+      "detail": "US Magnesium LLC, the only producer of primary magnesium metal in the United States, filed for Chapter 11 bankruptcy in September 2025 after its Rowley, Utah plant had been offline since a September 2021 equipment failure. The company's president confirmed there is no other significant producer of primary magnesium in the United States. Resuming production would require a $40 million investment, and if the plant is permanently shuttered, EPA estimates cleanup costs exceeding $100 million.",
+      "severity": "critical",
+      "source_url": "https://www.sltrib.com/news/environment/2025/12/11/what-us-magnesiums-shutdown-means/"
+    },
+    {
+      "headline": "China controls 85%+ of global magnesium production with active export controls",
+      "detail": "China produced approximately 1.8 million tonnes of primary magnesium metal annually, dwarfing the U.S. capacity of 64,000 tonnes (now offline). China implemented export controls on magnesium in 2024, adding geopolitical risk to an already concentrated supply chain. China's dominance in magnesium extends beyond raw material to processing and refining, with limited alternative production capacity elsewhere globally.",
+      "severity": "critical",
+      "source_url": "https://grist.org/business/us-magnesium-shutdown-supply-chain-mineral/"
+    },
+    {
+      "headline": "U.S. import sources are diversified but structurally vulnerable",
+      "detail": "For primary magnesium metal (99.8% purity), U.S. imports come from Israel (20%), Canada (15%), Turkey (11%), Czechia (9%), and other sources (45%). While more diversified than many critical minerals, this import base is fragile — Israel's Dead Sea production faces water scarcity constraints, European producers face high energy costs, and none of these sources can individually replace Chinese production in a disruption scenario.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-magnesium-metal.pdf"
+    },
+    {
+      "headline": "Magnesium is essential for lightweight defense and automotive applications",
+      "detail": "In 2025, an estimated 69% of primary magnesium consumption was used in castings, principally for the automotive industry. Aluminum-base alloys accounted for 15% of consumption, and steel desulfurization consumed 9%. For defense, magnesium alloys are used in lightweight military vehicle components, helicopter transmission casings, missile body structures, and flare/countermeasure systems. Primary magnesium is a critical component for U.S. defense contractors.",
+      "severity": "high",
+      "source_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-magnesium-metal.pdf"
+    },
+    {
+      "headline": "Utah purchased US Magnesium assets for $30M but production restart uncertain",
+      "detail": "In January 2026, Utah purchased US Magnesium's land, water rights, and mining agreements for $30 million. The acquisition was motivated partly by Great Salt Lake water rights and environmental remediation concerns. However, restarting magnesium production would require an estimated $40 million additional investment, and no operator has been identified to resume production, leaving the facility's industrial future uncertain.",
+      "severity": "high",
+      "source_url": "https://www.deseret.com/environment/2026/01/28/great-salt-lake-us-magnesium-purchase-water-rights/"
+    },
+    {
+      "headline": "Global magnesium market faces structural supply-demand rebalancing",
+      "detail": "The global magnesium market experienced uneven performance in 2025, with magnesium ingots under pressure while magnesium alloys were in short supply. China's magnesium trade faces challenges from geopolitical tensions and export controls, while downstream applications in automotive lightweighting and aluminum alloys continue to grow. The market is looking to 2026 for a potential downstream boom that could drive a turnaround across the industry chain.",
+      "severity": "moderate",
+      "source_url": "https://news.metal.com/newscontent/103700819/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-01",
+      "headline": "Utah purchases US Magnesium assets for $30 million",
+      "summary": "The state of Utah purchased US Magnesium's land, water rights, and mining agreements for $30 million following the company's bankruptcy filing. The acquisition secures Great Salt Lake water rights and addresses environmental remediation concerns, but does not include commitments to restart magnesium production. Resuming production would require an estimated $40 million additional investment and identification of an operator.",
+      "source_url": "https://www.deseret.com/environment/2026/01/28/great-salt-lake-us-magnesium-purchase-water-rights/",
+      "impact": "Preserves the option for future domestic magnesium production but does not resolve the immediate supply gap. The facility's water rights and mining agreements are secured from liquidation, which is essential if production is ever to resume."
+    },
+    {
+      "date": "2025-09",
+      "headline": "US Magnesium files for Chapter 11 bankruptcy protection",
+      "summary": "US Magnesium LLC, the sole producer of primary magnesium metal in the United States, filed for Chapter 11 bankruptcy protection on September 10, 2025. The company had not produced magnesium since a September 2021 equipment breakdown mothballed operations, with only limited production that ceased entirely in 2022. The bankruptcy raised both supply chain and environmental concerns, with EPA estimating cleanup costs exceeding $100 million.",
+      "source_url": "https://elevenflo.com/blog/us-magnesium-chapter-11-bankruptcy",
+      "impact": "Eliminated the last U.S. primary magnesium producer, making the country entirely dependent on imports. The loss is particularly significant given China's 85%+ global production dominance and existing export controls on magnesium."
+    },
+    {
+      "date": "2025-11",
+      "headline": "Magnesium retained on final 2025 List of Critical Minerals",
+      "summary": "The U.S. Department of the Interior retained magnesium on the final 2025 List of Critical Minerals, with the designation becoming even more significant following the loss of the sole domestic producer. The critical mineral status enables access to Defense Production Act funding that could support establishment of new domestic magnesium production capacity.",
+      "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "impact": "Provides the policy framework for federal investment in new domestic magnesium production, which has become urgent following the US Magnesium shutdown."
+    },
+    {
+      "date": "2024-12",
+      "headline": "China implements export controls on magnesium",
+      "summary": "China implemented export controls on magnesium, adding licensing requirements that restrict the flow of magnesium metal and products to international markets. Given China's approximately 85% share of global magnesium production, these controls have the potential to significantly impact global supply and pricing for magnesium-dependent industries including automotive, aerospace, and defense.",
+      "source_url": "https://www.cfr.org/reports/leapfrogging-chinas-critical-minerals-dominance",
+      "impact": "Combined with the loss of the sole U.S. domestic producer, China's export controls create a dual vulnerability — the U.S. has neither domestic production nor assured access to the dominant global producer."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Magnesium supply chain risk is critical and acute following the loss of the sole U.S. domestic producer (US Magnesium bankruptcy in September 2025). The United States is now 100% import-dependent for primary magnesium metal, with China controlling 85%+ of global production and having implemented export controls in 2024. While U.S. imports are diversified across Israel, Canada, Turkey, and European sources, none of these can individually absorb a disruption in Chinese supply. The Rowley, Utah plant remains offline with uncertain restart prospects despite Utah's $30M asset purchase. Defense manufacturers relying on magnesium alloys face direct supply chain exposure.",
+    "trend": "worsening",
+    "key_drivers": [
+      "Loss of sole U.S. domestic primary magnesium producer (US Magnesium bankruptcy)",
+      "China controls 85%+ of global production with active export controls since 2024",
+      "100% import dependency for primary magnesium metal with no domestic alternative",
+      "Essential material for lightweight defense vehicle and aircraft components",
+      "Rowley, Utah plant restart requires $40M investment with no identified operator",
+      "Growing automotive and aerospace demand for magnesium lightweighting applications"
+    ],
+    "mitigation_actions": [
+      "Fund restart of US Magnesium's Rowley plant through Defense Production Act Title III investment",
+      "Identify and support development of alternative domestic magnesium production sites",
+      "Negotiate emergency supply agreements with Israel, Canada, and European producers",
+      "Build strategic magnesium stockpile through DLA for defense-critical applications",
+      "Invest in magnesium recycling from automotive scrap and industrial waste streams",
+      "Explore electrolytic magnesium production from U.S. brine sources and seawater",
+      "Coordinate with allied nations through Minerals Security Partnership for supply security",
+      "Fund R&D into magnesium-free lightweight alternatives for non-critical defense applications"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Salt Lake Tribune - What US Magnesium's Shutdown Means for Supply Chain",
+      "url": "https://www.sltrib.com/news/environment/2025/12/11/what-us-magnesiums-shutdown-means/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Grist - The Country's Largest Magnesium Supplier Shut Down. Now What?",
+      "url": "https://grist.org/business/us-magnesium-shutdown-supply-chain-mineral/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2026 - Magnesium Metal",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-magnesium-metal.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Deseret News - Why Utah Spent $30 Million Buying US Magnesium",
+      "url": "https://www.deseret.com/environment/2026/01/28/great-salt-lake-us-magnesium-purchase-water-rights/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "US Magnesium: Only Domestic Producer Faces Chapter 11",
+      "url": "https://elevenflo.com/blog/us-magnesium-chapter-11-bankruptcy",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Federal Register - Final 2025 List of Critical Minerals",
+      "url": "https://www.federalregister.gov/documents/2025/11/07/2025-19813/final-2025-list-of-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "CFR - Leapfrogging China's Critical Minerals Dominance",
+      "url": "https://www.cfr.org/reports/leapfrogging-chinas-critical-minerals-dominance",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "SMM - China Magnesium Trade Faces Challenges Amid Geopolitical Tensions",
+      "url": "https://news.metal.com/newscontent/103784837",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    }
+  ]
+}

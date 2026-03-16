@@ -1,0 +1,161 @@
+{
+  "id": "praseodymium",
+  "category": "mineral",
+  "subject": "Praseodymium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Praseodymium is the essential co-constituent of neodymium-praseodymium (NdPr) alloy that forms the basis of virtually all high-performance permanent magnets used in defense systems. While neodymium provides the primary magnetic strength, praseodymium -- comprising 25-30% of NdFeB magnet alloy by weight -- is critical for optimizing magnetic properties and is practically inseparable from neodymium in commercial production. Praseodymium also forms lightweight, high-strength alloys with magnesium used in aircraft engines and aerospace structural components, adding a second defense application distinct from magnets.\n\nThe NdPr market experienced an extraordinary price surge in 2025-2026. Praseodymium oxide reached $117.91/kg by March 2026, with the NdPr blended oxide at $108.64/kg -- representing a 136% cumulative gain since early 2025. China's April 2025 export controls on rare earth magnets caused NdFeB magnet shipments to decrease 74% year-over-year by May 2025, with NdPr prices surging 40% in just the July-October 2025 period. The DOD's $110/kg price floor for MP Materials' NdPr output -- which seemed generous when announced in July 2025 -- is now near market parity as prices have caught up to the guaranteed floor.\n\nChina controls approximately 90% of NdPr separation and processing. The December 2025 military end-user ban creates de facto embargo conditions for defense-grade NdPr products. MP Materials achieved record NdPr oxide output at Mountain Pass in Q3 2025, with three consecutive quarters of records. The 2027 ban on adversary-sourced magnets in defense procurement creates urgent demand for domestic NdPr-to-magnet capacity that is still scaling up.",
+  "key_findings": [
+    {
+      "headline": "Praseodymium comprises 25-30% of NdFeB magnet alloy essential to all major defense platforms",
+      "detail": "Neodymium and praseodymium together constitute the primary magnetic components in NdFeB permanent magnets, with praseodymium typically comprising 25-30% of magnet weight. The NdPr alloy provides the fundamental magnetic strength that enables compact, high-performance motor systems throughout fighter aircraft, submarines, missiles, and guided munitions. Praseodymium is commercially inseparable from neodymium -- they are co-extracted and co-processed as NdPr oxide -- making praseodymium supply inextricably linked to the entire defense magnet supply chain.",
+      "severity": "critical",
+      "source_url": "https://discoveryalert.com.au/strategic-material-dependencies-next-generation-air-superiority-systems/"
+    },
+    {
+      "headline": "NdPr oxide prices surged 136% since early 2025 to $108.64/kg amid persistent supply deficit",
+      "detail": "NdPr blended oxide prices surged from approximately $45/kg in early 2025 to $108.64/kg by March 2026, a 136% cumulative gain. Pure praseodymium oxide reached $117.91/kg. The NdPr market is expected to remain in supply deficit for the second consecutive year in 2026, with demand growth from EVs, wind energy, and defense outpacing Chinese quota expansions and the nascent ramp-up of Western processing. The DOD's $110/kg price floor for MP Materials is now near market parity rather than a premium incentive.",
+      "severity": "critical",
+      "source_url": "https://rare-earth-mining.com/praseodymium-price/"
+    },
+    {
+      "headline": "Praseodymium-magnesium alloys used in aircraft engines and aerospace structural components",
+      "detail": "Adding praseodymium to magnesium creates a lightweight alloy with exceptional strength and heat resistance used in aircraft engines and aerospace components. This application is distinct from permanent magnets and represents an additional defense dependency on praseodymium supply. The alloy's superior power-to-weight ratio makes it particularly valuable for next-generation fighter aircraft including sixth-generation air superiority platforms currently in development.",
+      "severity": "high",
+      "source_url": "https://earthrarest.com/praseodymium/"
+    },
+    {
+      "headline": "China's April 2025 magnet export controls caused 74% drop in NdFeB shipments",
+      "detail": "China's imposition of export licensing on NdFeB permanent magnets in April 2025 caused magnet shipments to decrease 74% year-over-year by May 2025. The selective approach targeted elements and products where Chinese processing dominance exceeds 95%. Starting December 1, 2025, companies with any affiliation to foreign militaries are largely denied export licenses, and any requests to use rare earths for military purposes are automatically rejected.",
+      "severity": "critical",
+      "source_url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains"
+    },
+    {
+      "headline": "MP Materials achieved record NdPr oxide output with three consecutive quarterly records",
+      "detail": "MP Materials reported record NdPr oxide production at Mountain Pass in Q3 2025, marking three consecutive quarters of record output. The company also achieved record metal production at its Fort Worth facility, where trial production of automotive-grade sintered NdFeB magnets has commenced. Mountain Pass produced over 45,000 metric tons of REO concentrate in 2024, an all-time high for U.S. rare earth production.",
+      "severity": "high",
+      "source_url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Reports-Third-Quarter-2025-Results/default.aspx"
+    },
+    {
+      "headline": "DOD guarantees $110/kg price floor for NdPr for 10 years to de-risk domestic production",
+      "detail": "The DOD's 10-year price floor commitment of $110/kg for MP Materials' NdPr products was designed to eliminate the risk of Chinese price manipulation undercutting domestic producers -- the strategy that destroyed Molycorp and previous attempts at Western rare earth independence. At the time of announcement in July 2025, the floor was nearly double the Chinese market rate of approximately $60/kg. By March 2026, market prices have risen to $108.64/kg, approaching the floor from below.",
+      "severity": "high",
+      "source_url": "https://fas.org/publication/unpacking-dod-and-mp-partnership/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-02-26",
+      "headline": "MP Materials selects Northlake, Texas for $1.25 billion NdFeB magnet campus",
+      "summary": "MP Materials announced the 10X rare earth magnet manufacturing campus in Northlake, Texas, representing $1.25 billion in investment and 1,500+ jobs. The facility will target 10,000 metric tons per year of sintered NdFeB magnets, consuming thousands of tonnes of NdPr alloy annually. This represents the largest planned domestic permanent magnet facility.",
+      "source_url": "https://www.manufacturingdive.com/news/mp-materials-northlake-texas-10x-rare-earth-magnet-campus-defense-pentagon/813400/",
+      "impact": "Creates massive domestic demand anchor for NdPr oxide and metal, supporting the economic viability of Mountain Pass separation operations and the DOD price floor mechanism."
+    },
+    {
+      "date": "2025-09-09",
+      "headline": "First U.S. mine-to-magnet NdPr supply chain demonstrated",
+      "summary": "Energy Fuels announced that U.S.-mined and processed NdPr rare earths were successfully manufactured into permanent magnets meeting automotive specifications. The NdPr oxide was produced at Energy Fuels' White Mesa Mill from domestically sourced monazite concentrate, then processed by a partner into qualified NdFeB magnets for EV and hybrid vehicle applications.",
+      "source_url": "https://investors.energyfuels.com/2025-09-09-U-S-Mined-and-Processed-Rare-Earths-Successfully-Manufactured-into-Permanent-Magnets-for-Use-in-EVs-and-Hybrids",
+      "impact": "Validated the technical feasibility of a complete American NdPr-to-magnet supply chain, demonstrating that U.S.-produced NdPr can meet commercial quality standards for permanent magnets."
+    },
+    {
+      "date": "2025-07-10",
+      "headline": "Pentagon invests $400 million in MP Materials with NdPr price floor guarantee",
+      "summary": "DOD purchased $400 million of MP Materials preferred stock with a 10-year price floor commitment of $110/kg for NdPr products and a $150 million loan for Mountain Pass expansion. The deal makes DOD MP's largest shareholder at 15% ownership and includes offtake guarantees for 100% of 10X facility magnet production.",
+      "source_url": "https://payneinstitute.mines.edu/explainer-on-the-mp-materials-department-of-defense-partnership/",
+      "impact": "Transformed the economics of U.S. NdPr production by providing long-term price certainty that eliminates Chinese dumping risk. Set a precedent for government de-risking of strategic mineral supply chains."
+    },
+    {
+      "date": "2025-04-04",
+      "headline": "China imposes export controls on NdFeB magnets and key rare earths",
+      "summary": "China placed export licensing requirements on NdFeB permanent magnets alongside seven rare earth elements. By May 2025, Chinese magnet exports dropped 74% year-over-year to approximately $60 million, the lowest since 2015. NdPr prices surged 40% in the subsequent July-October period, with further gains of over 50% in early 2026.",
+      "source_url": "https://www.geopolitechs.org/p/chinas-new-restriction-on-rare-earths",
+      "impact": "Created acute global NdFeB magnet shortage that affected defense contractors, EV manufacturers, and wind turbine producers simultaneously. Validated the urgency of domestic mine-to-magnet investments."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Praseodymium's supply chain risk is inseparable from neodymium's, making it one of the most critical elements for U.S. defense. As a mandatory co-constituent of NdPr alloy for permanent magnets, any disruption to praseodymium supply directly impacts the same defense platforms dependent on neodymium: F-35s, submarines, missiles, and guided munitions. China's 90% NdPr processing monopoly and 93% magnet manufacturing dominance, combined with the December 2025 military end-user ban and 74% drop in magnet exports, have created crisis conditions. The 136% NdPr price surge since early 2025 reflects genuine physical scarcity. The Pentagon's historic investment in MP Materials and the 2027 adversary-sourcing ban demonstrate recognition of the threat, but domestic magnet production capacity remains in early stages and years from meeting defense demand at scale.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 90% of NdPr processing and 93% of magnet manufacturing",
+      "NdPr oxide prices surged 136% since early 2025 amid persistent supply deficit",
+      "December 2025 military end-user ban creates de facto defense embargo",
+      "74% drop in Chinese NdFeB magnet exports after April 2025 controls",
+      "Praseodymium-magnesium alloys add separate aircraft engine dependency",
+      "2027 defense mandate banning adversary-sourced magnets requires capacity that does not yet exist at scale",
+      "EV and wind energy competing with defense for limited NdPr supply"
+    ],
+    "mitigation_actions": [
+      "Continue accelerating MP Materials NdPr oxide production ramp at Mountain Pass",
+      "Support Energy Fuels NdPr production scaling at White Mesa Mill",
+      "Fast-track MP Materials 10X Northlake magnet campus to 10,000 MT/yr capacity",
+      "Build strategic stockpile of NdPr oxide and NdFeB magnets for defense surge capacity",
+      "Fund USA Rare Earth Stillwater facility commercial production launch in H1 2026",
+      "Expand U.S.-Australia framework to accelerate allied NdPr processing",
+      "Invest in magnet technologies that optimize NdPr content through grain boundary diffusion",
+      "Prepare contingency plans for 2027 adversary-sourcing ban timeline"
+    ]
+  },
+  "sources": [
+    {
+      "title": "CSIS - China's New Rare Earth and Magnet Restrictions Threaten U.S. Defense Supply Chains",
+      "url": "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "Crux Investor - Sharp Surge in NdPr Prices Signals Deepening Scarcity Premium",
+      "url": "https://www.cruxinvestor.com/posts/sharp-surge-in-praseodymium-neodymium-prices-signals-deepening-scarcity-premium-in-rare-earth-supply-chains",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Rare Earth Mining - Praseodymium Price Surges in 2026: NdPr Benchmark and Outlook",
+      "url": "https://rare-earth-mining.com/praseodymium-price/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "EarthRarest - Invest in Praseodymium: Alloy and Magnet Co-Metal",
+      "url": "https://earthrarest.com/praseodymium/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Discovery Alert - Rare Earths in Sixth-Generation Fighter Jets",
+      "url": "https://discoveryalert.com.au/strategic-material-dependencies-next-generation-air-superiority-systems/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "FAS - Unpacking the DOD and MP Materials Critical Minerals Partnership",
+      "url": "https://fas.org/publication/unpacking-dod-and-mp-partnership/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "MP Materials - Third Quarter 2025 Results",
+      "url": "https://investors.mpmaterials.com/investor-news/news-details/2025/MP-Materials-Reports-Third-Quarter-2025-Results/default.aspx",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Energy Fuels - U.S. Rare Earths Successfully Manufactured into Permanent Magnets",
+      "url": "https://investors.energyfuels.com/2025-09-09-U-S-Mined-and-Processed-Rare-Earths-Successfully-Manufactured-into-Permanent-Magnets-for-Use-in-EVs-and-Hybrids",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Payne Institute - MP Materials Corporation-Department of Defense Partnership",
+      "url": "https://payneinstitute.mines.edu/explainer-on-the-mp-materials-department-of-defense-partnership/",
+      "accessed": "2026-03-16",
+      "type": "academic"
+    },
+    {
+      "title": "Manufacturing Dive - MP Materials 10X Texas Rare Earth Magnet Campus",
+      "url": "https://www.manufacturingdive.com/news/mp-materials-northlake-texas-10x-rare-earth-magnet-campus-defense-pentagon/813400/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

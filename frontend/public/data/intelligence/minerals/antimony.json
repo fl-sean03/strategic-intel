@@ -1,0 +1,167 @@
+{
+  "id": "antimony",
+  "category": "mineral",
+  "subject": "Antimony",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Antimony has emerged as one of the most acutely supply-constrained critical minerals, with prices surging from approximately $12,000 per tonne in mid-2024 to over $60,000 per tonne by early 2026 -- a fivefold increase driven by China's export controls and tightening global supply. The U.S. has had zero domestic mine production of antimony since 2001, relying almost entirely on imports from a market where China accounts for approximately 48% of global output (approximately 40,000 tonnes of the 83,000 tonne global total in 2023). Antimony is indispensable for defense applications, used in over 200 types of military ammunition, flame retardants for military equipment, infrared sensors, and night-vision devices.\n\nChina imposed formal export controls on antimony effective September 15, 2024, followed by an outright prohibition on dual-use antimony exports to U.S. military end users in December 2024. While China suspended these restrictions for civilian end-use from November 9, 2025 through November 27, 2026, the military end-use ban under Announcement No. 46 remains categorically in force. China has established a whitelist of only 11 companies authorized to export antimony for 2026-2027, with tungsten, antimony, and silver now under a state trading system with fixed whitelists.\n\nThe sole U.S. domestic production prospect is Perpetua Resources' Stibnite Gold Project in Idaho, which has received $60 million in DOD permitting support and a $1.8 billion Export-Import Bank letter of interest. If developed, it could meet 35% of U.S. demand in its first six years. However, the project has been in permitting for eight years and faces significant environmental restoration requirements. Recycling currently meets only 18% of domestic demand.",
+  "key_findings": [
+    {
+      "headline": "Antimony prices surged 5x from $12,000 to over $60,000 per tonne",
+      "detail": "Antimony prices exploded from approximately $12,000 per tonne in mid-2024 to a record $51,500 per tonne in 2025, with prices exceeding $60,000 per tonne by early 2026. The 2024 price increase alone was 54% year-over-year. This represents the most dramatic price surge of any critical mineral in the 2024-2026 period, driven by China's export controls and tightening global supply.",
+      "severity": "critical",
+      "source_url": "https://www.globenewswire.com/news-release/2025/10/03/3160979/0/en/Antimony-Spot-Price-Has-Yet-Again-Achieved-a-New-All-Time-High-as-Critical-Minerals-Demand-Jumps.html"
+    },
+    {
+      "headline": "China's military end-use export ban on antimony remains in force",
+      "detail": "While China suspended civilian antimony export controls from November 9, 2025 through November 27, 2026, the prohibition on dual-use antimony exports to U.S. military end users under December 2024 Announcement No. 46 remains categorically in force. This directly impacts DOD procurement for ammunition and defense systems that use antimony.",
+      "severity": "critical",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html"
+    },
+    {
+      "headline": "Zero U.S. domestic mine production since 2001; recycling meets only 18% of demand",
+      "detail": "The United States has produced no sellable antimony from domestic mines since 2001. Domestic recycling meets only 18% of demand. The country relies almost entirely on imports, primarily from China, creating a critical vulnerability for defense and industrial supply chains.",
+      "severity": "critical",
+      "source_url": "https://carboncredits.com/the-future-of-antimony-rising-prices-supply-chain-risks-and-demand-growth/"
+    },
+    {
+      "headline": "Antimony used in over 200 types of DOD ammunition",
+      "detail": "The U.S. Department of Defense uses antimony in more than 200 types of ammunition including percussion primers and armor-piercing rounds. Additional military applications include infrared sensors, night-vision devices, flame retardant compounds for uniforms and equipment, and lead-acid battery alloys for military vehicles.",
+      "severity": "critical",
+      "source_url": "https://carboncredits.com/the-future-of-antimony-rising-prices-supply-chain-risks-and-demand-growth/"
+    },
+    {
+      "headline": "Only 11 Chinese companies authorized to export antimony for 2026-2027",
+      "detail": "China released its official whitelist of companies authorized to export antimony for 2026-2027, designating only 11 companies. Tungsten, antimony, and silver now fall under a state trading system with fixed whitelists, representing a more restrictive regime than the case-by-case licensing applied to rare earths, gallium, germanium, and graphite.",
+      "severity": "high",
+      "source_url": "https://rareearthexchanges.com/news/chinas-exclusive-export-list-for-critical-metals-2026-2027-whos-in-and-why-it-matters/"
+    },
+    {
+      "headline": "Perpetua Resources Stibnite project could meet 35% of U.S. demand",
+      "detail": "Perpetua Resources' Stibnite Gold Project in Idaho is the only prospective U.S. antimony mine. It has received nearly $60 million in DOD permitting support and a $1.8 billion Export-Import Bank letter of interest. The project could supply 35% of U.S. antimony demand in its first six years, but has been in permitting for eight years with significant environmental restoration requirements.",
+      "severity": "high",
+      "source_url": "https://perpetuaresources.com/reuters-tight-supply-solar-demand-drive-antimony-prices-to-record-high/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-11",
+      "headline": "China suspends antimony export ban for U.S. civilian end-use through November 2026",
+      "summary": "China's Ministry of Commerce announced on November 9, 2025 the suspension of export prohibitions on antimony, gallium, germanium, and superhard materials to the United States, effective through November 27, 2026. However, the military end-use prohibition under Announcement No. 46 remains in force, meaning antimony for defense applications remains banned.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Provides temporary civilian supply relief but does not address the defense supply chain crisis. The November 2026 expiration creates planning uncertainty."
+    },
+    {
+      "date": "2025-10",
+      "headline": "Antimony spot price reaches new all-time high above $51,500 per tonne",
+      "summary": "The antimony spot price surged to a new all-time record above $51,500 per metric tonne in October 2025, driven by sustained supply constraints from Chinese export controls, growing demand from solar panel manufacturing, and defense sector procurement urgency.",
+      "source_url": "https://www.globenewswire.com/news-release/2025/10/03/3160979/0/en/Antimony-Spot-Price-Has-Yet-Again-Achieved-a-New-All-Time-High-as-Critical-Minerals-Demand-Jumps.html",
+      "impact": "Record prices highlight the severity of supply disruption and increase costs across defense, solar, and flame retardant industries."
+    },
+    {
+      "date": "2025-02",
+      "headline": "Military Metals acquires Last Chance antimony property",
+      "summary": "Military Metals Corp completed the acquisition of the Last Chance antimony property on February 19, 2025, joining a growing number of companies seeking to develop non-Chinese antimony sources in response to the supply crisis.",
+      "source_url": "https://carboncredits.com/the-future-of-antimony-rising-prices-supply-chain-risks-and-demand-growth/",
+      "impact": "Indicates growing private sector interest in antimony exploration, though new mines typically require 7-15 years from exploration to production."
+    },
+    {
+      "date": "2024-12",
+      "headline": "China prohibits antimony exports to U.S. military end users",
+      "summary": "On December 3, 2024, China announced a prohibition on the export of dual-use items including antimony to U.S. military users or for military end-use purposes. This represented an escalation from the September 2024 licensing requirement to an outright ban for defense applications.",
+      "source_url": "https://www.questmetals.com/blog/china-s-antimony-export-ban",
+      "impact": "Directly threatens DOD ammunition production and defense supply chains that depend on Chinese antimony, forcing emergency sourcing from alternative suppliers at premium prices."
+    },
+    {
+      "date": "2024-09",
+      "headline": "China imposes export controls on antimony effective September 15, 2024",
+      "summary": "China announced export controls on antimony on August 14, 2024, requiring dual-use export licenses for antimony and its products effective September 15, 2024. Prices immediately surged from $12,000 to $38,000 per metric tonne, a 2,600% increase within weeks.",
+      "source_url": "https://www.questmetals.com/blog/china-s-antimony-export-ban",
+      "impact": "Triggered the most severe price shock for any critical mineral in recent history, exposing the extreme fragility of the antimony supply chain."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Antimony presents the most acute near-term critical mineral supply risk for U.S. defense programs. Zero domestic production, 48% Chinese market share with active export controls, military end-use ban still in force, and prices at historic highs create an immediate national security vulnerability. The DOD's use of antimony in over 200 ammunition types makes this a direct readiness concern.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China's military end-use export ban remains in force regardless of trade truce",
+      "Civilian export suspension expires November 27, 2026 with uncertain renewal",
+      "Only 11 Chinese companies authorized to export under state trading whitelist",
+      "Zero U.S. domestic production since 2001; recycling meets only 18% of demand",
+      "Perpetua Resources Stibnite project still years from production after 8 years of permitting",
+      "Global production declining: China output fell from 60,000t (2022) to 40,000t (2023)",
+      "Growing demand from solar panel manufacturing competing with defense needs"
+    ],
+    "mitigation_actions": [
+      "DOD invested $60 million in Perpetua Resources Stibnite project permitting",
+      "Export-Import Bank $1.8 billion letter of interest for Stibnite development",
+      "DOD awarded $15.5 million to Perpetua for exploration at Stibnite Gold Project",
+      "Growing global exploration activity: Australia leading with 444 drilling holes",
+      "Tajikistan emerging as second-largest producer at 21,000 tonnes (26% global supply)",
+      "Military Metals and other companies acquiring antimony properties",
+      "Strategic stockpile consideration for defense-critical antimony reserves"
+    ]
+  },
+  "sources": [
+    {
+      "title": "China Suspends Export Controls on Certain Critical Minerals and Related Items",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "The Future of Antimony: Rising Prices, Supply Chain Risks, and Demand Growth",
+      "url": "https://carboncredits.com/the-future-of-antimony-rising-prices-supply-chain-risks-and-demand-growth/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Antimony Spot Price Achieves New All-Time High",
+      "url": "https://www.globenewswire.com/news-release/2025/10/03/3160979/0/en/Antimony-Spot-Price-Has-Yet-Again-Achieved-a-New-All-Time-High-as-Critical-Minerals-Demand-Jumps.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Reuters: Tight Supply, Solar Demand Drive Antimony Prices to Record High",
+      "url": "https://perpetuaresources.com/reuters-tight-supply-solar-demand-drive-antimony-prices-to-record-high/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "Antimony Price Soars to $40,000/Tonne with No Near-Term Respite",
+      "url": "https://www.batteriesinternational.com/2025/01/23/antimony-price-soars-to-40000-tonne-with-no-near-term-respite-in-sight/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "China's Exclusive Export List for Critical Metals (2026-2027)",
+      "url": "https://rareearthexchanges.com/news/chinas-exclusive-export-list-for-critical-metals-2026-2027-whos-in-and-why-it-matters/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "China's Antimony Export Ban - Quest Metals",
+      "url": "https://www.questmetals.com/blog/china-s-antimony-export-ban",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Antimony Becomes One of 2025's Hottest Strategic Metals",
+      "url": "https://www.streetwisereports.com/article/2025/09/30/antimony-becomes-one-of-2025s-hottest-strategic-metals.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "USGS Mineral Commodity Summaries 2024 - Antimony",
+      "url": "https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-antimony.pdf",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "China Jails Smugglers of Weapon Metal Antimony",
+      "url": "https://www.scmp.com/economy/china-economy/article/3336917/china-jails-smugglers-weapon-metal-antimony-taking-tough-stance-critical-minerals",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}

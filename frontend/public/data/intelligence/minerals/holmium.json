@@ -1,0 +1,145 @@
+{
+  "id": "holmium",
+  "category": "mineral",
+  "subject": "Holmium",
+  "generated_at": "2026-03-16T00:00:00Z",
+  "generated_by": "claude-research-agent",
+  "executive_summary": "Holmium possesses the highest magnetic strength of any naturally occurring element, a property that makes it uniquely valuable for creating the most powerful magnetic fields used in defense research, medical imaging, and nuclear reactor control. Holmium-enhanced NdFeB magnets offer superior resistance to demagnetization at high temperatures, providing an alternative to dysprosium for high-temperature magnet applications in electric vehicle motors, wind turbines, and military systems. Since China's April 2025 export controls, permanent magnet makers have been increasingly revising their formulations to substitute holmium for previously restricted rare earths.\n\nChina produces approximately 85% of the world's holmium oxide, and the element was added to China's export control regime in October 2025 alongside erbium, thulium, europium, and ytterbium. While these controls were suspended in November 2025 through November 2026, the military end-user ban remains active. Holmium oxide trades at approximately $105/kg for industrial grades in Northeast Asia, with European spot prices reaching $1,400-$1,600/kg due to limited availability and specialized applications.\n\nThe global holmium market is small -- valued at approximately $37 million in 2025 and projected to reach $53 million by 2034 at a 4.16% CAGR. Defense applications include nuclear control rods (where holmium serves as a neutron absorber), holmium-doped lasers for medical and military use, and flux concentrators for electromagnetic weapons systems. The element's role as a potential dysprosium substitute in high-temperature magnets gives it emerging strategic significance as defense contractors seek to diversify their rare earth formulations away from the most heavily controlled elements.",
+  "key_findings": [
+    {
+      "headline": "Holmium has the highest magnetic strength of any naturally occurring element",
+      "detail": "Holmium exhibits the highest magnetic moment of any element in the periodic table, producing the strongest magnetic fields per atom. This property makes it essential for high-field research magnets, MRI systems requiring extremely powerful fields, and emerging defense applications in electromagnetic systems. When added to NdFeB magnets, holmium enhances resistance to demagnetization at high temperatures, similar to dysprosium but from a different rare earth supply stream.",
+      "severity": "high",
+      "source_url": "https://earthrarest.com/holmium/"
+    },
+    {
+      "headline": "China controls 85% of holmium oxide production and added it to October 2025 export controls",
+      "detail": "Industry estimates indicate that China produces 85% of the world's holmium oxide. In October 2025, China's Ministry of Commerce expanded export licensing requirements to include holmium, with controls applying to holmium oxide, alloys, compounds, and products containing more than 0.1% by value of controlled materials. The military end-user ban effective December 1, 2025 applies to holmium-containing products destined for defense applications.",
+      "severity": "critical",
+      "source_url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/"
+    },
+    {
+      "headline": "Holmium emerging as dysprosium substitute in high-temperature magnets",
+      "detail": "Since April 2025, many permanent magnet makers have been revising their formulations to replace dysprosium with holmium in high-temperature applications. This substitution strategy was triggered by China's export controls that initially targeted dysprosium but not holmium. However, China's October 2025 expansion of controls to include holmium suggests Beijing anticipated and preempted this substitution strategy, closing the regulatory arbitrage window.",
+      "severity": "high",
+      "source_url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality"
+    },
+    {
+      "headline": "Holmium serves as neutron absorber in nuclear control rods and reactor safety systems",
+      "detail": "Holmium is used as a neutron absorber in nuclear control rods for reactor regulation and in radiation shielding materials for nuclear facilities. Its neutron absorption properties, while not as extreme as gadolinium's, provide complementary capabilities for reactor control systems in both civilian power plants and naval propulsion reactors. The element is also used as a component in radiation shielding materials for nuclear installations.",
+      "severity": "high",
+      "source_url": "https://metalsgems.com/holmium-in-nuclear-reactors/"
+    },
+    {
+      "headline": "European spot prices for holmium oxide reach $1,400-$1,600/kg amid supply constraints",
+      "detail": "While industrial-grade holmium oxide trades at approximately $105/kg in Northeast Asia (February 2026), European spot prices for high-purity 99.9%+ holmium oxide reach $1,400-$1,600/kg due to limited availability and the logistical challenges of procuring outside Chinese supply channels. This 13-15x regional price differential highlights the severity of non-Chinese supply constraints for specialized holmium applications.",
+      "severity": "moderate",
+      "source_url": "https://www.imarcgroup.com/holmium-pricing-report"
+    },
+    {
+      "headline": "Holmium-doped lasers have medical and potential directed-energy weapon applications",
+      "detail": "Holmium-doped yttrium-aluminum-garnet (Ho:YAG) lasers emit at 2.1 micrometers and find applications in medical procedures including lithotripsy and minimally invasive surgery. This same laser technology has potential military applications in directed-energy systems and laser range-finding, adding another dimension to holmium's defense relevance beyond magnets and nuclear systems.",
+      "severity": "moderate",
+      "source_url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/rare-earths-elements/holmium-market-and-holmium-price-drivers/"
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2025-10-08",
+      "headline": "China adds holmium to rare earth export control regime",
+      "summary": "China's Ministry of Commerce expanded export licensing requirements to include holmium alongside erbium, thulium, europium, and ytterbium, effective November 8, 2025. This expansion was widely interpreted as a response to magnet manufacturers' attempts to substitute holmium for controlled dysprosium in high-temperature permanent magnets. The controls brought total controlled rare earth elements to 12 of 17.",
+      "source_url": "https://www.cmtradelaw.com/2025/10/china-expands-rare-earth-export-controls-and-adds-14-entities-to-the-unreliable-entity-list/",
+      "impact": "Closed the regulatory arbitrage window that magnet makers had been exploiting since April 2025 by substituting holmium for controlled dysprosium. Defense contractors lost a key alternative sourcing strategy for high-temperature magnets."
+    },
+    {
+      "date": "2025-11-07",
+      "headline": "China suspends holmium export controls through November 2026",
+      "summary": "As part of the U.S.-China trade agreement, China suspended all recently imposed rare earth export controls including those on holmium for one year through November 2026. The military end-user ban effective December 1, 2025 remains in force for defense applications.",
+      "source_url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "impact": "Temporary relief for commercial magnet manufacturers, but the precedent of China targeting substitution elements demonstrates strategic sophistication that complicates long-term supply chain planning."
+    },
+    {
+      "date": "2025-10-20",
+      "headline": "U.S.-Australia framework agreement commits $1 billion each for heavy rare earth investments",
+      "summary": "The $8.5 billion U.S.-Australia critical minerals framework includes commitments of $1 billion each from both countries for mining and processing projects, with the Export-Import Bank issuing over $2.2 billion in financing letters. Heavy rare earth elements including holmium are among the target materials for diversified processing capacity outside China.",
+      "source_url": "https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/",
+      "impact": "Creates financing pathways for developing non-Chinese holmium processing, though the small market size may limit dedicated investment unless holmium processing is bundled with higher-value heavy rare earth circuits."
+    }
+  ],
+  "risk_assessment": {
+    "current_risk": "Holmium presents a moderate-to-high supply chain risk that is distinctly elevated by China's demonstrated ability to anticipate and counter Western substitution strategies. The October 2025 expansion of export controls to include holmium -- after magnet makers began substituting it for controlled dysprosium -- reveals a level of strategic awareness that makes it difficult to develop alternative rare earth formulations without triggering additional Chinese controls. The small market size ($37 million) makes dedicated holmium processing investment economically challenging outside of bundled heavy rare earth circuits. The 85% Chinese production concentration and military end-user ban create immediate risk for nuclear reactor, sonar, and advanced magnet applications.",
+    "trend": "worsening",
+    "key_drivers": [
+      "China controls 85% of holmium production and added it to export controls in October 2025",
+      "China demonstrated ability to counter Western substitution strategies by targeting holmium after dysprosium",
+      "Military end-user ban blocks holmium supply for nuclear reactor and defense magnet applications",
+      "Small market size ($37 million) discourages dedicated processing investment",
+      "13-15x regional price differential between Asian and European spot markets indicates severe non-Chinese supply constraints",
+      "Temporary export control suspension expires November 2026"
+    ],
+    "mitigation_actions": [
+      "Bundle holmium separation into planned heavy rare earth processing circuits at MP Materials and Energy Fuels",
+      "Build strategic stockpile of holmium oxide for nuclear and defense magnet applications",
+      "Fund research into holmium recycling from spent nuclear and medical materials",
+      "Negotiate holmium supply agreements under U.S.-Australia and allied critical minerals frameworks",
+      "Invest in magnet formulations that reduce total heavy rare earth content through grain boundary diffusion",
+      "Support development of holmium-free neutron absorber alternatives for non-critical nuclear applications"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Global Policy Watch - Heavy Rare Earth Elements: Rising Supply Chain Risks",
+      "url": "https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/",
+      "accessed": "2026-03-16",
+      "type": "think_tank"
+    },
+    {
+      "title": "IEA - With New Export Controls on Critical Minerals, Supply Concentration Risks Become Reality",
+      "url": "https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "EarthRarest - Invest in Holmium: Quantum and High-Field Magnet Metal",
+      "url": "https://earthrarest.com/holmium/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "SFA Oxford - The Holmium Market",
+      "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/rare-earths-elements/holmium-market-and-holmium-price-drivers/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "IMARC Group - Holmium Prices 2026: Latest Price Chart, Index and Forecast",
+      "url": "https://www.imarcgroup.com/holmium-pricing-report",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "Metals Gems - Holmium in Nuclear Reactors: The Hidden Element Fueling Safer Energy",
+      "url": "https://metalsgems.com/holmium-in-nuclear-reactors/",
+      "accessed": "2026-03-16",
+      "type": "industry"
+    },
+    {
+      "title": "CM Trade Law - China Expands Rare Earth Export Controls (October 2025)",
+      "url": "https://www.cmtradelaw.com/2025/10/china-expands-rare-earth-export-controls-and-adds-14-entities-to-the-unreliable-entity-list/",
+      "accessed": "2026-03-16",
+      "type": "news"
+    },
+    {
+      "title": "White House - U.S.-Australia Critical Minerals Framework",
+      "url": "https://www.whitehouse.gov/briefings-statements/2025/10/united-states-australia-framework-for-securing-of-supply-in-the-mining-and-processing-of-critical-minerals-and-rare-earths/",
+      "accessed": "2026-03-16",
+      "type": "government"
+    },
+    {
+      "title": "Pillsbury Law - China Suspends Export Controls on Certain Critical Minerals",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html",
+      "accessed": "2026-03-16",
+      "type": "news"
+    }
+  ]
+}
